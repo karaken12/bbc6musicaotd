@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <div>
+    {% for album in site.data['2015'] %}
+      <div>
+        {{ album.date }}
+        {{ album.title }}
+        {{ album.artist }}
+        {% if album.twitpic %}
+        <img class="album-cover" src="{{album.twitpic}}:small"/>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

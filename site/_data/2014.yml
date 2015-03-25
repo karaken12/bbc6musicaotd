@@ -1,0 +1,28 @@
+---
+# Mostly cobbled together from this twtter search:
+# https://twitter.com/search?q=(%22album%20of%20the%20day%22%20OR%20%22aotd%22)%20from%3Abbc6music%20since%3A2014-01-01%20until%3A2015-01-01&src=typd
+- date: 2014-11-26
+  artist: The Velvet Underground
+  title: The Velvet Underground
+  twitter: https://twitter.com/BBC6Music/status/537623999304708096
+- date: 2014-11-21
+  artist: Scott Matthews
+  title: Home Part 1
+  twitter: https://twitter.com/BBC6Music/status/535813360156409856
+- date: 2014-11-20
+  artist: Royksopp
+  title: The Inevitable End
+  twitter: https://twitter.com/BBC6Music/status/535450282009051137
+- date: 2014-11-19
+  artist: Jesus and The Mary Chain
+  title: Psychocandy
+  twitter: https://twitter.com/BBC6Music/status/535088499981303808
+- date: 2014-11-14
+  artist: Ian Dury
+  title: New Boots and Panties
+  twitter: https://twitter.com/BBC6Music/status/533272945184227328
+- date: 2014-11-07
+  artist: Richard Hawley
+  title: Late Night Final
+  twitter: https://twitter.com/BBC6Music/status/530739864527179776
+

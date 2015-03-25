@@ -1,10 +1,22 @@
 ---
-# Mostly cobbled together from this twtter search:
-# https://twitter.com/search?q=(%22album%20of%20the%20day%22%20OR%20%22aotd%22)%20from%3Abbc6music%20since%3A2014-01-01%20until%3A2015-01-01&src=typd
+# Mostly cobbled together from this Twitter search:
+# https://twitter.com/search?f=realtime&q=%28%22album%20of%20the%20day%22%20OR%20%22aotd%22%29%20from%3Abbc6music%20since%3A2014-01-01%20until%3A2015-01-01&src=typd
+- date: 2014-11-27
+  artist: The Drink
+  title: Company
+  twitter: https://twitter.com/BBC6Music/status/537987008598376449
 - date: 2014-11-26
   artist: The Velvet Underground
   title: The Velvet Underground
   twitter: https://twitter.com/BBC6Music/status/537623999304708096
+- date: 2014-11-25
+  artist: Benjamin Schoos
+  title: Beau Futur
+  twitter: https://twitter.com/BBC6Music/status/537262561960669184
+- date: 2014-11-24
+  artist: Ariel Pink
+  title: Pom Pom
+  twitter: https://twitter.com/BBC6Music/status/536899305731538945
 - date: 2014-11-21
   artist: Scott Matthews
   title: Home Part 1
@@ -17,12 +29,50 @@
   artist: Jesus and The Mary Chain
   title: Psychocandy
   twitter: https://twitter.com/BBC6Music/status/535088499981303808
+- date: 2014-11-18
+  artist: Paul Smith & Peter Brewis
+  title: Frozen By Sight
+  twitter: https://twitter.com/BBC6Music/status/534725605057912832
+- date: 2014-11-17
+  artist: TV on The Radio
+  title: Seeds
+  twitter: https://twitter.com/BBC6Music/status/534362884055527424
 - date: 2014-11-14
   artist: Ian Dury
   title: New Boots and Panties
   twitter: https://twitter.com/BBC6Music/status/533272945184227328
+- date: 2014-11-12
+  notes: Don't know why there's no album here...
+- date: 2014-11-13
+  artist: Hookworms
+  title: The Hum
+  twitter: https://twitter.com/BBC6Music/status/532913222853328896
+- date: 2014-11-11
+  artist: Pink Floyd
+  title: The Endless River
+  twitter: https://twitter.com/BBC6Music/status/532188851943796736
+- date: 2014-11-10
+  artist: Foo Fighters
+  title: Sonic Highways
+  twitter: https://twitter.com/BBC6Music/status/531826954870484992
 - date: 2014-11-07
   artist: Richard Hawley
   title: Late Night Final
   twitter: https://twitter.com/BBC6Music/status/530739864527179776
+- date: 2014-11-06
+  artist: Wildbirds & Peacedrums
+  title: Rhythm
+  twitter: https://twitter.com/BBC6Music/status/530377093973311490
+- date: 2014-11-05
+  artist: DELS
+  title: Petals Have Fallen
+  twitter: https://twitter.com/BBC6Music/status/530013722937671680
+- date: 2014-11-04
+  artist: The Flaming Lips
+  title: With A Little Help from My Fwends
+  twitter: https://twitter.com/BBC6Music/status/529652130526011392
+- date: 2014-11-03
+  artist: Neil Young
+  title: Storytone
+  twitter: https://twitter.com/BBC6Music/status/529289732866703360
 

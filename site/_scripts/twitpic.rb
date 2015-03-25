@@ -2,10 +2,13 @@
 require 'twitter'
 require 'yaml'
 
+config_path = File.expand_path('app_secret.yml', File.dirname(__FILE__))
+$app_config = YAML.load_file(config_path)
+
 def update_file(file_name)
   client = Twitter::REST::Client.new do |config|
-    config.consumer_key = 'zCIQNgdHnwErHzhMORlFCNMdD'
-    config.consumer_secret = 'YjDEcFlFfXIfp2GUTNjPR3YbuFDjiwYbRfqyZWEbTHLFri3WNI'
+    config.consumer_key = $app_config['twitter_consumer_key']
+    config.consumer_secret = $app_config['twitter_consumer_secret']
   end
 
   data = YAML.load_file(file_name)

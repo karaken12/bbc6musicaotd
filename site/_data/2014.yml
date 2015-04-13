@@ -1,102 +1,157 @@
 ---
-# Mostly cobbled together from this Twitter search:
-# https://twitter.com/search?f=realtime&q=%28%22album%20of%20the%20day%22%20OR%20%22aotd%22%29%20from%3Abbc6music%20since%3A2014-01-01%20until%3A2015-01-01&src=typd
 - date: 2014-11-27
   artist: The Drink
   title: Company
   twitter: https://twitter.com/BBC6Music/status/537987008598376449
+  twitpic: http://pbs.twimg.com/media/B3dPol5CUAAe91c.jpg
+  spotify:
+    album_id: 3HH44JdoWngTM9EGuZq9NW
 - date: 2014-11-26
   artist: The Velvet Underground
   title: The Velvet Underground
   twitter: https://twitter.com/BBC6Music/status/537623999304708096
+  twitpic: http://pbs.twimg.com/media/B3YF1-qCMAAX-xO.jpg
 - date: 2014-11-25
   artist: Benjamin Schoos
   title: Beau Futur
   twitter: https://twitter.com/BBC6Music/status/537262561960669184
+  twitpic: http://pbs.twimg.com/media/B3S8fs_CIAAoRj3.jpg
+  spotify:
+    album_id: 17cVyno6fIPlKeEp3WYvTD
 - date: 2014-11-24
   artist: Ariel Pink
   title: Pom Pom
   twitter: https://twitter.com/BBC6Music/status/536899305731538945
+  twitpic: http://pbs.twimg.com/media/B3NzErdCYAE2ou0.jpg
+  spotify:
+    album_id: 4UhaqAS8V23KozB3dzLMax
 - date: 2014-11-21
   artist: Scott Matthews
   title: Home Part 1
   twitter: https://twitter.com/BBC6Music/status/535813360156409856
+  twitpic: http://pbs.twimg.com/media/B2-WNbuCEAEnd9t.jpg
+  spotify:
+    album_id: 5ucW5jb132Yc5LqT11BTOC
 - date: 2014-11-20
   artist: Royksopp
   title: The Inevitable End
   twitter: https://twitter.com/BBC6Music/status/535450282009051137
+  twitpic: http://pbs.twimg.com/media/B25MqQnCUAIIy_r.jpg
 - date: 2014-11-19
-  artist: Jesus and The Mary Chain
+  artist: The Jesus and Mary Chain
   title: Psychocandy
   twitter: https://twitter.com/BBC6Music/status/535088499981303808
+  twitpic: http://pbs.twimg.com/media/B20ECrmCIAAnvMs.jpg
 - date: 2014-11-18
   artist: Paul Smith & Peter Brewis
   title: Frozen By Sight
   twitter: https://twitter.com/BBC6Music/status/534725605057912832
+  twitpic: http://pbs.twimg.com/media/B2u5QSNCcAEEvBC.jpg
 - date: 2014-11-17
   artist: TV on The Radio
   title: Seeds
   twitter: https://twitter.com/BBC6Music/status/534362884055527424
+  twitpic: http://pbs.twimg.com/media/B2pwNZGCcAA39sZ.jpg
+  spotify:
+    album_id: 093xy0P5h7elpQQMiNyQuD
 - date: 2014-11-14
   artist: Ian Dury
   title: New Boots and Panties
   twitter: https://twitter.com/BBC6Music/status/533272945184227328
+  twitpic: http://pbs.twimg.com/media/B2aQ3qOIEAAl6yF.jpg
 - date: 2014-11-12
   notes: Don't know why there's no album here...
 - date: 2014-11-13
   artist: Hookworms
   title: The Hum
   twitter: https://twitter.com/BBC6Music/status/532913222853328896
+  twitpic: http://pbs.twimg.com/media/B2VIxh9IcAAgCHR.jpg
+  spotify:
+    album_id: 415oSeCPGqObwNN3rMmyCd
 - date: 2014-11-11
   artist: Pink Floyd
   title: The Endless River
   twitter: https://twitter.com/BBC6Music/status/532188851943796736
+  twitpic: http://pbs.twimg.com/media/B2K2ThJCEAEZx4X.jpg
+  spotify:
+    album_id: 0fXAlQ9wTG2glNJvZEkBZc
 - date: 2014-11-10
   artist: Foo Fighters
   title: Sonic Highways
   twitter: https://twitter.com/BBC6Music/status/531826954870484992
+  twitpic: http://pbs.twimg.com/media/B2FtmSDCAAE7W7t.jpg
+  spotify:
+    album_id: 2qwN15acAl3sm3Idce5vK9
 - date: 2014-11-07
   artist: Richard Hawley
   title: Late Night Final
   twitter: https://twitter.com/BBC6Music/status/530739864527179776
+  twitpic: http://pbs.twimg.com/media/B12RGAfCYAADbHt.jpg
+  spotify:
+    album_id: 2J5oKyhVdrqTFqBIUaMIr1
 - date: 2014-11-06
   artist: Wildbirds & Peacedrums
   title: Rhythm
   twitter: https://twitter.com/BBC6Music/status/530377093973311490
+  twitpic: http://pbs.twimg.com/media/B1xHJ_aCQAE52w3.jpg
+  spotify:
+    album_id: 4YBJtLOXIqn83kQjSXg9wj
 - date: 2014-11-05
   artist: DELS
   title: Petals Have Fallen
   twitter: https://twitter.com/BBC6Music/status/530013722937671680
+  twitpic: http://pbs.twimg.com/media/B1r8rBGIIAAzs0A.jpg
+  spotify:
+    album_id: 5PMtPrWNpOad7WJev6FMo9
 - date: 2014-11-04
   artist: The Flaming Lips
   title: With A Little Help from My Fwends
   twitter: https://twitter.com/BBC6Music/status/529652130526011392
+  twitpic: http://pbs.twimg.com/media/B1mzziZIUAAEdJh.jpg
+  spotify:
+    album_id: 4bRWRFoslHqi8e7ypFfExn
 - date: 2014-11-03
   artist: Neil Young
   title: Storytone
   twitter: https://twitter.com/BBC6Music/status/529289732866703360
+  twitpic: http://pbs.twimg.com/media/B1hqNPUCMAIKws5.jpg
 - date: 2014-10-31
   artist: Lily and Madeleine
   title: Fumes
   twitter: https://twitter.com/BBC6Music/status/528203388019040256
+  twitpic: http://pbs.twimg.com/media/B1SOLo3CMAIMbWO.jpg
+  spotify:
+    album_id: 26eDLgNnUywpdhAvbLw4wc
 - date: 2014-10-30
   artist: The Twilight Sad
   title: Nobody Wants To Be Here And Nobody Wants To Leave
   twitter: https://twitter.com/BBC6Music/status/527840075665928192
+  twitpic: http://pbs.twimg.com/media/B1NDwEgCYAI7Izp.jpg
+  spotify:
+    album_id: 41Pqn506XOxhMN29dtg26k
 - date: 2014-10-29
   artist: Led Zeppelin
   title: Led Zeppelin (?)
   twitter: https://twitter.com/BBC6Music/status/527477295397998592
+  twitpic: http://pbs.twimg.com/media/B1H5zeJCAAAczaT.jpg
 - date: 2014-10-28
   artist: Ultimate Painting
   title: Ultimate Painting
   twitter: https://twitter.com/BBC6Music/status/527115963322613760
+  twitpic: http://pbs.twimg.com/media/B1CxLL4CcAAgkYv.jpg
+  spotify:
+    album_id: 1EApty6jfl0QKRE07Mqun1
 - date: 2014-10-27
   artist: Tony Allen
   title: Film Of Life
   twitter: https://twitter.com/BBC6Music/status/526752758888947713
+  twitpic: http://pbs.twimg.com/media/B09m15yCQAEW4XC.jpg
+  spotify:
+    album_id: 5OiUURWMLnRycOmHPUm5Wy
 - date: 2014-10-24
   artist: Sleater-Kinney
   title: The Woods
   twitter: https://twitter.com/BBC6Music/status/525650510406496256
-
+  twitpic: http://pbs.twimg.com/media/B0t8WmHCAAA2Ka9.jpg
+  spotify:
+    album_id: 0cQQfoZalvTSHk3ddtl5Pi

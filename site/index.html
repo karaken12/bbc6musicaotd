@@ -6,16 +6,27 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
-  <div>
+  <div class="albums">
     {% for album in site.data['2015'] %}
-      <div>
-        {{ album.date }}
-        {{ album.title }}
-        {{ album.artist }}
-        {% if album.twitpic %}
-        <img class="album-cover" src="{{album.twitpic}}:small"/>
-        {% endif %}
-      </div>
+
+<div class="album">
+  <div class="album-date">{{ album.date }}</div>
+  <div class="album-cover-wrapper">
+    {% if album.twitpic %}
+    <img class="album-cover" title="{{ album.title }}" src="{{album.twitpic}}:small" />
+    {% else %}
+    <img class="album-cover" title="{{ album.title }}">
+    {% endif %}
+  </div>
+  <div class="album-details">
+    <div class="album-title">{{ album.title }}</div>
+    <div class="album-artist">{{ album.artist }}</div>
+  </div>
+  {% if album.spotify %}
+    <a href="https://open.spotify.com/album/{{album.spotify.album_id}}" target="_blank">Listen on Spotify</a>
+  {% endif %}
+</div>
+
     {% endfor %}
   </div>
 

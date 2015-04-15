@@ -15,16 +15,7 @@ def update_file(file_name)
   file.close
 end
 
-def process_data(data)  
-  client = Twitter::REST::Client.new do |config|
-    config.consumer_key = $app_config['twitter_consumer_key']
-    config.consumer_secret = $app_config['twitter_consumer_secret']
-  end
-
-  data.each do |album|
-    if (album['twitpic'] or !album['twitter'])
-      next
-    end
+def process_album(client, album)
     puts album['twitter']
     tweet = client.status(album['twitter'])
     if tweet and tweet.media?
@@ -33,6 +24,27 @@ def process_data(data)
 #      puts photo.sizes
 #      puts photo.sizes[:thumb]
       album['twitpic'] = tweet.media[0].media_url.to_s()
+    end
+    album['tweet_text'] = tweet.text
+end
+
+def process_data(data)  
+  client = Twitter::REST::Client.new do |config|
+    config.consumer_key = $app_config['twitter_consumer_key']
+    config.consumer_secret = $app_config['twitter_consumer_secret']
+  end
+
+  data.each do |album|
+    if !album['twitter'] then next end
+    # Only want to process if it has no picture, or it has no title.
+    # (Don't want to unnecessarially store tweet_text.)
+    if !album['twitpic']
+      process_album(client, album)
+      next
+    end
+    if !album['tweet_text'] and !album['title']
+      process_album(client, album)
+      next
     end
   end
 end

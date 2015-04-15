@@ -17,7 +17,13 @@ end
 
 def process_data(data)
   data.each do |album|
-    if (album['spotify'] or !album['title'] or !album['artist'])
+    if (album['spotify']) then next end
+    if !album['title']
+      puts "= Title missing for item on #{album['date']}"
+      next
+    end
+    if !album['artist']
+      puts "= Artist missing for item on #{album['date']}"
       next
     end
 
@@ -30,25 +36,18 @@ def process_data(data)
 
     puts "- Search for #{album['title']} by #{album['artist']}"
     puts "  Found #{spotify_albums.total} (#{spotify_albums_sel.count} selected)"
-    #puts "First result: #{spotify_albums[0].id}"
 
     if (spotify_albums_sel.count == 1)
       album['spotify'] = {'album_id' => spotify_albums_sel[0].id}
     else
       if (spotify_albums_sel.count != 0)
-        puts "  Candidate titles: " + spotify_albums_sel.map{|sa| sa.name}.join(", ")
+        #puts "  Candidate titles: " + spotify_albums_sel.map{|sa| "#{sa.name} (#{sa.id})"}.join(", ")
+        candidates = []
+        spotify_albums_sel.each{|sa| candidates.push({'name'=>sa.name, 'album_id'=>sa.id})}
+        album['spotify'] = {'candidates' => candidates}
       end
-      puts "  Search at: https://api.spotify.com/v1/search?q=#{search_string}&type=album&market=GB"
+      #puts "  Search at: https://api.spotify.com/v1/search?q=#{search_string}&type=album&market=GB"
     end
-
-#    tweet = client.status(album['twitter'])
-#    if tweet and tweet.media?
-##      photo = tweet.media[0]
-##      puts photo.media_url
-##      puts photo.sizes
-##      puts photo.sizes[:thumb]
-#      album['twitpic'] = tweet.media[0].media_url.to_s()
-#    end
   end
 end
 

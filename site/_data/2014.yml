@@ -439,195 +439,267 @@
 - date: 2014-08-29
   twitter: https://twitter.com/BBC6Music/status/505357226547347456
   twitpic: http://pbs.twimg.com/media/BwNjuCKIQAATC_j.jpg
-  tweet_text: "#NowPlaying You Can Be So Cruel from our Album Of The Day by @royalblooduk
-    on @BBCRadMac http://t.co/rN6OLjFW5f"
+  artist: Royal Blood
+  title: Royal Blood
+  spotify:
+    album_id: 0BFzNaeaNv4mahOzwZFGHK
 - date: 2014-08-28
   twitter: https://twitter.com/BBC6Music/status/504994052354633728
   twitpic: http://pbs.twimg.com/media/BwIZag9IEAACdxd.jpg
-  tweet_text: "#NowPlaying Birth Of A Nation from our Album Of The Day: Closing Time
-    by @ErlandCarnival on @BBCRadMac http://t.co/uBf1FjQRja"
+  artist: Erland & The Carnival
+  title: Closing Time
+  spotify:
+    album_id: 2uufY02W1xOfiD4gsSfGC5
 - date: 2014-08-27
   twitter: https://twitter.com/BBC6Music/status/504631915522301952
   twitpic: http://pbs.twimg.com/media/BwDQDXyIQAEA8Ss.jpg
-  tweet_text: 'Anxious by The Housemartins from Album Of The Day: London 0 Hull 4
-    @PaulHeatonSolo is on @BBCLamacqShow later http://t.co/GrBWNhQIdG'
+  artist: The Housemartins
+  title: London 0 Hull 4
+  spotify:
+    album_id: 1rle5T6XTmBBFMmlx59jeF
 - date: 2014-08-26
   twitter: https://twitter.com/BBC6Music/status/504270140033486848
   twitpic: http://pbs.twimg.com/media/Bv-HBRNIEAA8k34.jpg
-  tweet_text: "#NowPlaying Paper Planes by @MIAuniverse from our Album Of The Day:
-    @XLRECORDINGS: Pay Close Attention on @BBCRadMac http://t.co/To4JNRGWi1"
+  artist: Various Artists
+  title: Pay Close Attention
+  spotify:
+    album_id: 19xt2EkDfNcbAdQzOVUttd
 - date: 2014-08-25
   twitter: https://twitter.com/BBC6Music/status/503906790200053760
   twitpic: http://pbs.twimg.com/media/Bv48jhoIIAATRgQ.jpg
-  tweet_text: "#NowPlaying Better Plane by @jmascis of @dinosaurjr Album Of The Day:
-    Tied To A Star on @BBCRadMac http://t.co/Twh0D2nj9i"
+  artist: J Mascis
+  title: Tied To A Star
+  spotify:
+    album_id: 2Ks9qv8BHziWoce4cWqUDz
 - date: 2014-08-22
   twitter: https://twitter.com/BBC6Music/status/502819394301755392
   twitpic: http://pbs.twimg.com/media/BvpfkwOIIAETaq3.jpg
-  tweet_text: "#NowPlaying Crying Clown by @TheWytches from our Album Of The Day:
-    Annabel Dream Reader on @ChrisHawkinsUK http://t.co/cACMicnc0I"
+  artist: The Wytches
+  title: Annabel Dream Reader
+  spotify:
+    album_id: 6yRRmOn24Yr8ajcWxdjUYQ
 - date: 2014-08-21
   twitter: https://twitter.com/BBC6Music/status/502457669547196416
   twitpic: http://pbs.twimg.com/media/BvkWlmxIUAAI15W.jpg
-  tweet_text: "#NowPlaying @trwbador Blue Minds feat Gorky’s Richard James @InChapters
-    from Album Of The Day: Several Wolves http://t.co/uJrJGiU7KJ"
+  artist: Trwbador
+  title: Several Wolves
+  spotify:
+    album_id: 2mpLlyxUfDFl5jYezNythx
 - date: 2014-08-20
   twitter: https://twitter.com/BBC6Music/status/502094904831791104
   twitpic: http://pbs.twimg.com/media/BvfMp64IIAAPNIG.jpg
-  tweet_text: "#NowPlaying @The_Damned the title track from our Album Of The Day:
-    Machine Gun Etiquette on @BBCRadMac http://t.co/lAhEjbtmrF"
+  artist: The Damned
+  title: Machine Gun Etiquette
+  spotify:
+    album_id: 2wCCXYJUgeiRqyIr3ujbMF
 - date: 2014-08-19
   twitter: https://twitter.com/BBC6Music/status/501733596915589121
   twitpic: http://pbs.twimg.com/media/BvaEDCLIIAA3GYc.jpg
-  tweet_text: "#NowPlaying Bottled Up Tight @lukesitalsingh from our Album Of The
-    Day: The Fire Inside on @BBCRadMac http://t.co/zY7v7Ww31X"
+  artist: Luke Sital Singh
+  title: The Fire Inside
+  spotify:
+    album_id: 50b5yOziNASYCd79B40iYX
 - date: 2014-08-18
   twitter: https://twitter.com/BBC6Music/status/501370440292782080
   twitpic: http://pbs.twimg.com/media/BvU5wiNIMAAS43T.jpg
-  tweet_text: "#NowPlaying Always Waiting from our Album Of The Day: Benjamin Booker
-    @bbookerNOLA on @BBCRadMac http://t.co/Lae68vxtwj"
+  artist: Benjamin Booker
+  title: Benjamin Booker
+  spotify:
+    album_id: 1lHQCme4fW2HcOLMKZ0WOQ
 - date: 2014-08-15
   twitter: https://twitter.com/BBC6Music/status/500283602039746560
   twitpic: http://pbs.twimg.com/media/BvFdSOBIYAAtL1Y.jpg
-  tweet_text: "#NowPlaying The King Of Carrot Flowers Pt 1 by Neutral Milk Hotel from
-    Classic Album Of The Day: In The Aeroplane http://t.co/CjqbYs6LGj"
+  artist: Neutral Milk Hotel
+  title: In The Aeroplane
+  spotify:
+    album_id: 7i6AHMD700GlwhHdFx1CIG
 - date: 2014-08-14
   twitter: https://twitter.com/BBC6Music/status/499921197224972288
   twitpic: http://pbs.twimg.com/media/BvATre9IcAAeJhR.jpg
-  tweet_text: "#NowPlaying Honey On Thigh from Album Of The Day: Cellardyke Recording
-    &amp; Wassailing Soc @jamesyorkston on @BBCRadMac http://t.co/89J4q1Yn8c"
+  artist: James Yorkston
+  title: Cellardyke Recording & Wassailing Soc
 - date: 2014-08-13
   twitter: https://twitter.com/BBC6Music/status/499557938802229248
   twitpic: http://pbs.twimg.com/media/Bu7JTD-IgAEHlzP.jpg
-  tweet_text: "#NowPlaying Dos Gardenias by @FaltyDL from our Album Of The Day: In
-    The Wild on @BBCRadMac http://t.co/7vWIyKOIti"
+  artist: FaltyDL
+  title: In The Wild
+  spotify:
+    album_id: 1Bq4OV8fc4DXYugd1dSI2K
 - date: 2014-08-12
   twitter: https://twitter.com/BBC6Music/status/499196393022824448
   twitpic: http://pbs.twimg.com/media/Bu2AeR1IEAAguyo.jpg
-  tweet_text: "#NowPlaying Feet Of Clay by @grumblingfur from our Album Of The Day:
-    Preternaturals on @BBCRadMac http://t.co/Jo68mMi9LN"
+  artist: Grumbling Fur
+  title: Preternaturals
+  spotify:
+    album_id: 4r4vOlrStKycNPIxekCeDn
 - date: 2014-08-11
   twitter: https://twitter.com/BBC6Music/status/498833363311263744
   twitpic: http://pbs.twimg.com/media/Buw2TN8IQAA3sAI.jpg
-  tweet_text: "#NowPlaying Sweeter Preacher by @childhoodUK from our Album of the
-    Day #Lacuna @BBCRadMac http://t.co/7ZBrpFvRVC"
+  artist: Childhood
+  title: Lacuna
+  spotify:
+    album_id: 2g6rmoAkrKKVZIe3pr0YHS
 - date: 2014-08-08
   twitter: https://twitter.com/BBC6Music/status/497745920101195776
   twitpic: http://pbs.twimg.com/media/BuhZRsIIMAA1E53.jpg
-  tweet_text: 'Quality Seconds by @orbitalband #NowPlaying on @BBCRadMac from Snivilisation
-    our @BBC6Music Album Of The Day http://t.co/lsnGEnelLb'
+  artist: Orbital
+  title: Snivilisation
+  spotify:
+    album_id: 30nRhMqZKuMHDH6CRCCCPz
 - date: 2014-08-07
   twitter: https://twitter.com/BBC6Music/status/497384855748247552
   twitpic: http://pbs.twimg.com/media/BucQ4_EIMAA6rME.jpg
-  tweet_text: 'Dark Rooms by @AnnieEvemusic #NowPlaying on @BBCRadMac from ‘Sunday
-    ‘91’- our @BBC6Music Album Of The Day http://t.co/IsSqdkrQQ7'
+  artist: Annie Eve
+  title: Sunday '91
+  spotify:
+    album_id: 6dgVm9AIsKeCp9fAffOyqc
 - date: 2014-08-06
   twitter: https://twitter.com/BBC6Music/status/497021415888261120
   twitpic: http://pbs.twimg.com/media/BuXGV9CIgAI3sNy.jpg
-  tweet_text: 'Hey You by @weareshininguk #NowPlaying on @BBCRadMac from ‘Kara’ -
-    our @BBC6Music Album Of The Day http://t.co/SaBUusmKDt'
+  artist: We Are Shining
+  title: Kara
+  spotify:
+    album_id: 2p2IShxZMPFwF9RMCKKbm7
 - date: 2014-08-05
   twitter: https://twitter.com/BBC6Music/status/496659311289196544
   twitpic: http://pbs.twimg.com/media/BuR9AurIQAEm-oB.jpg
-  tweet_text: NowPlaying  @BBCRadMac @Hydeandbeast Forever Your Own from Keep Moving
-    - our @BBC6Music Album Of The Day http://t.co/RsGkmy7oqo
+  artist: Hyde And Beast
+  title: Keep Moving
+  spotify:
+    album_id: 44ErjiiG1YiiRFMZQL7De2
 - date: 2014-08-04
   twitter: https://twitter.com/BBC6Music/status/496297588392738816
   twitpic: http://pbs.twimg.com/media/BuM0Bq6IcAAfxU2.jpg
-  tweet_text: "#NowPlaying on @BBCRadMac @spoontheband  Rent I Pay from ‘They Want
-    My Soul’ - our @BBC6Music Album Of The Day http://t.co/jV5F4JSMtj"
+  artist: Spoon
+  title: They Want My Soul
+  spotify:
+    album_id: 5LOVEXnGFLMChzdUNRWRpB
 - date: 2014-08-01
   twitter: https://twitter.com/BBC6Music/status/495210202258743297
   twitpic: http://pbs.twimg.com/media/Bt9XDe8IMAIMHQ8.jpg
-  tweet_text: "#NowPlaying @BBCRadMac  @giorgiomoroder  If You Weren’t Afraid from
-    his album E=MC2. Our @BBC6Music Album Of The Day http://t.co/m9Pp2LvUOk"
+  artist: Giorgio Moroder
+  title: E=MC2
+  spotify:
+    album_id: 0CAO4TC1HPXZfMr1DfBLU0
 - date: 2014-07-31
   twitter: https://twitter.com/BBC6Music/status/494848640171933696
   twitpic: http://pbs.twimg.com/media/Bt4ONzaIEAEWt-D.jpg
-  tweet_text: "#JustPlayed @tompetty Full Grown Boy from his new album Hypnotic Eye
-    @BBCRadMac.  Today’s @BBC6Music Album Of The Day http://t.co/vWS9VWBPTd"
+  artist: Tom Petty
+  title: Hypnotic Eye
+  spotify:
+    album_id: 55dSc0Ry199sq95DwnHFFa
 - date: 2014-07-30
   twitter: https://twitter.com/BBC6Music/status/494485364678361088
   twitpic: http://pbs.twimg.com/media/BtzD0YUIMAAZlAm.jpg
-  tweet_text: 'A touch of gold… @lostmidas #NowPlaying  Love Undone from ‘Off The
-    Course’ Our @bbc6music Album Of The Day http://t.co/vJ2don1f3s'
+  artist: Lost Midas
+  title: Off The Course
+  spotify:
+    album_id: 37fEvLJMa7pNDGObverf27
 - date: 2014-07-29
   twitter: https://twitter.com/BBC6Music/status/494123033372925952
   twitpic: http://pbs.twimg.com/media/Btt6R7JIQAAiSUm.jpg
-  tweet_text: 'SEW good #NowPlaying Common THREAD by @JohnSteelSinger from our Album
-    Of The Day: Everything’s A Thread on @BBCRadMac http://t.co/kKZ4M8EM90'
+  artist: John Steel
+  title: Everything’s A Thread
+  spotify:
+    album_id: 6B2BMqIGoxOtIedJNw4WyV
 - date: 2014-07-28
   twitter: https://twitter.com/BBC6Music/status/493760658119610369
   twitpic: http://pbs.twimg.com/media/Btows5rIgAEQrzS.jpg
-  tweet_text: "#NowPlaying Slippery Slopes by @jennylewis from our Album Of The Day:
-    The Voyager on @BBCRadMac http://t.co/Eje0CVgL1o"
+  artist: Jenny Lewis
+  title: The Voyager
+  spotify:
+    album_id: 5sCsfubNchaI9RCpP7K7aB
 - date: 2014-07-25
   twitter: https://twitter.com/BBC6Music/status/492672733801897984
   twitpic: http://pbs.twimg.com/media/BtZTPYrIEAAfzrp.jpg
-  tweet_text: "#NowPlaying Shake Your Rump by @beastieboys from our Album Of The Day:
-    Paul’s Boutique it's 25 years old today! http://t.co/L5kgyOvpGv"
+  artist: Beastie Boys
+  title: Paul's Boutique
+  spotify:
+    album_id: 4DfmPm17Nz6a60BlEpGGKU
 - date: 2014-07-24
   twitter: https://twitter.com/BBC6Music/status/492311546354466816
   twitpic: http://pbs.twimg.com/media/BtUKvcVCUAAxVxb.jpg
-  tweet_text: 'You just heard Bluebell, Cockleshell, 123 by @kingcreosote from our
-    Album Of The Day: From Scotland With Love http://t.co/niwaUq3g7F'
+  artist: King Creosote
+  title: Scotland With Love
+  spotify:
+    album_id: 0rXZ7L03XlBerKk7eP7Phw
 - date: 2014-07-23
   twitter: https://twitter.com/BBC6Music/status/491948709849354240
   twitpic: http://pbs.twimg.com/media/BtPAvo3CMAA-Cyp.jpg
-  tweet_text: "#NowPlaying In Stillness We Remain by @womanshourband from our Album
-    Of The Day: Conversations on @BBCRadMac http://t.co/IWZ5jicHM0"
+  artist: Woman's Hour
+  title: Conversations
+  spotify:
+    album_id: 3NcENYeNFMgzURYSCkBfjw
 - date: 2014-07-22
   twitter: https://twitter.com/BBC6Music/status/491586626834157568
   twitpic: http://pbs.twimg.com/media/BtJ3boPCYAAF2tk.jpg
-  tweet_text: "#NowPlaying Atop A Cake from our Album Of The Day, @alvvaysband's self-titled
-    debut on @BBCRadMac http://t.co/CWWn0rWzdp"
+  artist: Alvvays
+  title: Alvvays
+  spotify:
+    album_id: 28a7IkiQxDoxGpAr8Cy0fP
 - date: 2014-07-21
 - date: 2014-07-18
   twitter: https://twitter.com/BBC6Music/status/490040690404249600
   twitpic: http://pbs.twimg.com/media/Bsz5aSqCcAAl8-G.jpg
-  tweet_text: ".@mogwaiband are reissuing 'Come On Die Young' .It's our AOTD today
-    they also headline the 6M stage @LatitudeFest  . http://t.co/xCZQus53xv"
+  artist: Mogwai
+  title: Come On Die Young
+  spotify:
+    album_id: 5TcwvxSuB5zntncsdQmtEU
 - date: 2014-07-17
   twitter: https://twitter.com/BBC6Music/status/489676377697038336
   twitpic: http://pbs.twimg.com/media/BsuuEfrCcAAJRVe.jpg
-  tweet_text: "#nowplaying Fortune Cookie by @yumhoneyblood - from their self titled
-    debut album, which is our AOTD http://t.co/TAxktSqPKP"
+  artist: Honeyblood
+  title: Honeyblood
+  spotify:
+    album_id: 6b67Ng1w8SDSsf3yXpNgjO
 - date: 2014-07-16
   twitter: https://twitter.com/BBC6Music/status/489412140886155264
   twitpic: http://pbs.twimg.com/media/Bsq9v5CCEAE2hX3.jpg
-  tweet_text: "#NowPlaying on @BBCRadMac it's Crumbler from Jungle's self-titled Album
-    of the Day http://t.co/JLm8FhLufT"
+  artist: Jungle
+  title: Jungle
+  spotify:
+    album_id: 6IH6co1QUS7uXoyPDv0rIr
 - date: 2014-07-15
   twitter: https://twitter.com/BBC6Music/status/489050050539298816
   twitpic: http://pbs.twimg.com/media/Bsl0bddCQAAxpbn.jpg
-  tweet_text: "#NowPlaying Paraguay and Panama by @SLOWCLUBHQ from our Album of the
-    Day: Complete Surrender on @BBCRadMac http://t.co/O5sKd5nEYv"
+  artist: Slow Club
+  title: Complete Surrender
+  spotify:
+    album_id: 7fVx3hAAvTmVtgUaM4gsxZ
 - date: 2014-07-14
   twitter: https://twitter.com/BBC6Music/status/488687421081800704
   twitpic: http://pbs.twimg.com/media/Bsgqnm7CAAEoAoa.jpg
-  tweet_text: "#NowPlaying Earth Is The Loneliest Planet / Morrissey from our Album
-    Of The Day: World Peace Is None Of Your Business http://t.co/fLyxEts6bs"
+  artist: Morrissey
+  title: World Peace Is None Of Your Business
 - date: 2014-07-11
   twitter: https://twitter.com/BBC6Music/status/487599998277005313
   twitpic: http://pbs.twimg.com/media/BsRNnSeCAAAp8eF.jpg
-  tweet_text: "#NowPlaying The Sinking Feeling by @thethe from our Album Of The Day:
-    Soul Mining on @BBCRadMac http://t.co/vilVb2hcct"
+  artist: The The
+  title: Soul Mining
+  spotify:
+    album_id: 0I7bOh7mYGUEyqCFHU9R0A
 - date: 2014-07-10
   twitter: https://twitter.com/BBC6Music/status/487237755395923968
   twitpic: http://pbs.twimg.com/media/BsMEJ_xCMAE7V2I.jpg
-  tweet_text: "#NowPlaying Deception Of The Crush by Eugene McGuinness @eugenemcg
-    from our Album Of The Day: Chroma on @BBCRadMac http://t.co/Cj4JS5IIeo"
+  artist: Eugene McGuinness
+  title: Chroma
+  spotify:
+    album_id: 1mxoK1nitRSfxf3i4gYgEn
 - date: 2014-07-09
   twitter: https://twitter.com/BBC6Music/status/486876274389159936
   twitpic: http://pbs.twimg.com/media/BsG7ZAICcAA2OoL.jpg
-  tweet_text: "#NowPlaying Many Enemies by @braidcentral from our Album Of The Day:
-    No Coast on @BBCRadMac http://t.co/bWeViE8rdV"
+  artist: Braid
+  title: No Coast
+  spotify:
+    album_id: 0hMmKlbeNkwQqVHuHZdfOS
 - date: 2014-07-08
 - date: 2014-07-07
   twitter: https://twitter.com/BBC6Music/status/486151826627387392
   twitpic: http://pbs.twimg.com/media/Br8ogmWCQAEiP1M.jpg
-  tweet_text: "#NowPlaying Between The Clock And The Bed by @Manics from our Album
-    Of The Day: Futurology on @BBCRadMac http://t.co/z6xKVpndev"
+  artist: Manic Street Preachers
+  title: Futurology
+  spotify:
+    album_id: 1lGeS8ejAXYtPzgnSv25ZY
 - date: 2014-07-04
   twitter: https://twitter.com/BBC6Music/status/485063194197913600
   twitpic: http://pbs.twimg.com/media/BrtKZ2VCEAAoSgw.jpg

@@ -35,7 +35,11 @@ def process_data(data)
   end
 
   data.each do |album|
-    if !album['twitter'] then next end
+    if !album.has_key?('twitter') then next end
+    if album['twitter'] == '' or album['twitter'].nil? then
+      album.delete('twitter')
+      next
+    end
     # Only want to process if it has no picture, or it has no title.
     # (Don't want to unnecessarially store tweet_text.)
     if !album['twitpic']

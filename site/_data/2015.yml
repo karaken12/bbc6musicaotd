@@ -17,6 +17,8 @@
   title: Girls in Peacetime Want to Dance
   twitter: https://twitter.com/BBC6Music/status/555382037486792704
   twitpic: http://pbs.twimg.com/media/B7UdAuyCQAAbHik.jpg
+  spotify:
+    album_id: 3Gy0FCDIx9MoliXd3YcTBt
 - date: 2015-01-15
   artist: The Rolling Stones
   title: The Rolling Stones No. 2
@@ -180,6 +182,8 @@
   title: We Slept At Last
   twitter: https://twitter.com/BBC6Music/status/568065174801944577
   twitpic: http://pbs.twimg.com/media/B-IryXTCAAAVfIl.jpg
+  spotify:
+    album_id: 7bGKJT7GMChX7lM3txM9Iz
 - date: 2015-02-19
   artist: Idlewild
   title: Everything Ever Written
@@ -190,6 +194,12 @@
 - date: 2015-02-20
   artist: The Futureheads
   title: The Futureheads
+  spotify:
+    candidates:
+    - name: The Futureheads (new version)
+      album_id: 2G9UuU6wxAa4FoIv1rwHBo
+    - name: The Futureheads
+      album_id: 1iN1V1c3nuAasssfCribNl
 - date: 2015-02-23
   notes: Don't think they had one (playing lots from the 6Music Festival).
 - date: 2015-02-24
@@ -218,11 +228,15 @@
   title: The Bends
   twitter: https://twitter.com/BBC6Music/status/571229669611184128
   twitpic: http://pbs.twimg.com/media/B-1p9EQVIAAnhel.jpg
+  spotify:
+    album_id: 6Lmj92VLXz7Z5xcsjXBMSC
 - date: 2015-03-02
   artist: Noel Gallagher's High Flying Birds
   title: Chasing Yesterday
   twitter: https://twitter.com/BBC6Music/status/572412945126305793
   twitpic: http://pbs.twimg.com/media/B_GeGQ_UwAAz7L9.jpg
+  spotify:
+    album_id: 5Ngc0q3qKwp8buErZy96vs
 - date: 2015-03-03
   artist: Ghostpoet
   title: Shedding Skin
@@ -283,6 +297,8 @@
   title: Strangers To Ourselves
   twitter: https://twitter.com/BBC6Music/status/577486771782594561
   twitpic: http://pbs.twimg.com/media/CAOkpWYUsAAeTm9.jpg
+  spotify:
+    album_id: 6iKqPv9C5oU29LR82N8lJf
 - date: 2015-03-17
   notes: |
     I think we had 6MRecommends instead of an aotd
@@ -323,6 +339,8 @@
   title: Sparkle In The Rain
   twitter: https://twitter.com/BBC6Music/status/578936175102156800
   twitpic: http://pbs.twimg.com/media/CAjLIOVUMAIg_AB.jpg
+  spotify:
+    album_id: 4PlrByHu51LbKy93D1y0ub
 - date: 2015-03-23
   artist: Laura Marling
   title: Short Movie
@@ -356,6 +374,14 @@
   title: Village Green Preservation Society
   twitter: https://twitter.com/BBC6Music/status/581472920293249024
   twitpic: http://pbs.twimg.com/media/CBHOTh9UcAEmQBt.jpg
+  spotify:
+    candidates:
+    - name: The Village Green Preservation Society
+      album_id: 4wcH6H2h6LFBbfXgwZY9oH
+    - name: The Village Green Preservation Society
+      album_id: 6OWWMfCWiqOZJBpJieBB6B
+    - name: The Village Green Preservation Society
+      album_id: 5SwMo0HmRi529JaKkt6Rn8
 - date: 2015-03-30
   artist: Sufjan Stevens
   title: Carrie & Lowell
@@ -431,3 +457,17 @@
   twitpic: http://pbs.twimg.com/media/CCdMYhEWYAA4Gbe.jpg
   spotify:
     album_id: 1rwks602GtqNzZGjc62rIQ
+- date: 2015-04-14
+  artist: Wire
+  title: Wire
+  twitter: https://twitter.com/BBC6Music/status/587884206166016000
+  twitpic: http://pbs.twimg.com/media/CCiVkeyXIAAz9Rw.jpg
+  spotify:
+    album_id: 3bLwfwMXq9zCEfZZ06VHGk
+- date: 2015-04-15
+  artist: The Who
+  title: Quadrophenia
+  twitter: https://twitter.com/BBC6Music/status/588247809612247040
+  twitpic: http://pbs.twimg.com/media/CCngQ_AWIAAQLtZ.jpg
+  spotify:
+    album_id: 3JV6BIIXo3mj6GLIGH9p8a

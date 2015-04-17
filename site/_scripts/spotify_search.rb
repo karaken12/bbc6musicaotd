@@ -19,20 +19,26 @@ def process_data(data)
   data.each do |album|
     if (album['spotify']) then next end
     if !album['title']
-      puts "= Title missing for item on #{album['date']}"
+      #puts "= Title missing for item on #{album['date']}"
       next
     end
-    if !album['artist']
+    if !album['artist'] and album['type']!='compilation'
       puts "= Artist missing for item on #{album['date']}"
       next
     end
 
     search_string = "album:\"#{album['title']}\""
-    search_string += "+artist:\"#{album['artist']}\""
+    if (album['artist'])
+      search_string += "+artist:\"#{album['artist']}\""
+    end
 
     spotify_albums = RSpotify::Album.search(search_string, market: 'GB')
 
-    spotify_albums_sel = spotify_albums.select{|sa| sa.album_type == 'album'}
+    type='album'
+    if (album['type'])
+      type = album['type']
+    end
+    spotify_albums_sel = spotify_albums.select{|sa| sa.album_type == type}
 
     puts "- Search for #{album['title']} by #{album['artist']}"
     puts "  Found #{spotify_albums.total} (#{spotify_albums_sel.count} selected)"

@@ -26,6 +26,9 @@ def process_album(client, album)
       album['twitpic'] = tweet.media[0].media_url.to_s()
     end
     album['tweet_text'] = tweet.text
+    if !(album['date'])
+       album['date'] = tweet.created_at
+    end
 end
 
 def process_data(data)  
@@ -40,15 +43,8 @@ def process_data(data)
       album.delete('twitter')
       next
     end
-    # Only want to process if it has no picture, or it has no title.
-    # (Don't want to unnecessarially store tweet_text.)
-    if !album['twitpic']
+    if !album['twitpic'] and !album['tweet_text'] and !album['title']
       process_album(client, album)
-      next
-    end
-    if !album['tweet_text'] and !album['title']
-      process_album(client, album)
-      next
     end
   end
 end

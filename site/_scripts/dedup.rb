@@ -19,7 +19,10 @@ def process_data(data)
   outdata = []
   urls_seen = []
   data.each do |album|
-    if !album.has_key?('twitter') then next end
+    if !album.has_key?('twitter')
+      outdata.push(album)
+      next
+    end
     if !urls_seen.include?(album['twitter'])
       urls_seen.push(album['twitter'])
       outdata.push(album)

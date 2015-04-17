@@ -8,6 +8,16 @@
   spotify:
     name: The Specials
     album_id: 3slMWt0RziAAsTyKO0v98W
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/fd37397d56628742cba9c5ed8ac356e862c6c2cd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ef3e32be2adfd16802538688bdb2cac8cd423b83
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a02fd7b3c9744a0cb0b0c4c59a85496259cd0eba
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/103429556001701888
   tweet_text: 'Our album of the day today #Orbital by Orbital - listen to tracks from
     the album all day today on @BBC6Music =&gt; @orbitalband interview 4pm'
@@ -17,6 +27,16 @@
   spotify:
     name: Orbital
     album_id: 4xlGmLv1KsyhEKqPK7gmPK
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7a9aa53e4ae75f4b6dbdd948cf4efff8708eef9a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/d4c41fac75caed6d17b902dc06064acdfbfc60ea
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/0c85616f0606fdb416104813c9715905a4ba543a
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/55255319101706240
   tweet_text: 'The @foofighters new album is album of the day tomorrow on @bbc6music  listen
     in @foofightersfans -  #foofighters its going to be soo good!'
@@ -30,3 +50,13 @@
   title: King Of Limbs
   spotify:
     album_id: 6CeulIpMN8ZxqlMk5Gn3S3
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7495950192431ca8c8bdf3471dd95a73d5b14988
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/71271ff8f3524a8ea8cc1cc6dbbe7b6c2dbdaa02
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/539cc53135a0cca0f7e1ad8bbda88204aae4f0c8
+      width: 64

@@ -42,6 +42,20 @@
     in @foofightersfans -  #foofighters its going to be soo good!'
   date: 2011-04-06
   artist: Foo Fighters
+  title: Wasting Light
+  spotify:
+    name: Wasting Light
+    album_id: 5lnQLEUiVDkLbFJHXHQu9m
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/e976d6e79ddd47e6a585cea54ea50b76fc4678e8
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ea47505d3667e133487c6315350339784078d87e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/fdd1d20449225e25368bad569aa614318317490f
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/39649585429221376
   tweet_text: 'RT @bbcalbumreviews: #thekingoflimbs #radiohead is also @Inside6music''s
     Album of the Day - http://bbc.in/i9aFPZ'

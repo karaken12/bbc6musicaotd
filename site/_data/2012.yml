@@ -3,316 +3,1221 @@
   tweet_text: The album of the day is the recently issued deluxe edition of The Jam's
     The Gift. http://t.co/01kwXAiq via @bbcalbumreviews
   date: 2012-12-06
+  artist: The Jam
+  title: The Gift
+  spotify:
+    name: The Gift (Remastered Version)
+    album_id: 3GrWDe1D3ScuU8Ya90r6VN
+    images:
+    - height: 634
+      url: https://i.scdn.co/image/09b23be998708ee8b1103d93ed2c597c23489aa7
+      width: 640
+    - height: 297
+      url: https://i.scdn.co/image/1afb0cbe3d7082d8f46257019fc73aadf0a2d257
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/c487ae84bbc989d21052e787c0c4e95632b6a99f
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/276256822380335104
   tweet_text: The album of the day is Tracey Thorn's Tinsel and Lights... festive
     splendidness. http://t.co/K5Zck6k0 via @bbcalbumreviews
   date: 2012-12-05
+  artist: Tracey Thorn
+  title: Tinsel and Lights
+  spotify:
+    album_id: 0cFIrHKVHZEEWqI8w4tcAs
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/e509ac91659244988f84f007623ebccbcc55bf32
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/24d0fe43d8c43dfd2ba45bdbf591ede285d7b1f2
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/f9894fbef0e73235e666a866c9eb6043dc4ca254
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/275885162594697216
   tweet_text: The album of the day is the 40th anniversary set of T. Rex's The Slider,
     reviewed by @quantick http://t.co/2GcgbTdW via @bbcalbumreviews
   date: 2012-12-04
+  artist: T. Rex
+  title: The Slider
+  spotify:
+    name: The Slider
+    album_id: 3Dg3quPRLDCsEqnzgPl6PE
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/fbb5ca50e7a200398f8451b9877b7f866eb28f61
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/f4dded31ebc9f5d744bf43325c908d084a6cf3c0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/3bd8ea4cd3b4396b98a9bf3201d26b03ac910aac
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/275520486673362945
   tweet_text: 'And the album of the day is... @Interpol - Turn On the Bright Lights:
     Tenth Anniversary Edition. http://t.co/v9nE7Hgr via @bbcalbumreviews'
   date: 2012-12-03
+  artist: Interpol
+  title: 'Turn On The Bright Lights: Tenth Anniversary Edition'
+  spotify:
+    album_id: 3lCp61EBzBxoPQlhAMFrFB
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ea6e55238b88e638afdfd19005ab6ff9bf8daa9d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/d66f4f1a0ab892890c5954a2f89ee939adcf8557
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c8711cc219aeff2e6ecb938aac360ed11788d09c
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/274434881667350528
   tweet_text: 'Album of the day is Chad Valley''s Young Hunger. Wonder if Hugo is
     rocking a band tee? #6musictshirtday http://t.co/zF1p53xK @bbcalbumreviews'
   date: 2012-11-30
+  artist: Chad Valley
+  title: Youth Hunger
 - twitter: https://twitter.com/BBC6Music/status/274065635661713408
   tweet_text: Classic album of the day time... Specials, with More Specials. http://t.co/EDNt1zoO
   date: 2012-11-29
+  artist: Specials
+  title: More Specials
+  spotify:
+    album_id: 2tuJjz5UCaULQuyB3FUpgL
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/30be789a30c178b67764731db500a940d04a5396
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/23d81f19858bbd43493a53d5b7284c92e7f9e94c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c5d0b0cf28f83ac96267b894bc7b2fef6f92723f
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/273702860523446272
   tweet_text: Welcome back Martin Rossiter - The Defenestration of St. Martin is our
     album of the day. http://t.co/SfWMff0p via @bbcalbumreviews
   date: 2012-11-28
+  artist: Martin Rossiter
+  title: The Defenestration of St. Martin
+  spotify:
+    album_id: 19NYUz14i6CghvekcTrgvf
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/15e5a40d3722d965b03f90829cad8bb59bed3c5f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/d186619089489bf854f724159e45e0f94bf8cedc
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/6a79122555386f1c724c369d2014379580e5f668
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/273351134519906304
   tweet_text: 'The album of the day is a real classic - The Blue Nile''s A Walk Across
     the Rooftops. Reviewed: http://t.co/iEaqaRyP via @bbcalbumreviews'
   date: 2012-11-27
+  artist: The Blue Nile
+  title: A Walk Across the Rooftops
+  spotify:
+    name: A Walk Across The Rooftops
+    album_id: 2UrSPDjccATKgu4CIxu8IV
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/64cd0b030b9a39b4c82411cf9b2a3c676bf2ff6c
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/249ec41897980c8cacedf5504a989549ba4881d7
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/6f9f6b59a23666d3ad8a8c88a0398926d566c605
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/272980413515976704
   tweet_text: Ready to rock? Today's album of the day is the 20th anniversary of Rage
     Against the Machine. http://t.co/MIRFO4D1 via @bbcalbumreviews
   date: 2012-11-26
+  artist: Rage Against The Machine
+  title: Rage Against The Machine - XX
+  spotify:
+    name: Rage Against The Machine - XX (20th Anniversary Special Edition)
+    album_id: 4Io5vWtmV1rFj4yirKb4y4
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/3326f9517fabd0951b4336c6d52cb8fe09cd6c9a
+      width: 576
+    - height: 300
+      url: https://i.scdn.co/image/40ef7201f871c806d312f2e9375ec68b28b61522
+      width: 270
+    - height: 64
+      url: https://i.scdn.co/image/c67246f3bc4681a3ba51a9fdc4f8a2311766cfdc
+      width: 58
 - twitter: https://twitter.com/BBC6Music/status/271897547394658304
   tweet_text: '6''s album of the day is the freshly reissued Blue Lines by Massive
     Attack. Reviewed on BBC Music: http://t.co/myRd9KDR via @bbcalbumreviews'
   date: 2012-11-23
+  artist: Massive Attack
+  title: Blue lines
+  spotify:
+    name: Blue Lines
+    album_id: 5mAPk4qeNqVLtNydaWbWlf
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/2a2ad1a7f18442df4f5ba61051cdcd3225b246f3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b42d4f128807cffcda24466368b6abdac9c25516
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/8009082fef6f28859a65915a072edcaefc8257fc
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/271532956793860096
   tweet_text: That album of the day is Björk's new remix collection, Bastards. http://t.co/gQxXS9Ko
     via @bbcalbumreviews
   date: 2012-11-22
+  artist: Bjork
+  title: Bastards
+  spotify:
+    album_id: 6PoJf3wAiIgIE7GMmfdAH4
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/93b353b8bb28ee2b9db2f4ebb661bb3280456c80
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/1df12663d195b0be497b0902e132b104e1917117
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a663838a42bb43407e5d6596085314a4ebfb9eac
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/271175134600101889
   tweet_text: OMD's Architecture and Morality is 6's Classic Album Of The Day. http://t.co/FjT2SKVB
   date: 2012-11-21
+  artist: OMD
+  title: Architecture and Morality
+  spotify:
+    album_id: 6bR98XzGnklTORDvZ7Oc2i
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c4d3e0b84e359a734935d9a16dce3bc351d83a8b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/5f42f2fba98500f080630e469cb3ccee9a7ce5f7
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/30369b6bbd199700af3e64ec94e6ee31876d7791
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/270805453791977474
   tweet_text: 'The album of the day is The Staves with Dead &amp; Born &amp; Grown...
     reviewed on BBC Music: http://t.co/9rtuVYoe via @bbcalbumreviews'
   date: 2012-11-20
+  artist: The Staves
+  title: Dead & Born & Grown
+  spotify:
+    name: Dead & Born & Grown
+    album_id: 7pyw8r3PT2mK3GIEsmQlCI
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/aeb55e80a18c4d50976b851015def9426d4c6e76
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/27369783d4025df90901da4ed9f5aa8c9b99708a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/cce2cef06484140eea0fe139dad670a41d44d6fb
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/270437600572084224
   tweet_text: Celebration Day, the live document of Led Zeppelin's O2 one-off comeback,
     is our album of the day. http://t.co/SMsry5hy via @bbcalbumreviews
   date: 2012-11-19
+  artist: Led Zeppelin
 - twitter: https://twitter.com/BBC6Music/status/269364892216201216
   tweet_text: Album of the day time... and it's the third eponymous set from Canadian
     dance duo Crystal Castles. http://t.co/IW4sSGNE via @bbcalbumreviews
   date: 2012-11-16
+  artist: Crystal Castles
+  title: Crystal Castles 3
 - twitter: https://twitter.com/BBC6Music/status/268999778124316672
   tweet_text: Today's album of the day is the comeback of Soundgarden with King Animal
     - http://t.co/lzfdPyn2 via @bbcalbumreviews
   date: 2012-11-15
+  artist: Soundgarden
+  title: King Anamal
 - twitter: https://twitter.com/BBC6Music/status/268628423063265280
   tweet_text: 'The album of the day is The Stranglers'' Black and White - read @quantick
     ''s review here: http://t.co/KxfQQ41O via @bbcalbumreviews'
   date: 2012-11-14
+  artist: The Stranglers
+  title: Black and White
+  spotify:
+    album_id: 5PfI1x0Rub41UUeLEksUCU
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/01ca32f024cbf73026aaf4c608a287781a0609af
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0f55e56a6ead44be8db08eb301627bf7fb5943a8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/b12aaabdf9cba90bbdfa392f6c986393813ec437
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/268285725143887872
   tweet_text: Album of the day is Amy Winehouse at the BBC. Live recordings that really
     show what a loss she is. http://t.co/ulayUsq1 via @bbcalbumreviews
   date: 2012-11-13
+  artist: Amy Winehouse
+  title: Live at the BBC
 - twitter: https://twitter.com/BBC6Music/status/266100645453516800
   tweet_text: Our album of the day is a classic... the 20th anniversary of the Manics'
     Generation Terrorists. http://t.co/yudlbb5C via @bbcalbumreviews
   date: 2012-11-07
+  artist: Manic Street Preachers
+  title: Generation Terrorists
+  spotify:
+    album_id: 5XV63qDoIC1z2Tb0EIMVua
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7af9f95a4876401e2b8729b8612a8e73ad788cc8
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e28c94389b17ec45acb6e627ec37660fe914e431
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9cd34eb4c3337c17c88d888272f9b8504fe78dda
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/265729861660844032
   tweet_text: 'Album of the Day... it''s Stars, with The North. Reviewed: http://t.co/0wgAw1we
     via @bbcalbumreviews'
   date: 2012-11-06
+  artist: Stars
+  title: The North
+  spotify:
+    name: The North
+    album_id: 1GMmclvqwG4fShXkN8m1mq
+    images:
+    - height: 600
+      url: https://i.scdn.co/image/ed24d708d3bcc9d26ee8803137e88a9f676f65d7
+      width: 600
+    - height: 300
+      url: https://i.scdn.co/image/fa57480e0ac9a4165a25641358a2e578d787bfc1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/843fe8990f7df12d28c9a6b01bba71ffa1a1b984
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/265366057848549376
   tweet_text: Our album of the day is the eponymous debut from Melody's Echo Chamber.
     http://t.co/o64HXhbD via @bbcalbumreviews
   date: 2012-11-05
+  artist: Melody's Echo Chamber
+  title: Melody's Echo Chamber
+  spotify:
+    album_id: 6bEUO42UQwqUae2ptjd7XT
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/64085b9d3951a58aa947020d63a42a22804316ca
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/abf2d22ba8beb1907ebdd131a8e001465fb80b1f
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/73ebc72c93baf6a4a9c6975bc5a134deb365ba12
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/264283266884984832
   tweet_text: Our album of the day is the tremendous comeback from Cody ChesnuTT,
     Landing on a Hundred. http://t.co/cA50v2Qe via @bbcalbumreviews
   date: 2012-11-02
+  artist: Cody ChesnuTT
+  title: Landing on a Hundred
+  spotify:
+    name: Landing On a Hundred
+    album_id: 45Mk7SLfzqvkwKzxjgE3FH
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/e0b6f48ce711311dd36b44745bb44bb9852350b7
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0fb7a23372ba058a3c2ac7b24af26c2803f72ade
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/4d40065cf6a5081ab609af204b3c3f8f5d5095f8
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/263921781541330944
   tweet_text: Today's album of the day is the debut from Dark Horses, Black Music.
     http://t.co/HZpuW2o2 via @bbcalbumreviews
   date: 2012-11-01
+  artist: Dark Horses
+  title: Black Music
+  spotify:
+    album_id: 3z9rx11hGYFgNVPPqaBjSa
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/a6128dac880338349542f43e02a46293a4165320
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/3d621646cf352569b2eed8dd64bba45ac2eda195
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d9dd0b4b2de5cd9b7bc59c2c54661868293cd909
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/263558819098017794
   tweet_text: What's that? A tremendous new LP from Neil Young &amp; Crazy Horse?
     Psychedelic Pill? It's only our album of the day. http://t.co/8EHNT6tT
   date: 2012-10-31
+  artist: Neil Young & Crazy Horse
+  title: Psychedelic Pill
+  spotify:
+    album_id: 3WN75H6NactRxv3MbSXxxT
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/bdf3d8743f1262aa127cf55563f60799c18d9ac3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0d406e9dd42eaca4b284125df2f94f754b446686
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/383d097471492592271e54bb7806512ac4ffd5e0
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/263206992263380992
   tweet_text: Our album of the day is the debut from Bristol producer Stumbleine,
     Spiderwebbed - http://t.co/ejeSX359 via @bbcalbumreviews
   date: 2012-10-30
+  artist: Stumbleine
+  title: Spiderwebbed
+  spotify:
+    album_id: 0ZEFSgCh53RANf2qL4p0WM
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/5e8289d9ecd7ece9a5f0a1f071d1b08013fd22f4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/74687380506d59682c0cc1e3f1c2ef2838f17106
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c88c2a4f601074922fdd838dec1e4f750280e948
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/262835434281922560
   tweet_text: 'The album of the day is a bit of a classic: The Velvet Underground
     &amp; Nico, now 45 years young. http://t.co/jCjdYY8Q via @bbcalbumreviews'
   date: 2012-10-29
+  artist: The Velvet Underground
+  title: The Velvet Underground & Nico
+  spotify:
+    name: The Velvet Underground & Nico
+    album_id: 4k3pFaICwbEyc40GLVEGnS
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/19fcab0d70aea0856c7a81db0c97530b49a5c565
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/bc092c1832152d3081f4a28884c2e785fbacdec6
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/00b5ddac93c09e7fb84feb1ea71d43c7c31a0989
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/261724346077286400
   tweet_text: 'Today''s album of the day: @juderogers reviews @itspetergabriel ''s
     1986 classic, So. SLEDGEHAMMER! http://t.co/Gy5VlRy9 via @bbcalbumreviews'
   date: 2012-10-26
+  artist: Peter Gabriel
+  title: Sledgehammer
 - twitter: https://twitter.com/BBC6Music/status/261371401074769920
   tweet_text: 'Album of the day time! Today''s is Patrick Wolf''s Sundark and Riverlight:
     http://t.co/SBR9ViNj via @bbcalbumreviews'
   date: 2012-10-25
+  artist: Patrick Wolf
+  title: Sundark and Riverlight
+  spotify:
+    album_id: 2flDVPf3Zo7igod40wQNlk
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/25f5452c510a8ce287103d8527e39e1a711f4453
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/152c8fad6f755f6359c95b977cf3c71ed9356899
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/afbc8ea42fe9fd44b4ba30f89526194ddc82c9fa
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/261006816580886529
   tweet_text: 'Album of the day time. Today, we''ve northeast indie types Little Comets
     with Life Is Elsewhere: http://t.co/lkV5EiQZ via @bbcalbumreviews'
   date: 2012-10-24
+  artist: Little Comets
+  title: Life Is Elsewhere
+  spotify:
+    album_id: 2ldS4LeCSq54YsyQCjjI05
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/4dad7e7da370237a7f34766069153416f94bce43
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b039d7bf057f421a7006ac9b82ef65d936cb4ec0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/68bf28b96af9086a4853d612de5b2a8410f036bc
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/260646329318010880
   tweet_text: 'The voice of Interpol goes it alone for Banks, our album of the day
     on 6: http://t.co/sdwVTrbJ via @bbcalbumreviews'
   date: 2012-10-23
+  artist: Interpol
+  title: Banks
 - twitter: https://twitter.com/BBC6Music/status/260279389932113921
   tweet_text: Sleepy? Our album of the day from The Jim Jones Revue, The Savage Heart,  should
     perk you up. http://t.co/YgvIxkGH via @bbcalbumreviews
   date: 2012-10-22
+  artist: The Jim Jones Revue
+  title: The Savage Heart
+  spotify:
+    album_id: 2RKAHsegdOBRBngRUMxmMk
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/efff3ca073081116af8952016ed45bcd0f4502db
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e0bb39d51b438d56b21dc5aba83d8ca44f8aa6eb
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/711106643ad28361ce846d39c7563777a698d6a6
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/259176316035821568
   tweet_text: 'Who''s Next for our album of the day. No, it''s not a question. The
     Who''s 1971 LP is reviewed here: http://t.co/bxUOmprc via @bbcalbumreviews'
   date: 2012-10-19
+  artist: The Who
+  title: Who's Next
+  spotify:
+    name: Who's Next (Remastered)
+    album_id: 3ipneUq3vZhmTXOFZMoHkf
+    images:
+    - height: 577
+      url: https://i.scdn.co/image/57f64eebbd06418cdcb52738afd4e2a0452c4cff
+      width: 640
+    - height: 270
+      url: https://i.scdn.co/image/2aaa97df57289b00162a1a672e7223de941e12ba
+      width: 300
+    - height: 58
+      url: https://i.scdn.co/image/7ff86c56ee589f34a12e439a26c76be05da221ef
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/258820494483140608
   tweet_text: Our album of the day is the latest LP from @wainbright (Martha Wainwright),
     Come Home to Mama. http://t.co/vtBwEnrQ via @bbcalbumreviews
   date: 2012-10-18
+  artist: Martha Wainright
+  title: Come Home to Mama
 - twitter: https://twitter.com/BBC6Music/status/258470101689446400
   tweet_text: Our album of the day is the latest solo LP from Grandaddy's Jason Lytle,
     Dept. of Disappearance. http://t.co/tIFd97LT via @bbcalbumreviews
   date: 2012-10-17
+  artist: Grandaddy
+  title: Dept. of Disappearance
 - twitter: https://twitter.com/BBC6Music/status/258099769912725504
   tweet_text: Today's album of the day is the eponymous debut from Nottingham's Jake
     Bugg - http://t.co/Mfn8HbjO via @bbcalbumreviews
   date: 2012-10-16
+  artist: Jake Bugg
+  title: Jake Bugg
+  spotify:
+    album_id: 4asvshPH5nL0mjjMCE9mzi
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/60d0ec7abe33caa86002c3c4431bfb5f57b3f8bd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/37c6c46cc01e59253c35cde27b68a99000bb76f9
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/2b6ba66ae6e6349623806e418559042ac2b3f467
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/257747383230799872
   tweet_text: 'The comeback of Khan: Bat for Lashes'' The Haunted Man is our album
     of the day. http://t.co/N6pANBt6 via @bbcalbumreviews'
   date: 2012-10-15
+  artist: Bat for Lashes
+  title: The Haunted Man
+  spotify:
+    album_id: 6rg92rv1hTB5fDfm85cWgq
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/49b50e51514f01af5960e6c8ae13cade94e97d8b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/3b256b2c6bb19ff2187e677b1e6d838094078a24
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d96900740fd85303ae4d0debdfc88dd28c722145
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/256658844342681600
   tweet_text: 25 years young, our album of the day is R.E.M.'s Document. http://t.co/gJiPezLj
     via @bbcalbumreviews
   date: 2012-10-12
+  artist: R.E.M.
+  title: Document
+  spotify:
+    name: Document
+    album_id: 2y1UeJQy95zVxN8Y6IjUck
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ac22be30f2c6b9ce4f752e49fb6eae3282e43a75
+      width: 639
+    - height: 300
+      url: https://i.scdn.co/image/9b2efea75f79ade194ba0905f1e4d2b7a55683e9
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/6c321b702d5a8803a7bb9083025b8ee6d2377cac
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/256295932335902721
   tweet_text: John Cale's first LP in seven years, Shifty Adventures in Nookie Wood,
     is our album of the day. http://t.co/nuDvZ3oF via @bbcalbumreviews
   date: 2012-10-11
+  artist: John Cale
+  title: Shifty Adventures in Nookie Wood
+  spotify:
+    album_id: 6xzqLW3MaJlFWWtT9uXJYh
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/29e33efe619da2fb79fc1972dfa0f38201f27566
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/8637574714f495f83a536638f6505488714daa62
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/0855908d9a2e015516c9ab014b8426dd8c15c8fd
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/255927591217819649
   tweet_text: 'Slip on your bellbottoms: Jon Spencer''s EXPLOSIVE Meat + Bone is our
     album of the day. http://t.co/FSmMr2Qo via @bbcalbumreviews'
   date: 2012-10-10
+  artist: Jon Spencer
+  title: Meat + Bone
 - twitter: https://twitter.com/BBC6Music/status/255574644604686336
   tweet_text: No other album of the day in 2012 will sound like today's - Flying Lotus'
     Until the Quiet Comes. http://t.co/mvdi72Zu via @bbcalbumreviews
   date: 2012-10-09
+  artist: Flying Lotus
+  title: Until the Quiet Comes
+  spotify:
+    album_id: 40aG9ahuLnAv96yoFG75Uy
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/82e82c780fc90a82bc70dcbbd0c7526b6f3eecad
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/34ab4871ce8a8a7025187df55d3661ac170c9653
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c23aee4e1c23205730e1f31f5da1bae5974768c9
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/255208714213138433
   tweet_text: 'A returning indie champion: Bob Mould''s 10th solo LP, Silver Age,
     is 6''s album of the day. http://t.co/KkAiX9ry via @bbcalbumreviews'
   date: 2012-10-08
+  artist: Bob Mould
+  title: Silver Age
+  spotify:
+    album_id: 581s8LfKuzV634Akl7lNPz
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/fc070411346c7df2ca8b2d42442b4484d7ce9b20
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0e7b5e13f966ba615b26fcad766407229699a7d3
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/17503af895a2910e98cd26a53ba780dc8e616b27
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/254120451482202112
   tweet_text: A gem of the 90s Britpop scene, the Longpigs' The Sun Is Often Out is
     album of the day on 6. http://t.co/ePzul71M via @bbcalbumreviews
   date: 2012-10-05
+  artist: Longpigs
+  title: The Sun Is Often out
+  spotify:
+    album_id: 1QQKv2Y9uONbj8Dw6GUMB6
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/2f2bcd904195bce834fc51a1361f21f11d0f1c7d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/7747a8948b32a718018d5ea3efc5bc6bed5da130
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/e6b5dc97c8b1406b0d0234d0d11dec0995c2c72c
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/253761711482490880
   tweet_text: 'Oh No I Love You, by Tim Burgess, is 6''s album of the day. Said second
     solo LP reviewed: http://t.co/3wpketcw via @bbcalbumreviews'
   date: 2012-10-04
+  artist: Tim Burgess
+  title: Oh No I Love You
+  spotify:
+    name: Oh No I Love You
+    album_id: 7e0m7PqqCrKpL7QR2Vfm88
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/eb2c9257ce0df7ab2b3f3eb98d6298e541287532
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/625710cb00293c439ee9a65e9824d213704b2c10
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/e356e0b7b2ea6a3c21d7ab742c2fce01b8ade3ec
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/253393673985855488
   tweet_text: Tune in, trip out. Today's album of the day is the superbly psychedelic
     Tame Impala's Lonerism. http://t.co/ghAtuKPd via @bbcalbumreviews
   date: 2012-10-03
+  artist: Tame Impala
+  title: Lonerism
+  spotify:
+    album_id: 76vY9yohh4kVwSKkyKbyEQ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/60f1d1aa09621da69f862d44b96f05047b1bf236
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/7f627a1dc7a343e0f8e481a81e065c826cc9dd54
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/86032ce42783185720454c861d2fb3482864406c
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/253023077397573633
   tweet_text: 'Welcome back Beth Orton - Sugaring Season is 6''s album of the day.
     Reviewed: http://t.co/Rw369M9D via @bbcalbumreviews'
   date: 2012-10-02
+  artist: Beth Orton
+  title: Sugaring Season
+  spotify:
+    name: Sugaring Season (Deluxe Edition)
+    album_id: 5iGGHaRS9W9FJCnEdWGjfF
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/07e10ed7db5172b8d6c9c2ae99790ba0a53d08f8
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/4cc48b02d70ec1eeadfa3d6231665ee2a3bf496e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9b762cdddd759244d0b68791311f162743419f41
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/252654277305180161
   tweet_text: 'Album of the day time, and they don''t come much bigger than Muse''s
     newie, The 2nd Law. Reviewed: http://t.co/Zvq9SX8S via @bbcalbumreviews'
   date: 2012-10-01
+  artist: Muse
+  title: The 2nd Law
+  spotify:
+    album_id: 3KuXEGcqLcnEYWnn3OEGy0
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/3e3cb4a8d5a50f7bcbc90164a3167c03e3ee3bc5
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b62eae143027e6d5e00c713d06c4529506187bd1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/2b412376036f7bc4394a120b9b7281442a6c2357
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/251592150154899456
   tweet_text: 'Album of the day time - and today''s is a collection from a pioneer:
     The Best of DJ Shadow. http://t.co/84WiMCQu via @bbcalbumreviews'
   date: 2012-09-28
+  artist: DJ Shadow
+  title: The Best of DJ Shadow
+  spotify:
+    name: 'Reconstructed : The Best Of DJ Shadow'
+    album_id: 0DZgZ6HEzG4qXA8B6UGl0v
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/65e0133fa81ee61c54342dd5969e0f04802be6a0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/58dee8698914d5dbc9b86212de5fb45ead3e2a4a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/7994888f16914125d41ac34b1b906058c4471711
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/251216737327017984
   tweet_text: 'Can Green Day still rock it with the best of them? ¡Uno! is our album
     of the day. Reviewed: http://t.co/KpTWXTU7 via @bbcalbumreviews'
   date: 2012-09-27
+  artist: Green Day
+  title: Uno!
+  spotify:
+    album_id: 6AFJIZmd1zWQDBBwHyeo9w
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/692219cc13005e70794bc66fa0cd5c9fce04a159
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/54df5991e435c17cffaa1025c19cbfa328572290
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/b300b0eeb7200a8d5cccb350c4c6e152327db2b3
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/250845026534424579
   tweet_text: 'Our album of the day is the debut from the delightful Lucy Rose, Like
     I Used To. Reviewed: http://t.co/49U0NNAl / @bbcalbumreviews for more'
   date: 2012-09-26
+  artist: Lucy Rose
+  title: Like I Used To
+  spotify:
+    album_id: 2WYwG9H90bEhcHdyeUdA3h
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/f87e0765c5b28f2a065dc0bb7dd3120b8d7716f9
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b0d86554658126d31b90b0c4a8b4040b9cffa59f
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/5f8543140ccadbfe9a2a1d8fb4d22673ceff6129
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/250494817178644480
   tweet_text: Never mind your original copy, here's a deluxe edition... Sex Pistols'
     indelible debut is 6 Music's Album of the Day. http://t.co/kkMV0x4k
   date: 2012-09-25
+  artist: Sex Pistol
+  title: Sex Pistols
 - twitter: https://twitter.com/BBC6Music/status/250134551068807168
   tweet_text: 'Today''s album of the day is Band of Horses'' Mirage Rock. Reviewed
     at BBC Music: http://t.co/JoDtbOE9 / follow @bbcalbumreviews for more'
   date: 2012-09-24
+  artist: Band of Horses
+  title: Mirage Rock
+  spotify:
+    album_id: 5XGwgWYQQK8tHwoNuLMCP9
+    images:
+    - height: 637
+      url: https://i.scdn.co/image/1999c268c03ce8784903e1686ca4c4a9fb075d84
+      width: 640
+    - height: 299
+      url: https://i.scdn.co/image/26a1f419decffb88f7a8e055ddfcf9fc0e6faefc
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/82a8e79bf2cd0f1af32565643575bfe23192cde3
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/249057185395527680
   tweet_text: Loosen those joints with a flashback to 90s dance - today's AOTD is
     Fatboy Slim's Better Living Through Chemistry. http://t.co/WNx2u4D0
   date: 2012-09-21
+  artist: Fatboy Slim
+  title: Better Living Through Chemistry
+  spotify:
+    album_id: 1UuXxohFdBe53FTv780i2Z
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d612fe14e5161f3777e4f8afdb064dfa7ede0cd9
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/3037e42b63ce76396698a3054cdf8d1e60efe2d5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d1fac06b7f1b43d3c2e70b9e850c59077b2c6dd3
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/248688868633743360
   tweet_text: 'Today''s album of the day? Why, it''s I Bet on Sky by those brilliant
     old-timers Dinosaur Jr. Reviewed at BBC Music: http://t.co/LnWFByK1'
   date: 2012-09-20
+  artist: Dinosaur Jr.
+  title: I Bet on Sky
+  spotify:
+    album_id: 24svEZbRU74QfHv1VAziWi
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/34bcc9cba5be660e5f725fe839066e71c75a903b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/93f611d0f22ad9ef99958bd345f925a78295e078
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/8a9a9dcf122c03f113589430410e81d2a44ad9bf
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/247958393145409537
   tweet_text: 'The album of the day is from Ben Folds Five - their (overdue?) comeback
     LP, The Sound of the Life of the Mind. Review: http://t.co/OLV3vxXM'
   date: 2012-09-18
+  artist: Ben Folds Five
+  title: The Sound of the Life of the Mind
+  spotify:
+    album_id: 2cnCGnbfYGMznteR1l350e
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/95ba3f5f7c14c66e91b5b037ee46ad516c585efd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b206af5aaefc75d49897cc8de1fc56e250089a70
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9cddd6fc786988df249af3327cb7f9bdac21d5e4
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/247579753090011136
   tweet_text: 'Today''s album of the day is really quite the treat - Grizzly Bear''s
     new set, Shields. Reviewed on BBC Music: http://t.co/i8dXkFZI'
   date: 2012-09-17
+  artist: Grizzly Bear
+  title: Shields
+  spotify:
+    album_id: 57LAEzKL94ZHwbIkUWYCDY
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d0999b9e7a0df0f88ff830eedbd40f5086d98be8
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0b0dc2316301e6cacbecb0d352e12661f2d6c629
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/0c6415aad5c79b610ef002c0cf3fab90b5a6923a
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/246138312111296512
   tweet_text: 'Today''s album of the day on 6 is the eponymous debut LP from rising
     indie types TOY. BBC Music approves: http://t.co/aEOPkGWw'
   date: 2012-09-13
+  artist: TOY
+  title: TOY
+  spotify:
+    name: TOY
+    album_id: 1XQbMqf2Lzqo6rIfJmauLH
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/e5f72d5b8685d2a5eeeda104f434a6ca6db48781
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/634467b952c1ee92a5efce951146080a2a21ab85
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/28a364bbb9d6073dcf65e5d493e5ed515364fec2
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/245783733679058944
   tweet_text: 'Love amazing collaborations? Today''s album of the day is such a set
     from David Byrne and St Vincent. Reviewed: http://t.co/AAXGQmN7'
   date: 2012-09-12
+  artist: David Byrne and St Vincent
 - twitter: https://twitter.com/BBC6Music/status/245423735354580992
   tweet_text: 'Today''s album of the day is Bob Dylan''s new collection, Tempest.
     Read the BBC Music review: http://t.co/GfisAHIR @bbcalbumreviews'
   date: 2012-09-11
+  artist: Bob Dylan
+  title: Tempest
+  spotify:
+    album_id: 3LnS0XKSzd2TFoagESGUw3
+    images:
+    - height: 636
+      url: https://i.scdn.co/image/9e684d35285f020b0605ba7a4ee9d87599c403f9
+      width: 640
+    - height: 298
+      url: https://i.scdn.co/image/a3afb20bfe05c4fdd3493b76702f05b73d344087
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/80db77cf84feadd5f48681762a999c29cbdc8bb1
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/245143484443533312
   tweet_text: 'Today''s Album of the Day is The xx''s new set, Coexist. Reviewed on
     BBC Music: http://t.co/902J1clO / @bbcalbumreviews'
   date: 2012-09-10
+  artist: The xx
+  title: Coexist
+  spotify:
+    album_id: 2cRMVS71c49Pf5SnIlJX3U
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/8883b7abacd49037bbbf38c8f3c73bc58273ad0b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/7ac6de311cb411b89b8a793094ccfb0614aeaad5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/89e26b622df645eea95a9328e10d74d2bf6ec7e2
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/243972175382581248
   tweet_text: 'It''s Friday, so here''s a classic album of the day: Tori Amos'' Little
     Earthquakes, from 1992. http://t.co/PJcAaXjL'
   date: 2012-09-07
+  artist: Tori Amos
+  title: Little Earthquakes
+  spotify:
+    name: Little Earthquakes (Remastered)
+    album_id: 4xbivyNgO8FTIfxnzBtr5j
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d5a070181a69863d5d593742cb582b463d4665a7
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2196be355e31e6a1c92c3ad5185aab8c19154473
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/628734b8a986d42cafb2e114d8709aece8bfe6fd
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/243643785798619136
   tweet_text: 'Today''s album of the day on 6 is a bit of a tongue-twister: iamamiwhoami''s
     kin. Read the BBC review here: http://t.co/gJCBFDQx'
   date: 2012-09-06
+  artist: iamamiwhoami
+  title: kin
+  spotify:
+    album_id: 4zvurcEdNNGMeg9kSjNOBT
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/26661032e0ca7f93875f7a8c3b31484aaaeac9b2
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e1ab2361ce23aa41ea1a6c081e532a9505462cf1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/03069dc0163d1cd77bbd51b9748a23fe3de1dbeb
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/243255521623289856
   tweet_text: 'Today''s Album of the Day on 6 is the new set from Two Door Cinema
     Club, Beacon. Reviewed on BBC Music: http://t.co/HgHeEJZc'
   date: 2012-09-05
+  artist: Two Door Cinema Club
+  title: Beacon
+  spotify:
+    name: Beacon
+    album_id: 6CPwf8Yo8a4cgBDVeShL5C
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/8c8a840ba130d40f1bc68af93e4a7f2362066217
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/eda1c9daa2304acccd3c3220779153800d90e3cf
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d482ea673c25c78cfb5f5b36b2c71fc986adaa5c
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/242881363156545537
   tweet_text: 'Long time no see, Chan. Today''s album of the day is Sun, the long-overdue
     new album from Cat Power. Reviewed: http://t.co/ohR3VpjW'
   date: 2012-09-04
+  artist: Cat Power
+  title: Sun
+  spotify:
+    album_id: 2JQgZJD5VKJkBMHBCkGQO0
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7cbd4e3c8ba620b4e754ee08da617d8a1256851e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/1a006163f6dfc58b92f5154f9a50a3754e6e20dd
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ee7a70270abd807cedff2f8c03c31be8a59351d1
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/242529249121161216
   tweet_text: 'A new day, a new week, a new album of the day... and it''s the new
     Animal Collective LP, Centipede Hz. Reviewed: http://t.co/sHbYcnag'
   date: 2012-09-03
+  artist: Animal Collective
+  title: Centipede Hz.
+  spotify:
+    album_id: 2psl2d5HvtI9zEkiP6rl5J
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/84c96da6861a127398c4dd8e5adfc1978f5f908e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/1b50862d744e39c1f64ace934bb0516670318881
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/8cd5e38e4fede8b4347927f41ef8c25d7dd8871c
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/241460682636271616
   tweet_text: 'There are classics, and there are albums like Pulp''s His ''n'' Hers,
     today''s Album of the Day. Perfection. Reviewed: http://t.co/3BBSIqdF'
   date: 2012-08-31
+  artist: Pulp
+  title: His 'n' Hers
+  spotify:
+    name: His 'N' Hers
+    album_id: 4YhFzXoRDlowowzzNnNnP5
+    images:
+    - height: 628
+      url: https://i.scdn.co/image/fa7a4fff75ecb2d1ce6a454eea72e1862a3d43cd
+      width: 640
+    - height: 294
+      url: https://i.scdn.co/image/9584dcb90b255b58c70389b48b9abd8283abe606
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/d6d0b292aa18295a1f9660877697f6f736d54b76
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/241082019759661056
   tweet_text: 'Today''s Album of the Day is The Orb''s collaboration with Lee Perry,
     The Orbserver in the Star House. Reviewed here: http://t.co/SnbFrxRQ'
   date: 2012-08-30
+  artist: The Orb and Lee Perry
+  title: The Orbserver in the Star House
 - twitter: https://twitter.com/BBC6Music/status/240700998035845120
   tweet_text: 'Today''s Album of the Day (plus!) is The Vaccines'' Come of Age. Reviewed
     here: http://t.co/kFMiat8A + hear them live on Steve Lamacq later.'
   date: 2012-08-29
+  artist: The Vaccines
+  title: Come of Age
+  spotify:
+    album_id: 3shNHl9ysbHfVBuLEuVPzX
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/56dcafcf1c7dd4c0fcfbac58d7e88aff206496d5
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/9e52aa1e1da06a3b5a288c18c503dbfc6eba7fe5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/3e8b61fc3dd1e9ffb54a5bbb3b32403a5f795bc6
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/240340303805050880
   tweet_text: 'The album of the day comes from Euros Childs, with his new Summer Special
     LP. Reviewed at BBC Music: http://t.co/5BUYj3Yr @bbcalbumreviews'
   date: 2012-08-28
+  artist: Euros Childs
+  title: Summer Special
 - twitter: https://twitter.com/BBC6Music/status/238885996589113344
   tweet_text: 'It''s Friday, and the album of the day is a classic - The Congos''
     Heart of the Congos. Reviewed: http://t.co/X6E6GWbm / @bbcalbumreviews'
   date: 2012-08-24
+  artist: The Congos
+  title: Heart of the Congos
+  spotify:
+    name: Heart Of The Congos
+    album_id: 26x3WJbkWOjqKZKxMYS6if
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/9270be5fc46fe0b7e79cdb6e35315c42b0c805fb
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/da85c225c253d18af608642ff958466bd57e848e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/bbfcfac1c09ec84f2c27a5cdec73578f00bceaa8
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/238525725345456128
   tweet_text: Today's album of the day is Into the Diamond Sun by Liverpool trio Stealing
     Sheep. Reviewed at BBC Music... http://t.co/L3jVAA11
   date: 2012-08-23
+  artist: Stealing Sheep
+  title: Into the Diamond Sun
+  spotify:
+    album_id: 4kxfsCIQy2r6802ZmdGOC0
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d1b2c011b5b90d42c5ef1cab07beddec62f35977
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/f888b824af6858f3204687775f5d128b17fcde1d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/fe022efcda9325c0331ec1151a3eb3463ecbedc2
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/238165367376191488
   tweet_text: 'Today''s Album of the Day is the latest long-player from Yeasayer,
     Fragrant World. Reviewed at BBC Music: http://t.co/9WEmjgEW'
   date: 2012-08-22
+  artist: Yeasayer
+  title: Fragrant World
+  spotify:
+    album_id: 2Rpe295ggUdm2D9eMRgz8S
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/cfaab5c282a6607d4f9bee4bf000dda0f5ecbb53
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/8f0e2d215a075edbb58b18778257cc77d4215aca
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1e7349f9936bf61e122037583d5749b176929272
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/237802620859863040
   tweet_text: 'You''ve probably read a lot about @Jessie_Ware lately. And rightly
     so. Her debut, Devotion, is our album of the day: http://t.co/WyZjU9GX'
   date: 2012-08-21
+  artist: Jessie Ware
+  title: Devotion
+  spotify:
+    album_id: 7nxjemFXgk7MH9ZeTulRNb
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/24b4482286338dabb37002ad3d8e32b15245156c
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/26c2d25a6916a1d183a2b43e13cfc8c5402032fe
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/438e4d480a53453ea125de2a76bc1e5d4a4c9978
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/237442085060476929
   tweet_text: 'Out today, and 6''s Album of the Day: Bloc Party''s fourth album, called...
     Four, as it happens. Reviewed online: http://t.co/w3AZFF35'
   date: 2012-08-20
+  artist: Blog Party
+  title: Four
 - twitter: https://twitter.com/BBC6Music/status/236354919463006208
   tweet_text: Today's album of the day is The Kinks' new ...at the BBC set, featuring
     a wealth of live recordings. http://t.co/8Owd5MdJ
   date: 2012-08-17
+  artist: The Kinks
+  title: at the BBC
+  spotify:
+    album_id: 0K8nQfG2lGnj2RMU5YIULJ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/e8b995ec5b27ccb48a315f1b8cbd3bc3cfae7c16
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b14a355b2fa4e180abee726f94dbbb8636a2cdde
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/66b9230cad39192b56d81eae7702ad2a66ad84cc
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/235997154966130688
   tweet_text: 'Today''s album of the day is A Tribute to Fleetwood Mac, starring Best
     Coast, MGMT, The Kills and more: http://t.co/ZXLNalyM'
   date: 2012-08-16
+  title: A Tribute to Fleetwood Mac
 - twitter: https://twitter.com/BBC6Music/status/235620660003627008
   tweet_text: 'The album of the day on 6 is Ride''s Going Blank Again, reissued to
     mark its 20th anniversary. Reviewed online: http://t.co/iV8sS3ko'
   date: 2012-08-15
+  artist: Ride
+  title: Going Blank Again
+  spotify:
+    album_id: 4vNofuDN5jhFx1HATG1Xhk
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/65a6e7b944f81a07346a244788ee21d21155efa6
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/bcb5056a4fd6c6a306d1c0d7eba310637da3d392
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a1585a29d7ff477353c9ac1916909d173b8e8d8e
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/235295086462791680
   tweet_text: 'Today''s album of the day on 6 is the cracking new set from James Yorkston,
     I Was a Cat From a Book. Read our review: http://t.co/22HDvvRd'
   date: 2012-08-14
+  artist: James Yorkston
+  title: I Was a Cat From a Book
 - twitter: https://twitter.com/BBC6Music/status/234943548150132736
   tweet_text: Today's album of the day is Trojan Records' Freedom Sounds comp - five
     discs of quality Jamaican sounds... http://t.co/nIm5nqp5
   date: 2012-08-13
+  title: Freedom Sounds
 - twitter: https://twitter.com/BBC6Music/status/231291573982359552
   tweet_text: 'Celebrate Friday with the return of Jimmy Cliff - his new LP, Rebirth,
     is our Album of the Day. Read the review: http://t.co/JCfi0SzY'
   date: 2012-08-03
+  artist: Jimmy Cliff
+  title: Rebirth
+  spotify:
+    album_id: 6O9MuNShJuPIsm2MMlTB5M
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/124a6d4baf66ee7bd9e71482e9633c9d8970e718
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/30b8df53b994a7dd14a6da8068d8602134ee5a07
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ef0130b1dba2c211a15993acd31123e1ab4406cb
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/230931001520570368
   tweet_text: 'Catch up with our Album of the Day picks - Tuesday was Frank Ocean,
     Wednesday Purity Ring, and today is Nick Cave: http://t.co/AD7kkWlh'
@@ -321,97 +1226,327 @@
   tweet_text: 'Today''s Album of the Day is actually several. It''s Blur''s career-spanning
     21: The Box. Read the BBC review of said set: http://t.co/S6dOArz7'
   date: 2012-07-30
+  artist: Blur
+  title: '21: The Box'
 - twitter: https://twitter.com/BBC6Music/status/228752841269993472
   tweet_text: 'It was acceptable in the 80s - but has it aged a day? Appetite for
     Destruction is today''s Album of the Day: http://t.co/x2L4fq6e'
   date: 2012-07-27
+  title: Appetite for Destruction
 - twitter: https://twitter.com/BBC6Music/status/228401794567528450
   tweet_text: 'The Album of the Day on 6 this very day is Family of the Year''s Loma
     Vista. Perky fare, it rather suits the weather: http://t.co/jbMSPSz0'
   date: 2012-07-26
+  artist: Family of the Year
+  title: Loma Vista
+  spotify:
+    album_id: 2LvT1elRnPz26leTMjapwN
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/cf08cd4cf87e584866c228990374a56665685ebb
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/82dd5f1c120add5760df02e0b0768f21225d3631
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1e18bef29013b54f97db2126336831dd71be83eb
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/228022623588712448
   tweet_text: 'Today''s 6 Music Album of the Day? Bien sûr, c''est Silencio par Lætitia
     Sadier: http://t.co/s44qexBU (grammar complaints to @bbcalbumreviews)'
   date: 2012-07-25
+  artist: Bien sûr
+  title: Lætitia Sadier
 - twitter: https://twitter.com/BBC6Music/status/227775651095126016
   tweet_text: 'Today''s Album of the Day on 6 is the second set from Passion Pit,
     Gossamer. Read the BBC review here: http://t.co/eugUhfQf'
   date: 2012-07-24
+  artist: Passion Pit
+  title: Gossamer
+  spotify:
+    album_id: 14JU5SskmcyckE5I8PY6lv
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/389c54e9bb7205b89104ac542f6cda80322492e3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0cb13996b2161592fb911a196ec06c28f2adb1e0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/746d3763965dbb73cd566848e60c69f130598ee3
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/227312815759835136
   tweet_text: Today's 6 Music Album of the Day is New York rapper Nas' 10th album,
     Life Is Good - http://t.co/WyuFhmT1 / @bbcalbumreviews for more
   date: 2012-07-23
+  artist: Nas
+  title: Life Is Good
+  spotify:
+    album_id: 4tpG2K3nqcrFNGBikX3dc0
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/e11a88837d532795ef677331de0808519d997cd7
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/76fcf7e7b567cba1f2b109e3a1b5c8579098244a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/075fa815bdf859a9f598ef3e27afd0d1f5b2aa2e
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/226217495206457344
   tweet_text: 'Today''s Album of the Day is our last Rolling Stones classic of the
     week, Exile on Main St: http://t.co/c1NxPw4E'
   date: 2012-07-20
+  artist: Rolling Stones
+  title: Exile on Main St
 - twitter: https://twitter.com/BBC6Music/status/225495444678131712
   tweet_text: 'Today''s #rollingstones50 Album of the Day is Let It Bleed - read the
     BBC Review here: http://t.co/0Au3jjwS / @bbcalbumreviews'
   date: 2012-07-18
+  artist: Rolling Stones
+  title: Let It Bleed
+  spotify:
+    album_id: 0c78nsgqX6VfniSNWIxwoD
+    images:
+    - height: 574
+      url: https://i.scdn.co/image/91205a1c80960d7055f8ed1bbe022f195e1767a4
+      width: 640
+    - height: 269
+      url: https://i.scdn.co/image/2be7232708f6959da59818238050cfd2c4982d54
+      width: 300
+    - height: 57
+      url: https://i.scdn.co/image/ef93fb47964b8e6e687a882fa3d1471d0fb842ac
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/225185878853685248
   tweet_text: 'Today''s Album of the day is our second Rolling Stones pick: Beggars
     Banquet. http://t.co/GvrgdYyS #rollingstones50'
   date: 2012-07-17
+  artist: Rolling Stones
+  title: Beggars Banquet
+  spotify:
+    album_id: 5WZFtmADuJUZPtt0NER0Qi
+    images:
+    - height: 574
+      url: https://i.scdn.co/image/26eeacf6c54f0221fea60df1d3c520f9ccdbbe45
+      width: 640
+    - height: 269
+      url: https://i.scdn.co/image/a8bd5a7d5ab71a76b998ce256b046e90571de0d3
+      width: 300
+    - height: 57
+      url: https://i.scdn.co/image/a981f00b6d4d937bbdb91037ab17c19d3ae1432f
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/224767759282741248
   tweet_text: 'Today''s Album of the Day is The Rolling Stones'' 1964 debut: http://t.co/QeFrDiM6
     #RollingStones50'
   date: 2012-07-16
+  artist: Rolling Stones
+  title: Rolling Stones
+  spotify:
+    name: The Rolling Stones
+    album_id: 7Kln3VdaLUYVIFpqe7AuNA
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/04e9d7856b32ec48b4fcc409227fe0d0df103b3a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/87c4e53836bf38abdc55428716a4ffd45b852d68
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9556dbdb47547e80bc06b90dfe3b9c75e8076431
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/223776949166813184
   tweet_text: 'Today''s Album of the Day on 6 is Elbow''s Leaders of the Free World.
     Read the BBC review from 2003: http://t.co/5HjitSla @bbcalbumreviews'
   date: 2012-07-13
+  artist: Elbow
+  title: Leaders of the Free World
+  spotify:
+    name: Leaders Of The Free World
+    album_id: 0CAQayblqPcPvwAHZlB77r
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/bef2ee97cdd9d50f81cfa33f48c11ca6a6e41824
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0f8f40113f243563b3b7e488202e919b0d280c12
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/463a7f4a64a6151bf68fce9115808f4ad3711bb8
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/223321726057054208
   tweet_text: 'Today''s 6 Music Album of the Day is a bit of a classic - Talking Heads''
     Remain in Light: http://t.co/pgst0Zga'
   date: 2012-07-12
+  artist: Talking Heads
+  title: Remain in Light
+  spotify:
+    album_id: 3AQgdwMNCiN7awXch5fAaG
+    images:
+    - height: 570
+      url: https://i.scdn.co/image/ef66af2631b8a3a8f118407be6bb6685836ae42f
+      width: 640
+    - height: 267
+      url: https://i.scdn.co/image/6cd647135195ef216b9d58b475a4258d2699025f
+      width: 300
+    - height: 57
+      url: https://i.scdn.co/image/bc5576aa6ccda1019f5746ab64b4dbc47f0e4045
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/223016898135199744
   tweet_text: Today's Album of the Day is the debut from @liannelahavas http://t.co/2MUErQ8a
   date: 2012-07-11
+  artist: Lianne la Havas
 - twitter: https://twitter.com/BBC6Music/status/222595964727345153
   tweet_text: 'Today''s Album of the Day is the new LP from Dirty Projectors, Swing
     Lo Magellan. Read the BBC review: http://t.co/uLBWXj6a  @bbcalbumreviews'
   date: 2012-07-10
+  artist: Dirty Projectors
+  title: Swing Lo Magellan
+  spotify:
+    album_id: 1WhF5ZiI5V5laq2nGLoF99
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/2a47f5d8c5457e4c88dd360c656b1fc844754312
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0a74b775a0470fd88ac7c0628e3b2285b2d36a47
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c87ee076d4c66392c91dea4298047436c4e9db1b
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/222218655600099329
   tweet_text: 'Today''s Album of the Day on 6 is the second LP from Sheffield four-piece
     The Crookes. Read the BBC review here: http://t.co/ywEc2ulC'
   date: 2012-07-09
+  artist: The Crookes
 - twitter: https://twitter.com/BBC6Music/status/221182970545963008
   tweet_text: 'Today''s 6 Music Album of the Day is Tom Paley''s Old-Time Moonshine
     Review. Read the BBC Album Reviews take on it here: http://t.co/IUK1puuh'
   date: 2012-07-06
+  artist: Tom Paley
+  title: Old-Time Moonshine Review
 - twitter: https://twitter.com/BBC6Music/status/220790686335774720
   tweet_text: 'The 6 Music Album of the Day is Gemma Ray''s superb recent set, Island
     Fire. Read the BBC review and hear clips here: http://t.co/ogSJciGp'
   date: 2012-07-05
+  artist: Gemma Ray
+  title: Island Fire
+  spotify:
+    album_id: 1W9xayC1avevtH6ht9otr8
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d4298101f494ed050279cee8579f9fbd59fecee4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/eebd2347c783509d412be9a4971c1c7953f85bb0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c651efea14ed1d6d388e21b67cafd14faf22d626
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/220450774302457856
   tweet_text: 'Today''s Album of the Day is Celeste, the debut by south London band
     My Tiger My Timing. Read the BBC review: http://t.co/lrKFkcRE'
   date: 2012-07-04
+  artist: My Tiger My Timing
 - twitter: https://twitter.com/BBC6Music/status/220161115148128257
   tweet_text: 'Today''s Album of the Day is the new set from Fiona Apple, The Idler
     Wheel... Read the BBC review: http://t.co/vKwVCqi1 / @bbcalbumreviews'
   date: 2012-07-03
+  artist: Fiona Apple
+  title: The Idler Wheel Is Wiser Then the Drive of the Screw and Whipping Cords Will
+    Serve You More Than Ropes Will Ever Do
+  spotify:
+    name: The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords
+      Will Serve You More Than Ropes Will Ever Do
+    album_id: 6B5favhKTShFTjRLsKIUfa
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/cd4d1d7804a5656eb9c09f5243ec1d02e7879774
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/601f500a10ee465976f830247e50089ef552c414
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a9e637ea447d9ec1fad9557b83fedc12030abc1c
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/218645840061923328
   tweet_text: 'Today''s 6 Music album of the day is The Beat''s debut LP, I Just Can’t
     Stop It. Read the review here: http://t.co/OQcncvFV / @bbcalbumreviews'
   date: 2012-06-29
+  artist: The Beat
+  title: I Just Can't STop It
+  spotify:
+    album_id: 4loqJOnMNURLM7LEpZ57cu
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c83d410825ec87b0c25b80b6c8c37464f52ec524
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/4f098e6f1db109155ed5fe18dc3f0d0834bdf6de
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/91761b3422bd60d4edc313cfe43706d27d8ed032
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/218345798298120192
   tweet_text: 'Today''s Album of the Day is the latest LP from Canadian rockers Metric,
     Synthetica. Read the BBC review here: http://t.co/HYR3G5Vc'
   date: 2012-06-28
+  artist: Metric
+  title: Synthetica
+  spotify:
+    name: Synthetica
+    album_id: 6kCydCXVYWRebP594HP3XH
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/a832e162a0070fe284b15b2d931861ac8e5e3c94
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/fae635d4eddbea388cbf80c002ab4cb6bbba0cb0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/7ba7c66147689970adbd871422d32c57ecd4fd0b
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/217891776298627073
   tweet_text: 'Today''s 6 Music Album of the Day is Cancer4Cure by New York rapper/producer
     El-P - find the BBC review here: http://t.co/Rd2tBVeR'
   date: 2012-06-27
+  artist: El-P
+  title: Cancer4Cure
 - twitter: https://twitter.com/BBC6Music/status/217518831701209088
   tweet_text: 'Today''s album of the day on 6 is Jesca Hoop''s new LP The House That
     Jack Built: http://t.co/zY96XOV3 / @bbcalbumreviews for all BBC reviews'
   date: 2012-06-26
+  artist: Jesca Hoop
+  title: The House That Jack Built
+  spotify:
+    album_id: 2onagB46u8d5pIKjQZpB0q
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/f91a8429c19a3d4ac85e41f1e2094f7a0f090504
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/69f0acb43296a21b98c84b246921f73063086722
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/00dcc134540afa7a0dfed8e15e2cf7bf48aab724
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/217256712393068544
   tweet_text: 'Today''s Album of the Day is The Flaming Lips'' Heady Fwends. Read
     the BBC review here: http://t.co/lzsGPVwN / @bbcalbumreviews'
   date: 2012-06-25
+  artist: The Flaming Lips'
+  title: Heady Fwends
+  spotify:
+    album_id: 1orDlrec998UjoLhIX2b09
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/8247b381791d69e852582852c157d0bfe3295585
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a5596026e439d002815e6ecf58a658a015e3d306
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/0f79dd3c65d9ff2dfce50187932e9a4aeceafbc6
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/216974029305815043
   tweet_text: '"@BBC6Breakfast: Yo. Heads up. Tomorrow''s @BBC6Music album of the
     day is the new @theflaminglips record. First track with Shaun from 7am x"'
@@ -420,11 +1555,41 @@
   tweet_text: 'Today''s Album of the Day is the new Old Grey Whistle Test compilation,
     ''Live''. Read the BBC Music review here: http://t.co/DCrnTUO0'
   date: 2012-06-22
+  title: 'The Old Grew Whistle Test: Live'
 - twitter: https://twitter.com/BBC6Music/status/215711162963214336
   tweet_text: 'Today''s 6 Music album of the day is the return of The Smashing Pumpkins.
     Read the BBC Music review of Oceania here: http://t.co/9YIGMDMS'
   date: 2012-06-21
+  artist: The Smashing Pumpkins
+  title: Oceania
+  spotify:
+    album_id: 3QqIpBZ7rQ9cBUwy6p0rIn
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/38517c4c1821ac993353d0d45f9f8950f1d5c843
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/bc687e27de9d3211f1ae952f0f11793f98934c82
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/e07b91a332735ef2d547b8e3f99159d56bd782ec
+      width: 64
 - twitter: https://twitter.com/BBC6Music/status/172278445752066049
   tweet_text: After @blurmusic's performance at the Brits last night, 1997's BLUR
     is our Album of the Day http://t.co/5pg1K0oM  Favourite track?
   date: 2012-02-22
+  artist: Blur
+  title: Blur
+  spotify:
+    name: Blur
+    album_id: 3VyHgnHE4cp7YuU7skzuJ2
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/39f5e076950b20d1410b95932bf6f7b62e6024f4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab4864c47847f5b7623197d7b13475629630b466
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1b5c8fd40c1d7371d928ad2a99aa77fa4e34c112
+      width: 64

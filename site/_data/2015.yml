@@ -6,12 +6,32 @@
   twitpic: http://pbs.twimg.com/media/B7KIHTrCQAM4xFE.jpg
   spotify:
     album_id: 6bHsJXJoEdQTw3tUpHV8iB
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/e2679fdcf27302f425c97924ee0fb74cdbc9bd14
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/040505145ff3caf41ba2cd7966fbb43ecb89f06a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/baf3d87751f0d45c6c1fbed4fc7438ac428a2a4f
+      width: 64
 - date: 2015-01-13
   artist: Ghost Culture
   title: Ghost Culture
   twitter: https://twitter.com/BBC6Music/status/555018623862206464
   spotify:
     album_id: 6zo4l9WX7kO79T2g6KjsyC
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c5f915d45772e9c77e3ba37411d864e45c015c0b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ab1a8ecccac90686800402aaff8d2407b6bc1b94
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/0bea30a602aa7cf521a4bad63f89976638a66a7d
+      width: 64
   tweet_text: "#NowPlaying on @BBCRadMac it’s Lying from our Album Of The Day by @ghostculture"
 - date: 2015-01-14
   artist: Belle and Sebastian
@@ -20,6 +40,16 @@
   twitpic: http://pbs.twimg.com/media/B7UdAuyCQAAbHik.jpg
   spotify:
     album_id: 3Gy0FCDIx9MoliXd3YcTBt
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/90baed20ba7f27636c424e73eb9b2f8071bcbbdf
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/8206f6db27bf94bda35148262c9287ff3ba43263
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/50ff818ef0ba805928c6d38b698a245d251073f0
+      width: 64
 - date: 2015-01-15
   artist: The Rolling Stones
   title: The Rolling Stones No. 2
@@ -27,6 +57,16 @@
   twitpic: http://pbs.twimg.com/media/B7Zlu4dCEAAtKHR.jpg
   spotify:
     album_id: 4lzMSOfoyr3LsOuWeve5Cw
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/8d70de023e871561d9516a512954b8dad4e322af
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/1a22b2d8932285090951d42349b9b53e9d3677c2
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d5bca0b8e22e47486c1bafabdc6d3d0edf121aac
+      width: 64
 - date: 2015-01-16
   artist: BC Camplight
   title: How To Die In The North
@@ -34,6 +74,16 @@
   twitpic: http://pbs.twimg.com/media/B7evxBgCYAEZ5Is.jpg
   spotify:
     album_id: 58Ebu0Ics8Tgk1VSqykGXu
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/f051abbd6ca7049a0cd18b5c0acadce19a423a5e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0d5c08e3b3f508adb8b7f9077f2b668aa1593c9e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/e25e28e95decb3038fb48b8e69bc73a0f64b2fdd
+      width: 64
 - date: 2015-01-19
   artist: Sleater-Kinney
   title: No Cities To Love
@@ -41,6 +91,16 @@
   twitpic: http://pbs.twimg.com/media/B7uMOQiCcAESCKu.jpg
   spotify:
     album_id: 4hzSVWntrdQzf9JuTtH4pf
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/6d99538eb387d1ae4b818a55ce28405202276c2c
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2c2bbb3ddc041cb313b37afd9200d115c1af1135
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/60f2a72482d64ca9d0e9dd6490b9360e3b668fee
+      width: 64
 - date: 2015-01-20
   artist: Menace Beach
   title: Ratworld
@@ -48,6 +108,16 @@
   twitpic: http://pbs.twimg.com/media/B7zVtZuCQAAoZI0.jpg
   spotify:
     album_id: 57TkfBuJwisC8WfMB1Ydei
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/caf8fc8f9fdd5d44e4239c5ffc1cae4b31cb5595
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/c09472f0d9d1226cd8c42b83798f2e253458b9a9
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9ba265062dd0c86c1199290fa0c307aa54675144
+      width: 64
 - date: 2015-01-21
   artist: The Decemberists
   title: What A Terrible World, What A Beautiful World
@@ -55,6 +125,16 @@
   twitpic: http://pbs.twimg.com/media/B74e0nvCYAEdstp.jpg
   spotify:
     album_id: 0GDJEXa8wAflEyA3yIOrl2
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/40b4417e40bb6e1fb95e612157c8a553cfa042d4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ef17f5e4df45ac50c78367e53a41edf7306ec3e5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/09443cb93defd77be61479ecbe05d412ed0ab36c
+      width: 64
 - date: 2015-01-22
   artist: Francisco The Man
   title: Loose Ends
@@ -62,6 +142,16 @@
   twitpic: http://pbs.twimg.com/media/B79qJqNCUAACR7F.jpg
   spotify:
     album_id: 1ohZmamTdJSPZyFbDa1nP2
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/e55b43227e775bd1835558dfb33d9e5b7d9d8de1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a5f9eb1a573ac71f2bda857e3c6264d71b357f87
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/499f103e194d6ce9648f6f0d65becb24182efe27
+      width: 64
 - date: 2015-01-23
   artist: The Go-Betweens
   title: Before Hollywood
@@ -72,6 +162,16 @@
   title: Mellon Collie and the Infinite Sadness
   spotify:
     album_id: 4bPT6Q8ppaSNppk1kbEbLl
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/781f636483f9f08e9f183021e81812cdd0512b7e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e478c9aa6b08b1816ec54f47a1fbfca38875e0aa
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/89a28e6997c35385dd71237dbffb4d0ca1297584
+      width: 64
 - date: 2015-01-27
   artist: The Charlatans
   title: Modern Nature
@@ -79,6 +179,16 @@
   twitpic: http://pbs.twimg.com/media/B8WCYNJIAAEY9oJ.jpg
   spotify:
     album_id: 092DzkT8yzq5nhlpd1uKqt
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ad19ffc090b8d0eb43eda33207f493b3ec13ace4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/f1657a32062955e8a526caaef69dab0937037172
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/5fbd046080b2c0a03b555a75198cbda984b37e10
+      width: 64
 - date: 2015-01-28
   artist: Gaz Coombes
   title: Matador
@@ -86,16 +196,46 @@
   twitpic: http://pbs.twimg.com/media/B8ci35cCcAA8ERP.jpg
   spotify:
     album_id: 0IB3YW488VN09LBM75Q77A
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7b90b918fe06213e451ddf6e887168c78009c3a6
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/25efb5fa901b8505b1ab7f4ac5d8c7414323a4f8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/35cdb650983529d0c9a1e36f1bd277dc995f081c
+      width: 64
 - date: 2015-01-29
   artist: Pinkshinyultrablast
   title: Everything Else Matters
   spotify:
     album_id: 5i4chaWK0h50pbc3WJNXhL
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/920a4c2966b487b408c7fdde4ac4648e53cd2da9
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/23bd9cee4c8073a91cdf6e7dccdbeeea482db64f
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/934af76d3d3fbed3dc673702b2a938871816c9a5
+      width: 64
 - date: 2015-01-30
   artist: Boxed In
   title: Boxed In
   spotify:
     album_id: 53Blw4ZLqoSSc5DOXX7Fsp
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/31c2f61ae7bcc30a8766643101c5b119a8809a3a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/6916156ee3b69b0594bf0201835722e7016e642a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d5fec568fbbfafad8f963897dd277c217e27cf76
+      width: 64
 - date: 2015-02-02
   artist: Hanni El Khatib
   title: Moonlight
@@ -103,6 +243,16 @@
   twitpic: http://pbs.twimg.com/media/B82R3DfCMAAnNQr.jpg
   spotify:
     album_id: 2mStvdtYvfejFj2jmdinsz
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/63c403a88fd44bc15d386b5e671cc4407b6a8056
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/57e991b2fdd2b4cc7a7831f68a6fa3111dd2dfa4
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/49959fa3fd1dfdf3c08119939c29dbb43d8b4fd1
+      width: 64
 - date: 2015-02-03
   artist: Zun Zun Egui
   title: Shackles Gift
@@ -110,6 +260,16 @@
   twitpic: http://pbs.twimg.com/media/B87b-xwCUAMrStj.jpg
   spotify:
     album_id: 5osO1C5b0DjtGcLuDueI3I
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/2a0b4d9f24cfa7a2362932c3949a7f0e50cf593a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/4c289e994ba1a570ff0e717735c38b638d3da4da
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/96791e061c93b4380a8304078b7d584883622b2b
+      width: 64
 - date: 2015-02-04
   artist: All We Are
   title: All We Are
@@ -117,6 +277,16 @@
   twitpic: http://pbs.twimg.com/media/B9AmBvVIQAAbCWA.jpg
   spotify:
     album_id: 1m8eD0pIs9bPDoMXVLYgjL
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c5e42daca8fe1526a59b79bbdc9aee890a7aede2
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/9fcd086cd7abdd66405d9e916e68ab5060943fa3
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a9b8042e967e78820e4cde9a65f89fa838fe4fc3
+      width: 64
 - date: 2015-02-05
   artist: Roxy Music
   title: For Your Pleasure
@@ -124,6 +294,16 @@
   twitpic: http://pbs.twimg.com/media/B9FvFbQCUAEYCnL.jpg
   spotify:
     album_id: 6gKMWnGptVs6yT2MgCxw29
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/cef63fdc490b03b894090368ba4b57de40f44268
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/aa6a0559d282a39fb3fb1cfee382c353f8120a21
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/0c5f471fd47870731018bc514f8a1e38946dac16
+      width: 64
 - date: 2015-02-06
   artist: Father John Misty
   title: I Love You, Honeybear
@@ -131,6 +311,16 @@
   twitpic: http://pbs.twimg.com/media/B9K4qcrCQAI_oYr.jpg
   spotify:
     album_id: 7buEcyw6fJF3WPgr06BomH
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/09ac3be0f7cd80783c79e1a1b85416a409e4a6ff
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/53efa566f98ba130f28c23b95bd40136741289ed
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a66a4d1c396bb515434092d5d8dfc0d658970221
+      width: 64
 - date: 2015-02-09
   artist: Black Rivers
   title: Black Rivers
@@ -138,11 +328,31 @@
   twitpic: http://pbs.twimg.com/media/B9aVqWeCAAAT5g1.jpg
   spotify:
     album_id: 4ZMub3gNq3VR8b3DzonBKQ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/5b98e7149b9e7d2c2c768bf8e681ea015b69c9fe
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/bd33f40bb092edf71991ec1db53578e468fefd5c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/82f4ad23604dd74bd665bd437abae38a499a3810
+      width: 64
 - date: 2015-02-10
   artist: The Districts
   title: A Flourish and a Spoil
   spotify:
     album_id: 2NKtrrrgN4cV9hDntaLb0u
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c7abf7a3c3722b87a1e7784030a65f9be9e1c88e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/98a90345d3f48830bfe86a004d792b7faa3edcf0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/98024ebfd9d3cbe4672138fe1f71aa2cd2a1018a
+      width: 64
 - date: 2015-02-11
   artist: Silk Rhodes
   title: Silk Rhodes
@@ -150,6 +360,16 @@
   twitpic: http://pbs.twimg.com/media/B9kn2fSIgAA7rHy.jpg
   spotify:
     album_id: 4dQE1rgzd0LpTdPc3Vl4yA
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/023a68d836b39333a9255886e634464933ca385d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e3f991ccbf30720da340e2145b46f9a074bd1e52
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/bb2f04d30a34876fb37450b97a6448fc32503c47
+      width: 64
 - date: 2015-02-12
   artist: The Unthanks
   title: Mount the Air
@@ -157,6 +377,16 @@
   twitpic: http://pbs.twimg.com/media/B9pyGUrIIAA-D_z.jpg
   spotify:
     album_id: 0b8aN5YAdL4zBAQxNc30Uf
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/495007442333e5f0ac69ecd003fafbf862918e4e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2a73cb373e6d7202e80482b7c677a1059569c593
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/b608a4a16e858683516202483807117fb6c1d351
+      width: 64
 - date: 2015-02-13
   artist: Bob Marley & The Wailers
   title: Easy Skanking in Boston '78
@@ -164,6 +394,16 @@
   twitpic: http://pbs.twimg.com/media/B9u6w9AIcAEGf6v.jpg
   spotify:
     album_id: 1SfFIU49Hh3x07wsdqPCRE
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c6b446a161cc5fb11b72d47833be460045ab7dd1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/5b1b9896382325d78b2f2e629e78a68054a03557
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/905a04ef771137dcf06c64d5dc6953c6f78a841e
+      width: 64
 - date: 2015-02-16
   artist: Carl Barat And The Jackals
   title: Let It Reign
@@ -171,6 +411,16 @@
   twitpic: http://pbs.twimg.com/media/B9-XzJWIAAE0p60.jpg
   spotify:
     album_id: 05EUFesm2wcq95fTcyLFBm
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/b4d1e69a839b97d4e8971b719d609e31aab8e0fd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/487549191e5413f12b0a623743fe37482fdd93c8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a3ca365b9e09d8f6588a9303a845a082c65727f6
+      width: 64
 - date: 2015-02-17
   artist: José González
   title: Vestiges & Claws
@@ -178,6 +428,16 @@
   twitpic: http://pbs.twimg.com/media/B-DjMlPCEAASxxx.jpg
   spotify:
     album_id: 7dbekHelRxPH8ULPEWdxdJ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/9b801a46c6c21af2a487797d0ff193543c6fd8d4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e9ce03c8d84866d593220e9512362a719bc4242e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/b9c5c697ebf90046d8cd39426f28ad9dfb8fee6b
+      width: 64
 - date: 2015-02-18
   artist: Marika Hackman
   title: We Slept At Last
@@ -185,6 +445,16 @@
   twitpic: http://pbs.twimg.com/media/B-IryXTCAAAVfIl.jpg
   spotify:
     album_id: 7bGKJT7GMChX7lM3txM9Iz
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/5fc20c92406fe04fe8b1f204cf910929d2c20c3d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/bb33edcde24fa052a6fe87cb9c89aa8eec01171c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1545b47eb0170d07806bd40b69d65e6ec613d23d
+      width: 64
 - date: 2015-02-19
   artist: Idlewild
   title: Everything Ever Written
@@ -192,15 +462,32 @@
   twitpic: http://pbs.twimg.com/media/B-N0SImCAAEwqWy.jpg
   spotify:
     album_id: 4vG8HRbNiijPyQyRIigWba
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/e61c91ed8606330217b6f31d3eeb585e100fbef1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/6bd0a507029f39fdcf6357f98ffdc7a95d4c5237
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/eda381ce123068afbe71acb620cf3800a93eea6f
+      width: 64
 - date: 2015-02-20
   artist: The Futureheads
   title: The Futureheads
   spotify:
-    candidates:
-    - name: The Futureheads (new version)
-      album_id: 2G9UuU6wxAa4FoIv1rwHBo
-    - name: The Futureheads
-      album_id: 1iN1V1c3nuAasssfCribNl
+    name: The Futureheads
+    album_id: 1iN1V1c3nuAasssfCribNl
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/0f208b37a4f7b6a445a84b7761d6075ff2c38185
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a997f7e9048cae30103f6104b4f574f7a197b277
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/b28de224815df7a16090ffbee11cf8397418c542
+      width: 64
 - date: 2015-02-23
   notes: Don't think they had one (playing lots from the 6Music Festival).
 - date: 2015-02-24
@@ -210,6 +497,16 @@
   twitpic: http://pbs.twimg.com/media/B-nkHUbVIAEfToN.jpg
   spotify:
     album_id: 07sdLJORy8VisgF9Gmb0wo
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c72d8d0e98b864115424b27defd1461221e13dbe
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/8fe0321964f3aae351572c22e24967d973d22347
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/3eebbfc81ec1005255815c70450ad3abe153c3d2
+      width: 64
 - date: 2015-02-25
   artist: Public Service Broadcasting
   title: The Race For Space
@@ -217,6 +514,16 @@
   twitpic: http://pbs.twimg.com/media/B-suwHmWwAAYCYf.jpg
   spotify:
     album_id: 65KwtzkJXw7oT819NFWmEP
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7af34b704cbec22651cabc7d6ef4cfa0fdfdc625
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a4ef8061758da36906ece33abd506737ecb03ca8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a358780c50fff6eb04284861610f01c982f0d283
+      width: 64
 - date: 2015-02-26
   artist: Songhoy Blues
   title: Music In Exile
@@ -224,6 +531,16 @@
   twitpic: http://pbs.twimg.com/media/B-x4uqRVIAAHASB.jpg
   spotify:
     album_id: 03uzjUD03Rtobppd6gesIC
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/22d4ce43e9c9b9cf33c046a2412d218447031075
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/80c072fb76ee59a729744db23e2e0a218dbfcfb1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/6536357c9f9e41d4e3ff6c86340e082285a3c924
+      width: 64
 - date: 2015-02-27
   artist: Radiohead
   title: The Bends
@@ -231,6 +548,16 @@
   twitpic: http://pbs.twimg.com/media/B-1p9EQVIAAnhel.jpg
   spotify:
     album_id: 6Lmj92VLXz7Z5xcsjXBMSC
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/5930ff2ec8be19a6d76ef1e1d181d4ed4803c0fc
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/9a251a9ea3e80d65d8e41a05823295fb74fec088
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/19d24b5482c1ecefc9858f96ca54cd87b6a27387
+      width: 64
 - date: 2015-03-02
   artist: Noel Gallagher's High Flying Birds
   title: Chasing Yesterday
@@ -238,6 +565,16 @@
   twitpic: http://pbs.twimg.com/media/B_GeGQ_UwAAz7L9.jpg
   spotify:
     album_id: 5Ngc0q3qKwp8buErZy96vs
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ec5cf3b13f3097ff4f0b96e98ca2bfe903f0a543
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/854af7ef5357bc001e514dea9cb1b8f4efc79d5a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/3e61e473cc622f2dda51af8f9ac91f119158765d
+      width: 64
 - date: 2015-03-03
   artist: Ghostpoet
   title: Shedding Skin
@@ -245,6 +582,16 @@
   twitpic: http://pbs.twimg.com/media/B_LlwNGU0AAHn_n.jpg
   spotify:
     album_id: 7pmp7mopLSAChGiAlgQs2D
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/698a6d60ef5d7355ec816861f4a2556558a56f77
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/3e68064483a9b462c126dd0ce136bb9376d85bff
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/459a61e59b3fa3c5c0eb3d0ca8fe3db72b8fe7e7
+      width: 64
 - date: 2015-03-04
   artist: Dutch Uncles
   title: Shudder
@@ -252,6 +599,16 @@
   twitpic: http://pbs.twimg.com/media/B_Qx6wfUQAA4e7V.jpg
   spotify:
     album_id: 7EEHgEWuVqvoxxcUd7xbUZ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d66919376cf55352a2edf50b8ad49f99b24b32c0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/515a1d1e16a2355ddf31c1a62b139b689a8714e0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/cbe4f58e264384e1c04034b4e84f83499cfa431d
+      width: 64
 - date: 2015-03-05
   artist: Dan Deacon
   title: Gliss Riffer
@@ -259,6 +616,16 @@
   twitpic: http://pbs.twimg.com/media/B_V84bsUsAEcbd5.jpg
   spotify:
     album_id: 05cihLeGrisaOseQdhxDcr
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/bd00c99e9d34a8bbbbb1f165da2079b1e5f31796
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/fda8afe178f7c51e8c9716fffe36b7cb609335ef
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d6d070443e44f3d90204af92af9c750a62086122
+      width: 64
 - date: 2015-03-06
   artist: Maxïmo Park
   title: A Certain Trigger
@@ -266,6 +633,16 @@
   twitpic: https://pbs.twimg.com/media/B_bDtvNUYAEV6O9.jpg
   spotify:
     album_id: 5AMY7GZtT4hz0h4O7OBUz4
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/a29134e75ed4353fcc2bc3b31de766fd9e925143
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/47e58b8c6ae9a323ef4afbf64e6250066fdfcba8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/47324997d2b371137c470f69a513a46e2e723e99
+      width: 64
 - date: 2015-03-09
   artist: Björk
   title: Vulnicura
@@ -276,6 +653,16 @@
   twitpic: http://pbs.twimg.com/media/B_vrnsqVAAIO7hy.jpg
   spotify:
     album_id: 5OGJgAhcBPAUIHX5x47eDK
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/2fb2fab4869ba5d9a19c132fe33dc449142d17f4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e91bd241c9761b14b53ac3051fe2d7bca41e17c0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/231e7a75ff09daa258f129926edbb86db8096ecd
+      width: 64
 - date: 2015-03-11
   artist: Gang of Four
   title: What Happens Next
@@ -283,6 +670,16 @@
   twitpic: http://pbs.twimg.com/media/B_00kjQUcAAqWpi.jpg
   spotify:
     album_id: 5GR1U8Niv6VpRERmm6EywI
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c5a3570db715c898102bc2c71932a02fe579680b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0d2e24a38f30eaac0e7deffc5bfd5bd423065947
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/331232097cbf51018608f7c4e439beb137f044d4
+      width: 64
 - date: 2015-03-12
   artist: Will Butler
   title: Policy
@@ -290,6 +687,16 @@
   twitpic: http://pbs.twimg.com/media/B_5_H2KUUAAcKYw.jpg
   spotify:
     album_id: 3skSkUIi340Fp7KzUAxTBW
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/5c37cb23a1ef50258e56b269930f3a1ad27d1971
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/49a4b395554c53b1bd20e773e24fe0c88981ed15
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/474052f7aac666d39d9b4aedffa053587a0b6095
+      width: 64
 - date: 2015-03-13
   artist: T. Rex
   title: Singles Box Set
@@ -300,6 +707,16 @@
   twitpic: http://pbs.twimg.com/media/CAOkpWYUsAAeTm9.jpg
   spotify:
     album_id: 6iKqPv9C5oU29LR82N8lJf
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/b6b24353f626ea5c947d66b0f805833288d10106
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/dc585bab06606108e38996ac74de0c87b29f4888
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/82429558fab00bda77238845898ee586aaeccc2b
+      width: 64
 - date: 2015-03-17
   notes: |
     I think we had 6MRecommends instead of an aotd
@@ -328,6 +745,16 @@
   twitpic: http://pbs.twimg.com/media/CAY4O73XIAAWW3E.jpg
   spotify:
     album_id: 4m6XAOBmTMRu5RiW07SyTR
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/173e271ac96cdddac6d195060d14575814e6c727
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/5c085846b0d7965172a1f40646630472665fdc11
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/2b654d8dc91803a459514e718deac4dfbf0a3461
+      width: 64
 - date: 2015-03-19
   artist: Courtney Barnett
   title: Sometimes I Sit and Think, and Sometimes I Just Sit
@@ -335,6 +762,13 @@
   twitpic: http://pbs.twimg.com/media/CAeA39rUQAAv2gY.jpg
   spotify:
     album_id: 4xRrnbv5WmQp6CJXksbF1t
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/a35b804d50a6ce8d267dc23af41b4fe42e96cb7f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/6380f948fa315d551283e13e6a7d0f422ff3e8ea
+      width: 300
 - date: 2015-03-20
   artist: Simple Minds
   title: Sparkle In The Rain
@@ -342,6 +776,16 @@
   twitpic: http://pbs.twimg.com/media/CAjLIOVUMAIg_AB.jpg
   spotify:
     album_id: 4PlrByHu51LbKy93D1y0ub
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/a55115578c7166cf51d51f555a8cefeea16cc70d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/91819f0b99b484b074f23ef1fbd06f6f3307c88a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/382ce295ffc087fb112e7f4be94047ea3e9a7eb8
+      width: 64
 - date: 2015-03-23
   artist: Laura Marling
   title: Short Movie
@@ -349,6 +793,16 @@
   twitpic: http://pbs.twimg.com/media/CAyn78lUQAAgfgK.jpg
   spotify:
     album_id: 3RkJlZjE0oBkkV3aKoGUjb
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ef540a6fd1bf1ebaf78d67afbc4a52858fab9454
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/01c47b62127e114ced9c935f0eaae940f0dde0d0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/defbe8778cd8198a37d89e228009c54c087deb2e
+      width: 64
 - date: 2015-03-24
   artist: Lonelady
   title: Hinterland
@@ -356,6 +810,16 @@
   twitpic: http://pbs.twimg.com/media/CA3yI4FUgAEcj3p.jpg
   spotify:
     album_id: 1hWXJpz2XmBdgW6t4aNcjJ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/fd8549ac1692a4fd7e4f73b9020cc8df3d335c5b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/d82f95b1e7186a5f3761e02ad83e351ac6a135b4
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/17d8aad1902d0efa4ea02ca4163e507125c785ca
+      width: 64
 - date: 2015-03-25
   artist: The Cribs
   title: All My Sisters
@@ -363,6 +827,16 @@
   twitpic: http://pbs.twimg.com/media/CA87X1jVEAArJZ4.jpg
   spotify:
     album_id: 6APjeK0fvpxKrQbU8mIOnJ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/6b642e66d23693b8785e950d91776efdbfd47469
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/870454632c49f7af917fec7cc0f71dee540e85ce
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ef23905b539f88a71adaf01f44b54b27d3992063
+      width: 64
 - date: 2015-03-26
   artist: The Staves
   title: If I Was
@@ -370,6 +844,16 @@
   twitpic: http://pbs.twimg.com/media/CBCE7EXUUAEOWM4.jpg
   spotify:
     album_id: 4VxImQegPEsTorjDTaAkFV
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/04e959e0413de5913cad831483382a0109240522
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/93717ddca9291b53d3e54447f526e28adbeca214
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d4ca56c1b047b1b0fa400f445c79370a9431d678
+      width: 64
 - date: 2015-03-27
   artist: The Kinks
   title: Village Green Preservation Society
@@ -390,6 +874,16 @@
   twitpic: http://pbs.twimg.com/media/CBWdfjcUIAAs2RO.jpg
   spotify:
     album_id: 0U8DeqqKDgIhIiWOdqiQXE
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/40fed892c25cb2a8942b7503c4b2bc51cf642ecc
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/19d8730694d33cb588d78ab1bf5043ac5b8d8aec
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/944525d0e1c5d0f0c3bc50f3e4edd544eb873aea
+      width: 64
 - date: 2015-03-31
   artist: Death Cab for Cutie
   title: Kintsugi
@@ -397,6 +891,16 @@
   twitpic: http://pbs.twimg.com/media/CBbmlxsUwAEgrMK.jpg
   spotify:
     album_id: 6BK3muExDOuk0VnyMn9NVw
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/b7876c761b170496fab3738660771a77eb3ffb07
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/c489b575661f9afafdd569d14ba58ea627509fb1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/39080f8b44a816a49d1a1b923f34afd871249404
+      width: 64
 - date: 2015-04-01
   artist: The Prodigy
   title: The Day Is My Enemy
@@ -404,6 +908,16 @@
   twitpic: http://pbs.twimg.com/media/CBgw3H7UIAEzIgX.jpg
   spotify:
     album_id: 64B6CA8cnu2jP43z0BZ2KI
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/479fd7ca85c5ef2e327b496e238b82467c898073
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/f4ab8757f253f8dfa4dc64d0212e7ce8e82adb63
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9f3d9eaae4096f673be431efa31d4df758ae6012
+      width: 64
 - date: 2015-04-02
   artist: Chastity Belt
   title: Time To Go Home
@@ -411,6 +925,16 @@
   twitpic: http://pbs.twimg.com/media/CBl6t8rUoAIKDGG.jpg
   spotify:
     album_id: 10kPjDQXraJLGgXVO3cLz9
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/49ac2c846198d0903b771ba34da0889921b9377c
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/21e0e0dcf1ee08c6736e829670f8af0396c87150
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1e316c4ec1da1179ce86b76e48c1ddd846985b14
+      width: 64
 - date: 2015-04-03
   artist: Shirley & Dolly Collins
   title: Love, Death & The Lady
@@ -423,6 +947,16 @@
   twitpic: http://pbs.twimg.com/media/CB6hK9lWYAAlqOt.jpg
   spotify:
     album_id: 5vuiuUVBVImwvX6X3rGgeH
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/6c9a1ecde1162aa44c63ccd89760cfbe9b8ee848
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/655c8798db013cc240e73321ed519b7f2e30bea9
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c564d919376d370bb1381adc1b3c68a2656ac288
+      width: 64
 - date: 2015-04-07
   artist: Nadine Shah
   title: Fast Food
@@ -430,6 +964,16 @@
   twitpic: http://pbs.twimg.com/media/CB_rdCbWEAAwIk_.jpg
   spotify:
     album_id: 6LMAhRJdVibiVSFAwNXyHn
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/9acdb7e49277c06c87c71f3482b00921d0ab6e0c
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/3c7fc4f642db003c06c36997a44c679a48f8c887
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/88e6468e636c9d3298fb871859d9f6405252b1f2
+      width: 64
 - date: 2015-04-08
   artist: Toro Y Moi
   title: What For?
@@ -437,6 +981,16 @@
   twitpic: http://pbs.twimg.com/media/CCEzpiGWIAE9Kf9.jpg
   spotify:
     album_id: 3Olrr4wQa26NRaNjwz6alX
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/dd8f2d891f3703f9f50d1ae79cbc4c000b849cbf
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/c9a6baf32b7ac0c8feb6901fce0eb8d90c29a78d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/6b5994b448ff548211cf88499c647115a7f8675a
+      width: 64
 - date: 2015-04-09
   artist: Drenge
   title: Undertow
@@ -444,12 +998,32 @@
   twitpic: http://pbs.twimg.com/media/CCJ89nbW4AE3U-J.jpg
   spotify:
     album_id: 7eyAZD1dlFAJKkxGtofRST
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/6f77093e1ae1660f42f23b164be1a0cf160d6848
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e9ddb518897984a8ce803340ccdf57cc88619478
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/59f95b74289e7b10c0d4a2078546a1fc57cee522
+      width: 64
 - date: 2015-04-10
   artist: Young Fathers
   title: White Men Are Black Men Too
   twitter: https://twitter.com/BBC6Music/status/586532407186194432
   spotify:
     album_id: 3xtwcBeltPMO0I4PnDfV0k
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/108e95fe21f6a966f4940cbbed0f4ce03cc091c7
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/85fcdbf5d570be281ad289fa758b496a7c651ad4
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/3720102b9b73ad8c0b23cb41c7025d7b6e1ee9cd
+      width: 64
   twitpic: http://pbs.twimg.com/media/CCPIHZ9UIAEn85M.jpg
 - date: 2015-04-13
   artist: Villagers
@@ -458,6 +1032,16 @@
   twitpic: http://pbs.twimg.com/media/CCdMYhEWYAA4Gbe.jpg
   spotify:
     album_id: 1rwks602GtqNzZGjc62rIQ
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7e9163082884ac28f9ca7b980389d0c6fa9b54a0
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/7c6f196aa6aa06ab500adb93779258fc13c40fe6
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/814689a17929a126a03151be0aa7f6a84072bb40
+      width: 64
 - date: 2015-04-14
   artist: Wire
   title: Wire
@@ -465,6 +1049,16 @@
   twitpic: http://pbs.twimg.com/media/CCiVkeyXIAAz9Rw.jpg
   spotify:
     album_id: 3bLwfwMXq9zCEfZZ06VHGk
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/5b755cbefe02ab7bfeb8b0462b1c07995b6e6f7e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/4cb7e43c9a34450525c216cdceaf14b573c673ea
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/822264a50470bc74e78ea93f2728f85d984d5ec2
+      width: 64
 - date: 2015-04-15
   artist: The Who
   title: Quadrophenia
@@ -472,12 +1066,32 @@
   twitpic: http://pbs.twimg.com/media/CCngQ_AWIAAQLtZ.jpg
   spotify:
     album_id: 3JV6BIIXo3mj6GLIGH9p8a
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/617fb3377ea4ccf60c8582dd8ec0de168bceca4c
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/d114cf56d2796e2e829b46ec126941550ff52e62
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1b95e1e68a58eda6154657a69c5d7bf600448226
+      width: 64
 - date: 2015-04-16
   artist: Waxahatchee
   title: Ivy Tripp
   twitter: https://twitter.com/BBC6Music/status/588605304968904704
   spotify:
     album_id: 330rzJqNOw2BELsfWg3vXl
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/aefd60cb94a52391fb3f650a430cfc7e61a92029
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/7d4da38666e58c5a5b54d0107ee0d60cd0a9283c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/07f0c607f15d701a807871d91ba8e3b1e259c220
+      width: 64
   twitpic: http://pbs.twimg.com/media/CCslZ8SVAAABeZg.jpg
   tweet_text: 'The Album of the Day comes from @k_crutchfield AKA Waxahatchee - @BBC6Breakfast
     #nowplaying ''The Dirt'' http://t.co/hjD8L3HDMi'
@@ -490,3 +1104,13 @@
     ''Don''t Look Backwards'' from ''Culture Of Volume'' http://t.co/30mkridV2K'
   spotify:
     album_id: 2li0SgHlqjpPF2gqTr5FHh
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/959a0ad604e7089bb05238c058687c84789882a3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/c2332c559164663448508724bb40393600bc28f3
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/e7075bc164aafd72953af73002c159859afc6bb0
+      width: 64

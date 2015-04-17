@@ -38,7 +38,8 @@ def process_data(data)
     if (album['type'])
       type = album['type']
     end
-    spotify_albums_sel = spotify_albums.select{|sa| sa.album_type == type}
+    #spotify_albums_sel = spotify_albums.select{|sa| sa.album_type == type}
+    spotify_albums_sel = spotify_albums
 
     puts "- Search for #{album['title']} by #{album['artist']}"
     puts "  Found #{spotify_albums.total} (#{spotify_albums_sel.count} selected)"
@@ -49,7 +50,7 @@ def process_data(data)
       if (spotify_albums_sel.count != 0)
         #puts "  Candidate titles: " + spotify_albums_sel.map{|sa| "#{sa.name} (#{sa.id})"}.join(", ")
         candidates = []
-        spotify_albums_sel.each{|sa| candidates.push({'name'=>sa.name, 'album_id'=>sa.id})}
+        spotify_albums_sel.each{|sa| candidates.push({'artists'=>sa.artists.map{|a| a.name}.join(", "), 'name'=>sa.name, 'album_id'=>sa.id})}
         album['spotify'] = {'candidates' => candidates}
       end
       #puts "  Search at: https://api.spotify.com/v1/search?q=#{search_string}&type=album&market=GB"

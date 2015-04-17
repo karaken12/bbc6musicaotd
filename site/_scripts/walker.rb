@@ -13,6 +13,10 @@ end
 
 def process_data(data)
   data.each do |album|
+    if album.has_key?('spotify')
+      # Assume it's fine
+      next
+    end
     puts "==="
     if !album.has_key?('tweet_text')
       puts "No tweet text on #{album['date']}."

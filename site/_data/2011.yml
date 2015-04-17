@@ -3,19 +3,30 @@
   tweet_text: 'The Specials - by The #Specials is the classic album of the day on
     @BBC6Music - and what a classic it is! Listen to their interview later -'
   date: 2011-08-30
+  artist: The Specials
+  title: The Specials
+  spotify:
+    name: The Specials
+    album_id: 3slMWt0RziAAsTyKO0v98W
 - twitter: https://twitter.com/BBC6Music/status/103429556001701888
   tweet_text: 'Our album of the day today #Orbital by Orbital - listen to tracks from
     the album all day today on @BBC6Music =&gt; @orbitalband interview 4pm'
   date: 2011-08-16
+  artist: Orbital
+  title: Orbital
+  spotify:
+    name: Orbital
+    album_id: 4xlGmLv1KsyhEKqPK7gmPK
 - twitter: https://twitter.com/BBC6Music/status/55255319101706240
   tweet_text: 'The @foofighters new album is album of the day tomorrow on @bbc6music  listen
     in @foofightersfans -  #foofighters its going to be soo good!'
-  date: 2011-04-05
+  date: 2011-04-06
+  artist: Foo Fighters
 - twitter: https://twitter.com/BBC6Music/status/39649585429221376
   tweet_text: 'RT @bbcalbumreviews: #thekingoflimbs #radiohead is also @Inside6music''s
     Album of the Day - http://bbc.in/i9aFPZ'
   date: 2011-02-21
-- twitter: https://twitter.com/BBC6Music/status/38603793356697600
-  tweet_text: "#Radiohead #TheKingofLimbs is Album of the Day on #BBC #6Music @inside6music
-    on Monday Feb 21 so if you can't decide, listen in then."
-  date: 2011-02-18
+  artist: Radiohead
+  title: King Of Limbs
+  spotify:
+    album_id: 6CeulIpMN8ZxqlMk5Gn3S3

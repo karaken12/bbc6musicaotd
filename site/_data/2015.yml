@@ -5,6 +5,9 @@
   twitter: https://twitter.com/BBC6Music/status/554656299687116800
   twitpic: http://pbs.twimg.com/media/B7KIHTrCQAM4xFE.jpg
   spotify:
+    artists:
+    - Panda Bear
+    name: Panda Bear Meets The Grim Reaper
     album_id: 6bHsJXJoEdQTw3tUpHV8iB
     images:
     - height: 640
@@ -20,7 +23,11 @@
   artist: Ghost Culture
   title: Ghost Culture
   twitter: https://twitter.com/BBC6Music/status/555018623862206464
+  tweet_text: "#NowPlaying on @BBCRadMac it’s Lying from our Album Of The Day by @ghostculture"
   spotify:
+    artists:
+    - Ghost Culture
+    name: Ghost Culture
     album_id: 6zo4l9WX7kO79T2g6KjsyC
     images:
     - height: 640
@@ -32,13 +39,15 @@
     - height: 64
       url: https://i.scdn.co/image/0bea30a602aa7cf521a4bad63f89976638a66a7d
       width: 64
-  tweet_text: "#NowPlaying on @BBCRadMac it’s Lying from our Album Of The Day by @ghostculture"
 - date: 2015-01-14
   artist: Belle and Sebastian
   title: Girls in Peacetime Want to Dance
   twitter: https://twitter.com/BBC6Music/status/555382037486792704
   twitpic: http://pbs.twimg.com/media/B7UdAuyCQAAbHik.jpg
   spotify:
+    artists:
+    - Belle & Sebastian
+    name: Girls in Peacetime Want to Dance
     album_id: 3Gy0FCDIx9MoliXd3YcTBt
     images:
     - height: 640
@@ -56,6 +65,9 @@
   twitter: https://twitter.com/BBC6Music/status/555744357434019841
   twitpic: http://pbs.twimg.com/media/B7Zlu4dCEAAtKHR.jpg
   spotify:
+    artists:
+    - The Rolling Stones
+    name: The Rolling Stones No. 2
     album_id: 4lzMSOfoyr3LsOuWeve5Cw
     images:
     - height: 640
@@ -73,6 +85,9 @@
   twitter: https://twitter.com/BBC6Music/status/556106373625544705
   twitpic: http://pbs.twimg.com/media/B7evxBgCYAEZ5Is.jpg
   spotify:
+    artists:
+    - BC Camplight
+    name: How To Die In The North
     album_id: 58Ebu0Ics8Tgk1VSqykGXu
     images:
     - height: 640
@@ -90,6 +105,9 @@
   twitter: https://twitter.com/BBC6Music/status/557193607447576576
   twitpic: http://pbs.twimg.com/media/B7uMOQiCcAESCKu.jpg
   spotify:
+    artists:
+    - Sleater-Kinney
+    name: No Cities To Love
     album_id: 4hzSVWntrdQzf9JuTtH4pf
     images:
     - height: 640
@@ -107,6 +125,9 @@
   twitter: https://twitter.com/BBC6Music/status/557556076389072896
   twitpic: http://pbs.twimg.com/media/B7zVtZuCQAAoZI0.jpg
   spotify:
+    artists:
+    - Menace Beach
+    name: Ratworld
     album_id: 57TkfBuJwisC8WfMB1Ydei
     images:
     - height: 640
@@ -124,6 +145,9 @@
   twitter: https://twitter.com/BBC6Music/status/557918215981260800
   twitpic: http://pbs.twimg.com/media/B74e0nvCYAEdstp.jpg
   spotify:
+    artists:
+    - The Decemberists
+    name: What A Terrible World, What A Beautiful World
     album_id: 0GDJEXa8wAflEyA3yIOrl2
     images:
     - height: 640
@@ -141,6 +165,9 @@
   twitter: https://twitter.com/BBC6Music/status/558281634227978241
   twitpic: http://pbs.twimg.com/media/B79qJqNCUAACR7F.jpg
   spotify:
+    artists:
+    - Francisco The Man
+    name: Loose Ends
     album_id: 1ohZmamTdJSPZyFbDa1nP2
     images:
     - height: 640
@@ -161,6 +188,9 @@
   artist: Smashing Pumpkins
   title: Mellon Collie and the Infinite Sadness
   spotify:
+    artists:
+    - The Smashing Pumpkins
+    name: Mellon Collie and the Infinite Sadness (2012 - Remaster)
     album_id: 4bPT6Q8ppaSNppk1kbEbLl
     images:
     - height: 640
@@ -178,6 +208,9 @@
   twitter: https://twitter.com/BBC6Music/status/559997081658880000
   twitpic: http://pbs.twimg.com/media/B8WCYNJIAAEY9oJ.jpg
   spotify:
+    artists:
+    - The Charlatans
+    name: Modern Nature
     album_id: 092DzkT8yzq5nhlpd1uKqt
     images:
     - height: 640
@@ -195,6 +228,9 @@
   twitter: https://twitter.com/BBC6Music/status/560455071872606208
   twitpic: http://pbs.twimg.com/media/B8ci35cCcAA8ERP.jpg
   spotify:
+    artists:
+    - Gaz Coombes
+    name: Matador
     album_id: 0IB3YW488VN09LBM75Q77A
     images:
     - height: 640
@@ -210,6 +246,9 @@
   artist: Pinkshinyultrablast
   title: Everything Else Matters
   spotify:
+    artists:
+    - Pinkshinyultrablast
+    name: Everything Else Matters
     album_id: 5i4chaWK0h50pbc3WJNXhL
     images:
     - height: 640
@@ -225,6 +264,9 @@
   artist: Boxed In
   title: Boxed In
   spotify:
+    artists:
+    - Boxed In
+    name: Boxed In
     album_id: 53Blw4ZLqoSSc5DOXX7Fsp
     images:
     - height: 640
@@ -242,6 +284,9 @@
   twitter: https://twitter.com/BBC6Music/status/562266766978859009
   twitpic: http://pbs.twimg.com/media/B82R3DfCMAAnNQr.jpg
   spotify:
+    artists:
+    - Hanni El Khatib
+    name: Moonlight
     album_id: 2mStvdtYvfejFj2jmdinsz
     images:
     - height: 640
@@ -259,6 +304,9 @@
   twitter: https://twitter.com/BBC6Music/status/562628875956801536
   twitpic: http://pbs.twimg.com/media/B87b-xwCUAMrStj.jpg
   spotify:
+    artists:
+    - Zun Zun Egui
+    name: Shackles Gift
     album_id: 5osO1C5b0DjtGcLuDueI3I
     images:
     - height: 640
@@ -276,6 +324,9 @@
   twitter: https://twitter.com/BBC6Music/status/562991765972873216
   twitpic: http://pbs.twimg.com/media/B9AmBvVIQAAbCWA.jpg
   spotify:
+    artists:
+    - All We Are
+    name: All We Are
     album_id: 1m8eD0pIs9bPDoMXVLYgjL
     images:
     - height: 640
@@ -293,6 +344,9 @@
   twitter: https://twitter.com/BBC6Music/status/563353676367290369
   twitpic: http://pbs.twimg.com/media/B9FvFbQCUAEYCnL.jpg
   spotify:
+    artists:
+    - Roxy Music
+    name: For Your Pleasure
     album_id: 6gKMWnGptVs6yT2MgCxw29
     images:
     - height: 640
@@ -310,6 +364,9 @@
   twitter: https://twitter.com/BBC6Music/status/563716978427592705
   twitpic: http://pbs.twimg.com/media/B9K4qcrCQAI_oYr.jpg
   spotify:
+    artists:
+    - Father John Misty
+    name: I Love You, Honeybear
     album_id: 7buEcyw6fJF3WPgr06BomH
     images:
     - height: 640
@@ -327,6 +384,9 @@
   twitter: https://twitter.com/BBC6Music/status/564803874926911490
   twitpic: http://pbs.twimg.com/media/B9aVqWeCAAAT5g1.jpg
   spotify:
+    artists:
+    - Black Rivers
+    name: Black Rivers
     album_id: 4ZMub3gNq3VR8b3DzonBKQ
     images:
     - height: 640
@@ -342,6 +402,9 @@
   artist: The Districts
   title: A Flourish and a Spoil
   spotify:
+    artists:
+    - The Districts
+    name: A Flourish and A Spoil
     album_id: 2NKtrrrgN4cV9hDntaLb0u
     images:
     - height: 640
@@ -359,6 +422,9 @@
   twitter: https://twitter.com/BBC6Music/status/565528986340839426
   twitpic: http://pbs.twimg.com/media/B9kn2fSIgAA7rHy.jpg
   spotify:
+    artists:
+    - Silk Rhodes
+    name: Silk Rhodes
     album_id: 4dQE1rgzd0LpTdPc3Vl4yA
     images:
     - height: 640
@@ -376,6 +442,9 @@
   twitter: https://twitter.com/BBC6Music/status/565890309759188992
   twitpic: http://pbs.twimg.com/media/B9pyGUrIIAA-D_z.jpg
   spotify:
+    artists:
+    - The Unthanks
+    name: Mount the Air
     album_id: 0b8aN5YAdL4zBAQxNc30Uf
     images:
     - height: 640
@@ -393,6 +462,9 @@
   twitter: https://twitter.com/BBC6Music/status/566253007399309313
   twitpic: http://pbs.twimg.com/media/B9u6w9AIcAEGf6v.jpg
   spotify:
+    artists:
+    - Bob Marley & The Wailers
+    name: Easy Skanking In Boston '78
     album_id: 1SfFIU49Hh3x07wsdqPCRE
     images:
     - height: 640
@@ -410,6 +482,9 @@
   twitter: https://twitter.com/BBC6Music/status/567340713952935936
   twitpic: http://pbs.twimg.com/media/B9-XzJWIAAE0p60.jpg
   spotify:
+    artists:
+    - Carl Barat And The Jackals
+    name: Let It Reign
     album_id: 05EUFesm2wcq95fTcyLFBm
     images:
     - height: 640
@@ -427,6 +502,9 @@
   twitter: https://twitter.com/BBC6Music/status/567703368806965248
   twitpic: http://pbs.twimg.com/media/B-DjMlPCEAASxxx.jpg
   spotify:
+    artists:
+    - José González
+    name: Vestiges & Claws
     album_id: 7dbekHelRxPH8ULPEWdxdJ
     images:
     - height: 640
@@ -444,6 +522,9 @@
   twitter: https://twitter.com/BBC6Music/status/568065174801944577
   twitpic: http://pbs.twimg.com/media/B-IryXTCAAAVfIl.jpg
   spotify:
+    artists:
+    - Marika Hackman
+    name: We Slept at Last
     album_id: 7bGKJT7GMChX7lM3txM9Iz
     images:
     - height: 640
@@ -461,6 +542,9 @@
   twitter: https://twitter.com/BBC6Music/status/568427241564213248
   twitpic: http://pbs.twimg.com/media/B-N0SImCAAEwqWy.jpg
   spotify:
+    artists:
+    - Idlewild
+    name: Everything Ever Written
     album_id: 4vG8HRbNiijPyQyRIigWba
     images:
     - height: 640
@@ -476,6 +560,8 @@
   artist: The Futureheads
   title: The Futureheads
   spotify:
+    artists:
+    - The Futureheads
     name: The Futureheads
     album_id: 1iN1V1c3nuAasssfCribNl
     images:
@@ -496,6 +582,9 @@
   twitter: https://twitter.com/BBC6Music/status/570239291474862083
   twitpic: http://pbs.twimg.com/media/B-nkHUbVIAEfToN.jpg
   spotify:
+    artists:
+    - The Pop Group
+    name: Citizen Zombie
     album_id: 07sdLJORy8VisgF9Gmb0wo
     images:
     - height: 640
@@ -513,6 +602,9 @@
   twitter: https://twitter.com/BBC6Music/status/570602392653316096
   twitpic: http://pbs.twimg.com/media/B-suwHmWwAAYCYf.jpg
   spotify:
+    artists:
+    - Public Service Broadcasting
+    name: The Race For Space
     album_id: 65KwtzkJXw7oT819NFWmEP
     images:
     - height: 640
@@ -530,6 +622,9 @@
   twitter: https://twitter.com/BBC6Music/status/570964306537394176
   twitpic: http://pbs.twimg.com/media/B-x4uqRVIAAHASB.jpg
   spotify:
+    artists:
+    - Songhoy Blues
+    name: Music in Exile
     album_id: 03uzjUD03Rtobppd6gesIC
     images:
     - height: 640
@@ -547,6 +642,9 @@
   twitter: https://twitter.com/BBC6Music/status/571229669611184128
   twitpic: http://pbs.twimg.com/media/B-1p9EQVIAAnhel.jpg
   spotify:
+    artists:
+    - Radiohead
+    name: The Bends
     album_id: 6Lmj92VLXz7Z5xcsjXBMSC
     images:
     - height: 640
@@ -564,6 +662,9 @@
   twitter: https://twitter.com/BBC6Music/status/572412945126305793
   twitpic: http://pbs.twimg.com/media/B_GeGQ_UwAAz7L9.jpg
   spotify:
+    artists:
+    - Noel Gallagher's High Flying Birds
+    name: Chasing Yesterday
     album_id: 5Ngc0q3qKwp8buErZy96vs
     images:
     - height: 640
@@ -581,6 +682,9 @@
   twitter: https://twitter.com/BBC6Music/status/572772719940513792
   twitpic: http://pbs.twimg.com/media/B_LlwNGU0AAHn_n.jpg
   spotify:
+    artists:
+    - Ghostpoet
+    name: Shedding Skin
     album_id: 7pmp7mopLSAChGiAlgQs2D
     images:
     - height: 640
@@ -598,6 +702,9 @@
   twitter: https://twitter.com/BBC6Music/status/573137946238435329
   twitpic: http://pbs.twimg.com/media/B_Qx6wfUQAA4e7V.jpg
   spotify:
+    artists:
+    - Dutch Uncles
+    name: O Shudder
     album_id: 7EEHgEWuVqvoxxcUd7xbUZ
     images:
     - height: 640
@@ -615,6 +722,9 @@
   twitter: https://twitter.com/BBC6Music/status/573501849275363328
   twitpic: http://pbs.twimg.com/media/B_V84bsUsAEcbd5.jpg
   spotify:
+    artists:
+    - Dan Deacon
+    name: Gliss Riffer
     album_id: 05cihLeGrisaOseQdhxDcr
     images:
     - height: 640
@@ -632,6 +742,9 @@
   twitter: https://twitter.com/BBC6Music/status/573862856241868800
   twitpic: https://pbs.twimg.com/media/B_bDtvNUYAEV6O9.jpg
   spotify:
+    artists:
+    - Maximo Park
+    name: A Certain Trigger
     album_id: 5AMY7GZtT4hz0h4O7OBUz4
     images:
     - height: 640
@@ -652,6 +765,9 @@
   twitter: https://twitter.com/BBC6Music/status/575312520480694272
   twitpic: http://pbs.twimg.com/media/B_vrnsqVAAIO7hy.jpg
   spotify:
+    artists:
+    - Matthew E. White
+    name: Fresh Blood
     album_id: 5OGJgAhcBPAUIHX5x47eDK
     images:
     - height: 640
@@ -669,6 +785,9 @@
   twitter: https://twitter.com/BBC6Music/status/575674585510715392
   twitpic: http://pbs.twimg.com/media/B_00kjQUcAAqWpi.jpg
   spotify:
+    artists:
+    - Gang Of Four
+    name: What Happens Next
     album_id: 5GR1U8Niv6VpRERmm6EywI
     images:
     - height: 640
@@ -686,6 +805,9 @@
   twitter: https://twitter.com/BBC6Music/status/576037586898153472
   twitpic: http://pbs.twimg.com/media/B_5_H2KUUAAcKYw.jpg
   spotify:
+    artists:
+    - Will Butler
+    name: Policy
     album_id: 3skSkUIi340Fp7KzUAxTBW
     images:
     - height: 640
@@ -706,6 +828,9 @@
   twitter: https://twitter.com/BBC6Music/status/577486771782594561
   twitpic: http://pbs.twimg.com/media/CAOkpWYUsAAeTm9.jpg
   spotify:
+    artists:
+    - Modest Mouse
+    name: Strangers to Ourselves
     album_id: 6iKqPv9C5oU29LR82N8lJf
     images:
     - height: 640
@@ -744,6 +869,9 @@
   twitter: https://twitter.com/BBC6Music/status/578211448674979840
   twitpic: http://pbs.twimg.com/media/CAY4O73XIAAWW3E.jpg
   spotify:
+    artists:
+    - Seasick Steve
+    name: Sonic Soul Surfer
     album_id: 4m6XAOBmTMRu5RiW07SyTR
     images:
     - height: 640
@@ -761,6 +889,9 @@
   twitter: https://twitter.com/BBC6Music/status/578573830026850307
   twitpic: http://pbs.twimg.com/media/CAeA39rUQAAv2gY.jpg
   spotify:
+    artists:
+    - Courtney Barnett
+    name: Sometimes I Sit and Think, and Sometimes I Just Sit
     album_id: 4xRrnbv5WmQp6CJXksbF1t
     images:
     - height: 640
@@ -775,6 +906,9 @@
   twitter: https://twitter.com/BBC6Music/status/578936175102156800
   twitpic: http://pbs.twimg.com/media/CAjLIOVUMAIg_AB.jpg
   spotify:
+    artists:
+    - Simple Minds
+    name: Sparkle In The Rain (Remastered)
     album_id: 4PlrByHu51LbKy93D1y0ub
     images:
     - height: 640
@@ -792,6 +926,9 @@
   twitter: https://twitter.com/BBC6Music/status/580023112286244865
   twitpic: http://pbs.twimg.com/media/CAyn78lUQAAgfgK.jpg
   spotify:
+    artists:
+    - Laura Marling
+    name: Short Movie
     album_id: 3RkJlZjE0oBkkV3aKoGUjb
     images:
     - height: 640
@@ -809,6 +946,9 @@
   twitter: https://twitter.com/BBC6Music/status/580386223165956096
   twitpic: http://pbs.twimg.com/media/CA3yI4FUgAEcj3p.jpg
   spotify:
+    artists:
+    - Lonelady
+    name: Hinterland
     album_id: 1hWXJpz2XmBdgW6t4aNcjJ
     images:
     - height: 640
@@ -826,6 +966,9 @@
   twitter: https://twitter.com/BBC6Music/status/580748920508268544
   twitpic: http://pbs.twimg.com/media/CA87X1jVEAArJZ4.jpg
   spotify:
+    artists:
+    - The Cribs
+    name: For All My Sisters
     album_id: 6APjeK0fvpxKrQbU8mIOnJ
     images:
     - height: 640
@@ -843,6 +986,9 @@
   twitter: https://twitter.com/BBC6Music/status/581111833215545344
   twitpic: http://pbs.twimg.com/media/CBCE7EXUUAEOWM4.jpg
   spotify:
+    artists:
+    - The Staves
+    name: If I Was
     album_id: 4VxImQegPEsTorjDTaAkFV
     images:
     - height: 640
@@ -861,11 +1007,17 @@
   twitpic: http://pbs.twimg.com/media/CBHOTh9UcAEmQBt.jpg
   spotify:
     candidates:
-    - name: The Village Green Preservation Society
+    - artists:
+      - The Kinks
+      name: The Village Green Preservation Society
       album_id: 4wcH6H2h6LFBbfXgwZY9oH
-    - name: The Village Green Preservation Society
+    - artists:
+      - The Kinks
+      name: The Village Green Preservation Society
       album_id: 6OWWMfCWiqOZJBpJieBB6B
-    - name: The Village Green Preservation Society
+    - artists:
+      - The Kinks
+      name: The Village Green Preservation Society
       album_id: 5SwMo0HmRi529JaKkt6Rn8
 - date: 2015-03-30
   artist: Sufjan Stevens
@@ -873,6 +1025,9 @@
   twitter: https://twitter.com/BBC6Music/status/582544923771203585
   twitpic: http://pbs.twimg.com/media/CBWdfjcUIAAs2RO.jpg
   spotify:
+    artists:
+    - Sufjan Stevens
+    name: Carrie & Lowell
     album_id: 0U8DeqqKDgIhIiWOdqiQXE
     images:
     - height: 640
@@ -890,6 +1045,9 @@
   twitter: https://twitter.com/BBC6Music/status/582907857210904576
   twitpic: http://pbs.twimg.com/media/CBbmlxsUwAEgrMK.jpg
   spotify:
+    artists:
+    - Death Cab for Cutie
+    name: Kintsugi
     album_id: 6BK3muExDOuk0VnyMn9NVw
     images:
     - height: 640
@@ -907,6 +1065,9 @@
   twitter: https://twitter.com/BBC6Music/status/583269876304908288
   twitpic: http://pbs.twimg.com/media/CBgw3H7UIAEzIgX.jpg
   spotify:
+    artists:
+    - The Prodigy
+    name: The Day Is My Enemy
     album_id: 64B6CA8cnu2jP43z0BZ2KI
     images:
     - height: 640
@@ -924,6 +1085,9 @@
   twitter: https://twitter.com/BBC6Music/status/583632724348559361
   twitpic: http://pbs.twimg.com/media/CBl6t8rUoAIKDGG.jpg
   spotify:
+    artists:
+    - Chastity Belt
+    name: Time to Go Home
     album_id: 10kPjDQXraJLGgXVO3cLz9
     images:
     - height: 640
@@ -946,6 +1110,9 @@
   twitter: https://twitter.com/BBC6Music/status/585082361357959169
   twitpic: http://pbs.twimg.com/media/CB6hK9lWYAAlqOt.jpg
   spotify:
+    artists:
+    - Robert Wyatt
+    name: Ruth Is Stranger Than Richard
     album_id: 5vuiuUVBVImwvX6X3rGgeH
     images:
     - height: 640
@@ -963,6 +1130,9 @@
   twitter: https://twitter.com/BBC6Music/status/585445479305105408
   twitpic: http://pbs.twimg.com/media/CB_rdCbWEAAwIk_.jpg
   spotify:
+    artists:
+    - Nadine Shah
+    name: Fast Food
     album_id: 6LMAhRJdVibiVSFAwNXyHn
     images:
     - height: 640
@@ -980,6 +1150,9 @@
   twitter: https://twitter.com/BBC6Music/status/585807006847660032
   twitpic: http://pbs.twimg.com/media/CCEzpiGWIAE9Kf9.jpg
   spotify:
+    artists:
+    - Toro Y Moi
+    name: What For?
     album_id: 3Olrr4wQa26NRaNjwz6alX
     images:
     - height: 640
@@ -997,6 +1170,9 @@
   twitter: https://twitter.com/BBC6Music/status/586169050037936128
   twitpic: http://pbs.twimg.com/media/CCJ89nbW4AE3U-J.jpg
   spotify:
+    artists:
+    - Drenge
+    name: Undertow
     album_id: 7eyAZD1dlFAJKkxGtofRST
     images:
     - height: 640
@@ -1012,7 +1188,11 @@
   artist: Young Fathers
   title: White Men Are Black Men Too
   twitter: https://twitter.com/BBC6Music/status/586532407186194432
+  twitpic: http://pbs.twimg.com/media/CCPIHZ9UIAEn85M.jpg
   spotify:
+    artists:
+    - Young Fathers
+    name: White Men Are Black Men Too
     album_id: 3xtwcBeltPMO0I4PnDfV0k
     images:
     - height: 640
@@ -1024,13 +1204,15 @@
     - height: 64
       url: https://i.scdn.co/image/3720102b9b73ad8c0b23cb41c7025d7b6e1ee9cd
       width: 64
-  twitpic: http://pbs.twimg.com/media/CCPIHZ9UIAEn85M.jpg
 - date: 2015-04-13
   artist: Villagers
   title: Darling Arithmetic
   twitter: https://twitter.com/BBC6Music/status/587522261114089472
   twitpic: http://pbs.twimg.com/media/CCdMYhEWYAA4Gbe.jpg
   spotify:
+    artists:
+    - Villagers
+    name: Darling Arithmetic
     album_id: 1rwks602GtqNzZGjc62rIQ
     images:
     - height: 640
@@ -1048,6 +1230,9 @@
   twitter: https://twitter.com/BBC6Music/status/587884206166016000
   twitpic: http://pbs.twimg.com/media/CCiVkeyXIAAz9Rw.jpg
   spotify:
+    artists:
+    - Wire
+    name: Wire
     album_id: 3bLwfwMXq9zCEfZZ06VHGk
     images:
     - height: 640
@@ -1065,6 +1250,9 @@
   twitter: https://twitter.com/BBC6Music/status/588247809612247040
   twitpic: http://pbs.twimg.com/media/CCngQ_AWIAAQLtZ.jpg
   spotify:
+    artists:
+    - The Who
+    name: Quadrophenia
     album_id: 3JV6BIIXo3mj6GLIGH9p8a
     images:
     - height: 640
@@ -1080,7 +1268,13 @@
   artist: Waxahatchee
   title: Ivy Tripp
   twitter: https://twitter.com/BBC6Music/status/588605304968904704
+  twitpic: http://pbs.twimg.com/media/CCslZ8SVAAABeZg.jpg
+  tweet_text: 'The Album of the Day comes from @k_crutchfield AKA Waxahatchee - @BBC6Breakfast
+    #nowplaying ''The Dirt'' http://t.co/hjD8L3HDMi'
   spotify:
+    artists:
+    - Waxahatchee
+    name: Ivy Tripp
     album_id: 330rzJqNOw2BELsfWg3vXl
     images:
     - height: 640
@@ -1092,9 +1286,6 @@
     - height: 64
       url: https://i.scdn.co/image/07f0c607f15d701a807871d91ba8e3b1e259c220
       width: 64
-  twitpic: http://pbs.twimg.com/media/CCslZ8SVAAABeZg.jpg
-  tweet_text: 'The Album of the Day comes from @k_crutchfield AKA Waxahatchee - @BBC6Breakfast
-    #nowplaying ''The Dirt'' http://t.co/hjD8L3HDMi'
 - date: 2015-04-17
   artist: East India Youth
   title: Culture Of Volume
@@ -1103,6 +1294,9 @@
   tweet_text: 'We turn to @eastindiayouth now for our Album of the Day. #nowplaying
     ''Don''t Look Backwards'' from ''Culture Of Volume'' http://t.co/30mkridV2K'
   spotify:
+    artists:
+    - East India Youth
+    name: CULTURE OF VOLUME
     album_id: 2li0SgHlqjpPF2gqTr5FHh
     images:
     - height: 640

@@ -14,6 +14,8 @@ layout: default
   <div class="album-cover-wrapper">
     {% if album.twitpic %}
     <img class="album-cover" title="{{ album.title }}" src="{{album.twitpic}}:small" />
+    {% elsif album.spotify.images %}
+    <img class="album-cover" title="{{ album.title }}" src="{{album.spotify.images[1].url}}" />
     {% else %}
     <img class="album-cover" title="{{ album.title }}">
     {% endif %}

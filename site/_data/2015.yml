@@ -1114,3 +1114,54 @@
     - height: 64
       url: https://i.scdn.co/image/e7075bc164aafd72953af73002c159859afc6bb0
       width: 64
+- date: 2015-04-20
+  twitter: https://twitter.com/BBC6Music/status/590020116361961472
+  twitpic: http://pbs.twimg.com/media/CDAsKz4WEAIzab-.jpg
+  tweet_text: "#np @blurofficial - There Are Too Many Of Us // Taken from The Magic
+    Whip http://t.co/SdzmVS7mBZ  Album of the Day + http://t.co/ecdVtA7lcP"
+  artist: Blur
+  title: The Magic Whip
+- date: 2015-04-21
+  twitter: https://twitter.com/BBC6Music/status/590422521310216192
+  twitpic: http://pbs.twimg.com/media/CDGaJ2aWAAAIwvw.jpg
+  tweet_text: "#nowplaying on @BBC6Breakfast our Album of the Day from @Alabama_Shakes
+    - 'Don't Wanna Fight' http://t.co/P7uscGX8cZ"
+  title: Sound & Color
+  artist: Alabama Shakes
+  spotify:
+    artists:
+    - Alabama Shakes
+    name: Sound & Color
+    album_id: 03nQNGFi3dIxg6ghNbtVWW
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/6ad37350caa9ba01195b64e92bd5b167999f9a17
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0bb90c910a63dfc56d4d6012fb7b787d16f7c638
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/81470533ed9e162ca1323472f6b89940c24d22fc
+      width: 64
+- date: 2015-04-22
+  twitter: https://twitter.com/BBC6Music/status/590784785687179264
+  twitpic: http://pbs.twimg.com/media/CDLjobZW8AACJ4O.jpg
+  tweet_text: "#nowplaying @stealingsheep's 'Sequence' - Their brand new record 'Not
+    Real' is our Album of the Day. You're welcome! http://t.co/FxtlsA2qTj"
+  artist: Stealing Sheep
+  title: Not Real
+  spotify:
+    artists:
+    - Stealing Sheep
+    name: Not Real
+    album_id: 5auvSfKOZqHsNWo7fRnys0
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ef3ce7b7ba6bcdf7d7db4acee02a8c3bd0e2ab75
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/4fe20b83043057790bc4e45fe386c728be049e9c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/109fcf1bd864b1ede8bcaae212f58b1952386d68
+      width: 64

@@ -1315,6 +1315,21 @@
     Whip http://t.co/SdzmVS7mBZ  Album of the Day + http://t.co/ecdVtA7lcP"
   artist: Blur
   title: The Magic Whip
+  spotify:
+    artists:
+    - Blur
+    name: The Magic Whip
+    album_id: 0nSzBICzQHea8grwfqa5Gb
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/df8c538355952635b435b4723136b7a30bdf46e3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/eef2b4e70030af1417df9f59b11342077ed74efd
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d85de0a0ca6d1f00d86d6406c33b40ad48efc979
+      width: 64
 - date: 2015-04-21
   twitter: https://twitter.com/BBC6Music/status/590422521310216192
   twitpic: http://pbs.twimg.com/media/CDGaJ2aWAAAIwvw.jpg
@@ -1358,4 +1373,70 @@
       width: 300
     - height: 64
       url: https://i.scdn.co/image/109fcf1bd864b1ede8bcaae212f58b1952386d68
+      width: 64
+- date: 2015-04-23
+  twitter: https://twitter.com/BBC6Music/status/591146680503926784
+  twitpic: http://pbs.twimg.com/media/CDQsxeSWEAAfNFc.jpg
+  tweet_text: "#nowplaying on @BBC6Breakfast is @SLUG_MrIBlack with the gloriously
+    titled 'Cockeyed Rabbit Wrapped in Plastic' #AotD http://t.co/napeCa5kIX"
+  artist: Slug
+  title: RIPE
+  spotify:
+    artists:
+    - Slug
+    name: RIPE
+    album_id: 1ZhEig5Qlr71MP7iICmBfq
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/cf8a0bd158eb8c0fb221296d140ee03db36c4ad9
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/4f18ff9be35f29d4c3345f873dc7e0a3a0928c59
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/e001d4a0760f747e7990461bc2d2fd5806bfaf41
+      width: 64
+- date: 2015-04-24
+  twitter: https://twitter.com/BBC6Music/status/591606190162993155
+  twitpic: http://pbs.twimg.com/media/CDXMNG7WIAAhnS7.jpg
+  tweet_text: Wind Up from AOTD Colour &amp; The Shape @foofighters on @BBCRadMac
+    @FooFightersDave Grohl is with @Matteveritt Sun 1pm http://t.co/C5El7wTUNq
+  artist: Foo Fighters
+  title: The Colour and the Shape
+  spotify:
+    artists:
+    - Foo Fighters
+    name: The Colour And The Shape
+    album_id: 30ly6F6Xl0TKmyBCU50Khv
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/855591f5bf941043ea03dbfef58c48d282d5039e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b6b2379273ff7d685e19f5094486877a6011c913
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/5f574fb6e47ce830ff1750b26b710943fd4d851d
+      width: 64
+- date: 2015-04-27
+  twitter: https://twitter.com/BBC6Music/status/592597587661856768
+  twitpic: http://pbs.twimg.com/media/CDlUXZNWYAEKOOr.jpg
+  tweet_text: Our Album of the Day comes from @SQUAREPUSHER and @BBC6Breakfast are
+    playing album opener 'Stor Eiglass' http://t.co/guhLvdKT1K
+  artist: Squarepusher
+  title: Damogen Furies
+  spotify:
+    artists:
+    - Squarepusher
+    name: Damogen Furies
+    album_id: 6g7mrQCnCgS6lp2ZNFzkIU
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/a7e60d94b83531024c096776750db77893ee0fb6
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/98b5e57cbdbc6cb4b1622b8c74c3bb443112923c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/2988fc5ae5dc400c6b4e0743fe84f8d8ef2e8347
       width: 64

@@ -1440,3 +1440,47 @@
     - height: 64
       url: https://i.scdn.co/image/2988fc5ae5dc400c6b4e0743fe84f8d8ef2e8347
       width: 64
+- date: 2015-04-28
+  twitter: https://twitter.com/BBC6Music/status/592959508151934977
+  twitpic: http://pbs.twimg.com/media/CDqdhzjWoAEBP8F.jpg
+  tweet_text: 'Speedy Ortiz @killquilty are Album of the Day. ''Foil Deer'' is awesome
+    @BBC6Breakfast #nowplaying ''Mister Difficult'' http://t.co/rkmkzuVR4P'
+  artist: Speedy Ortiz
+  title: Foil Deer
+  spotify:
+    artists:
+    - Speedy Ortiz
+    name: Foil Deer
+    album_id: 50oUe6Xa2j2fL1M3izIzue
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/73de1e5a1381cb9f92bb6b599499c8f2942aca76
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/9fd4c17bc6713f3ebe90fc4c138914e967b46c96
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/7cae2b993378429ad536733c7366fea380d76053
+      width: 64
+- date: 2015-04-29
+  twitter: https://twitter.com/BBC6Music/status/593321453451399168
+  twitpic: http://pbs.twimg.com/media/CDvmt7jWAAAwvdm.jpg
+  tweet_text: 'The mighty @thedjangos are our Album of the Day - @BBC6Breakfast #nowplaying
+    ''Shake and Tremble'' http://t.co/Mrd4BbnSIG'
+  artist: Django Django
+  title: Born Under Saturn
+  spotify:
+    artists:
+    - Django Django
+    name: Born Under Saturn
+    album_id: 0mOFv0y1ybyIo6JEReaUGL
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/86d451a99db636a431569136e1bca79bf008f002
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/285e0f7534fe37fbd604dc291c1036eb61c84389
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/89f9d3f36f153520883a3fbcb70f897b62c1c8fd
+      width: 64

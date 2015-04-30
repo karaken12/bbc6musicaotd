@@ -1484,3 +1484,25 @@
     - height: 64
       url: https://i.scdn.co/image/89f9d3f36f153520883a3fbcb70f897b62c1c8fd
       width: 64
+- date: 2015-04-30
+  twitter: https://twitter.com/BBC6Music/status/593683074526904320
+  twitpic: http://pbs.twimg.com/media/CD0vnCOW8AEnCJF.jpg
+  tweet_text: 'Our Album of the Day today is from @depechemode''s Martin Gore. #nowplaying
+    ''Pinking'' from his solo effort ''MG'' http://t.co/YwmrCSXv5H'
+  artist: Martin Gore
+  title: MG
+  spotify:
+    artists:
+    - MG
+    name: MG
+    album_id: 5TYM2fhV1qbRRGM04QKMAr
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/65d09f79c13b13afbdfca7f1eaf4431952c1b580
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/fa7a7442b137c99cb27fb6941768477555f79ad8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a4bda9eff00975e607ea4fa442c2204a9e5dceff
+      width: 64

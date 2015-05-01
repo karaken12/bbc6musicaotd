@@ -121,15 +121,61 @@
   title: West Coast Seattle Boy – The Jimi Hendrix Anthology
   artist: Jimi Hendrix
   review: http://www.bbc.co.uk/music/reviews/949p
+  type: compilation
+  spotify:
+    artists:
+    - Jimi Hendrix
+    name: 'West Coast Seattle Boy: The Jimi Hendrix Anthology'
+    album_id: 6c0U1VcL3Bom0g6HTpUa1i
+    images:
+    - height: 633
+      url: https://i.scdn.co/image/171200e8053a5c441815d158e2124fd2942b28b5
+      width: 640
+    - height: 297
+      url: https://i.scdn.co/image/412dc0b61c02c1142d010382cdebde8d4a5e4d95
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/4127c4e0dd53edc97748cd27aa0277e72aa30407
+      width: 64
 - date: 2010-11-30
   title: Sandy Denny
   artist: Sandy Denny
   review: http://www.bbc.co.uk/music/reviews/z3rj
   notes: Despite candidates, not on Spotify.
+  spotify:
+    candidates:
+    - artists:
+      - Sandy Denny
+      name: The Best Of Sandy Denny
+      album_id: 0ZB5rH35CecAy7Rwiquirt
+    - artists:
+      - Sandy Denny
+      name: 'The Lady: The Essential Sandy Denny'
+      album_id: 4uqafBLQA6iFCl0o06Up2C
+    - artists:
+      - Sandy Denny
+      name: Listen, Listen - An Introduction To Sandy Denny
+      album_id: 2EqLwh6RkwZsI1BGt2UIQg
 - date: 2010-11-29
   title: 'Station to Station: Super Deluxe Edition'
   artist: David Bowie
   review: http://www.bbc.co.uk/music/reviews/5c9p
+  notes: Not quite the Super Deluxe...
+  spotify:
+    artists:
+    - David Bowie
+    name: Station To Station [Special Edition]
+    album_id: 359mtWK6URMr2CXK7orSZl
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/084a0d96a084e609df66df0ed1db4442ee97038b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/9645887ae16ebebce9a15b8777511896a1161c32
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/34046a625b6b822c02fa72ced7908408083b1f42
+      width: 64
 - date: 2010-11-26
   title: Dummy
   artist: Portishead
@@ -191,6 +237,22 @@
   title: 'Penthouse and Pavement: Collectors Edition'
   artist: Heaven 17
   review: http://www.bbc.co.uk/music/reviews/wngw
+  notes: Not quite the same edition.
+  spotify:
+    artists:
+    - Heaven 17
+    name: Penthouse And Pavement (Special Edition)
+    album_id: 0wE4fqyYSqgQq2oPUE4urx
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/cd8195b3e917f34f3536a175d117f176ff77f9ca
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2462e18e5ba74cebc58c4420bd90b0e086c9466c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/5f1d9f98d71ad95008b1e24c3c5b13f96cc37d15
+      width: 64
 - date: 2010-11-23
   title: Broken Dreams Club
   artist: Girls
@@ -253,6 +315,24 @@
   artist: The Greenhornes
   review: http://www.bbc.co.uk/music/reviews/35fd
   notes: The title is correct, and the candidates are not.
+  spotify:
+    candidates:
+    - artists:
+      - The Greenhornes
+      name: Dual Mono
+      album_id: 4NrdlpNTAeRwF5SrarP2vk
+    - artists:
+      - The Greenhornes
+      name: Sewed Soles
+      album_id: 2fdX9VUNnu8PfPfTuMvSJV
+    - artists:
+      - The Greenhornes
+      name: Gun for You
+      album_id: 6eIpFf6vvpSP6qCik9JeBP
+    - artists:
+      - The Greenhornes
+      name: East Grand Blues
+      album_id: 40WZTo1JDcAHWUeq4xGemm
 - date: 2010-11-17
   title: Royal Variety
   artist: The Seal Cub Clubbing Club
@@ -337,6 +417,21 @@
   title: Nothing
   artist: N*E*R*D
   review: http://www.bbc.co.uk/music/reviews/m2zb
+  spotify:
+    artists:
+    - N.E.R.D.
+    name: Nothing
+    album_id: 1X0xHl0SAiB5oor05jk2K7
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ecb38a97c3c2965ab7f8f8f17f813fa0b47cb0df
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ead472bc29eed4963a7caa52f84a1aeb36a2c99a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1a3783c4f44ff8cffa3bc0872598b0950a3595db
+      width: 64
 - date: 2010-11-09
   title: Here in the Golden Rays
   artist: Haight-Ashbury
@@ -455,6 +550,22 @@
   title: An Introduction To…
   artist: Elliott Smith
   review: http://www.bbc.co.uk/music/reviews/dwnv
+  type: compilation
+  spotify:
+    artists:
+    - Elliott Smith
+    name: An Introduction To...
+    album_id: 4zaxY4AVRAOayq65r366PB
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/070ec020ed75c2f338305d35d35d940281efbf8a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/75e1b40ed66a6911f08d7baf5a2d45426f06017c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9fc808a1a83410c7c9353245df602bc28d7e91e2
+      width: 64
 - date: 2010-10-29
   title: Invariable Heartache
   artist: Kurt Wagner & Cortney Tidwell present KORT
@@ -695,6 +806,21 @@
   title: Belle and Sebastian Write About Love
   artist: Belle and Sebastian
   review: http://www.bbc.co.uk/music/reviews/rxvh
+  spotify:
+    artists:
+    - Belle & Sebastian
+    name: Write About Love
+    album_id: 1dlWXOJNfwsUZQvqEl6tVX
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/a3cc07588c61993cc3759d7b16aae98e0c638f0a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0e5f1e83a3a9247af0f1df0055d6362501c8f312
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/8ea2ee2bb360ea5d63849e48856d71945605d8be
+      width: 64
 - date: 2010-10-09
   title: Imagine
   artist: John Lennon
@@ -736,9 +862,24 @@
       url: https://i.scdn.co/image/9f662c8e81ebe313cd76f2d8936e1d3e2a4fa89e
       width: 64
 - date: 2010-10-07
-  title: It’s What I’m Thinking Pt 1 – Photographing Snowflakes
+  title: 'It’s What I’m Thinking Part One: Photographing Snowflakes'
   artist: Badly Drawn Boy
   review: http://www.bbc.co.uk/music/reviews/zd5c
+  spotify:
+    artists:
+    - Badly Drawn Boy
+    name: 'It''s What I''m Thinking Part One: Photographing Snowflakes'
+    album_id: 1xRXDEEl8anD9zIceSOay1
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/5e84bfeb0be7575c484dce75619e4dbac9695b0f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a08160c0155b370256419fb7eedac5bc42e4af24
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/abc59e4d37e85ef2a0ea76fc5b5c11ae2a1a0b64
+      width: 64
 - date: 2010-10-06
   title: Bubblegum
   artist: Clinic
@@ -1180,6 +1321,22 @@
   title: Diamonds and Pearls
   artist: Prince & The New Power Generation
   review: http://www.bbc.co.uk/music/reviews/gx8r
+  type: compilation
+  spotify:
+    artists:
+    - Prince And The N.P.G.
+    name: Diamonds And Pearls
+    album_id: 6dRctIZQKuZCSSoR6QBBv9
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/588c35579f04607bb65624ad9afd5dbcb2ddb2da
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/642edd854858b6cc3b99b417c2d2bdea7c105be2
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/4a7506418974058e60d8c4c78ad322d84b4b106c
+      width: 64
 - date: 2010-08-19
   title: Hawk
   artist: Isobel Campbell & Mark Lanegan
@@ -1202,9 +1359,24 @@
       url: https://i.scdn.co/image/465c12d3fe1e5ec6792a1e7f9fff47a49e40bbe0
       width: 64
 - date: 2010-08-18
-  title: Electric Warrior (SACD)
+  title: Electric Warrior
   artist: T. Rex
   review: http://www.bbc.co.uk/music/reviews/5wmq
+  spotify:
+    artists:
+    - T. Rex
+    name: Electric Warrior
+    album_id: 2wnq5e000z2hT7qS2F8jZ5
+    images:
+    - height: 634
+      url: https://i.scdn.co/image/4fe7532df1adab1d3c0c5bd23bdba376314013b0
+      width: 640
+    - height: 297
+      url: https://i.scdn.co/image/4928872d493d6539083de6f4ba54c913fc61333a
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/2d7f33de84262ba26e0dfad2ca4a25da418bd86d
+      width: 64
 - date: 2010-08-17
   title: Surfing the Void
   artist: Klaxons
@@ -1369,6 +1541,23 @@
   title: Odessey & Oracle- 40th Anniversary Edition
   artist: The Zombies
   review: http://www.bbc.co.uk/music/reviews/d8p2
+  notes: This is not on Spotify (this album is not the similarly titled live recording).
+    Included the original instead.
+  spotify:
+    artists:
+    - The Zombies
+    name: Odessey And Oracle
+    album_id: 7K6JtyaSSVr7HidQsCHun0
+    images:
+    - height: 600
+      url: https://i.scdn.co/image/83a3d13ceab5a2105b59c9e0de05b80e8c579e20
+      width: 600
+    - height: 300
+      url: https://i.scdn.co/image/d43900a63d336bcf6d208994a3ba21062db3b207
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/f95f5223fe664f5d7d72191c3f1e9fc539a22a54
+      width: 64
 - date: 2010-08-02
   title: The Suburbs
   artist: Arcade Fire
@@ -1601,10 +1790,42 @@
   title: The United Nations of Sound
   artist: RPA & The United Nations Of Sound
   review: http://www.bbc.co.uk/music/reviews/z2cg
+  spotify:
+    artists:
+    - RPA
+    - United Nations of Sound
+    name: United Nations of Sound
+    album_id: 7B3sG0RovU2QHHyjyn8Y2n
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/8e3d9b45c4a1848b70698ee2b950f539a8eb3016
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2bc9ae7cee1defedc2f0e8d8392ad06e50855564
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/552b704c50363f716a6c9904094d1afff8101079
+      width: 64
 - date: 2010-07-12
   title: Dark Night of the Soul
   artist: Danger Mouse and Sparklehorse
   review: http://www.bbc.co.uk/music/reviews/qb3q
+  spotify:
+    artists:
+    - Danger Mouse
+    - Sparklehorse
+    name: Dark Night of The Soul
+    album_id: 0DmKQGWmKXQ3zmjTIQQzK1
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/40f7e595f1dfe76582b77d86994bc2f9b1692f4e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/aa42fd293d59ef8079ca41612af75d67575d6c24
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9dcba75e1b1ce6348957261813164bae7ddae8c4
+      width: 64
 - date: 2010-07-09
   title: A Complete Introduction to Chess
   artist: Various Artists

@@ -17,7 +17,7 @@ end
 
 def process_data(data)
   data.each do |album|
-    if (album['spotify']) then next end
+    if (album['spotify'] and !(album['spotify']['candidates'])) then next end
     if !album['title']
       #puts "= Title missing for item on #{album['date']}"
       next
@@ -38,8 +38,8 @@ def process_data(data)
     if (album['type'])
       type = album['type']
     end
+    spotify_albums_sel = spotify_albums
     spotify_albums_sel = spotify_albums.select{|sa| sa.album_type == type}
-    #spotify_albums_sel = spotify_albums
 
     puts "- Search for #{album['title']} by #{album['artist']}"
     puts "  Found #{spotify_albums.total} (#{spotify_albums_sel.count} selected)"

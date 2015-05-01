@@ -1,102 +1,122 @@
 [
   {
     "date": "2013-03-28 ",
-    "artist": " Edwyn Collins ",
-    "title": " Understated "
+    "artist": "Edwyn Collins",
+    "title": "Understated",
+    "review": "/music/reviews/3xwx"
   },
   {
     "date": "2013-03-27 ",
-    "artist": " Peace ",
-    "title": " In Love "
+    "artist": "Peace",
+    "title": "In Love",
+    "review": "/music/reviews/52x2"
   },
   {
     "date": "2013-03-26 ",
-    "artist": " The Strokes ",
-    "title": " Comedown Machine "
+    "artist": "The Strokes",
+    "title": "Comedown Machine",
+    "review": "/music/reviews/4q3q"
   },
   {
     "date": "2013-03-21 ",
-    "artist": " Billy Bragg ",
-    "title": " Tooth & Nail "
+    "artist": "Billy Bragg",
+    "title": "Tooth & Nail",
+    "review": "/music/reviews/djrj"
   },
   {
     "date": "2013-03-20 ",
-    "artist": " Daughter ",
-    "title": " If You Leave "
+    "artist": "Daughter",
+    "title": "If You Leave",
+    "review": "/music/reviews/jr8r"
   },
   {
     "date": "2013-03-19 ",
-    "artist": " Steve Mason ",
-    "title": " Monkey Minds in the Devil’s Time  "
+    "artist": "Steve Mason",
+    "title": "Monkey Minds in the Devil’s Time",
+    "review": "/music/reviews/r828"
   },
   {
     "date": "2013-03-18 ",
-    "artist": " Suede ",
-    "title": " Bloodsports "
+    "artist": "Suede",
+    "title": "Bloodsports",
+    "review": "/music/reviews/82x2"
   },
   {
     "date": "2013-03-15 ",
-    "artist": " Spinal Tap ",
-    "title": " This Is Spinal Tap "
+    "artist": "Spinal Tap",
+    "title": "This Is Spinal Tap",
+    "review": "/music/reviews/fr8r"
   },
   {
     "date": "2013-03-14 ",
-    "artist": " John Grant  ",
-    "title": " Pale Green Ghosts "
+    "artist": "John Grant",
+    "title": "Pale Green Ghosts",
+    "review": "/music/reviews/v2x2"
   },
   {
     "date": "2013-03-13 ",
-    "artist": " Devendra Banhart  ",
-    "title": " Mala "
+    "artist": "Devendra Banhart",
+    "title": "Mala",
+    "review": "/music/reviews/vnpn"
   },
   {
     "date": "2013-03-12 ",
-    "artist": " Various Artists ",
-    "title": " Sound City: Real to Reel "
+    "artist": "Various Artists",
+    "title": "Sound City: Real to Reel",
+    "review": "/music/reviews/cq3q"
   },
   {
     "date": "2013-03-11 ",
-    "artist": " David Bowie ",
-    "title": " The Next Day "
+    "artist": "David Bowie",
+    "title": "The Next Day",
+    "review": "/music/reviews/rnpn"
   },
   {
     "date": "2013-03-08 ",
-    "artist": " The White Stripes ",
-    "title": " Elephant "
+    "artist": "The White Stripes",
+    "title": "Elephant",
+    "review": "/music/reviews/qfxm"
   },
   {
     "date": "2013-03-07 ",
-    "artist": " Caitlin Rose  ",
-    "title": " The Stand-In "
+    "artist": "Caitlin Rose",
+    "title": "The Stand-In",
+    "review": "/music/reviews/gq3q"
   },
   {
     "date": "2013-03-06 ",
-    "artist": " Robyn Hitchcock ",
-    "title": " Love From London "
+    "artist": "Robyn Hitchcock",
+    "title": "Love From London",
+    "review": "/music/reviews/cnpn"
   },
   {
     "date": "2013-03-05 ",
-    "artist": " Laura Mvula  ",
-    "title": " Sing to the Moon "
+    "artist": "Laura Mvula",
+    "title": "Sing to the Moon",
+    "review": "/music/reviews/fc5c"
   },
   {
     "date": "2013-03-04 ",
-    "artist": " Jimi Hendrix ",
-    "title": " People, Hell and Angels "
+    "artist": "Jimi Hendrix",
+    "title": "People, Hell and Angels",
+    "review": "/music/reviews/mdfd"
   },
   {
     "date": "2013-03-01 ",
-    "artist": " Iggy & The Stooges ",
-    "title": " Raw Power (Legacy Edition) "
+    "artist": "Iggy & The Stooges",
+    "title": "Raw Power (Legacy Edition)",
+    "review": "/music/reviews/zbpn"
   },
   {
     "date": "2013-02-28 ",
-    "artist": " Alice Russell ",
-    "title": " To Dust "
+    "artist": "Alice Russell",
+    "title": "To Dust",
+    "review": "/music/reviews/g5m5"
   },
   {
     "date": "2013-02-27 ",
-    "artist": " Various Artists ",
-    "title": " Son of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys "
+    "artist": "Various Artists",
+    "title": "Son of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys",
+    "review": "/music/reviews/v3d3"
   }
 ]

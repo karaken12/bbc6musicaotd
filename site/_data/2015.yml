@@ -1506,3 +1506,21 @@
     - height: 64
       url: https://i.scdn.co/image/a4bda9eff00975e607ea4fa442c2204a9e5dceff
       width: 64
+- date: 2015-05-01
+  artist: The Human League
+  title: Travelogue
+  spotify:
+    artists:
+    - The Human League
+    name: Travelogue
+    album_id: 3nRP83YnVmP4TTyEzieq2H
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/11d39aa110c66a78a782557280f86b1dbde50f8f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/81f0aa863033fefcf035bf24e622208bf4755a21
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ecba602e2880f7e622d8b4f178e18c7256a48045
+      width: 64

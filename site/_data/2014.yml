@@ -1916,6 +1916,21 @@
   title: Rei Momo
   tweet_text: "#NowPlaying on @BBCRadMac it's David Byrne's Call of The Wild from
     our Album Of The Day: Rei Momo http://t.co/L35RMpRlzv"
+  spotify:
+    artists:
+    - David Byrne
+    name: Rei Momo
+    album_id: 2JQU5ZvGycMsa7gITyaGb6
+    images:
+    - height: 637
+      url: https://i.scdn.co/image/26114f8aff81b428abfbc5451404952133f39463
+      width: 640
+    - height: 299
+      url: https://i.scdn.co/image/8f6c559a2ffe503f2ffef46c9f134c0cca8ff189
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/0864f389cab69e837a0311a684afb9abdae4abf5
+      width: 64
 - date: 2014-06-12
   twitter: https://twitter.com/BBC6Music/status/477091058812485633
   twitpic: http://pbs.twimg.com/media/Bp73ydHCcAIcjX4.jpg
@@ -2579,8 +2594,23 @@
 - date: 2014-04-18
   twitter: https://twitter.com/BBC6Music/status/457160482055786496
   artist: Nas
-  title: Halftime
+  title: Illmatic
   tweet_text: "#NowPlaying From #IllmaticXX, our Album Of The Day it’s @Nas and Halftime..."
+  spotify:
+    artists:
+    - Nas
+    name: Illmatic
+    album_id: 3kEtdS2pH6hKcMU9Wioob1
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d73bddce3c72fc809c86be2467d6a3adbb4d7e24
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/4d11cf0fc74b4961afd1898867eaeb7234c614a5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/11e9f0b26115bdf197eea8036c5315006eb9bc66
+      width: 64
 - date: 2014-04-17
   twitter: https://twitter.com/BBC6Music/status/456796881016725504
   artist: Ben Watt
@@ -2828,11 +2858,28 @@
       width: 64
 - date: 2014-03-21
   twitter: https://twitter.com/BBC6Music/status/447027686909943808
-  artist: Lamb Chop
+  artist: Lambchop
   title: Nixon
   tweet_text: "#NowPlaying Up With People by @lambchopisaband from today’s @BBC6Music
     Album Of The Day, the reissue of their classic, Nixon"
 - date: 2014-03-20
+  artist: Black Lips
+  title: Underneath The Rainbow
+  spotify:
+    artists:
+    - Black Lips
+    name: Underneath the Rainbow (Bonus Track Version)
+    album_id: 4kE1w1zgP6Ag6Ojbuxzk7l
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c9eca97fd2817f349737dfe2aa672929759a556b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b131664fc60fc781b5bfe41a41763d4176abfdcb
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/5d2a8eeb9732f68c09c8c582ee5d028091fe1abf
+      width: 64
 - date: 2014-03-19
 - date: 2014-03-18
 - date: 2014-03-17
@@ -2916,6 +2963,23 @@
 - date: 2014-03-03
 - date: 2014-02-28
 - date: 2014-02-27
+  artist: St. Vincent
+  title: St. Vincent
+  spotify:
+    artists:
+    - St. Vincent
+    name: St. Vincent
+    album_id: 2PbvQ5ALJj6uXgz5X3ghro
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/61e453a4a8eb878a67f6d144aa078d2ef6cbb373
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ce05e15526e59651a1448fbcd97801248c5855af
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/227158e7a1be19b9f576cef8694ce369f0b23cf9
+      width: 64
 - date: 2014-02-26
 - date: 2014-02-25
 - date: 2014-02-24
@@ -2947,6 +3011,23 @@
 - date: 2014-02-18
 - date: 2014-02-17
 - date: 2014-02-14
+  artist: The Smiths
+  title: The Smiths
+  spotify:
+    artists:
+    - The Smiths
+    name: The Smiths
+    album_id: 6cI1XoZsOhkyrCwtuI70CN
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/a22ac406549beb2f7efe44820507698af7d6b1dc
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/1ebddc2d9db587b6d949cc844c10cefece810a83
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9b9432841f626b1fdd33f93e466b057d7defedb2
+      width: 64
 - date: 2014-02-13
   twitter: https://twitter.com/BBC6Music/status/433939947037286400
   artist: Eagulls

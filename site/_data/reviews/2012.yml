@@ -1,0 +1,934 @@
+---
+- date: 2012-12-07
+  title: Christmas Rules
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/bbhf
+- date: 2012-12-06
+  title: 'The Gift: Deluxe Edition'
+  artist: The Jam
+  review: http://www.bbc.co.uk/music/reviews/v8m5
+- date: 2012-12-05
+  title: Tinsel and Lights
+  artist: Tracey Thorn
+  review: http://www.bbc.co.uk/music/reviews/zh8r
+- date: 2012-12-04
+  title: 'The Slider: 40th Anniversary Box Set'
+  artist: T. Rex
+  review: http://www.bbc.co.uk/music/reviews/226m
+- date: 2012-12-03
+  title: 'Turn On the Bright Lights: Tenth Anniversary Edition'
+  artist: Interpol
+  review: http://www.bbc.co.uk/music/reviews/r4nv
+- date: 2012-11-30
+  title: Young Hunger
+  artist: Chad Valley
+  review: http://www.bbc.co.uk/music/reviews/9frj
+- date: 2012-11-29
+  title: More Specials
+  artist: Specials
+  review: http://www.bbc.co.uk/music/reviews/nj54
+- date: 2012-11-28
+  title: The Defenestration of St. Martin
+  artist: Martin Rossiter
+  review: http://www.bbc.co.uk/music/reviews/9wzb
+- date: 2012-11-27
+  title: 'A Walk Across the Rooftops: Collector’s Edition'
+  artist: The Blue Nile
+  review: http://www.bbc.co.uk/music/reviews/xdj9
+- date: 2012-11-26
+  title: 'Rage Against the Machine XX: 20th Anniversary Edition'
+  artist: Rage Against the Machine
+  review: http://www.bbc.co.uk/music/reviews/bfrj
+- date: 2012-11-23
+  title: Blue Lines
+  artist: Massive Attack
+  review: http://www.bbc.co.uk/music/reviews/zgnv
+- date: 2012-11-22
+  title: Bastards
+  artist: Björk
+  review: http://www.bbc.co.uk/music/reviews/z4nv
+- date: 2012-11-21
+  title: Architecture and Morality
+  artist: Orchestral Manoeuvres in the Dark
+  review: http://www.bbc.co.uk/music/reviews/nb8c
+- date: 2012-11-20
+  title: Dead & Born & Grown
+  artist: The Staves
+  review: http://www.bbc.co.uk/music/reviews/526m
+- date: 2012-11-19
+  title: Celebration Day
+  artist: Led Zeppelin
+  review: http://www.bbc.co.uk/music/reviews/pdj9
+- date: 2012-11-16
+  title: Crystal Castles (III)
+  artist: Crystal Castles
+  review: http://www.bbc.co.uk/music/reviews/39gw
+- date: 2012-11-15
+  title: King Animal
+  artist: Soundgarden
+  review: http://www.bbc.co.uk/music/reviews/pwzb
+- date: 2012-11-14
+  title: Black and White
+  artist: The Stranglers
+  review: http://www.bbc.co.uk/music/reviews/5pwx
+- date: 2012-11-13
+  title: Amy Winehouse at the BBC
+  artist: Amy Winehouse
+  review: http://www.bbc.co.uk/music/reviews/zv28
+- date: 2012-11-12
+  title: Grrr!
+  artist: The Rolling Stones
+  review: http://www.bbc.co.uk/music/reviews/mdj9
+- date: 2012-11-09
+  title: Stubborn Heart
+  artist: Stubborn Heart
+  review: http://www.bbc.co.uk/music/reviews/qxb6
+- date: 2012-11-08
+  title: Casino Classics
+  artist: Saint Etienne
+  review: http://www.bbc.co.uk/music/reviews/839p
+- date: 2012-11-07
+  title: 'Generation Terrorists: 20th Anniversary Edition'
+  artist: Manic Street Preachers
+  review: http://www.bbc.co.uk/music/reviews/dg4z
+- date: 2012-11-06
+  title: The North
+  artist: Stars
+  review: http://www.bbc.co.uk/music/reviews/n6fd
+- date: 2012-11-05
+  title: Melody’s Echo Chamber
+  artist: Melody’s Echo Chamber
+  review: http://www.bbc.co.uk/music/reviews/29gw
+- date: 2012-11-02
+  title: Landing on a Hundred
+  artist: Cody ChesnuTT
+  review: http://www.bbc.co.uk/music/reviews/9r5c
+- date: 2012-11-01
+  title: Black Music
+  artist: Dark Horses
+  review: http://www.bbc.co.uk/music/reviews/4md3
+- date: 2012-10-31
+  title: Psychedelic Pill
+  artist: Neil Young & Crazy Horse
+  review: http://www.bbc.co.uk/music/reviews/wr5c
+- date: 2012-10-30
+  title: Spiderwebbed
+  artist: Stumbleine
+  review: http://www.bbc.co.uk/music/reviews/3frj
+- date: 2012-10-29
+  title: The Velvet Underground & Nico - 45th Anniversary Edition
+  artist: The Velvet Underground
+  review: http://www.bbc.co.uk/music/reviews/h26m
+- date: 2012-10-26
+  title: So - 25th Anniversary Edition
+  artist: Peter Gabriel
+  review: http://www.bbc.co.uk/music/reviews/2bhf
+- date: 2012-10-25
+  title: Sundark and Riverlight
+  artist: Patrick Wolf
+  review: http://www.bbc.co.uk/music/reviews/2frj
+- date: 2012-10-24
+  title: Life Is Elsewhere
+  artist: Little Comets
+  review: http://www.bbc.co.uk/music/reviews/gqpn
+- date: 2012-10-23
+  title: Banks
+  artist: Paul Banks
+  review: http://www.bbc.co.uk/music/reviews/f53q
+- date: 2012-10-22
+  title: The Savage Heart
+  artist: The Jim Jones Revue
+  review: http://www.bbc.co.uk/music/reviews/f8m5
+- date: 2012-10-19
+  title: Who's Next
+  artist: The Who
+  review: http://www.bbc.co.uk/music/reviews/98zf
+- date: 2012-10-18
+  title: Come Home to Mama
+  artist: Martha Wainwright
+  review: http://www.bbc.co.uk/music/reviews/46fd
+- date: 2012-10-17
+  title: Dept. of Disappearance
+  artist: Jason Lytle
+  review: http://www.bbc.co.uk/music/reviews/c6fd
+- date: 2012-10-16
+  title: Jake Bugg
+  artist: Jake Bugg
+  review: http://www.bbc.co.uk/music/reviews/zpwx
+- date: 2012-10-15
+  title: The Haunted Man
+  artist: Bat for Lashes
+  review: http://www.bbc.co.uk/music/reviews/r6fd
+- date: 2012-10-12
+  title: Document
+  artist: R.E.M.
+  review: http://www.bbc.co.uk/music/reviews/3z25
+- date: 2012-10-11
+  title: Shifty Adventures in Nookie Wood
+  artist: John Cale
+  review: http://www.bbc.co.uk/music/reviews/bqpn
+- date: 2012-10-10
+  title: Meat + Bone
+  artist: The Jon Spencer Blues Explosion
+  review: http://www.bbc.co.uk/music/reviews/gpwx
+- date: 2012-10-09
+  title: Until the Quiet Comes
+  artist: Flying Lotus
+  review: http://www.bbc.co.uk/music/reviews/h9gw
+- date: 2012-10-08
+  title: Silver Age
+  artist: Bob Mould
+  review: http://www.bbc.co.uk/music/reviews/pr5c
+- date: 2012-10-05
+  title: The Sun Is Often Out
+  artist: Longpigs
+  review: http://www.bbc.co.uk/music/reviews/pcq4
+- date: 2012-10-04
+  title: Oh No I Love You
+  artist: Tim Burgess
+  review: http://www.bbc.co.uk/music/reviews/bnx2
+- date: 2012-10-03
+  title: Lonerism
+  artist: Tame Impala
+  review: http://www.bbc.co.uk/music/reviews/h6fd
+- date: 2012-10-02
+  title: Sugaring Season
+  artist: Beth Orton
+  review: http://www.bbc.co.uk/music/reviews/g39p
+- date: 2012-10-01
+  title: The 2nd Law
+  artist: Muse
+  review: http://www.bbc.co.uk/music/reviews/953q
+- date: 2012-09-28
+  title: 'Reconstructed: The Best of DJ Shadow'
+  artist: DJ Shadow
+  review: http://www.bbc.co.uk/music/reviews/dqpn
+- date: 2012-09-27
+  title: "¡Uno!"
+  artist: Green Day
+  review: http://www.bbc.co.uk/music/reviews/2r5c
+- date: 2012-09-26
+  title: Like I Used To
+  artist: Lucy Rose
+  review: http://www.bbc.co.uk/music/reviews/ncq4
+- date: 2012-09-25
+  title: 'Never Mind the Bollocks, Here’s the Sex Pistols: Deluxe Edition'
+  artist: Sex Pistols
+  review: http://www.bbc.co.uk/music/reviews/r9gw
+- date: 2012-09-24
+  title: Mirage Rock
+  artist: Band of Horses
+  review: http://www.bbc.co.uk/music/reviews/4zvh
+- date: 2012-09-21
+  title: Better Living Through Chemistry
+  artist: Fatboy Slim
+  review: http://www.bbc.co.uk/music/reviews/wmd3
+- date: 2012-09-20
+  title: I Bet on Sky
+  artist: Dinosaur Jr.
+  review: http://www.bbc.co.uk/music/reviews/hwzb
+- date: 2012-09-19
+  title: Babel
+  artist: Mumford & Sons
+  review: http://www.bbc.co.uk/music/reviews/w26m
+- date: 2012-09-18
+  title: The Sound of the Life of the Mind
+  artist: Ben Folds Five
+  review: http://www.bbc.co.uk/music/reviews/m4nv
+- date: 2012-09-17
+  title: Shields
+  artist: Grizzly Bear
+  review: http://www.bbc.co.uk/music/reviews/zbhf
+- date: 2012-09-14
+  title: Power, Corruption & Lies
+  artist: New Order
+  review: http://www.bbc.co.uk/music/reviews/bpwx
+- date: 2012-09-13
+  title: TOY
+  artist: TOY
+  review: http://www.bbc.co.uk/music/reviews/3qpn
+- date: 2012-09-12
+  title: Love This Giant
+  artist: David Byrne and St Vincent
+  review: http://www.bbc.co.uk/music/reviews/639p
+- date: 2012-09-11
+  title: Tempest
+  artist: Bob Dylan
+  review: http://www.bbc.co.uk/music/reviews/gdj9
+- date: 2012-09-10
+  title: Coexist
+  artist: The xx
+  review: http://www.bbc.co.uk/music/reviews/9xb6
+- date: 2012-09-07
+  title: Little Earthquakes
+  artist: Tori Amos
+  review: http://www.bbc.co.uk/music/reviews/zfrj
+- date: 2012-09-06
+  title: kin
+  artist: iamamiwhoami
+  review: http://www.bbc.co.uk/music/reviews/b6fd
+- date: 2012-09-05
+  title: Beacon
+  artist: Two Door Cinema Club
+  review: http://www.bbc.co.uk/music/reviews/4cq4
+- date: 2012-09-04
+  title: Sun
+  artist: Cat Power
+  review: http://www.bbc.co.uk/music/reviews/mnx2
+- date: 2012-09-03
+  title: Centipede Hz
+  artist: Animal Collective
+  review: http://www.bbc.co.uk/music/reviews/54nv
+- date: 2012-08-31
+  title: His ‘n’ Hers
+  artist: Pulp
+  review: http://www.bbc.co.uk/music/reviews/ch8r
+- date: 2012-08-30
+  title: The Orbserver in the Star House
+  artist: The Orb featuring Lee 'Scratch' Perry
+  review: http://www.bbc.co.uk/music/reviews/rzvh
+- date: 2012-08-29
+  title: Come of Age
+  artist: The Vaccines
+  review: http://www.bbc.co.uk/music/reviews/326m
+- date: 2012-08-28
+  title: Summer Special
+  artist: Euros Childs
+  review: http://www.bbc.co.uk/music/reviews/4r5c
+- date: 2012-08-27
+  title: My Head Is an Animal
+  artist: Of Monsters and Men
+  review: http://www.bbc.co.uk/music/reviews/rh8r
+- date: 2012-08-24
+  title: Heart of the Congos
+  artist: The Congos
+  review: http://www.bbc.co.uk/music/reviews/fbhf
+- date: 2012-08-23
+  title: Into the Diamond Sun
+  artist: Stealing Sheep
+  review: http://www.bbc.co.uk/music/reviews/v83q
+- date: 2012-08-22
+  title: Fragrant World
+  artist: Yeasayer
+  review: http://www.bbc.co.uk/music/reviews/99zb
+- date: 2012-08-21
+  title: Devotion
+  artist: Jessie Ware
+  review: http://www.bbc.co.uk/music/reviews/wwhf
+- date: 2012-08-20
+  title: Four
+  artist: Bloc Party
+  review: http://www.bbc.co.uk/music/reviews/5qx2
+- date: 2012-08-17
+  title: The Kinks at the BBC
+  artist: The Kinks
+  review: http://www.bbc.co.uk/music/reviews/ggvh
+- date: 2012-08-16
+  title: 'Just Tell Me That You Want Me: A Tribute to Fleetwood Mac'
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/nm9p
+- date: 2012-08-15
+  title: 'Going Blank Again: 20th Anniversary Edition'
+  artist: Ride
+  review: http://www.bbc.co.uk/music/reviews/zh5c
+- date: 2012-08-14
+  title: I Was a Cat from a Book
+  artist: James Yorkston
+  review: http://www.bbc.co.uk/music/reviews/jz8r
+- date: 2012-08-13
+  title: Freedom Sounds
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/85pn
+- date: 2012-08-10
+  title: Cheek Mountain Thief
+  artist: Cheek Mountain Thief
+  review: http://www.bbc.co.uk/music/reviews/r428
+- date: 2012-08-09
+  title: Electric Hawaii
+  artist: Opossom
+  review: http://www.bbc.co.uk/music/reviews/fgvh
+- date: 2012-08-08
+  title: Cut the World
+  artist: Antony and the Johnsons
+  review: http://www.bbc.co.uk/music/reviews/5n6m
+- date: 2012-08-07
+  title: The Invitation to the Voyage
+  artist: Eugene McGuinness
+  review: http://www.bbc.co.uk/music/reviews/r83q
+- date: 2012-08-06
+  title: Bass Culture
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/8n6m
+- date: 2012-08-03
+  title: Rebirth
+  artist: Jimmy Cliff
+  review: http://www.bbc.co.uk/music/reviews/5pb6
+- date: 2012-08-02
+  title: Abattoir Blues / The Lyre of Orpheus
+  artist: Nick Cave and the Bad Seeds
+  review: http://www.bbc.co.uk/music/reviews/qn8r
+- date: 2012-08-01
+  title: Shrines
+  artist: Purity Ring
+  review: http://www.bbc.co.uk/music/reviews/jh5c
+- date: 2012-07-31
+  title: channel ORANGE
+  artist: Frank Ocean
+  review: http://www.bbc.co.uk/music/reviews/h5pn
+- date: 2012-07-30
+  title: 'Blur 21: The Box'
+  artist: Blur
+  review: http://www.bbc.co.uk/music/reviews/82d3
+- date: 2012-07-27
+  title: Appetite for Destruction
+  artist: Guns N' Roses
+  review: http://www.bbc.co.uk/music/reviews/8xjw
+- date: 2012-07-26
+  title: Loma Vista
+  artist: Family of the Year
+  review: http://www.bbc.co.uk/music/reviews/gcnv
+- date: 2012-07-25
+  title: Silencio
+  artist: Lætitia Sadier
+  review: http://www.bbc.co.uk/music/reviews/zvm5
+- date: 2012-07-24
+  title: Gossamer
+  artist: Passion Pit
+  review: http://www.bbc.co.uk/music/reviews/fh5c
+- date: 2012-07-23
+  title: Life is Good
+  artist: Nas
+  review: http://www.bbc.co.uk/music/reviews/39zb
+- date: 2012-07-20
+  title: Exile On Main St.
+  artist: The Rolling Stones
+  review: http://www.bbc.co.uk/music/reviews/w2f9
+- date: 2012-07-19
+  title: Sticky Fingers
+  artist: The Rolling Stones
+  review: http://www.bbc.co.uk/music/reviews/4pzf
+- date: 2012-07-18
+  title: Let It Bleed
+  artist: The Rolling Stones
+  review: http://www.bbc.co.uk/music/reviews/6hmq
+- date: 2012-07-17
+  title: Beggars Banquet
+  artist: The Rolling Stones
+  review: http://www.bbc.co.uk/music/reviews/jpzf
+- date: 2012-07-16
+  title: The Rolling Stones
+  artist: The Rolling Stones
+  review: http://www.bbc.co.uk/music/reviews/3whf
+- date: 2012-07-13
+  title: Leaders of the Free World
+  artist: Elbow
+  review: http://www.bbc.co.uk/music/reviews/gj25
+- date: 2012-07-12
+  title: Remain in Light
+  artist: Talking Heads
+  review: http://www.bbc.co.uk/music/reviews/bcnv
+- date: 2012-07-11
+  title: Is Your Love Big Enough?
+  artist: Lianne La Havas
+  review: http://www.bbc.co.uk/music/reviews/29zb
+- date: 2012-07-10
+  title: Swing Lo Magellan
+  artist: Dirty Projectors
+  review: http://www.bbc.co.uk/music/reviews/n9zb
+- date: 2012-07-09
+  title: Hold Fast
+  artist: The Crookes
+  review: http://www.bbc.co.uk/music/reviews/jvm5
+- date: 2012-07-06
+  title: Roll On, Roll On
+  artist: Tom Paley’s Old-Time Moonshine Review
+  review: http://www.bbc.co.uk/music/reviews/q9zb
+- date: 2012-07-05
+  title: Island Fire
+  artist: Gemma Ray
+  review: http://www.bbc.co.uk/music/reviews/fpb6
+- date: 2012-07-04
+  title: Celeste
+  artist: My Tiger My Timing
+  review: http://www.bbc.co.uk/music/reviews/86j9
+- date: 2012-07-03
+  title: The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords
+    Will Serve You More Than Ropes Will Ever Do
+  artist: Fiona Apple
+  review: http://www.bbc.co.uk/music/reviews/j2d3
+- date: 2012-07-02
+  title: Second Coming
+  artist: The Stone Roses
+  review: http://www.bbc.co.uk/music/reviews/38p2
+- date: 2012-06-29
+  title: I Just Can’t Stop It
+  artist: The Beat
+  review: http://www.bbc.co.uk/music/reviews/pz8r
+- date: 2012-06-28
+  title: Synthetica
+  artist: Metric
+  review: http://www.bbc.co.uk/music/reviews/nfcg
+- date: 2012-06-27
+  title: Cancer4Cure
+  artist: El-P
+  review: http://www.bbc.co.uk/music/reviews/cgvh
+- date: 2012-06-26
+  title: The House That Jack Built
+  artist: Jesca Hoop
+  review: http://www.bbc.co.uk/music/reviews/3z8r
+- date: 2012-06-25
+  title: The Flaming Lips and Heady Fwends
+  artist: The Flaming Lips
+  review: http://www.bbc.co.uk/music/reviews/xh5c
+- date: 2012-06-22
+  title: 'The Old Grey Whistle Test: Live'
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/fqx2
+- date: 2012-06-21
+  title: Oceania
+  artist: The Smashing Pumpkins
+  review: http://www.bbc.co.uk/music/reviews/jn6m
+- date: 2012-06-20
+  title: Rispah
+  artist: The Invisible
+  review: http://www.bbc.co.uk/music/reviews/dqx2
+- date: 2012-06-19
+  title: Dream Life
+  artist: Mary Epworth
+  review: http://www.bbc.co.uk/music/reviews/ph5c
+- date: 2012-06-18
+  title: Trouble
+  artist: Totally Enormous Extinct Dinosaurs
+  review: http://www.bbc.co.uk/music/reviews/8brj
+- date: 2012-06-15
+  title: Heaven
+  artist: The Walkmen
+  review: http://www.bbc.co.uk/music/reviews/vgvh
+- date: 2012-06-14
+  title: The Bravest Man in the Universe
+  artist: Bobby Womack
+  review: http://www.bbc.co.uk/music/reviews/g3wx
+- date: 2012-06-13
+  title: In Our Heads
+  artist: Hot Chip
+  review: http://www.bbc.co.uk/music/reviews/3rq4
+- date: 2012-06-12
+  title: The National Health
+  artist: Maxïmo Park
+  review: http://www.bbc.co.uk/music/reviews/683q
+- date: 2012-06-11
+  title: The Clash
+  artist: The Clash
+  review: http://www.bbc.co.uk/music/reviews/92f9
+- date: 2012-06-08
+  title: Dare / Fascination
+  artist: The Human League
+  review: http://www.bbc.co.uk/music/reviews/xvm5
+- date: 2012-06-07
+  title: Banga
+  artist: Patti Smith
+  review: http://www.bbc.co.uk/music/reviews/wn6m
+- date: 2012-06-06
+  title: Manifest!
+  artist: Friends
+  review: http://www.bbc.co.uk/music/reviews/p428
+- date: 2012-06-05
+  title: One Day I’m Going to Soar
+  artist: Dexys
+  review: http://www.bbc.co.uk/music/reviews/5z8r
+- date: 2012-06-04
+  title: Anxiety
+  artist: Ladyhawke
+  review: http://www.bbc.co.uk/music/reviews/65pn
+- date: 2012-06-01
+  title: Copper Blue
+  artist: Sugar
+  review: http://www.bbc.co.uk/music/reviews/z9zb
+- date: 2012-05-31
+  title: An Awesome Wave
+  artist: Alt-J
+  review: http://www.bbc.co.uk/music/reviews/mvm5
+- date: 2012-05-30
+  title: Valtari
+  artist: Sigur Rós
+  review: http://www.bbc.co.uk/music/reviews/4z8r
+- date: 2012-05-29
+  title: What We Saw From the Cheap Seats
+  artist: Regina Spektor
+  review: http://www.bbc.co.uk/music/reviews/wm9p
+- date: 2012-05-28
+  title: This is PiL
+  artist: Public Image Ltd
+  review: http://www.bbc.co.uk/music/reviews/8gvh
+- date: 2012-05-25
+  title: Ram
+  artist: Paul and Linda McCartney
+  review: http://www.bbc.co.uk/music/reviews/gdgw
+- date: 2012-05-24
+  title: Language
+  artist: Zulu Winter
+  review: http://www.bbc.co.uk/music/reviews/2vm5
+- date: 2012-05-23
+  title: Words and Music by Saint Etienne
+  artist: Saint Etienne
+  review: http://www.bbc.co.uk/music/reviews/hfcg
+- date: 2012-05-22
+  title: Mid Air
+  artist: Paul Buchanan
+  review: http://www.bbc.co.uk/music/reviews/62d3
+- date: 2012-05-21
+  title: Gaz Coombes Presents Here Come the Bombs
+  artist: Gaz Coombes
+  review: http://www.bbc.co.uk/music/reviews/fxfd
+- date: 2012-05-18
+  title: From the Beginning – Deluxe Edition
+  artist: Small Faces
+  review: http://www.bbc.co.uk/music/reviews/bdgw
+- date: 2012-05-17
+  title: The Only Place
+  artist: Best Coast
+  review: http://www.bbc.co.uk/music/reviews/pm9p
+- date: 2012-05-16
+  title: Urban Turban – The Singhles Club
+  artist: Cornershop
+  review: http://www.bbc.co.uk/music/reviews/fdgw
+- date: 2012-05-15
+  title: Bloom
+  artist: Beach House
+  review: http://www.bbc.co.uk/music/reviews/8cnv
+- date: 2012-05-14
+  title: Not Your Kind of People
+  artist: Garbage
+  review: http://www.bbc.co.uk/music/reviews/gwhf
+- date: 2012-05-11
+  title: Standing at the Sky’s Edge
+  artist: Richard Hawley
+  review: http://www.bbc.co.uk/music/reviews/xxj9
+- date: 2012-05-10
+  title: Various Cruelties
+  artist: Various Cruelties
+  review: http://www.bbc.co.uk/music/reviews/wwrj
+- date: 2012-05-09
+  title: Dr Dee
+  artist: Damon Albarn
+  review: http://www.bbc.co.uk/music/reviews/x3wx
+- date: 2012-05-08
+  title: In the Belly of the Brazen Bull
+  artist: The Cribs
+  review: http://www.bbc.co.uk/music/reviews/4cnv
+- date: 2012-05-07
+  title: Paul's Boutique 20th Anniversary Edition Remastered
+  artist: Beastie Boys
+  review: http://www.bbc.co.uk/music/reviews/bq3n
+- date: 2012-05-04
+  title: Loveless
+  artist: My Bloody Valentine
+  review: http://www.bbc.co.uk/music/reviews/q2dp
+- date: 2012-05-03
+  title: Crown and Treaty
+  artist: Sweet Billy Pilgrim
+  review: http://www.bbc.co.uk/music/reviews/33b6
+- date: 2012-05-02
+  title: Give You the Ghost
+  artist: Poliça
+  review: http://www.bbc.co.uk/music/reviews/hrnv
+- date: 2012-05-01
+  title: Romancing
+  artist: Devin
+  review: http://www.bbc.co.uk/music/reviews/2n6m
+- date: 2012-04-30
+  title: Radlands
+  artist: Mystery Jets
+  review: http://www.bbc.co.uk/music/reviews/bbcg
+- date: 2012-04-27
+  title: 'Electric Warrior: 40th Anniversary Edition'
+  artist: T. Rex
+  review: http://www.bbc.co.uk/music/reviews/85x2
+- date: 2012-04-26
+  title: Teenage Blood
+  artist: Tom Williams & The Boat
+  review: http://www.bbc.co.uk/music/reviews/529p
+- date: 2012-04-25
+  title: Out of the Game
+  artist: Rufus Wainwright
+  review: http://www.bbc.co.uk/music/reviews/9wrj
+- date: 2012-04-24
+  title: Master of My Make-Believe
+  artist: Santigold
+  review: http://www.bbc.co.uk/music/reviews/wbcg
+- date: 2012-04-23
+  title: Blunderbuss
+  artist: Jack White
+  review: http://www.bbc.co.uk/music/reviews/5q6m
+- date: 2012-04-20
+  title: MTV Unplugged
+  artist: Florence + the Machine
+  review: http://www.bbc.co.uk/music/reviews/mpfd
+- date: 2012-04-19
+  title: awE naturalE
+  artist: THEESatisfaction
+  review: http://www.bbc.co.uk/music/reviews/xwrj
+- date: 2012-04-18
+  title: London Calling - 25th Anniversary Edition
+  artist: The Clash
+  review: http://www.bbc.co.uk/music/reviews/c3cz
+- date: 2012-04-17
+  title: A Wasteland Companion
+  artist: M. Ward
+  review: http://www.bbc.co.uk/music/reviews/3xj9
+- date: 2012-04-16
+  title: Sweet Heart Sweet Light
+  artist: Spiritualized
+  review: http://www.bbc.co.uk/music/reviews/xdzb
+- date: 2012-04-13
+  title: All Through the City (With Wilko 1974-1977)
+  artist: Dr. Feelgood
+  review: http://www.bbc.co.uk/music/reviews/c5x2
+- date: 2012-04-12
+  title: The Journey Is Long
+  artist: The Jeffrey Lee Pierce Sessions Project
+  review: http://www.bbc.co.uk/music/reviews/4q6m
+- date: 2012-04-11
+  title: Urban Hymns
+  artist: The Verve
+  review: http://www.bbc.co.uk/music/reviews/vqvh
+- date: 2012-04-10
+  title: First Serve
+  artist: De La Soul’s Plug One & Plug Two Present... First Serve
+  review: http://www.bbc.co.uk/music/reviews/r8pn
+- date: 2012-04-09
+  title: Boys & Girls
+  artist: Alabama Shakes
+  review: http://www.bbc.co.uk/music/reviews/829p
+- date: 2012-04-06
+  title: Dig Your Own Hole
+  artist: The Chemical Brothers
+  review: http://www.bbc.co.uk/music/reviews/bh28
+- date: 2012-04-05
+  title: Rant
+  artist: The Futureheads
+  review: http://www.bbc.co.uk/music/reviews/r5x2
+- date: 2012-04-04
+  title: Look Around the Corner
+  artist: Quantic & Alice Russell with the Combo Bárbaro
+  review: http://www.bbc.co.uk/music/reviews/6f4z
+- date: 2012-04-03
+  title: A+E
+  artist: Graham Coxon
+  review: http://www.bbc.co.uk/music/reviews/z5x2
+- date: 2012-04-02
+  title: Wonky
+  artist: Orbital
+  review: http://www.bbc.co.uk/music/reviews/nxj9
+- date: 2012-03-30
+  title: Viva Hate
+  artist: Morrissey
+  review: http://www.bbc.co.uk/music/reviews/6jvh
+- date: 2012-03-29
+  title: Locked Down
+  artist: Dr. John
+  review: http://www.bbc.co.uk/music/reviews/8pfd
+- date: 2012-03-28
+  title: Replicas Redux
+  artist: Gary Numan/Tubeway Army
+  review: http://www.bbc.co.uk/music/reviews/z6gb
+- date: 2012-03-27
+  title: Let It Break
+  artist: Gemma Hayes
+  review: http://www.bbc.co.uk/music/reviews/2dzb
+- date: 2012-03-26
+  title: Rocket Juice and The Moon
+  artist: Rocket Juice and The Moon
+  review: http://www.bbc.co.uk/music/reviews/xf4z
+- date: 2012-03-09
+  title: Love at the Bottom of the Sea
+  artist: The Magnetic Fields
+  review: http://www.bbc.co.uk/music/reviews/h3b6
+- date: 2012-03-08
+  title: LCD Soundsystem
+  artist: LCD Soundsystem
+  review: http://www.bbc.co.uk/music/reviews/mqjw
+- date: 2012-03-07
+  title: Rise Ye Sunken Ships
+  artist: We Are Augustines
+  review: http://www.bbc.co.uk/music/reviews/2jvh
+- date: 2012-03-06
+  title: How About I Be Me (And You Be You)?
+  artist: Sinéad O’Connor
+  review: http://www.bbc.co.uk/music/reviews/d4m5
+- date: 2012-03-05
+  title: Wrecking Ball
+  artist: Bruce Springsteen
+  review: http://www.bbc.co.uk/music/reviews/94m5
+- date: 2012-03-02
+  title: The Wall (Experience Edition)
+  artist: Pink Floyd
+  review: http://www.bbc.co.uk/music/reviews/rxj9
+- date: 2012-03-01
+  title: Sounds From Nowheresville
+  artist: The Ting Tings
+  review: http://www.bbc.co.uk/music/reviews/xc28
+- date: 2012-02-29
+  title: True Loves
+  artist: Hooray for Earth
+  review: http://www.bbc.co.uk/music/reviews/95x2
+- date: 2012-02-28
+  title: Put Your Back N 2 It
+  artist: Perfume Genius
+  review: http://www.bbc.co.uk/music/reviews/mc28
+- date: 2012-02-27
+  title: Ghostory
+  artist: School of Seven Bells
+  review: http://www.bbc.co.uk/music/reviews/cdzb
+- date: 2012-02-24
+  title: Azari & III
+  artist: Azari & III
+  review: http://www.bbc.co.uk/music/reviews/xbvh
+- date: 2012-02-23
+  title: Mr M
+  artist: Lambchop
+  review: http://www.bbc.co.uk/music/reviews/vbcg
+- date: 2012-02-22
+  title: Blur
+  artist: Blur
+  review: http://www.bbc.co.uk/music/reviews/43gb
+- date: 2012-02-21
+  title: The Something Rain
+  artist: Tindersticks
+  review: http://www.bbc.co.uk/music/reviews/4wrj
+- date: 2012-02-20
+  title: Reign of Terror
+  artist: Sleigh Bells
+  review: http://www.bbc.co.uk/music/reviews/8bcg
+- date: 2012-02-17
+  title: X5
+  artist: Simple Minds
+  review: http://www.bbc.co.uk/music/reviews/68pn
+- date: 2012-02-16
+  title: Tramp
+  artist: Sharon Van Etten
+  review: http://www.bbc.co.uk/music/reviews/vjvh
+- date: 2012-02-15
+  title: Freedom of Speech
+  artist: Speech Debelle
+  review: http://www.bbc.co.uk/music/reviews/x5x2
+- date: 2012-02-14
+  title: Pray to Be Free
+  artist: James Levy and The Blood Red Rose
+  review: http://www.bbc.co.uk/music/reviews/xv3q
+- date: 2012-02-13
+  title: Plumb
+  artist: Field Music
+  review: http://www.bbc.co.uk/music/reviews/p8pn
+- date: 2012-02-10
+  title: The Singles
+  artist: Goldfrapp
+  review: http://www.bbc.co.uk/music/reviews/8g8r
+- date: 2012-02-09
+  title: 'Chimes of Freedom: Songs of Bob Dylan'
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/gxj9
+- date: 2012-02-08
+  title: Blues Funeral
+  artist: Mark Lanegan Band
+  review: http://www.bbc.co.uk/music/reviews/4f4z
+- date: 2012-02-07
+  title: Yours Truly, Cellophane Nose
+  artist: Beth Jeans Houghton & The Hooves of Destiny
+  review: http://www.bbc.co.uk/music/reviews/x8pn
+- date: 2012-02-06
+  title: Le Voyage Dans La Lune
+  artist: Air
+  review: http://www.bbc.co.uk/music/reviews/g6gw
+- date: 2012-02-02
+  title: Django Django
+  artist: Django Django
+  review: http://www.bbc.co.uk/music/reviews/bpfd
+- date: 2012-02-01
+  title: Be Strong
+  artist: The 2 Bears
+  review: http://www.bbc.co.uk/music/reviews/5rnv
+- date: 2012-01-31
+  title: Born to Die
+  artist: Lana Del Rey
+  review: http://www.bbc.co.uk/music/reviews/qrnv
+- date: 2012-01-30
+  title: Old Ideas
+  artist: Leonard Cohen
+  review: http://www.bbc.co.uk/music/reviews/xq6m
+- date: 2012-01-27
+  title: L.A. Woman – 40th Anniversary Edition
+  artist: The Doors
+  review: http://www.bbc.co.uk/music/reviews/8hq4
+- date: 2012-01-26
+  title: The Lion’s Roar
+  artist: First Aid Kit
+  review: http://www.bbc.co.uk/music/reviews/629p
+- date: 2012-01-25
+  title: Tough Love
+  artist: Pulled Apart By Horses
+  review: http://www.bbc.co.uk/music/reviews/dmwx
+- date: 2012-01-24
+  title: The Stars Are Indifferent To Astronomy
+  artist: Nada Surf
+  review: http://www.bbc.co.uk/music/reviews/n4m5
+- date: 2012-01-23
+  title: E Volo Love
+  artist: Fránçois & the Atlas Mountains
+  review: http://www.bbc.co.uk/music/reviews/hjvh
+- date: 2012-01-19
+  title: Voyageur
+  artist: Kathleen Edwards
+  review: http://www.bbc.co.uk/music/reviews/j9hf
+- date: 2012-01-18
+  title: Future This
+  artist: The Big Pink
+  review: http://www.bbc.co.uk/music/reviews/9xj9
+- date: 2012-01-17
+  title: America Give Up
+  artist: Howler
+  review: http://www.bbc.co.uk/music/reviews/wxj9
+- date: 2012-01-16
+  title: Let’s Go Eat the Factory
+  artist: Guided by Voices
+  review: http://www.bbc.co.uk/music/reviews/cg8r
+- date: 2012-01-13
+  title: New Boots and Panties!!
+  artist: Ian Dury
+  review: http://www.bbc.co.uk/music/reviews/mq6m
+- date: 2012-01-12
+  title: La Grande
+  artist: Laura Gibson
+  review: http://www.bbc.co.uk/music/reviews/63b6
+- date: 2012-01-11
+  title: Glowing Mouth
+  artist: Milagres
+  review: http://www.bbc.co.uk/music/reviews/dpfd
+- date: 2012-01-10
+  title: Bandwagonesque
+  artist: Teenage Fanclub
+  review: http://www.bbc.co.uk/music/reviews/3nd3
+- date: 2012-01-09
+  title: Given to the Wild
+  artist: The Maccabees
+  review: http://www.bbc.co.uk/music/reviews/w6gw
+- date: 2012-01-06
+  title: Black Tie White Noise
+  artist: David Bowie
+  review: http://www.bbc.co.uk/music/reviews/m29p
+- date: 2012-01-05
+  title: Let’s Dance
+  artist: David Bowie
+  review: http://www.bbc.co.uk/music/reviews/3mwx
+- date: 2012-01-04
+  title: Low
+  artist: David Bowie
+  review: http://www.bbc.co.uk/music/reviews/qgn8
+- date: 2012-01-03
+  title: 'Station to Station: Super Deluxe Edition'
+  artist: David Bowie
+  review: http://www.bbc.co.uk/music/reviews/5c9p
+- date: 2012-01-02
+  title: 'Ziggy Stardust and the Spiders From Mars: The Motion Picture'
+  artist: David Bowie
+  review: http://www.bbc.co.uk/music/reviews/c9mq

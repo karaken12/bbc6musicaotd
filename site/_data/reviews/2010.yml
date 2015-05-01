@@ -1,0 +1,521 @@
+---
+- date: 2010-12-31
+  title: Kid A
+  artist: Radiohead
+  review: http://www.bbc.co.uk/music/reviews/jmf9
+- date: 2010-12-29
+  title: Reading, Writing and Arithmetic
+  artist: The Sundays
+  review: http://www.bbc.co.uk/music/reviews/nmxm
+- date: 2010-12-28
+  title: More Specials
+  artist: The Specials
+  review: http://www.bbc.co.uk/music/reviews/nj54
+- date: 2010-12-27
+  title: Led Zeppelin III
+  artist: Led Zeppelin
+  review: http://www.bbc.co.uk/music/reviews/m34z
+- date: 2010-12-24
+  title: The Suburbs
+  artist: Arcade Fire
+  review: http://www.bbc.co.uk/music/reviews/nm4z
+- date: 2010-12-03
+  title: Coals to Newcastle
+  artist: Orange Juice
+  review: http://www.bbc.co.uk/music/reviews/rx4z
+- date: 2010-12-02
+  title: The Original Mono Recordings / The Best of the Original Mono Recordings
+  artist: Bob Dylan
+  review: http://www.bbc.co.uk/music/reviews/hpcg
+- date: 2010-12-01
+  title: West Coast Seattle Boy – The Jimi Hendrix Anthology
+  artist: Jimi Hendrix
+  review: http://www.bbc.co.uk/music/reviews/949p
+- date: 2010-11-30
+  title: Sandy Denny
+  artist: Sandy Denny
+  review: http://www.bbc.co.uk/music/reviews/z3rj
+- date: 2010-11-29
+  title: 'Station to Station: Super Deluxe Edition'
+  artist: David Bowie
+  review: http://www.bbc.co.uk/music/reviews/5c9p
+- date: 2010-11-26
+  title: Dummy
+  artist: Portishead
+  review: http://www.bbc.co.uk/music/reviews/j6vh
+- date: 2010-11-26
+  title: My Beautiful Dark Twisted Fantasy
+  artist: Kanye West
+  review: http://www.bbc.co.uk/music/reviews/jngw
+- date: 2010-11-25
+  title: Forget
+  artist: Twin Shadow
+  review: http://www.bbc.co.uk/music/reviews/x2zb
+- date: 2010-11-24
+  title: 'Penthouse and Pavement: Collectors Edition'
+  artist: Heaven 17
+  review: http://www.bbc.co.uk/music/reviews/wngw
+- date: 2010-11-23
+  title: Broken Dreams Club
+  artist: Girls
+  review: http://www.bbc.co.uk/music/reviews/pvwx
+- date: 2010-11-22
+  title: I’m Having Fun Now
+  artist: Jenny and Johnny
+  review: http://www.bbc.co.uk/music/reviews/rf28
+- date: 2010-11-19
+  title: 'Sound Affects: Deluxe Edition'
+  artist: The Jam
+  review: http://www.bbc.co.uk/music/reviews/bpcg
+- date: 2010-11-18
+  title: "****"
+  artist: The Greenhornes
+  review: http://www.bbc.co.uk/music/reviews/35fd
+- date: 2010-11-17
+  title: Royal Variety
+  artist: The Seal Cub Clubbing Club
+  review: http://www.bbc.co.uk/music/reviews/m8b6
+- date: 2010-11-16
+  title: Small Craft on a Milk Sea
+  artist: Brian Eno
+  review: http://www.bbc.co.uk/music/reviews/93rj
+- date: 2010-11-15
+  title: The Promise
+  artist: Bruce Springsteen
+  review: http://www.bbc.co.uk/music/reviews/38b6
+- date: 2010-11-12
+  title: The Best Of
+  artist: Suede
+  review: http://www.bbc.co.uk/music/reviews/6mhf
+- date: 2010-11-11
+  title: WYWH
+  artist: The Concretes
+  review: http://www.bbc.co.uk/music/reviews/5vwx
+- date: 2010-11-10
+  title: Nothing
+  artist: N*E*R*D
+  review: http://www.bbc.co.uk/music/reviews/m2zb
+- date: 2010-11-09
+  title: Here in the Golden Rays
+  artist: Haight-Ashbury
+  review: http://www.bbc.co.uk/music/reviews/d6vh
+- date: 2010-11-08
+  title: The Lady Killer
+  artist: Cee Lo Green
+  review: http://www.bbc.co.uk/music/reviews/jbnv
+- date: 2010-11-05
+  title: 'The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9)'
+  artist: Bob Dylan
+  review: http://www.bbc.co.uk/music/reviews/db28
+- date: 2010-11-04
+  title: The Fool
+  artist: Warpaint
+  review: http://www.bbc.co.uk/music/reviews/grd3
+- date: 2010-11-03
+  title: Blurry Blue Mountain
+  artist: Giant Sand
+  review: http://www.bbc.co.uk/music/reviews/gvb6
+- date: 2010-11-02
+  title: Let Me Come Home
+  artist: Broken Records
+  review: http://www.bbc.co.uk/music/reviews/hnzb
+- date: 2010-11-01
+  title: An Introduction To…
+  artist: Elliott Smith
+  review: http://www.bbc.co.uk/music/reviews/dwnv
+- date: 2010-10-29
+  title: Invariable Heartache
+  artist: Kurt Wagner & Cortney Tidwell present KORT
+  review: http://www.bbc.co.uk/music/reviews/jvb6
+- date: 2010-10-28
+  title: Olympia
+  artist: Bryan Ferry
+  review: http://www.bbc.co.uk/music/reviews/v3cg
+- date: 2010-10-27
+  title: The Age of Adz
+  artist: Sufjan Stevens
+  review: http://www.bbc.co.uk/music/reviews/8d5c
+- date: 2010-10-26
+  title: 'Come and Get It: The Best of Apple Records'
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/dgpn
+- date: 2010-10-25
+  title: National Ransom
+  artist: Elvis Costello
+  review: http://www.bbc.co.uk/music/reviews/hqgw
+- date: 2010-10-22
+  title: 'Searching For the Young Soul Rebels: 30th Anniversary Special Edition'
+  artist: Dexys Midnight Runners
+  review: http://www.bbc.co.uk/music/reviews/n9q4
+- date: 2010-10-21
+  title: The Golden Year
+  artist: Où est le swimming pool
+  review: http://www.bbc.co.uk/music/reviews/9rd3
+- date: 2010-10-20
+  title: White Light
+  artist: Groove Armada
+  review: http://www.bbc.co.uk/music/reviews/3b28
+- date: 2010-10-19
+  title: The Wants
+  artist: The Phantom Band
+  review: http://www.bbc.co.uk/music/reviews/mzx2
+- date: 2010-10-18
+  title: Come Around Sundown
+  artist: Kings of Leon
+  review: http://www.bbc.co.uk/music/reviews/c68r
+- date: 2010-10-15
+  title: Telephantasm
+  artist: Soundgarden
+  review: http://www.bbc.co.uk/music/reviews/vc9p
+- date: 2010-10-14
+  title: Lisbon
+  artist: The Walkmen
+  review: http://www.bbc.co.uk/music/reviews/4xvh
+- date: 2010-10-13
+  title: Margins
+  artist: Paul Smith
+  review: http://www.bbc.co.uk/music/reviews/nfm5
+- date: 2010-10-12
+  title: Every Step’s a Yes
+  artist: The Bees
+  review: http://www.bbc.co.uk/music/reviews/v68r
+- date: 2010-10-11
+  title: Belle and Sebastian Write About Love
+  artist: Belle and Sebastian
+  review: http://www.bbc.co.uk/music/reviews/rxvh
+- date: 2010-10-09
+  title: Imagine
+  artist: John Lennon
+  review: http://www.bbc.co.uk/music/reviews/dhd3
+- date: 2010-10-08
+  title: Halcyon Digest
+  artist: Deerhunter
+  review: http://www.bbc.co.uk/music/reviews/b3cg
+- date: 2010-10-07
+  title: It’s What I’m Thinking Pt 1 – Photographing Snowflakes
+  artist: Badly Drawn Boy
+  review: http://www.bbc.co.uk/music/reviews/zd5c
+- date: 2010-10-06
+  title: Bubblegum
+  artist: Clinic
+  review: http://www.bbc.co.uk/music/reviews/9xvh
+- date: 2010-10-05
+  title: Carl Barât
+  artist: Carl Barât
+  review: http://www.bbc.co.uk/music/reviews/d3cg
+- date: 2010-10-04
+  title: Pearl
+  artist: Janis Joplin
+  review: http://www.bbc.co.uk/music/reviews/h5xm
+- date: 2010-09-30
+  title: Lonely Avenue
+  artist: Ben Folds
+  review: http://www.bbc.co.uk/music/reviews/4h6m
+- date: 2010-09-29
+  title: Sugar Hill Rap Classics
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/vrd3
+- date: 2010-09-28
+  title: Losing Sleep
+  artist: Edwyn Collins
+  review: http://www.bbc.co.uk/music/reviews/p3cg
+- date: 2010-09-27
+  title: Mixed Race
+  artist: Tricky
+  review: http://www.bbc.co.uk/music/reviews/rr9p
+- date: 2010-09-24
+  title: Led Zeppelin IV
+  artist: Led Zeppelin
+  review: http://www.bbc.co.uk/music/reviews/zpzf
+- date: 2010-09-23
+  title: Hurley
+  artist: Weezer
+  review: http://www.bbc.co.uk/music/reviews/fwnv
+- date: 2010-09-22
+  title: Maximum Balloon
+  artist: Maximum Balloon
+  review: http://www.bbc.co.uk/music/reviews/pw28
+- date: 2010-09-21
+  title: Interpol
+  artist: Interpol
+  review: http://www.bbc.co.uk/music/reviews/234z
+- date: 2010-09-20
+  title: Postcards From a Young Man
+  artist: Manic Street Preachers
+  review: http://www.bbc.co.uk/music/reviews/vvfd
+- date: 2010-09-17
+  title: Electric Ladyland
+  artist: The Jimi Hendrix Experience
+  review: http://www.bbc.co.uk/music/reviews/h2f9
+- date: 2010-09-16
+  title: Grinderman 2
+  artist: Grinderman
+  review: http://www.bbc.co.uk/music/reviews/g4b6
+- date: 2010-09-15
+  title: Senior
+  artist: Röyksopp
+  review: http://www.bbc.co.uk/music/reviews/z8j9
+- date: 2010-09-14
+  title: Flamingo
+  artist: Brandon Flowers
+  review: http://www.bbc.co.uk/music/reviews/nw28
+- date: 2010-09-13
+  title: Barking
+  artist: Underworld
+  review: http://www.bbc.co.uk/music/reviews/fhd3
+- date: 2010-09-10
+  title: Band of Joy
+  artist: Robert Plant
+  review: http://www.bbc.co.uk/music/reviews/3x8r
+- date: 2010-09-09
+  title: The Morning After
+  artist: James
+  review: http://www.bbc.co.uk/music/reviews/h5gw
+- date: 2010-09-07
+  title: Pull in Emergency
+  artist: Pull in Emergency
+  review: http://www.bbc.co.uk/music/reviews/bhd3
+- date: 2010-08-25
+  title: Paupers Field
+  artist: Dylan LeBlanc
+  review: http://www.bbc.co.uk/music/reviews/6vfd
+- date: 2010-08-24
+  title: Weathervanes
+  artist: Freelance Whales
+  review: http://www.bbc.co.uk/music/reviews/x4b6
+- date: 2010-08-23
+  title: Strange Weather, Isn't It?
+  artist: "!!!"
+  review: http://www.bbc.co.uk/music/reviews/mhd3
+- date: 2010-08-20
+  title: Diamonds and Pearls
+  artist: Prince & The New Power Generation
+  review: http://www.bbc.co.uk/music/reviews/gx8r
+- date: 2010-08-19
+  title: Hawk
+  artist: Isobel Campbell & Mark Lanegan
+  review: http://www.bbc.co.uk/music/reviews/6nhf
+- date: 2010-08-18
+  title: Electric Warrior (SACD)
+  artist: T. Rex
+  review: http://www.bbc.co.uk/music/reviews/5wmq
+- date: 2010-08-17
+  title: Surfing the Void
+  artist: Klaxons
+  review: http://www.bbc.co.uk/music/reviews/9mcg
+- date: 2010-08-13
+  title: Searching For The Young Soul Rebels
+  artist: Dexys Midnight Runners
+  review: http://www.bbc.co.uk/music/reviews/ccmq
+- date: 2010-08-13
+  title: King of the Beach
+  artist: Wavves
+  review: http://www.bbc.co.uk/music/reviews/54b6
+- date: 2010-08-12
+  title: Side Show
+  artist: The Burns Unit
+  review: http://www.bbc.co.uk/music/reviews/62rj
+- date: 2010-08-11
+  title: Siamese Dream
+  artist: The Smashing Pumpkins
+  review: http://www.bbc.co.uk/music/reviews/dmcg
+- date: 2010-08-10
+  title: Own Side Now
+  artist: Caitlin Rose
+  review: http://www.bbc.co.uk/music/reviews/934z
+- date: 2010-08-09
+  title: Treats
+  artist: Sleigh Bells
+  review: http://www.bbc.co.uk/music/reviews/5nrj
+- date: 2010-08-06
+  title: The Real Ramona
+  artist: Throwing Muses
+  review: http://www.bbc.co.uk/music/reviews/qqhf
+- date: 2010-08-05
+  title: Crazy for You
+  artist: Best Coast
+  review: http://www.bbc.co.uk/music/reviews/58j9
+- date: 2010-08-04
+  title: Hobbyism
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/3nhf
+- date: 2010-08-03
+  title: Odessey & Oracle- 40th Anniversary Edition
+  artist: The Zombies
+  review: http://www.bbc.co.uk/music/reviews/d8p2
+- date: 2010-08-02
+  title: The Suburbs
+  artist: Arcade Fire
+  review: http://www.bbc.co.uk/music/reviews/nm4z
+- date: 2010-07-30
+  title: XO
+  artist: Elliott Smith
+  review: http://www.bbc.co.uk/music/reviews/jzd3
+- date: 2010-07-29
+  title: Another Music in a Different Kitchen
+  artist: Buzzcocks
+  review: http://www.bbc.co.uk/music/reviews/zcb6
+- date: 2010-07-28
+  title: Praise & Blame
+  artist: Tom Jones
+  review: http://www.bbc.co.uk/music/reviews/jrwx
+- date: 2010-07-23
+  title: 'Best of the Capitol Years: 1995-2007'
+  artist: The Dandy Warhols
+  review: http://www.bbc.co.uk/music/reviews/qdnv
+- date: 2010-07-22
+  title: Dansette Dansette
+  artist: Tender Trap
+  review: http://www.bbc.co.uk/music/reviews/cqhf
+- date: 2010-07-21
+  title: "/\\/\\/\\Y/\\"
+  artist: M.I.A.
+  review: http://www.bbc.co.uk/music/reviews/2cb6
+- date: 2010-07-20
+  title: The Place We Ran From
+  artist: Tired Pony
+  review: http://www.bbc.co.uk/music/reviews/wzd3
+- date: 2010-07-19
+  title: Flaws
+  artist: Bombay Bicycle Club
+  review: http://www.bbc.co.uk/music/reviews/9g6m
+- date: 2010-07-16
+  title: Fables of the Reconstruction
+  artist: R.E.M.
+  review: http://www.bbc.co.uk/music/reviews/46q4
+- date: 2010-07-15
+  title: Butterfly House
+  artist: The Coral
+  review: http://www.bbc.co.uk/music/reviews/g2cg
+- date: 2010-07-14
+  title: Disconnect From Desire
+  artist: School of Seven Bells
+  review: http://www.bbc.co.uk/music/reviews/rx5c
+- date: 2010-07-13
+  title: The United Nations of Sound
+  artist: RPA & The United Nations Of Sound
+  review: http://www.bbc.co.uk/music/reviews/z2cg
+- date: 2010-07-12
+  title: Dark Night of the Soul
+  artist: Danger Mouse and Sparklehorse
+  review: http://www.bbc.co.uk/music/reviews/qb3q
+- date: 2010-07-09
+  title: A Complete Introduction to Chess
+  artist: Various Artists
+  review: http://www.bbc.co.uk/music/reviews/2jx2
+- date: 2010-07-08
+  title: Beneath This Burning Shoreline
+  artist: Cherry Ghost
+  review: http://www.bbc.co.uk/music/reviews/d8gw
+- date: 2010-07-07
+  title: Serotonin
+  artist: Mystery Jets
+  review: http://www.bbc.co.uk/music/reviews/m4fd
+- date: 2010-07-06
+  title: Sky at Night
+  artist: I Am Kloot
+  review: http://www.bbc.co.uk/music/reviews/nzd3
+- date: 2010-07-05
+  title: 'Sir Lucious Left Foot: The Son of Chico Dusty'
+  artist: Big Boi
+  review: http://www.bbc.co.uk/music/reviews/p4fd
+- date: 2010-07-02
+  title: Record
+  artist: Zero 7
+  review: http://www.bbc.co.uk/music/reviews/h928
+- date: 2010-07-01
+  title: Gemini
+  artist: Wild Nothing
+  review: http://www.bbc.co.uk/music/reviews/88zb
+- date: 2010-06-30
+  title: We Went Riding
+  artist: Richard James
+  review: http://www.bbc.co.uk/music/reviews/j928
+- date: 2010-06-29
+  title: Loveless Unbeliever
+  artist: The School
+  review: http://www.bbc.co.uk/music/reviews/x5zb
+- date: 2010-06-28
+  title: The Dark Side of the Moon
+  artist: The Flaming Lips
+  review: http://www.bbc.co.uk/music/reviews/rwm5
+- date: 2010-06-16
+  title: Lustre
+  artist: Ed Harcourt
+  review: http://www.bbc.co.uk/music/reviews/ggd3
+- date: 2010-06-15
+  title: Barbara
+  artist: We Are Scientists
+  review: http://www.bbc.co.uk/music/reviews/xd28
+- date: 2010-06-14
+  title: Something for Everybody
+  artist: Devo
+  review: http://www.bbc.co.uk/music/reviews/zhwx
+- date: 2010-06-11
+  title: Attack of the Grey Lantern - Collectors Edition
+  artist: Mansun
+  review: http://www.bbc.co.uk/music/reviews/brb6
+- date: 2010-06-10
+  title: New Inheritors
+  artist: Wintersleep
+  review: http://www.bbc.co.uk/music/reviews/v5hf
+- date: 2010-06-09
+  title: Further
+  artist: The Chemical Brothers
+  review: http://www.bbc.co.uk/music/reviews/6d28
+- date: 2010-06-08
+  title: Been Listening
+  artist: Johnny Flynn
+  review: http://www.bbc.co.uk/music/reviews/9fx2
+- date: 2010-06-07
+  title: The Drums
+  artist: The Drums
+  review: http://www.bbc.co.uk/music/reviews/9z9p
+- date: 2010-06-04
+  title: Shadows
+  artist: Teenage Fanclub
+  review: http://www.bbc.co.uk/music/reviews/dgd3
+- date: 2010-06-03
+  title: Beachcomber’s Windowsill
+  artist: Stornoway
+  review: http://www.bbc.co.uk/music/reviews/4xq4
+- date: 2010-06-02
+  title: Gloves
+  artist: Operator Please
+  review: http://www.bbc.co.uk/music/reviews/9gd3
+- date: 2010-06-01
+  title: Power in the Darkness
+  artist: Tom Robinson Band
+  review: http://www.bbc.co.uk/music/reviews/pw3q
+- date: 2010-05-31
+  title: Bang Goes the Knighthood
+  artist: The Divine Comedy
+  review: http://www.bbc.co.uk/music/reviews/dz9p
+- date: 2010-05-28
+  title: Disintegration – Deluxe Edition
+  artist: The Cure
+  review: http://www.bbc.co.uk/music/reviews/jqrj
+- date: 2010-05-27
+  title: The Ghost Who Walks
+  artist: Karen Elson
+  review: http://www.bbc.co.uk/music/reviews/fvgw
+- date: 2010-05-26
+  title: Compass
+  artist: Jamie Lidell
+  review: http://www.bbc.co.uk/music/reviews/b5hf
+- date: 2010-05-25
+  title: Becoming a Jackal
+  artist: Villagers
+  review: http://www.bbc.co.uk/music/reviews/qbpn
+- date: 2010-05-24
+  title: Crystal Castles (II)
+  artist: Crystal Castles
+  review: http://www.bbc.co.uk/music/reviews/qw3q
+- date: 2010-05-21
+  title: Brothers
+  artist: The Black Keys
+  review: http://www.bbc.co.uk/music/reviews/cbpn
+- date: 2010-05-20
+  title: Love and Its Opposite
+  artist: Tracey Thorn
+  review: http://www.bbc.co.uk/music/reviews/d8zb

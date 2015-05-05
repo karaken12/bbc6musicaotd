@@ -1528,3 +1528,25 @@
     - height: 64
       url: https://i.scdn.co/image/ecba602e2880f7e622d8b4f178e18c7256a48045
       width: 64
+- date: 2015-05-04
+  twitter: https://twitter.com/BBC6Music/status/595229060357345280
+  twitpic: http://pbs.twimg.com/media/CEKtZLXUUAIQFXo.jpg
+  tweet_text: "#NowPlaying on @BBCRadMac - Cold Arms by @MumfordAndSons from Wilder
+    Mind, our Album of the Day. http://t.co/u5wo2eJDUe"
+  artist: Mumford And Sons
+  title: Wilder Mind
+  spotify:
+    artists:
+    - Mumford & Sons
+    name: Wilder Mind
+    album_id: 4trTvSZSfcCSzeH8kJeCbD
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d02e32c7f15235fc30edfaf7abe5124a16d6baab
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/def379bf17da54447574e4d7e771690845950907
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/069edca15cc82548e03a23df57db063401e85956
+      width: 64

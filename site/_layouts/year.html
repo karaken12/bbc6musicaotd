@@ -8,6 +8,9 @@ layout: default
 
   <div class="albums">
     {% for album in page.albums %}
+{% if album.title == nil and album.artist == nil %}
+{% continue %}
+{% endif %}
 
 <div class="album">
   <div class="album-date">{{ album.date }}</div>

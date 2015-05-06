@@ -1,7 +1,7 @@
 ---
 - date: 2010-12-31
-  title: Kid A
   artist: Radiohead
+  title: Kid A
   review: http://www.bbc.co.uk/music/reviews/jmf9
   spotify:
     artists:
@@ -19,8 +19,8 @@
       url: https://i.scdn.co/image/c855e570037c355b063567068807c45616e86cbb
       width: 64
 - date: 2010-12-29
-  title: Reading, Writing and Arithmetic
   artist: The Sundays
+  title: Reading, Writing and Arithmetic
   review: http://www.bbc.co.uk/music/reviews/nmxm
   spotify:
     artists:
@@ -38,8 +38,8 @@
       url: https://i.scdn.co/image/a7e2ec2bd54794701fe9b46122a9ac535f4063e7
       width: 64
 - date: 2010-12-28
-  title: More Specials
   artist: The Specials
+  title: More Specials
   review: http://www.bbc.co.uk/music/reviews/nj54
   spotify:
     artists:
@@ -57,8 +57,8 @@
       url: https://i.scdn.co/image/c5d0b0cf28f83ac96267b894bc7b2fef6f92723f
       width: 64
 - date: 2010-12-27
-  title: Led Zeppelin III
   artist: Led Zeppelin
+  title: Led Zeppelin III
   review: http://www.bbc.co.uk/music/reviews/m34z
   spotify:
     artists:
@@ -76,8 +76,8 @@
       url: https://i.scdn.co/image/42a5227b49a09016b6a2b01645b75ef63073c282
       width: 64
 - date: 2010-12-24
-  title: The Suburbs
   artist: Arcade Fire
+  title: The Suburbs
   review: http://www.bbc.co.uk/music/reviews/nm4z
   spotify:
     artists:
@@ -95,8 +95,8 @@
       url: https://i.scdn.co/image/3aa3e58afed3c69eaedb3c5fe4faf94ee5befbde
       width: 64
 - date: 2010-12-03
-  title: Coals to Newcastle
   artist: Orange Juice
+  title: Coals to Newcastle
   review: http://www.bbc.co.uk/music/reviews/rx4z
   spotify:
     artists:
@@ -114,14 +114,14 @@
       url: https://i.scdn.co/image/7b73b5e9d20e671e13e4a5b810fd32381fb49513
       width: 64
 - date: 2010-12-02
-  title: The Original Mono Recordings / The Best of the Original Mono Recordings
   artist: Bob Dylan
+  title: The Original Mono Recordings / The Best of the Original Mono Recordings
   review: http://www.bbc.co.uk/music/reviews/hpcg
 - date: 2010-12-01
-  title: West Coast Seattle Boy – The Jimi Hendrix Anthology
   artist: Jimi Hendrix
-  review: http://www.bbc.co.uk/music/reviews/949p
+  title: West Coast Seattle Boy – The Jimi Hendrix Anthology
   type: compilation
+  review: http://www.bbc.co.uk/music/reviews/949p
   spotify:
     artists:
     - Jimi Hendrix
@@ -138,10 +138,10 @@
       url: https://i.scdn.co/image/4127c4e0dd53edc97748cd27aa0277e72aa30407
       width: 64
 - date: 2010-11-30
-  title: Sandy Denny
   artist: Sandy Denny
-  review: http://www.bbc.co.uk/music/reviews/z3rj
+  title: Sandy Denny
   notes: Despite candidates, not on Spotify.
+  review: http://www.bbc.co.uk/music/reviews/z3rj
   spotify:
     candidates:
     - artists:
@@ -157,10 +157,10 @@
       name: Listen, Listen - An Introduction To Sandy Denny
       album_id: 2EqLwh6RkwZsI1BGt2UIQg
 - date: 2010-11-29
-  title: 'Station to Station: Super Deluxe Edition'
   artist: David Bowie
-  review: http://www.bbc.co.uk/music/reviews/5c9p
+  title: 'Station to Station: Super Deluxe Edition'
   notes: Not quite the Super Deluxe...
+  review: http://www.bbc.co.uk/music/reviews/5c9p
   spotify:
     artists:
     - David Bowie
@@ -177,8 +177,8 @@
       url: https://i.scdn.co/image/34046a625b6b822c02fa72ced7908408083b1f42
       width: 64
 - date: 2010-11-26
-  title: Dummy
   artist: Portishead
+  title: Dummy
   review: http://www.bbc.co.uk/music/reviews/j6vh
   spotify:
     artists:
@@ -196,8 +196,8 @@
       url: https://i.scdn.co/image/2d232105986681b3ea02c2dddd3541952663742f
       width: 63
 - date: 2010-11-26
-  title: My Beautiful Dark Twisted Fantasy
   artist: Kanye West
+  title: My Beautiful Dark Twisted Fantasy
   review: http://www.bbc.co.uk/music/reviews/jngw
   spotify:
     artists:
@@ -215,8 +215,8 @@
       url: https://i.scdn.co/image/27475aefd86ad8eaf6ff52b524ce049fbf44c2a8
       width: 64
 - date: 2010-11-25
-  title: Forget
   artist: Twin Shadow
+  title: Forget
   review: http://www.bbc.co.uk/music/reviews/x2zb
   spotify:
     artists:
@@ -234,10 +234,10 @@
       url: https://i.scdn.co/image/91f4cc7b906ffa6cf7a39d4eb619da3a8d57e517
       width: 64
 - date: 2010-11-24
-  title: 'Penthouse and Pavement: Collectors Edition'
   artist: Heaven 17
-  review: http://www.bbc.co.uk/music/reviews/wngw
+  title: 'Penthouse and Pavement: Collectors Edition'
   notes: Not quite the same edition.
+  review: http://www.bbc.co.uk/music/reviews/wngw
   spotify:
     artists:
     - Heaven 17
@@ -254,8 +254,8 @@
       url: https://i.scdn.co/image/5f1d9f98d71ad95008b1e24c3c5b13f96cc37d15
       width: 64
 - date: 2010-11-23
-  title: Broken Dreams Club
   artist: Girls
+  title: Broken Dreams Club
   review: http://www.bbc.co.uk/music/reviews/pvwx
   spotify:
     artists:
@@ -273,8 +273,8 @@
       url: https://i.scdn.co/image/5bb69dbb1e2757d12c5a2a409d2763bffd9b13a0
       width: 64
 - date: 2010-11-22
-  title: I’m Having Fun Now
   artist: Jenny and Johnny
+  title: I’m Having Fun Now
   review: http://www.bbc.co.uk/music/reviews/rf28
   spotify:
     artists:
@@ -292,8 +292,8 @@
       url: https://i.scdn.co/image/fea875c2490720305468fa723a382283cbf36bbd
       width: 64
 - date: 2010-11-19
-  title: 'Sound Affects: Deluxe Edition'
   artist: The Jam
+  title: 'Sound Affects: Deluxe Edition'
   review: http://www.bbc.co.uk/music/reviews/bpcg
   spotify:
     artists:
@@ -311,10 +311,10 @@
       url: https://i.scdn.co/image/c49121c0b164ab3bbb38e8b5775ad64fe91c35b9
       width: 64
 - date: 2010-11-18
-  title: "****"
   artist: The Greenhornes
-  review: http://www.bbc.co.uk/music/reviews/35fd
+  title: "****"
   notes: The title is correct, and the candidates are not.
+  review: http://www.bbc.co.uk/music/reviews/35fd
   spotify:
     candidates:
     - artists:
@@ -334,8 +334,8 @@
       name: East Grand Blues
       album_id: 40WZTo1JDcAHWUeq4xGemm
 - date: 2010-11-17
-  title: Royal Variety
   artist: The Seal Cub Clubbing Club
+  title: Royal Variety
   review: http://www.bbc.co.uk/music/reviews/m8b6
   spotify:
     artists:
@@ -353,8 +353,8 @@
       url: https://i.scdn.co/image/e1a1f013c03812cffa28f65647faed9ded12eff3
       width: 64
 - date: 2010-11-16
-  title: Small Craft on a Milk Sea
   artist: Brian Eno
+  title: Small Craft on a Milk Sea
   review: http://www.bbc.co.uk/music/reviews/93rj
   spotify:
     artists:
@@ -372,8 +372,8 @@
       url: https://i.scdn.co/image/d8e12b3d6c1502a779f96894474765bee6113000
       width: 64
 - date: 2010-11-15
-  title: The Promise
   artist: Bruce Springsteen
+  title: The Promise
   review: http://www.bbc.co.uk/music/reviews/38b6
   spotify:
     artists:
@@ -391,12 +391,12 @@
       url: https://i.scdn.co/image/9446d76bd1aaa8461fb166171296e7ad62933cb3
       width: 59
 - date: 2010-11-12
-  title: The Best Of
   artist: Suede
+  title: The Best Of
   review: http://www.bbc.co.uk/music/reviews/6mhf
 - date: 2010-11-11
-  title: WYWH
   artist: The Concretes
+  title: WYWH
   review: http://www.bbc.co.uk/music/reviews/5vwx
   spotify:
     artists:
@@ -414,8 +414,8 @@
       url: https://i.scdn.co/image/725380ada944a32a0b1d051f671ee1963cfa4d48
       width: 64
 - date: 2010-11-10
-  title: Nothing
   artist: N*E*R*D
+  title: Nothing
   review: http://www.bbc.co.uk/music/reviews/m2zb
   spotify:
     artists:
@@ -433,8 +433,8 @@
       url: https://i.scdn.co/image/1a3783c4f44ff8cffa3bc0872598b0950a3595db
       width: 64
 - date: 2010-11-09
-  title: Here in the Golden Rays
   artist: Haight-Ashbury
+  title: Here in the Golden Rays
   review: http://www.bbc.co.uk/music/reviews/d6vh
   spotify:
     artists:
@@ -452,8 +452,8 @@
       url: https://i.scdn.co/image/466b112aa75072bce94dad74ad87e541817e5fa4
       width: 64
 - date: 2010-11-08
-  title: The Lady Killer
   artist: Cee Lo Green
+  title: The Lady Killer
   review: http://www.bbc.co.uk/music/reviews/jbnv
   spotify:
     artists:
@@ -471,8 +471,8 @@
       url: https://i.scdn.co/image/78a7a3633e8e5431fb1a2f2a72f41d0dcb6f4acf
       width: 64
 - date: 2010-11-05
-  title: 'The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9)'
   artist: Bob Dylan
+  title: 'The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9)'
   review: http://www.bbc.co.uk/music/reviews/db28
   spotify:
     artists:
@@ -490,8 +490,8 @@
       url: https://i.scdn.co/image/d7a6a56776e80edb83b5cb6476558b063a9628a2
       width: 64
 - date: 2010-11-04
-  title: The Fool
   artist: Warpaint
+  title: The Fool
   review: http://www.bbc.co.uk/music/reviews/grd3
   spotify:
     artists:
@@ -509,8 +509,8 @@
       url: https://i.scdn.co/image/1df0920a1c9ba89f7fb50a664a9e912cb6c04d2a
       width: 64
 - date: 2010-11-03
-  title: Blurry Blue Mountain
   artist: Giant Sand
+  title: Blurry Blue Mountain
   review: http://www.bbc.co.uk/music/reviews/gvb6
   spotify:
     artists:
@@ -528,8 +528,8 @@
       url: https://i.scdn.co/image/c06258fb7935b1f6168a42579e02e806388e64b4
       width: 64
 - date: 2010-11-02
-  title: Let Me Come Home
   artist: Broken Records
+  title: Let Me Come Home
   review: http://www.bbc.co.uk/music/reviews/hnzb
   spotify:
     artists:
@@ -547,10 +547,10 @@
       url: https://i.scdn.co/image/846132d78402181f03b428dd43f5c46d148ced3d
       width: 64
 - date: 2010-11-01
-  title: An Introduction To…
   artist: Elliott Smith
-  review: http://www.bbc.co.uk/music/reviews/dwnv
+  title: An Introduction To…
   type: compilation
+  review: http://www.bbc.co.uk/music/reviews/dwnv
   spotify:
     artists:
     - Elliott Smith
@@ -567,8 +567,8 @@
       url: https://i.scdn.co/image/9fc808a1a83410c7c9353245df602bc28d7e91e2
       width: 64
 - date: 2010-10-29
-  title: Invariable Heartache
   artist: Kurt Wagner & Cortney Tidwell present KORT
+  title: Invariable Heartache
   review: http://www.bbc.co.uk/music/reviews/jvb6
   spotify:
     artists:
@@ -586,8 +586,8 @@
       url: https://i.scdn.co/image/09ee4d1f2dccf353b3c377dd88fc0e372159ac34
       width: 64
 - date: 2010-10-28
-  title: Olympia
   artist: Bryan Ferry
+  title: Olympia
   review: http://www.bbc.co.uk/music/reviews/v3cg
   spotify:
     artists:
@@ -605,8 +605,8 @@
       url: https://i.scdn.co/image/19c39b735e093fb4f1ec8e31ed4854099b721a88
       width: 64
 - date: 2010-10-27
-  title: The Age of Adz
   artist: Sufjan Stevens
+  title: The Age of Adz
   review: http://www.bbc.co.uk/music/reviews/8d5c
   spotify:
     artists:
@@ -624,12 +624,12 @@
       url: https://i.scdn.co/image/4d03fccecc813eb617f7effd3863a6e138f9e23a
       width: 64
 - date: 2010-10-26
-  title: 'Come and Get It: The Best of Apple Records'
   artist: Various Artists
+  title: 'Come and Get It: The Best of Apple Records'
   review: http://www.bbc.co.uk/music/reviews/dgpn
 - date: 2010-10-25
-  title: National Ransom
   artist: Elvis Costello
+  title: National Ransom
   review: http://www.bbc.co.uk/music/reviews/hqgw
   spotify:
     artists:
@@ -647,12 +647,12 @@
       url: https://i.scdn.co/image/ad0c5b636c9fb5553a9b04bcc50d472983b509c1
       width: 64
 - date: 2010-10-22
-  title: 'Searching For the Young Soul Rebels: 30th Anniversary Special Edition'
   artist: Dexys Midnight Runners
+  title: 'Searching For the Young Soul Rebels: 30th Anniversary Special Edition'
   review: http://www.bbc.co.uk/music/reviews/n9q4
 - date: 2010-10-21
-  title: The Golden Year
   artist: Où est le swimming pool
+  title: The Golden Year
   review: http://www.bbc.co.uk/music/reviews/9rd3
   spotify:
     artists:
@@ -670,8 +670,8 @@
       url: https://i.scdn.co/image/8c5da2927def378678a989ba895455c054abd216
       width: 64
 - date: 2010-10-20
-  title: White Light
   artist: Groove Armada
+  title: White Light
   review: http://www.bbc.co.uk/music/reviews/3b28
   spotify:
     artists:
@@ -689,8 +689,8 @@
       url: https://i.scdn.co/image/79a0191e09d63f0bda499b950ae7e29b0ed1af58
       width: 64
 - date: 2010-10-19
-  title: The Wants
   artist: The Phantom Band
+  title: The Wants
   review: http://www.bbc.co.uk/music/reviews/mzx2
   spotify:
     artists:
@@ -708,8 +708,8 @@
       url: https://i.scdn.co/image/45e9865344604b8c0ed709b69c9816fb47aeebff
       width: 64
 - date: 2010-10-18
-  title: Come Around Sundown
   artist: Kings of Leon
+  title: Come Around Sundown
   review: http://www.bbc.co.uk/music/reviews/c68r
   spotify:
     artists:
@@ -727,8 +727,8 @@
       url: https://i.scdn.co/image/13666849819d734472d5956b44d6785a4d294698
       width: 64
 - date: 2010-10-15
-  title: Telephantasm
   artist: Soundgarden
+  title: Telephantasm
   review: http://www.bbc.co.uk/music/reviews/vc9p
   spotify:
     artists:
@@ -746,8 +746,8 @@
       url: https://i.scdn.co/image/009ce3f53e4add7526fb5fb3ee8fcd8e74f66c6f
       width: 64
 - date: 2010-10-14
-  title: Lisbon
   artist: The Walkmen
+  title: Lisbon
   review: http://www.bbc.co.uk/music/reviews/4xvh
   spotify:
     artists:
@@ -765,8 +765,8 @@
       url: https://i.scdn.co/image/e515f89cec55c896bd1fce383bc963ea8430f8bb
       width: 64
 - date: 2010-10-13
-  title: Margins
   artist: Paul Smith
+  title: Margins
   review: http://www.bbc.co.uk/music/reviews/nfm5
   spotify:
     artists:
@@ -784,8 +784,8 @@
       url: https://i.scdn.co/image/bc7920acc7602fac1ee19d87eafa56da36d0351b
       width: 64
 - date: 2010-10-12
-  title: Every Step’s a Yes
   artist: The Bees
+  title: Every Step’s a Yes
   review: http://www.bbc.co.uk/music/reviews/v68r
   spotify:
     artists:
@@ -803,8 +803,8 @@
       url: https://i.scdn.co/image/459eef062b29d1473d8beb269a05c081c669a371
       width: 64
 - date: 2010-10-11
-  title: Belle and Sebastian Write About Love
   artist: Belle and Sebastian
+  title: Belle and Sebastian Write About Love
   review: http://www.bbc.co.uk/music/reviews/rxvh
   spotify:
     artists:
@@ -822,8 +822,8 @@
       url: https://i.scdn.co/image/8ea2ee2bb360ea5d63849e48856d71945605d8be
       width: 64
 - date: 2010-10-09
-  title: Imagine
   artist: John Lennon
+  title: Imagine
   review: http://www.bbc.co.uk/music/reviews/dhd3
   spotify:
     artists:
@@ -843,8 +843,8 @@
       url: https://i.scdn.co/image/31d156280116c07a66430ce5312e8ee292e968c1
       width: 64
 - date: 2010-10-08
-  title: Halcyon Digest
   artist: Deerhunter
+  title: Halcyon Digest
   review: http://www.bbc.co.uk/music/reviews/b3cg
   spotify:
     artists:
@@ -862,8 +862,8 @@
       url: https://i.scdn.co/image/9f662c8e81ebe313cd76f2d8936e1d3e2a4fa89e
       width: 64
 - date: 2010-10-07
-  title: 'It’s What I’m Thinking Part One: Photographing Snowflakes'
   artist: Badly Drawn Boy
+  title: 'It’s What I’m Thinking Part One: Photographing Snowflakes'
   review: http://www.bbc.co.uk/music/reviews/zd5c
   spotify:
     artists:
@@ -881,8 +881,8 @@
       url: https://i.scdn.co/image/abc59e4d37e85ef2a0ea76fc5b5c11ae2a1a0b64
       width: 64
 - date: 2010-10-06
-  title: Bubblegum
   artist: Clinic
+  title: Bubblegum
   review: http://www.bbc.co.uk/music/reviews/9xvh
   spotify:
     artists:
@@ -900,8 +900,8 @@
       url: https://i.scdn.co/image/13bc53ba3e4a8f0a6a78218d0b663e435c55f0e4
       width: 64
 - date: 2010-10-05
-  title: Carl Barât
   artist: Carl Barât
+  title: Carl Barât
   review: http://www.bbc.co.uk/music/reviews/d3cg
   spotify:
     artists:
@@ -919,8 +919,8 @@
       url: https://i.scdn.co/image/e7737e39efe8cc8194e2b62b13416bd4557567cf
       width: 64
 - date: 2010-10-04
-  title: Pearl
   artist: Janis Joplin
+  title: Pearl
   review: http://www.bbc.co.uk/music/reviews/h5xm
   spotify:
     artists:
@@ -938,8 +938,8 @@
       url: https://i.scdn.co/image/177f4aa1eac463d7279511af4baf5e0d98a7aca6
       width: 64
 - date: 2010-09-30
-  title: Lonely Avenue
   artist: Ben Folds
+  title: Lonely Avenue
   review: http://www.bbc.co.uk/music/reviews/4h6m
   spotify:
     artists:
@@ -957,8 +957,8 @@
       url: https://i.scdn.co/image/266c803cc1b3aa058e7f2a568ff5cbf5d75d1bef
       width: 64
 - date: 2010-09-29
-  title: Sugar Hill Rap Classics
   artist: Various Artists
+  title: Sugar Hill Rap Classics
   review: http://www.bbc.co.uk/music/reviews/vrd3
   spotify:
     artists:
@@ -976,8 +976,8 @@
       url: https://i.scdn.co/image/eebee924b565988245c39ca248276d97158efbf6
       width: 64
 - date: 2010-09-28
-  title: Losing Sleep
   artist: Edwyn Collins
+  title: Losing Sleep
   review: http://www.bbc.co.uk/music/reviews/p3cg
   spotify:
     artists:
@@ -995,8 +995,8 @@
       url: https://i.scdn.co/image/f962c889ae8d20a83d1e1ba4f6eaac7afb0ca5ef
       width: 64
 - date: 2010-09-27
-  title: Mixed Race
   artist: Tricky
+  title: Mixed Race
   review: http://www.bbc.co.uk/music/reviews/rr9p
   spotify:
     artists:
@@ -1014,8 +1014,8 @@
       url: https://i.scdn.co/image/8f49cfcb7071c2eaae0d6c43b9ea9e71a32f474b
       width: 64
 - date: 2010-09-24
-  title: Led Zeppelin IV
   artist: Led Zeppelin
+  title: Led Zeppelin IV
   review: http://www.bbc.co.uk/music/reviews/zpzf
   spotify:
     artists:
@@ -1033,8 +1033,8 @@
       url: https://i.scdn.co/image/7da2553d682a211a8759191c8a9b75a2145600a1
       width: 64
 - date: 2010-09-23
-  title: Hurley
   artist: Weezer
+  title: Hurley
   review: http://www.bbc.co.uk/music/reviews/fwnv
   spotify:
     artists:
@@ -1052,8 +1052,8 @@
       url: https://i.scdn.co/image/a88247409f1f0bee694f02b5fd90e99b486f7c65
       width: 64
 - date: 2010-09-22
-  title: Maximum Balloon
   artist: Maximum Balloon
+  title: Maximum Balloon
   review: http://www.bbc.co.uk/music/reviews/pw28
   spotify:
     artists:
@@ -1071,8 +1071,8 @@
       url: https://i.scdn.co/image/a4d950875cc8a9bdec6d0fddaa7270eaae796053
       width: 64
 - date: 2010-09-21
-  title: Interpol
   artist: Interpol
+  title: Interpol
   review: http://www.bbc.co.uk/music/reviews/234z
   spotify:
     artists:
@@ -1090,8 +1090,8 @@
       url: https://i.scdn.co/image/e10597d5a7c3a784bde45bff09ed2f4de39cd251
       width: 64
 - date: 2010-09-20
-  title: Postcards From a Young Man
   artist: Manic Street Preachers
+  title: Postcards From a Young Man
   review: http://www.bbc.co.uk/music/reviews/vvfd
   spotify:
     artists:
@@ -1109,8 +1109,8 @@
       url: https://i.scdn.co/image/2759c1ee6c94d5c42bcbdbd468b3faa91c30e58f
       width: 43
 - date: 2010-09-17
-  title: Electric Ladyland
   artist: The Jimi Hendrix Experience
+  title: Electric Ladyland
   review: http://www.bbc.co.uk/music/reviews/h2f9
   spotify:
     artists:
@@ -1128,8 +1128,8 @@
       url: https://i.scdn.co/image/e4f132327d986c8c482f59c1284098533c4ca732
       width: 64
 - date: 2010-09-16
-  title: Grinderman 2
   artist: Grinderman
+  title: Grinderman 2
   review: http://www.bbc.co.uk/music/reviews/g4b6
   spotify:
     artists:
@@ -1147,8 +1147,8 @@
       url: https://i.scdn.co/image/2e441716b81b28d92305e14376283e1625d89062
       width: 64
 - date: 2010-09-15
-  title: Senior
   artist: Röyksopp
+  title: Senior
   review: http://www.bbc.co.uk/music/reviews/z8j9
   spotify:
     artists:
@@ -1166,8 +1166,8 @@
       url: https://i.scdn.co/image/ad5dac73546c377d9d0fa3754e967184c0ed454d
       width: 64
 - date: 2010-09-14
-  title: Flamingo
   artist: Brandon Flowers
+  title: Flamingo
   review: http://www.bbc.co.uk/music/reviews/nw28
   spotify:
     artists:
@@ -1185,8 +1185,8 @@
       url: https://i.scdn.co/image/1fa8f4f333290ce59973fe378eb98753897dd776
       width: 64
 - date: 2010-09-13
-  title: Barking
   artist: Underworld
+  title: Barking
   review: http://www.bbc.co.uk/music/reviews/fhd3
   spotify:
     artists:
@@ -1204,8 +1204,8 @@
       url: https://i.scdn.co/image/a540dde9d387690211eb93e9ea9c1f1831c8b514
       width: 64
 - date: 2010-09-10
-  title: Band of Joy
   artist: Robert Plant
+  title: Band of Joy
   review: http://www.bbc.co.uk/music/reviews/3x8r
   spotify:
     artists:
@@ -1223,8 +1223,8 @@
       url: https://i.scdn.co/image/8740d7844529fc3b32cf36926d280e738e43bb4d
       width: 64
 - date: 2010-09-09
-  title: The Morning After
   artist: James
+  title: The Morning After
   review: http://www.bbc.co.uk/music/reviews/h5gw
   spotify:
     artists:
@@ -1242,8 +1242,8 @@
       url: https://i.scdn.co/image/036f944ab740eae4ce9264cc73ffb41e16929f0e
       width: 64
 - date: 2010-09-07
-  title: Pull in Emergency
   artist: Pull in Emergency
+  title: Pull in Emergency
   review: http://www.bbc.co.uk/music/reviews/bhd3
   spotify:
     artists:
@@ -1261,8 +1261,8 @@
       url: https://i.scdn.co/image/2c8c7ee62d88e196b007612f8ba41b7925cc7d2c
       width: 64
 - date: 2010-08-25
-  title: Paupers Field
   artist: Dylan LeBlanc
+  title: Paupers Field
   review: http://www.bbc.co.uk/music/reviews/6vfd
   spotify:
     artists:
@@ -1280,8 +1280,8 @@
       url: https://i.scdn.co/image/5228f541ad6579917a9d5befc24560217dd33fab
       width: 64
 - date: 2010-08-24
-  title: Weathervanes
   artist: Freelance Whales
+  title: Weathervanes
   review: http://www.bbc.co.uk/music/reviews/x4b6
   spotify:
     artists:
@@ -1299,8 +1299,8 @@
       url: https://i.scdn.co/image/352a70b4231732a2f12b51bcc26a466e20c99fd7
       width: 64
 - date: 2010-08-23
-  title: Strange Weather, Isn't It?
   artist: "!!!"
+  title: Strange Weather, Isn't It?
   review: http://www.bbc.co.uk/music/reviews/mhd3
   spotify:
     artists:
@@ -1318,10 +1318,10 @@
       url: https://i.scdn.co/image/870e179a68b96f7c9e58dd56d96101fe2b6cedc7
       width: 64
 - date: 2010-08-20
-  title: Diamonds and Pearls
   artist: Prince & The New Power Generation
-  review: http://www.bbc.co.uk/music/reviews/gx8r
+  title: Diamonds and Pearls
   type: compilation
+  review: http://www.bbc.co.uk/music/reviews/gx8r
   spotify:
     artists:
     - Prince And The N.P.G.
@@ -1338,8 +1338,8 @@
       url: https://i.scdn.co/image/4a7506418974058e60d8c4c78ad322d84b4b106c
       width: 64
 - date: 2010-08-19
-  title: Hawk
   artist: Isobel Campbell & Mark Lanegan
+  title: Hawk
   review: http://www.bbc.co.uk/music/reviews/6nhf
   spotify:
     artists:
@@ -1359,8 +1359,8 @@
       url: https://i.scdn.co/image/465c12d3fe1e5ec6792a1e7f9fff47a49e40bbe0
       width: 64
 - date: 2010-08-18
-  title: Electric Warrior
   artist: T. Rex
+  title: Electric Warrior
   review: http://www.bbc.co.uk/music/reviews/5wmq
   spotify:
     artists:
@@ -1378,8 +1378,8 @@
       url: https://i.scdn.co/image/2d7f33de84262ba26e0dfad2ca4a25da418bd86d
       width: 64
 - date: 2010-08-17
-  title: Surfing the Void
   artist: Klaxons
+  title: Surfing the Void
   review: http://www.bbc.co.uk/music/reviews/9mcg
   spotify:
     artists:
@@ -1397,8 +1397,8 @@
       url: https://i.scdn.co/image/c4dbe8227571cf2fbaa9d9cd9be75f23ef87b28d
       width: 64
 - date: 2010-08-13
-  title: Searching For The Young Soul Rebels
   artist: Dexys Midnight Runners
+  title: Searching For The Young Soul Rebels
   review: http://www.bbc.co.uk/music/reviews/ccmq
   spotify:
     artists:
@@ -1416,8 +1416,8 @@
       url: https://i.scdn.co/image/e605e4300c77e64706def1dcb67a0b67ccfda538
       width: 64
 - date: 2010-08-13
-  title: King of the Beach
   artist: Wavves
+  title: King of the Beach
   review: http://www.bbc.co.uk/music/reviews/54b6
   spotify:
     artists:
@@ -1435,12 +1435,12 @@
       url: https://i.scdn.co/image/010f69e31c04644c7e4b51dc58548ae136ca0180
       width: 64
 - date: 2010-08-12
-  title: Side Show
   artist: The Burns Unit
+  title: Side Show
   review: http://www.bbc.co.uk/music/reviews/62rj
 - date: 2010-08-11
-  title: Siamese Dream
   artist: The Smashing Pumpkins
+  title: Siamese Dream
   review: http://www.bbc.co.uk/music/reviews/dmcg
   spotify:
     artists:
@@ -1458,8 +1458,8 @@
       url: https://i.scdn.co/image/6d123b8f633862d708015c6adeadd684219d54d8
       width: 64
 - date: 2010-08-10
-  title: Own Side Now
   artist: Caitlin Rose
+  title: Own Side Now
   review: http://www.bbc.co.uk/music/reviews/934z
   spotify:
     artists:
@@ -1477,8 +1477,8 @@
       url: https://i.scdn.co/image/0c65db75ec919ddcd09d758ad58032abe1cb6639
       width: 64
 - date: 2010-08-09
-  title: Treats
   artist: Sleigh Bells
+  title: Treats
   review: http://www.bbc.co.uk/music/reviews/5nrj
   spotify:
     artists:
@@ -1496,8 +1496,8 @@
       url: https://i.scdn.co/image/518469e278c0f8b5d8e854535901b68acf34bfb5
       width: 64
 - date: 2010-08-06
-  title: The Real Ramona
   artist: Throwing Muses
+  title: The Real Ramona
   review: http://www.bbc.co.uk/music/reviews/qqhf
   spotify:
     artists:
@@ -1515,8 +1515,8 @@
       url: https://i.scdn.co/image/677dd05631dac83fbf99cb3d73c2a5495ced7d99
       width: 64
 - date: 2010-08-05
-  title: Crazy for You
   artist: Best Coast
+  title: Crazy for You
   review: http://www.bbc.co.uk/music/reviews/58j9
   spotify:
     artists:
@@ -1534,15 +1534,15 @@
       url: https://i.scdn.co/image/bf503a30a5d5d8ddf067a7b02e407e2f6ef1c414
       width: 64
 - date: 2010-08-04
-  title: Hobbyism
   artist: Various Artists
+  title: Hobbyism
   review: http://www.bbc.co.uk/music/reviews/3nhf
 - date: 2010-08-03
-  title: Odessey & Oracle- 40th Anniversary Edition
   artist: The Zombies
-  review: http://www.bbc.co.uk/music/reviews/d8p2
+  title: Odessey & Oracle- 40th Anniversary Edition
   notes: This is not on Spotify (this album is not the similarly titled live recording).
     Included the original instead.
+  review: http://www.bbc.co.uk/music/reviews/d8p2
   spotify:
     artists:
     - The Zombies
@@ -1559,8 +1559,8 @@
       url: https://i.scdn.co/image/f95f5223fe664f5d7d72191c3f1e9fc539a22a54
       width: 64
 - date: 2010-08-02
-  title: The Suburbs
   artist: Arcade Fire
+  title: The Suburbs
   review: http://www.bbc.co.uk/music/reviews/nm4z
   spotify:
     artists:
@@ -1578,8 +1578,8 @@
       url: https://i.scdn.co/image/3aa3e58afed3c69eaedb3c5fe4faf94ee5befbde
       width: 64
 - date: 2010-07-30
-  title: XO
   artist: Elliott Smith
+  title: XO
   review: http://www.bbc.co.uk/music/reviews/jzd3
   spotify:
     artists:
@@ -1597,8 +1597,8 @@
       url: https://i.scdn.co/image/709cfef580c2e84252bb91c4ddef630923b38046
       width: 64
 - date: 2010-07-29
-  title: Another Music in a Different Kitchen
   artist: Buzzcocks
+  title: Another Music in a Different Kitchen
   review: http://www.bbc.co.uk/music/reviews/zcb6
   spotify:
     artists:
@@ -1616,8 +1616,8 @@
       url: https://i.scdn.co/image/b552ca0bb946df8e4da871dc15abbaa37b2efe28
       width: 64
 - date: 2010-07-28
-  title: Praise & Blame
   artist: Tom Jones
+  title: Praise & Blame
   review: http://www.bbc.co.uk/music/reviews/jrwx
   spotify:
     artists:
@@ -1635,8 +1635,8 @@
       url: https://i.scdn.co/image/e0d5291ebc0f47183c316ea4eba4af1619175b6e
       width: 64
 - date: 2010-07-23
-  title: 'Best of the Capitol Years: 1995-2007'
   artist: The Dandy Warhols
+  title: 'Best of the Capitol Years: 1995-2007'
   review: http://www.bbc.co.uk/music/reviews/qdnv
   spotify:
     artists:
@@ -1654,8 +1654,8 @@
       url: https://i.scdn.co/image/8036cc68fe583b909fa27d9973e906e75e80a9b6
       width: 64
 - date: 2010-07-22
-  title: Dansette Dansette
   artist: Tender Trap
+  title: Dansette Dansette
   review: http://www.bbc.co.uk/music/reviews/cqhf
   spotify:
     artists:
@@ -1673,8 +1673,8 @@
       url: https://i.scdn.co/image/cfe720f730cf76c97e5598d511cdf2aadbb6d948
       width: 64
 - date: 2010-07-21
-  title: "/\\/\\/\\Y/\\"
   artist: M.I.A.
+  title: "/\\/\\/\\Y/\\"
   review: http://www.bbc.co.uk/music/reviews/2cb6
   spotify:
     artists:
@@ -1692,8 +1692,8 @@
       url: https://i.scdn.co/image/3f9a00b1894ad3f0dd42e4deea79c85076389c13
       width: 64
 - date: 2010-07-20
-  title: The Place We Ran From
   artist: Tired Pony
+  title: The Place We Ran From
   review: http://www.bbc.co.uk/music/reviews/wzd3
   spotify:
     artists:
@@ -1711,8 +1711,8 @@
       url: https://i.scdn.co/image/ecc7dd80c652e1326c1e8a766fdab715da2c501d
       width: 64
 - date: 2010-07-19
-  title: Flaws
   artist: Bombay Bicycle Club
+  title: Flaws
   review: http://www.bbc.co.uk/music/reviews/9g6m
   spotify:
     artists:
@@ -1730,8 +1730,8 @@
       url: https://i.scdn.co/image/5196a316feb11b14dd2226c4ef9b4f31502b3c5a
       width: 64
 - date: 2010-07-16
-  title: Fables of the Reconstruction
   artist: R.E.M.
+  title: Fables of the Reconstruction
   review: http://www.bbc.co.uk/music/reviews/46q4
   spotify:
     artists:
@@ -1749,8 +1749,8 @@
       url: https://i.scdn.co/image/b35cf772c0e58c002d00b162b6348d16a1aa08fe
       width: 64
 - date: 2010-07-15
-  title: Butterfly House
   artist: The Coral
+  title: Butterfly House
   review: http://www.bbc.co.uk/music/reviews/g2cg
   spotify:
     artists:
@@ -1768,8 +1768,8 @@
       url: https://i.scdn.co/image/3e5f63b7d586b3c5a4e8644666d9ee7186eafbff
       width: 64
 - date: 2010-07-14
-  title: Disconnect From Desire
   artist: School of Seven Bells
+  title: Disconnect From Desire
   review: http://www.bbc.co.uk/music/reviews/rx5c
   spotify:
     artists:
@@ -1787,8 +1787,8 @@
       url: https://i.scdn.co/image/4422f9ffcb251acd1e039875bd69fd02c474ec16
       width: 64
 - date: 2010-07-13
-  title: The United Nations of Sound
   artist: RPA & The United Nations Of Sound
+  title: The United Nations of Sound
   review: http://www.bbc.co.uk/music/reviews/z2cg
   spotify:
     artists:
@@ -1807,8 +1807,8 @@
       url: https://i.scdn.co/image/552b704c50363f716a6c9904094d1afff8101079
       width: 64
 - date: 2010-07-12
-  title: Dark Night of the Soul
   artist: Danger Mouse and Sparklehorse
+  title: Dark Night of the Soul
   review: http://www.bbc.co.uk/music/reviews/qb3q
   spotify:
     artists:
@@ -1827,8 +1827,8 @@
       url: https://i.scdn.co/image/9dcba75e1b1ce6348957261813164bae7ddae8c4
       width: 64
 - date: 2010-07-09
-  title: A Complete Introduction to Chess
   artist: Various Artists
+  title: A Complete Introduction to Chess
   review: http://www.bbc.co.uk/music/reviews/2jx2
   spotify:
     artists:
@@ -1846,8 +1846,8 @@
       url: https://i.scdn.co/image/c8b1f6a29ceb42ccf2e5807b4c543e65cbfd8f91
       width: 64
 - date: 2010-07-08
-  title: Beneath This Burning Shoreline
   artist: Cherry Ghost
+  title: Beneath This Burning Shoreline
   review: http://www.bbc.co.uk/music/reviews/d8gw
   spotify:
     artists:
@@ -1865,8 +1865,8 @@
       url: https://i.scdn.co/image/91e7489b47a731e140b48805aa8b943e220633dd
       width: 64
 - date: 2010-07-07
-  title: Serotonin
   artist: Mystery Jets
+  title: Serotonin
   review: http://www.bbc.co.uk/music/reviews/m4fd
   spotify:
     artists:
@@ -1884,8 +1884,8 @@
       url: https://i.scdn.co/image/70d3f4d0a49511f493a59b3eca40e8579c48c2a5
       width: 64
 - date: 2010-07-06
-  title: Sky at Night
   artist: I Am Kloot
+  title: Sky at Night
   review: http://www.bbc.co.uk/music/reviews/nzd3
   spotify:
     artists:
@@ -1903,8 +1903,8 @@
       url: https://i.scdn.co/image/aff3b5b8874f6696ee2a162c253f8e799001655b
       width: 64
 - date: 2010-07-05
-  title: 'Sir Lucious Left Foot: The Son of Chico Dusty'
   artist: Big Boi
+  title: 'Sir Lucious Left Foot: The Son of Chico Dusty'
   review: http://www.bbc.co.uk/music/reviews/p4fd
   spotify:
     artists:
@@ -1922,8 +1922,8 @@
       url: https://i.scdn.co/image/9bb1a758d1f59e1ab2cb0d4ceafdb9d6443ac469
       width: 64
 - date: 2010-07-02
-  title: Record
   artist: Zero 7
+  title: Record
   review: http://www.bbc.co.uk/music/reviews/h928
   spotify:
     artists:
@@ -1941,8 +1941,8 @@
       url: https://i.scdn.co/image/4ef708b9e6c7e8d10f3d6ec924e5bde55370bf02
       width: 64
 - date: 2010-07-01
-  title: Gemini
   artist: Wild Nothing
+  title: Gemini
   review: http://www.bbc.co.uk/music/reviews/88zb
   spotify:
     artists:
@@ -1960,8 +1960,8 @@
       url: https://i.scdn.co/image/ede4e1a7e7e2a9b29e5f0e184f7327ce0e7d987a
       width: 64
 - date: 2010-06-30
-  title: We Went Riding
   artist: Richard James
+  title: We Went Riding
   review: http://www.bbc.co.uk/music/reviews/j928
   spotify:
     artists:
@@ -1979,8 +1979,8 @@
       url: https://i.scdn.co/image/7ac03758d8c861832fd3454088f259c02ec037e0
       width: 64
 - date: 2010-06-29
-  title: Loveless Unbeliever
   artist: The School
+  title: Loveless Unbeliever
   review: http://www.bbc.co.uk/music/reviews/x5zb
   spotify:
     artists:
@@ -1998,12 +1998,12 @@
       url: https://i.scdn.co/image/1ddcc0da6663fdbf0750453a1384bad3ebeadce4
       width: 64
 - date: 2010-06-28
-  title: The Dark Side of the Moon
   artist: The Flaming Lips
+  title: The Dark Side of the Moon
   review: http://www.bbc.co.uk/music/reviews/rwm5
 - date: 2010-06-16
-  title: Lustre
   artist: Ed Harcourt
+  title: Lustre
   review: http://www.bbc.co.uk/music/reviews/ggd3
   spotify:
     artists:
@@ -2021,8 +2021,8 @@
       url: https://i.scdn.co/image/0ef816f6a76c34281c66149335dd0173f7199e77
       width: 64
 - date: 2010-06-15
-  title: Barbara
   artist: We Are Scientists
+  title: Barbara
   review: http://www.bbc.co.uk/music/reviews/xd28
   spotify:
     artists:
@@ -2040,8 +2040,8 @@
       url: https://i.scdn.co/image/3915864d1005f50cbf0ff76bcb14b44dea747b41
       width: 64
 - date: 2010-06-14
-  title: Something for Everybody
   artist: Devo
+  title: Something for Everybody
   review: http://www.bbc.co.uk/music/reviews/zhwx
   spotify:
     artists:
@@ -2059,8 +2059,8 @@
       url: https://i.scdn.co/image/62775fcc6407a48d02a536f95ed64d6d4fd09e57
       width: 64
 - date: 2010-06-11
-  title: Attack of the Grey Lantern - Collectors Edition
   artist: Mansun
+  title: Attack of the Grey Lantern - Collectors Edition
   review: http://www.bbc.co.uk/music/reviews/brb6
   spotify:
     artists:
@@ -2078,8 +2078,8 @@
       url: https://i.scdn.co/image/276fefb4ad8fbc7e3fc38e2870783ef088ba3fb8
       width: 64
 - date: 2010-06-10
-  title: New Inheritors
   artist: Wintersleep
+  title: New Inheritors
   review: http://www.bbc.co.uk/music/reviews/v5hf
   spotify:
     artists:
@@ -2097,8 +2097,8 @@
       url: https://i.scdn.co/image/d729189ad363505060410e8dd1d10c50ea1de01f
       width: 64
 - date: 2010-06-09
-  title: Further
   artist: The Chemical Brothers
+  title: Further
   review: http://www.bbc.co.uk/music/reviews/6d28
   spotify:
     artists:
@@ -2116,8 +2116,8 @@
       url: https://i.scdn.co/image/cb72b371727b05d17722e03a9850070a163e6c4f
       width: 64
 - date: 2010-06-08
-  title: Been Listening
   artist: Johnny Flynn
+  title: Been Listening
   review: http://www.bbc.co.uk/music/reviews/9fx2
   spotify:
     artists:
@@ -2135,8 +2135,8 @@
       url: https://i.scdn.co/image/87b3ede8f3d8c89d58b2b0040201fdc57b536a1c
       width: 64
 - date: 2010-06-07
-  title: The Drums
   artist: The Drums
+  title: The Drums
   review: http://www.bbc.co.uk/music/reviews/9z9p
   spotify:
     artists:
@@ -2154,8 +2154,8 @@
       url: https://i.scdn.co/image/2371610e5842feb61d7e5f8cf102f6d6761e0d73
       width: 64
 - date: 2010-06-04
-  title: Shadows
   artist: Teenage Fanclub
+  title: Shadows
   review: http://www.bbc.co.uk/music/reviews/dgd3
   spotify:
     artists:
@@ -2173,8 +2173,8 @@
       url: https://i.scdn.co/image/422c5be7b295c83b5dde49a9ee3570d228da90db
       width: 64
 - date: 2010-06-03
-  title: Beachcomber’s Windowsill
   artist: Stornoway
+  title: Beachcomber’s Windowsill
   review: http://www.bbc.co.uk/music/reviews/4xq4
   spotify:
     artists:
@@ -2192,8 +2192,8 @@
       url: https://i.scdn.co/image/9eac1735b38c61c129c182fb318dfb60e2361c09
       width: 64
 - date: 2010-06-02
-  title: Gloves
   artist: Operator Please
+  title: Gloves
   review: http://www.bbc.co.uk/music/reviews/9gd3
   spotify:
     artists:
@@ -2211,8 +2211,8 @@
       url: https://i.scdn.co/image/69d2e8bc11a088c8d857d7e07fffe6dbe4aab8e4
       width: 64
 - date: 2010-06-01
-  title: Power in the Darkness
   artist: Tom Robinson Band
+  title: Power in the Darkness
   review: http://www.bbc.co.uk/music/reviews/pw3q
   spotify:
     artists:
@@ -2230,8 +2230,8 @@
       url: https://i.scdn.co/image/46c711e70e82d2c16de4143aa1c0ce548ab86cee
       width: 64
 - date: 2010-05-31
-  title: Bang Goes the Knighthood
   artist: The Divine Comedy
+  title: Bang Goes the Knighthood
   review: http://www.bbc.co.uk/music/reviews/dz9p
   spotify:
     artists:
@@ -2249,8 +2249,8 @@
       url: https://i.scdn.co/image/b8307289fd9e976211a93dd414bcf965b134d3a7
       width: 64
 - date: 2010-05-28
-  title: Disintegration – Deluxe Edition
   artist: The Cure
+  title: Disintegration – Deluxe Edition
   review: http://www.bbc.co.uk/music/reviews/jqrj
   spotify:
     artists:
@@ -2268,8 +2268,8 @@
       url: https://i.scdn.co/image/5e30084d686e61460173e9e6a30568ee71303c4b
       width: 64
 - date: 2010-05-27
-  title: The Ghost Who Walks
   artist: Karen Elson
+  title: The Ghost Who Walks
   review: http://www.bbc.co.uk/music/reviews/fvgw
   spotify:
     artists:
@@ -2287,8 +2287,8 @@
       url: https://i.scdn.co/image/9cf2e023625df3f0072e25c907b81c8ce3052629
       width: 64
 - date: 2010-05-26
-  title: Compass
   artist: Jamie Lidell
+  title: Compass
   review: http://www.bbc.co.uk/music/reviews/b5hf
   spotify:
     artists:
@@ -2306,8 +2306,8 @@
       url: https://i.scdn.co/image/c42a16886685256584557c0c48098005935ed3e0
       width: 64
 - date: 2010-05-25
-  title: Becoming a Jackal
   artist: Villagers
+  title: Becoming a Jackal
   review: http://www.bbc.co.uk/music/reviews/qbpn
   spotify:
     artists:
@@ -2325,8 +2325,8 @@
       url: https://i.scdn.co/image/2fe4226d66f5f23f58853ca4da5409cb41db3752
       width: 64
 - date: 2010-05-24
-  title: Crystal Castles (II)
   artist: Crystal Castles
+  title: Crystal Castles (II)
   review: http://www.bbc.co.uk/music/reviews/qw3q
   spotify:
     artists:
@@ -2344,8 +2344,8 @@
       url: https://i.scdn.co/image/55b87c0731c92727440ef5b3f6db69d2f45c1f1d
       width: 64
 - date: 2010-05-21
-  title: Brothers
   artist: The Black Keys
+  title: Brothers
   review: http://www.bbc.co.uk/music/reviews/cbpn
   spotify:
     artists:
@@ -2363,8 +2363,8 @@
       url: https://i.scdn.co/image/12616dea6a9464ed1bbe98d75ffbbcf0a04b729a
       width: 64
 - date: 2010-05-20
-  title: Love and Its Opposite
   artist: Tracey Thorn
+  title: Love and Its Opposite
   review: http://www.bbc.co.uk/music/reviews/d8zb
   spotify:
     artists:

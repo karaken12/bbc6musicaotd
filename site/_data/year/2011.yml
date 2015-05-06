@@ -1,10 +1,10 @@
 ---
-- twitter: https://twitter.com/BBC6Music/status/108484176373743616
-  tweet_text: 'The Specials - by The #Specials is the classic album of the day on
-    @BBC6Music - and what a classic it is! Listen to their interview later -'
-  date: 2011-08-30
+- date: 2011-08-30
   artist: The Specials
   title: The Specials
+  twitter: https://twitter.com/BBC6Music/status/108484176373743616
+  tweet_text: 'The Specials - by The #Specials is the classic album of the day on
+    @BBC6Music - and what a classic it is! Listen to their interview later -'
   spotify:
     name: The Specials
     album_id: 3slMWt0RziAAsTyKO0v98W
@@ -18,12 +18,12 @@
     - height: 64
       url: https://i.scdn.co/image/a02fd7b3c9744a0cb0b0c4c59a85496259cd0eba
       width: 64
-- twitter: https://twitter.com/BBC6Music/status/103429556001701888
-  tweet_text: 'Our album of the day today #Orbital by Orbital - listen to tracks from
-    the album all day today on @BBC6Music =&gt; @orbitalband interview 4pm'
-  date: 2011-08-16
+- date: 2011-08-16
   artist: Orbital
   title: Orbital
+  twitter: https://twitter.com/BBC6Music/status/103429556001701888
+  tweet_text: 'Our album of the day today #Orbital by Orbital - listen to tracks from
+    the album all day today on @BBC6Music =&gt; @orbitalband interview 4pm'
   spotify:
     name: Orbital
     album_id: 4xlGmLv1KsyhEKqPK7gmPK
@@ -37,12 +37,12 @@
     - height: 64
       url: https://i.scdn.co/image/0c85616f0606fdb416104813c9715905a4ba543a
       width: 64
-- twitter: https://twitter.com/BBC6Music/status/55255319101706240
-  tweet_text: 'The @foofighters new album is album of the day tomorrow on @bbc6music  listen
-    in @foofightersfans -  #foofighters its going to be soo good!'
-  date: 2011-04-06
+- date: 2011-04-06
   artist: Foo Fighters
   title: Wasting Light
+  twitter: https://twitter.com/BBC6Music/status/55255319101706240
+  tweet_text: 'The @foofighters new album is album of the day tomorrow on @bbc6music  listen
+    in @foofightersfans -  #foofighters its going to be soo good!'
   spotify:
     name: Wasting Light
     album_id: 5lnQLEUiVDkLbFJHXHQu9m
@@ -56,12 +56,12 @@
     - height: 64
       url: https://i.scdn.co/image/fdd1d20449225e25368bad569aa614318317490f
       width: 64
-- twitter: https://twitter.com/BBC6Music/status/39649585429221376
-  tweet_text: 'RT @bbcalbumreviews: #thekingoflimbs #radiohead is also @Inside6music''s
-    Album of the Day - http://bbc.in/i9aFPZ'
-  date: 2011-02-21
+- date: 2011-02-21
   artist: Radiohead
   title: King Of Limbs
+  twitter: https://twitter.com/BBC6Music/status/39649585429221376
+  tweet_text: 'RT @bbcalbumreviews: #thekingoflimbs #radiohead is also @Inside6music''s
+    Album of the Day - http://bbc.in/i9aFPZ'
   spotify:
     album_id: 6CeulIpMN8ZxqlMk5Gn3S3
     images:

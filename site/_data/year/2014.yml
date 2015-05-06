@@ -616,9 +616,9 @@
       url: https://i.scdn.co/image/19456f8ee7590d4fb73903a4d4e49d08d8edd82a
       width: 64
 - date: 2014-10-07
-  twitter: https://twitter.com/BBC6Music/status/519490907448823809
   artist: Johnny Marr
   title: Playland
+  twitter: https://twitter.com/BBC6Music/status/519490907448823809
   twitpic: http://pbs.twimg.com/media/BzWaOgFCMAATcI9.jpg
   spotify:
     album_id: 5CQVzrh6Ww643MWcZd7DIh
@@ -723,6 +723,8 @@
   artist: Leonard Cohen
   title: Popular Problems
   twitter: https://twitter.com/BBC6Music/status/515502737791143936
+  tweet_text: "#NowPlaying on @BBCRadMac Born In Chains by Leonard Cohen from Album
+    Of The Day: Popular Problems &amp; @StuartMaconie chats to him this Sun 1pm"
   spotify:
     album_id: 1WkGbKUjhOMru7uYl25jJb
     images:
@@ -735,8 +737,6 @@
     - height: 64
       url: https://i.scdn.co/image/57860e844caab1877380069ab3fded6dc54d0e25
       width: 64
-  tweet_text: "#NowPlaying on @BBCRadMac Born In Chains by Leonard Cohen from Album
-    Of The Day: Popular Problems &amp; @StuartMaconie chats to him this Sun 1pm"
 - date: 2014-09-25
   artist: Perfume Genius
   title: Too Bright
@@ -1037,10 +1037,10 @@
   twitter: https://twitter.com/BBC6Music/status/506443999662858240
   twitpic: http://pbs.twimg.com/media/BwdAIjdIcAAyaiX.jpg
 - date: 2014-08-29
-  twitter: https://twitter.com/BBC6Music/status/505357226547347456
-  twitpic: http://pbs.twimg.com/media/BwNjuCKIQAATC_j.jpg
   artist: Royal Blood
   title: Royal Blood
+  twitter: https://twitter.com/BBC6Music/status/505357226547347456
+  twitpic: http://pbs.twimg.com/media/BwNjuCKIQAATC_j.jpg
   spotify:
     album_id: 0BFzNaeaNv4mahOzwZFGHK
     images:
@@ -1054,10 +1054,10 @@
       url: https://i.scdn.co/image/73be37c49f4e2a4ce3d95b139b7031857e1674dd
       width: 64
 - date: 2014-08-28
-  twitter: https://twitter.com/BBC6Music/status/504994052354633728
-  twitpic: http://pbs.twimg.com/media/BwIZag9IEAACdxd.jpg
   artist: Erland & The Carnival
   title: Closing Time
+  twitter: https://twitter.com/BBC6Music/status/504994052354633728
+  twitpic: http://pbs.twimg.com/media/BwIZag9IEAACdxd.jpg
   spotify:
     album_id: 2uufY02W1xOfiD4gsSfGC5
     images:
@@ -1071,10 +1071,10 @@
       url: https://i.scdn.co/image/1426be65a06cffda0923ed86fef61d5e93c6516f
       width: 64
 - date: 2014-08-27
-  twitter: https://twitter.com/BBC6Music/status/504631915522301952
-  twitpic: http://pbs.twimg.com/media/BwDQDXyIQAEA8Ss.jpg
   artist: The Housemartins
   title: London 0 Hull 4
+  twitter: https://twitter.com/BBC6Music/status/504631915522301952
+  twitpic: http://pbs.twimg.com/media/BwDQDXyIQAEA8Ss.jpg
   spotify:
     album_id: 1rle5T6XTmBBFMmlx59jeF
     images:
@@ -1088,10 +1088,10 @@
       url: https://i.scdn.co/image/7127108d839cc05169686f5358a7940d72127643
       width: 64
 - date: 2014-08-26
-  twitter: https://twitter.com/BBC6Music/status/504270140033486848
-  twitpic: http://pbs.twimg.com/media/Bv-HBRNIEAA8k34.jpg
   artist: Various Artists
   title: Pay Close Attention
+  twitter: https://twitter.com/BBC6Music/status/504270140033486848
+  twitpic: http://pbs.twimg.com/media/Bv-HBRNIEAA8k34.jpg
   spotify:
     album_id: 19xt2EkDfNcbAdQzOVUttd
     images:
@@ -1105,10 +1105,10 @@
       url: https://i.scdn.co/image/d49718112ff8bbe04d83fe67875aa0c40fee7354
       width: 64
 - date: 2014-08-25
-  twitter: https://twitter.com/BBC6Music/status/503906790200053760
-  twitpic: http://pbs.twimg.com/media/Bv48jhoIIAATRgQ.jpg
   artist: J Mascis
   title: Tied To A Star
+  twitter: https://twitter.com/BBC6Music/status/503906790200053760
+  twitpic: http://pbs.twimg.com/media/Bv48jhoIIAATRgQ.jpg
   spotify:
     album_id: 2Ks9qv8BHziWoce4cWqUDz
     images:
@@ -1122,10 +1122,10 @@
       url: https://i.scdn.co/image/6321cf418d09c8852d9e69c575fb538357c6dfa7
       width: 64
 - date: 2014-08-22
-  twitter: https://twitter.com/BBC6Music/status/502819394301755392
-  twitpic: http://pbs.twimg.com/media/BvpfkwOIIAETaq3.jpg
   artist: The Wytches
   title: Annabel Dream Reader
+  twitter: https://twitter.com/BBC6Music/status/502819394301755392
+  twitpic: http://pbs.twimg.com/media/BvpfkwOIIAETaq3.jpg
   spotify:
     album_id: 6yRRmOn24Yr8ajcWxdjUYQ
     images:
@@ -1139,10 +1139,10 @@
       url: https://i.scdn.co/image/1d12a3649d7ef8b12f92907cb6353aae63a841f4
       width: 64
 - date: 2014-08-21
-  twitter: https://twitter.com/BBC6Music/status/502457669547196416
-  twitpic: http://pbs.twimg.com/media/BvkWlmxIUAAI15W.jpg
   artist: Trwbador
   title: Several Wolves
+  twitter: https://twitter.com/BBC6Music/status/502457669547196416
+  twitpic: http://pbs.twimg.com/media/BvkWlmxIUAAI15W.jpg
   spotify:
     album_id: 2mpLlyxUfDFl5jYezNythx
     images:
@@ -1156,10 +1156,10 @@
       url: https://i.scdn.co/image/a2eca0b6449e73104ce2c7bad9dc90e2e25a8a44
       width: 64
 - date: 2014-08-20
-  twitter: https://twitter.com/BBC6Music/status/502094904831791104
-  twitpic: http://pbs.twimg.com/media/BvfMp64IIAAPNIG.jpg
   artist: The Damned
   title: Machine Gun Etiquette
+  twitter: https://twitter.com/BBC6Music/status/502094904831791104
+  twitpic: http://pbs.twimg.com/media/BvfMp64IIAAPNIG.jpg
   spotify:
     album_id: 2wCCXYJUgeiRqyIr3ujbMF
     images:
@@ -1173,10 +1173,10 @@
       url: https://i.scdn.co/image/e8a3c501fb3c8ff459560c4e11aa49ad6e13639e
       width: 64
 - date: 2014-08-19
-  twitter: https://twitter.com/BBC6Music/status/501733596915589121
-  twitpic: http://pbs.twimg.com/media/BvaEDCLIIAA3GYc.jpg
   artist: Luke Sital Singh
   title: The Fire Inside
+  twitter: https://twitter.com/BBC6Music/status/501733596915589121
+  twitpic: http://pbs.twimg.com/media/BvaEDCLIIAA3GYc.jpg
   spotify:
     album_id: 50b5yOziNASYCd79B40iYX
     images:
@@ -1190,10 +1190,10 @@
       url: https://i.scdn.co/image/c406eed8868a24a2b5420234a8c64df7244c91e3
       width: 64
 - date: 2014-08-18
-  twitter: https://twitter.com/BBC6Music/status/501370440292782080
-  twitpic: http://pbs.twimg.com/media/BvU5wiNIMAAS43T.jpg
   artist: Benjamin Booker
   title: Benjamin Booker
+  twitter: https://twitter.com/BBC6Music/status/501370440292782080
+  twitpic: http://pbs.twimg.com/media/BvU5wiNIMAAS43T.jpg
   spotify:
     album_id: 1lHQCme4fW2HcOLMKZ0WOQ
     images:
@@ -1207,10 +1207,10 @@
       url: https://i.scdn.co/image/658be9c083c8f717a713ea515f688d5d1712a87a
       width: 64
 - date: 2014-08-15
-  twitter: https://twitter.com/BBC6Music/status/500283602039746560
-  twitpic: http://pbs.twimg.com/media/BvFdSOBIYAAtL1Y.jpg
   artist: Neutral Milk Hotel
   title: In The Aeroplane
+  twitter: https://twitter.com/BBC6Music/status/500283602039746560
+  twitpic: http://pbs.twimg.com/media/BvFdSOBIYAAtL1Y.jpg
   spotify:
     album_id: 7i6AHMD700GlwhHdFx1CIG
     images:
@@ -1224,15 +1224,15 @@
       url: https://i.scdn.co/image/7028609f25b6cdadd9c03775a73707162106c1f2
       width: 64
 - date: 2014-08-14
-  twitter: https://twitter.com/BBC6Music/status/499921197224972288
-  twitpic: http://pbs.twimg.com/media/BvATre9IcAAeJhR.jpg
   artist: James Yorkston
   title: Cellardyke Recording & Wassailing Soc
+  twitter: https://twitter.com/BBC6Music/status/499921197224972288
+  twitpic: http://pbs.twimg.com/media/BvATre9IcAAeJhR.jpg
 - date: 2014-08-13
-  twitter: https://twitter.com/BBC6Music/status/499557938802229248
-  twitpic: http://pbs.twimg.com/media/Bu7JTD-IgAEHlzP.jpg
   artist: FaltyDL
   title: In The Wild
+  twitter: https://twitter.com/BBC6Music/status/499557938802229248
+  twitpic: http://pbs.twimg.com/media/Bu7JTD-IgAEHlzP.jpg
   spotify:
     album_id: 1Bq4OV8fc4DXYugd1dSI2K
     images:
@@ -1246,10 +1246,10 @@
       url: https://i.scdn.co/image/1edac5755b820bff5b08932a4adc2398f961dc2a
       width: 64
 - date: 2014-08-12
-  twitter: https://twitter.com/BBC6Music/status/499196393022824448
-  twitpic: http://pbs.twimg.com/media/Bu2AeR1IEAAguyo.jpg
   artist: Grumbling Fur
   title: Preternaturals
+  twitter: https://twitter.com/BBC6Music/status/499196393022824448
+  twitpic: http://pbs.twimg.com/media/Bu2AeR1IEAAguyo.jpg
   spotify:
     album_id: 4r4vOlrStKycNPIxekCeDn
     images:
@@ -1263,10 +1263,10 @@
       url: https://i.scdn.co/image/072b5c3bf7af32f597e630efe9c1367bff529c79
       width: 64
 - date: 2014-08-11
-  twitter: https://twitter.com/BBC6Music/status/498833363311263744
-  twitpic: http://pbs.twimg.com/media/Buw2TN8IQAA3sAI.jpg
   artist: Childhood
   title: Lacuna
+  twitter: https://twitter.com/BBC6Music/status/498833363311263744
+  twitpic: http://pbs.twimg.com/media/Buw2TN8IQAA3sAI.jpg
   spotify:
     album_id: 2g6rmoAkrKKVZIe3pr0YHS
     images:
@@ -1280,10 +1280,10 @@
       url: https://i.scdn.co/image/fbba397e6a3dedbe9614bc9c90d0286bbfc2ecf2
       width: 64
 - date: 2014-08-08
-  twitter: https://twitter.com/BBC6Music/status/497745920101195776
-  twitpic: http://pbs.twimg.com/media/BuhZRsIIMAA1E53.jpg
   artist: Orbital
   title: Snivilisation
+  twitter: https://twitter.com/BBC6Music/status/497745920101195776
+  twitpic: http://pbs.twimg.com/media/BuhZRsIIMAA1E53.jpg
   spotify:
     album_id: 30nRhMqZKuMHDH6CRCCCPz
     images:
@@ -1297,10 +1297,10 @@
       url: https://i.scdn.co/image/94c3f2f6ceb47c667d05c050a135d46529d43947
       width: 64
 - date: 2014-08-07
-  twitter: https://twitter.com/BBC6Music/status/497384855748247552
-  twitpic: http://pbs.twimg.com/media/BucQ4_EIMAA6rME.jpg
   artist: Annie Eve
   title: Sunday '91
+  twitter: https://twitter.com/BBC6Music/status/497384855748247552
+  twitpic: http://pbs.twimg.com/media/BucQ4_EIMAA6rME.jpg
   spotify:
     album_id: 6dgVm9AIsKeCp9fAffOyqc
     images:
@@ -1314,10 +1314,10 @@
       url: https://i.scdn.co/image/01e2c9bef69926ad7301b7251c5bbfa525d6c98c
       width: 64
 - date: 2014-08-06
-  twitter: https://twitter.com/BBC6Music/status/497021415888261120
-  twitpic: http://pbs.twimg.com/media/BuXGV9CIgAI3sNy.jpg
   artist: We Are Shining
   title: Kara
+  twitter: https://twitter.com/BBC6Music/status/497021415888261120
+  twitpic: http://pbs.twimg.com/media/BuXGV9CIgAI3sNy.jpg
   spotify:
     album_id: 2p2IShxZMPFwF9RMCKKbm7
     images:
@@ -1331,10 +1331,10 @@
       url: https://i.scdn.co/image/57ea70c66edfa4a78905235c67ac6ab0842aa707
       width: 64
 - date: 2014-08-05
-  twitter: https://twitter.com/BBC6Music/status/496659311289196544
-  twitpic: http://pbs.twimg.com/media/BuR9AurIQAEm-oB.jpg
   artist: Hyde And Beast
   title: Keep Moving
+  twitter: https://twitter.com/BBC6Music/status/496659311289196544
+  twitpic: http://pbs.twimg.com/media/BuR9AurIQAEm-oB.jpg
   spotify:
     album_id: 44ErjiiG1YiiRFMZQL7De2
     images:
@@ -1348,10 +1348,10 @@
       url: https://i.scdn.co/image/dee79bed9061056a43672218f66934f56a409b9d
       width: 64
 - date: 2014-08-04
-  twitter: https://twitter.com/BBC6Music/status/496297588392738816
-  twitpic: http://pbs.twimg.com/media/BuM0Bq6IcAAfxU2.jpg
   artist: Spoon
   title: They Want My Soul
+  twitter: https://twitter.com/BBC6Music/status/496297588392738816
+  twitpic: http://pbs.twimg.com/media/BuM0Bq6IcAAfxU2.jpg
   spotify:
     album_id: 5LOVEXnGFLMChzdUNRWRpB
     images:
@@ -1365,10 +1365,10 @@
       url: https://i.scdn.co/image/a534a3c7540a503e8c2c8bbf118d50673aaa2b59
       width: 64
 - date: 2014-08-01
-  twitter: https://twitter.com/BBC6Music/status/495210202258743297
-  twitpic: http://pbs.twimg.com/media/Bt9XDe8IMAIMHQ8.jpg
   artist: Giorgio Moroder
   title: E=MC2
+  twitter: https://twitter.com/BBC6Music/status/495210202258743297
+  twitpic: http://pbs.twimg.com/media/Bt9XDe8IMAIMHQ8.jpg
   spotify:
     album_id: 0CAO4TC1HPXZfMr1DfBLU0
     images:
@@ -1382,10 +1382,10 @@
       url: https://i.scdn.co/image/a9b27894b50db81e5465205e7dcac297e6a1fb36
       width: 64
 - date: 2014-07-31
-  twitter: https://twitter.com/BBC6Music/status/494848640171933696
-  twitpic: http://pbs.twimg.com/media/Bt4ONzaIEAEWt-D.jpg
   artist: Tom Petty
   title: Hypnotic Eye
+  twitter: https://twitter.com/BBC6Music/status/494848640171933696
+  twitpic: http://pbs.twimg.com/media/Bt4ONzaIEAEWt-D.jpg
   spotify:
     album_id: 55dSc0Ry199sq95DwnHFFa
     images:
@@ -1399,10 +1399,10 @@
       url: https://i.scdn.co/image/88f4ab4f2e46ed336f0260f86b3b9747846944a5
       width: 64
 - date: 2014-07-30
-  twitter: https://twitter.com/BBC6Music/status/494485364678361088
-  twitpic: http://pbs.twimg.com/media/BtzD0YUIMAAZlAm.jpg
   artist: Lost Midas
   title: Off The Course
+  twitter: https://twitter.com/BBC6Music/status/494485364678361088
+  twitpic: http://pbs.twimg.com/media/BtzD0YUIMAAZlAm.jpg
   spotify:
     album_id: 37fEvLJMa7pNDGObverf27
     images:
@@ -1416,10 +1416,10 @@
       url: https://i.scdn.co/image/d527d8fd9f43c3cb9696c32551fc63d9924a5ae3
       width: 64
 - date: 2014-07-29
-  twitter: https://twitter.com/BBC6Music/status/494123033372925952
-  twitpic: http://pbs.twimg.com/media/Btt6R7JIQAAiSUm.jpg
   artist: John Steel
   title: Everything’s A Thread
+  twitter: https://twitter.com/BBC6Music/status/494123033372925952
+  twitpic: http://pbs.twimg.com/media/Btt6R7JIQAAiSUm.jpg
   spotify:
     album_id: 6B2BMqIGoxOtIedJNw4WyV
     images:
@@ -1433,10 +1433,10 @@
       url: https://i.scdn.co/image/55054be9871df01c80a72fd5f0d47701e3cf6343
       width: 64
 - date: 2014-07-28
-  twitter: https://twitter.com/BBC6Music/status/493760658119610369
-  twitpic: http://pbs.twimg.com/media/Btows5rIgAEQrzS.jpg
   artist: Jenny Lewis
   title: The Voyager
+  twitter: https://twitter.com/BBC6Music/status/493760658119610369
+  twitpic: http://pbs.twimg.com/media/Btows5rIgAEQrzS.jpg
   spotify:
     album_id: 5sCsfubNchaI9RCpP7K7aB
     images:
@@ -1450,10 +1450,10 @@
       url: https://i.scdn.co/image/a74ac6ea572ba1040afe77c480a0c63e8c46ecf3
       width: 64
 - date: 2014-07-25
-  twitter: https://twitter.com/BBC6Music/status/492672733801897984
-  twitpic: http://pbs.twimg.com/media/BtZTPYrIEAAfzrp.jpg
   artist: Beastie Boys
   title: Paul's Boutique
+  twitter: https://twitter.com/BBC6Music/status/492672733801897984
+  twitpic: http://pbs.twimg.com/media/BtZTPYrIEAAfzrp.jpg
   spotify:
     album_id: 4DfmPm17Nz6a60BlEpGGKU
     images:
@@ -1467,10 +1467,10 @@
       url: https://i.scdn.co/image/8b963843c4b1748f9979c88fa44a7a48431fac34
       width: 64
 - date: 2014-07-24
-  twitter: https://twitter.com/BBC6Music/status/492311546354466816
-  twitpic: http://pbs.twimg.com/media/BtUKvcVCUAAxVxb.jpg
   artist: King Creosote
   title: Scotland With Love
+  twitter: https://twitter.com/BBC6Music/status/492311546354466816
+  twitpic: http://pbs.twimg.com/media/BtUKvcVCUAAxVxb.jpg
   spotify:
     album_id: 0rXZ7L03XlBerKk7eP7Phw
     images:
@@ -1484,10 +1484,10 @@
       url: https://i.scdn.co/image/6b63b95bc25ad383e58e56c282b017ea78461e04
       width: 64
 - date: 2014-07-23
-  twitter: https://twitter.com/BBC6Music/status/491948709849354240
-  twitpic: http://pbs.twimg.com/media/BtPAvo3CMAA-Cyp.jpg
   artist: Woman's Hour
   title: Conversations
+  twitter: https://twitter.com/BBC6Music/status/491948709849354240
+  twitpic: http://pbs.twimg.com/media/BtPAvo3CMAA-Cyp.jpg
   spotify:
     album_id: 3NcENYeNFMgzURYSCkBfjw
     images:
@@ -1501,10 +1501,10 @@
       url: https://i.scdn.co/image/0474606972d3f9594a277bab55e858955470bc9e
       width: 64
 - date: 2014-07-22
-  twitter: https://twitter.com/BBC6Music/status/491586626834157568
-  twitpic: http://pbs.twimg.com/media/BtJ3boPCYAAF2tk.jpg
   artist: Alvvays
   title: Alvvays
+  twitter: https://twitter.com/BBC6Music/status/491586626834157568
+  twitpic: http://pbs.twimg.com/media/BtJ3boPCYAAF2tk.jpg
   spotify:
     album_id: 28a7IkiQxDoxGpAr8Cy0fP
     images:
@@ -1519,10 +1519,10 @@
       width: 64
 - date: 2014-07-21
 - date: 2014-07-18
-  twitter: https://twitter.com/BBC6Music/status/490040690404249600
-  twitpic: http://pbs.twimg.com/media/Bsz5aSqCcAAl8-G.jpg
   artist: Mogwai
   title: Come On Die Young
+  twitter: https://twitter.com/BBC6Music/status/490040690404249600
+  twitpic: http://pbs.twimg.com/media/Bsz5aSqCcAAl8-G.jpg
   spotify:
     album_id: 5TcwvxSuB5zntncsdQmtEU
     images:
@@ -1536,10 +1536,10 @@
       url: https://i.scdn.co/image/ab9525ddbfa55a78ec2b5523950396b298bad1f4
       width: 64
 - date: 2014-07-17
-  twitter: https://twitter.com/BBC6Music/status/489676377697038336
-  twitpic: http://pbs.twimg.com/media/BsuuEfrCcAAJRVe.jpg
   artist: Honeyblood
   title: Honeyblood
+  twitter: https://twitter.com/BBC6Music/status/489676377697038336
+  twitpic: http://pbs.twimg.com/media/BsuuEfrCcAAJRVe.jpg
   spotify:
     album_id: 6b67Ng1w8SDSsf3yXpNgjO
     images:
@@ -1553,10 +1553,10 @@
       url: https://i.scdn.co/image/140e8463498504da9abcd02d2cf0bd8ae7bcac41
       width: 64
 - date: 2014-07-16
-  twitter: https://twitter.com/BBC6Music/status/489412140886155264
-  twitpic: http://pbs.twimg.com/media/Bsq9v5CCEAE2hX3.jpg
   artist: Jungle
   title: Jungle
+  twitter: https://twitter.com/BBC6Music/status/489412140886155264
+  twitpic: http://pbs.twimg.com/media/Bsq9v5CCEAE2hX3.jpg
   spotify:
     album_id: 6IH6co1QUS7uXoyPDv0rIr
     images:
@@ -1570,10 +1570,10 @@
       url: https://i.scdn.co/image/0d4dc5f22397cd8ecdf683329f49715b4eca23e2
       width: 64
 - date: 2014-07-15
-  twitter: https://twitter.com/BBC6Music/status/489050050539298816
-  twitpic: http://pbs.twimg.com/media/Bsl0bddCQAAxpbn.jpg
   artist: Slow Club
   title: Complete Surrender
+  twitter: https://twitter.com/BBC6Music/status/489050050539298816
+  twitpic: http://pbs.twimg.com/media/Bsl0bddCQAAxpbn.jpg
   spotify:
     album_id: 7fVx3hAAvTmVtgUaM4gsxZ
     images:
@@ -1587,15 +1587,15 @@
       url: https://i.scdn.co/image/58f7f6dd45c79d380d05d4800f10fc11466bfbdf
       width: 64
 - date: 2014-07-14
-  twitter: https://twitter.com/BBC6Music/status/488687421081800704
-  twitpic: http://pbs.twimg.com/media/Bsgqnm7CAAEoAoa.jpg
   artist: Morrissey
   title: World Peace Is None Of Your Business
+  twitter: https://twitter.com/BBC6Music/status/488687421081800704
+  twitpic: http://pbs.twimg.com/media/Bsgqnm7CAAEoAoa.jpg
 - date: 2014-07-11
-  twitter: https://twitter.com/BBC6Music/status/487599998277005313
-  twitpic: http://pbs.twimg.com/media/BsRNnSeCAAAp8eF.jpg
   artist: The The
   title: Soul Mining
+  twitter: https://twitter.com/BBC6Music/status/487599998277005313
+  twitpic: http://pbs.twimg.com/media/BsRNnSeCAAAp8eF.jpg
   spotify:
     album_id: 0I7bOh7mYGUEyqCFHU9R0A
     images:
@@ -1609,10 +1609,10 @@
       url: https://i.scdn.co/image/a8b5af11795231db9c98dd24f8f43c2e771f1e7d
       width: 64
 - date: 2014-07-10
-  twitter: https://twitter.com/BBC6Music/status/487237755395923968
-  twitpic: http://pbs.twimg.com/media/BsMEJ_xCMAE7V2I.jpg
   artist: Eugene McGuinness
   title: Chroma
+  twitter: https://twitter.com/BBC6Music/status/487237755395923968
+  twitpic: http://pbs.twimg.com/media/BsMEJ_xCMAE7V2I.jpg
   spotify:
     album_id: 1mxoK1nitRSfxf3i4gYgEn
     images:
@@ -1626,10 +1626,10 @@
       url: https://i.scdn.co/image/01740566db35f605eed6c7542098dbf8d659503f
       width: 64
 - date: 2014-07-09
-  twitter: https://twitter.com/BBC6Music/status/486876274389159936
-  twitpic: http://pbs.twimg.com/media/BsG7ZAICcAA2OoL.jpg
   artist: Braid
   title: No Coast
+  twitter: https://twitter.com/BBC6Music/status/486876274389159936
+  twitpic: http://pbs.twimg.com/media/BsG7ZAICcAA2OoL.jpg
   spotify:
     album_id: 0hMmKlbeNkwQqVHuHZdfOS
     images:
@@ -1644,10 +1644,10 @@
       width: 64
 - date: 2014-07-08
 - date: 2014-07-07
-  twitter: https://twitter.com/BBC6Music/status/486151826627387392
-  twitpic: http://pbs.twimg.com/media/Br8ogmWCQAEiP1M.jpg
   artist: Manic Street Preachers
   title: Futurology
+  twitter: https://twitter.com/BBC6Music/status/486151826627387392
+  twitpic: http://pbs.twimg.com/media/Br8ogmWCQAEiP1M.jpg
   spotify:
     album_id: 1lGeS8ejAXYtPzgnSv25ZY
     images:
@@ -1661,10 +1661,10 @@
       url: https://i.scdn.co/image/ba401d097a4f80a4d799eb95368a9f3ecb345d94
       width: 64
 - date: 2014-07-04
-  twitter: https://twitter.com/BBC6Music/status/485063194197913600
-  twitpic: http://pbs.twimg.com/media/BrtKZ2VCEAAoSgw.jpg
   artist: Kraftwerk
   title: Tour de France
+  twitter: https://twitter.com/BBC6Music/status/485063194197913600
+  twitpic: http://pbs.twimg.com/media/BrtKZ2VCEAAoSgw.jpg
   tweet_text: "#NowPlaying Chrono by @kraftwerk from our AOTD The Tour de France Soundtracks.
     #6MusicCycles http://t.co/FGlOhqAMPf http://t.co/aiYizZocGV"
   spotify:
@@ -1680,10 +1680,10 @@
       url: https://i.scdn.co/image/2e25df1b0dd7a3d42cbf64e23550c9722c3bcf49
       width: 64
 - date: 2014-07-03
-  twitter: https://twitter.com/BBC6Music/status/484701086125936640
-  twitpic: http://pbs.twimg.com/media/BroBEaiCQAEfTvp.jpg
   artist: Beverly
   title: Careers
+  twitter: https://twitter.com/BBC6Music/status/484701086125936640
+  twitpic: http://pbs.twimg.com/media/BroBEaiCQAEfTvp.jpg
   tweet_text: "#NowPlaying Out on a Ride from Careers, our Album of the Day by @WEAREBEVERLY
     @BBCRadMac http://t.co/8pvV6El48q"
   spotify:
@@ -1699,10 +1699,10 @@
       url: https://i.scdn.co/image/e19c222079a85f8e46c973559f7edd7a1e32a5b2
       width: 64
 - date: 2014-07-02
-  twitter: https://twitter.com/BBC6Music/status/484339355713302531
-  twitpic: http://pbs.twimg.com/media/Bri4E44CUAAAjs8.jpg
   artist: Beth Orton
   title: Central Reservation
+  twitter: https://twitter.com/BBC6Music/status/484339355713302531
+  twitpic: http://pbs.twimg.com/media/Bri4E44CUAAAjs8.jpg
   tweet_text: "#NowPlaying Feel to Believe from Central Reservation our AOTD by @beth_orton
     on @bbcradmac... http://t.co/Iw4HRPdYtQ"
   spotify:
@@ -1718,10 +1718,10 @@
       url: https://i.scdn.co/image/eb98d45933de887fd945d73c7b2f46c99ec3c0bb
       width: 64
 - date: 2014-07-01
-  twitter: https://twitter.com/BBC6Music/status/483976127732785152
-  twitpic: http://pbs.twimg.com/media/BrdtuRhCMAEyKAI.jpg
   title: Shapes:Rectangles
   type: compilation
+  twitter: https://twitter.com/BBC6Music/status/483976127732785152
+  twitpic: http://pbs.twimg.com/media/BrdtuRhCMAEyKAI.jpg
   tweet_text: "#NowPlaying Magdalena (Hint Remix) by @quanticmusic and @alicemcrussell
     from our Album of the Day SHAPES:RECTANGLES. http://t.co/7NAocmFwQs"
   spotify:
@@ -1739,10 +1739,10 @@
 - date: 2014-06-30
 - date: 2014-06-27
 - date: 2014-06-26
-  twitter: https://twitter.com/BBC6Music/status/482165018843439104
-  twitpic: http://pbs.twimg.com/media/BrD-h1UCIAABjKi.jpg
   artist: How To Dress Well
   title: What IS This Heart?
+  twitter: https://twitter.com/BBC6Music/status/482165018843439104
+  twitpic: http://pbs.twimg.com/media/BrD-h1UCIAABjKi.jpg
   tweet_text: "#NowPlaying on @bbcradmac See You Fall from our Album of the Day What
     Is This Heart? by @HowToDressWell http://t.co/O4Pl0oEyE2"
   spotify:
@@ -1758,10 +1758,10 @@
       url: https://i.scdn.co/image/3f9bd175f5b586ba751374b9951d3f991125f4be
       width: 64
 - date: 2014-06-25
-  twitter: https://twitter.com/BBC6Music/status/481802289578254336
-  twitpic: http://pbs.twimg.com/media/Bq-0oLCCAAAVxmS.jpg
   artist: Prince
   title: Purple Rain
+  twitter: https://twitter.com/BBC6Music/status/481802289578254336
+  twitpic: http://pbs.twimg.com/media/Bq-0oLCCAAAVxmS.jpg
   tweet_text: "#Nowplaying on @BBCRadMac I Would Die 4 U from our Album of the Day
     Purple Rain by Prince @3RDEYEGIRL #30Years http://t.co/QGdD04mc7Q"
   spotify:
@@ -1777,10 +1777,10 @@
       url: https://i.scdn.co/image/514dbc6649fb6e355dc55b871da2d4eb4cf8e020
       width: 64
 - date: 2014-06-24
-  twitter: https://twitter.com/BBC6Music/status/481439060687593472
-  twitpic: http://pbs.twimg.com/media/Bq5qRdkCYAAmqiF.jpg
   artist: Strand of Oaks
   title: HEAL
+  twitter: https://twitter.com/BBC6Music/status/481439060687593472
+  twitpic: http://pbs.twimg.com/media/Bq5qRdkCYAAmqiF.jpg
   tweet_text: "#NowPlaying on @BBCRadMac: Plymouth from our Album of the Day Heal
     by @Strandofoaks http://t.co/Dd2jiJ3lS3 http://t.co/9eQQajNIuZ"
   spotify:
@@ -1796,10 +1796,10 @@
       url: https://i.scdn.co/image/e5562929bf6a0042c1731fe4e393377964565ef3
       width: 64
 - date: 2014-06-23
-  twitter: https://twitter.com/BBC6Music/status/481077059851390976
-  twitpic: http://pbs.twimg.com/media/Bq0hCUVCMAEWzGB.jpg
   artist: Klaxons
   title: Love Frequency
+  twitter: https://twitter.com/BBC6Music/status/481077059851390976
+  twitpic: http://pbs.twimg.com/media/Bq0hCUVCMAEWzGB.jpg
   tweet_text: "#NowPlaying Invisible Forces from our Album of the Day Love Frequency
     by @klaxons http://t.co/Dd2jiJ3lS3 http://t.co/jCssps97l5"
   spotify:
@@ -1815,10 +1815,10 @@
       url: https://i.scdn.co/image/71f5b4eb988f8ae0cb6651cb2c3dd092c975fa12
       width: 64
 - date: 2014-06-20
-  twitter: https://twitter.com/BBC6Music/status/479990415157129216
-  twitpic: http://pbs.twimg.com/media/BqlEvQDCMAAoIa1.jpg
   title: C86
   type: compilation
+  twitter: https://twitter.com/BBC6Music/status/479990415157129216
+  twitpic: http://pbs.twimg.com/media/BqlEvQDCMAAoIa1.jpg
   tweet_text: "#NowPlaying You Didn’t Love Me Then by The Hit Parade from our Album
     Of The Day @NME #C86 Reissue on @BBCRadMac http://t.co/sZhzvemgpw"
   spotify:
@@ -1834,10 +1834,10 @@
       url: https://i.scdn.co/image/4ec044c0034d0391145756850a4acefad43624cf
       width: 64
 - date: 2014-06-19
-  twitter: https://twitter.com/BBC6Music/status/479624673769324544
-  twitpic: http://pbs.twimg.com/media/Bqf4GUTCcAIm83E.jpg
   artist: Alexis Taylor
   title: Await Barbarians
+  twitter: https://twitter.com/BBC6Music/status/479624673769324544
+  twitpic: http://pbs.twimg.com/media/Bqf4GUTCcAIm83E.jpg
   tweet_text: "#NowPlaying From The Halfway Line by Alexis Taylor of @Hot_Chip from
     Album Of The Day: Await Barbarians on @BBCRadMac http://t.co/I18MoH4SVm"
   spotify:
@@ -1853,9 +1853,9 @@
       url: https://i.scdn.co/image/89c4b2bcfeb17e6816b2ae61cad310c764b562f2
       width: 64
 - date: 2014-06-18
-  twitter: https://twitter.com/BBC6Music/status/479265327273222144
   artist: White Lung
   title: Deep Fantasy
+  twitter: https://twitter.com/BBC6Music/status/479265327273222144
   tweet_text: 'Wrong Star by White Lung @myszkaway is #nowplaying from our Album Of
     The Day: Deep Fantasy on @BBCRadMac'
   spotify:
@@ -1871,10 +1871,10 @@
       url: https://i.scdn.co/image/3c236b8a599e871bfb403e2049a865c3b844ae08
       width: 64
 - date: 2014-06-17
-  twitter: https://twitter.com/BBC6Music/status/478903743774470144
-  twitpic: http://pbs.twimg.com/media/BqVoaq-CIAA60dd.jpg
   artist: Lana Del Rey
   title: Ultraviolence
+  twitter: https://twitter.com/BBC6Music/status/478903743774470144
+  twitpic: http://pbs.twimg.com/media/BqVoaq-CIAA60dd.jpg
   tweet_text: "#NowPlaying on @BBCRadMac it's West Coast by @LanaDelRey from our Album
     Of The Day Ultraviolence http://t.co/fJIp2lPom0"
   spotify:
@@ -1891,10 +1891,10 @@
       url: https://i.scdn.co/image/cdaa35046a674de4317c25e73ee09aead6db494f
       width: 64
 - date: 2014-06-16
-  twitter: https://twitter.com/BBC6Music/status/478540247580819457
-  twitpic: http://pbs.twimg.com/media/BqQd0aTCUAEudfj.jpg
   artist: Bob Mould
   title: Beauty and Ruin
+  twitter: https://twitter.com/BBC6Music/status/478540247580819457
+  twitpic: http://pbs.twimg.com/media/BqQd0aTCUAEudfj.jpg
   tweet_text: "#NowPlaying Kid With The Crooked Face by @bobmouldmusic from our Album
     Of The Day: Beauty and Ruin http://t.co/Zm6T8WCvCP"
   spotify:
@@ -1910,10 +1910,10 @@
       url: https://i.scdn.co/image/07b253ccd48335c4ad5b985b9211f0d9b297fc4e
       width: 64
 - date: 2014-06-13
-  twitter: https://twitter.com/BBC6Music/status/477453634444480512
-  twitpic: http://pbs.twimg.com/media/BqBBjLTCUAALu8o.jpg
   artist: David Byrne
   title: Rei Momo
+  twitter: https://twitter.com/BBC6Music/status/477453634444480512
+  twitpic: http://pbs.twimg.com/media/BqBBjLTCUAALu8o.jpg
   tweet_text: "#NowPlaying on @BBCRadMac it's David Byrne's Call of The Wild from
     our Album Of The Day: Rei Momo http://t.co/L35RMpRlzv"
   spotify:
@@ -1932,10 +1932,10 @@
       url: https://i.scdn.co/image/0864f389cab69e837a0311a684afb9abdae4abf5
       width: 64
 - date: 2014-06-12
-  twitter: https://twitter.com/BBC6Music/status/477091058812485633
-  twitpic: http://pbs.twimg.com/media/Bp73ydHCcAIcjX4.jpg
   artist: Kasabian
   title: '48:13'
+  twitter: https://twitter.com/BBC6Music/status/477091058812485633
+  twitpic: http://pbs.twimg.com/media/Bp73ydHCcAIcjX4.jpg
   tweet_text: "#NowPlaying on @BBCRadMac it's Doomsday by @KasabianHQ from our Album
     Of The Day: 48:13 http://t.co/wtialHXhcK"
   spotify:
@@ -1951,10 +1951,10 @@
       url: https://i.scdn.co/image/7dc4fa24c52ee418905d6ebff044072c40392cb4
       width: 64
 - date: 2014-06-11
-  twitter: https://twitter.com/BBC6Music/status/476727660857790464
-  twitpic: http://pbs.twimg.com/media/Bp2tR-YCUAAD7cW.jpg
   artist: Kate Tempest
   title: Everybody Down
+  twitter: https://twitter.com/BBC6Music/status/476727660857790464
+  twitpic: http://pbs.twimg.com/media/Bp2tR-YCUAAD7cW.jpg
   tweet_text: "#NowPlaying on @BBCRadMac it’s Lonely Daze from our Album Of The Day
     Everybody Down by @katetempest http://t.co/KYVQlgeST4"
   spotify:
@@ -1970,10 +1970,10 @@
       url: https://i.scdn.co/image/918a9c9f96665a1635823c5d806948995dcbe788
       width: 64
 - date: 2014-06-10
-  twitter: https://twitter.com/BBC6Music/status/476368622278172672
-  twitpic: http://pbs.twimg.com/media/BpxmvJvCQAEZY-8.jpg
   artist: Glass Animals
   title: Zaba
+  twitter: https://twitter.com/BBC6Music/status/476368622278172672
+  twitpic: http://pbs.twimg.com/media/BpxmvJvCQAEZY-8.jpg
   tweet_text: That was Walla Walla by @GlassAnimals from our Album Of The Day http://t.co/OvcPmIch4f
   spotify:
     album_id: 7jfkffCqKYEJmIgGOIJ9me
@@ -1988,10 +1988,10 @@
       url: https://i.scdn.co/image/c976dc939290a3172e0acae4c895f9c97de8888e
       width: 64
 - date: 2014-06-09
-  twitter: https://twitter.com/BBC6Music/status/476004607508770817
-  twitpic: http://pbs.twimg.com/media/BpsbqskCYAEDEtJ.jpg
   artist: First Aid Kit
   title: Stay Gold
+  twitter: https://twitter.com/BBC6Music/status/476004607508770817
+  twitpic: http://pbs.twimg.com/media/BpsbqskCYAEDEtJ.jpg
   tweet_text: "#NowPlaying Master Pretender by @FirstAidKitBand from our Album of
     the Day Stay Gold http://t.co/HniGtZ07bQ http://t.co/YVYhHpO35P"
   spotify:
@@ -2007,10 +2007,10 @@
       url: https://i.scdn.co/image/a05cf83c580ac2823758aab5b930817f9a385517
       width: 64
 - date: 2014-06-06
-  twitter: https://twitter.com/BBC6Music/status/474916348045582336
-  twitpic: http://pbs.twimg.com/media/Bpc95seCIAE-T0L.jpg
   artist: Led Zeppelin
   title: Led Zeppelin III
+  twitter: https://twitter.com/BBC6Music/status/474916348045582336
+  twitpic: http://pbs.twimg.com/media/Bpc95seCIAE-T0L.jpg
   tweet_text: "#NowPlaying on @bbcradmac Celebration Day from @ledzeppelin III, our
     Album of the Day http://t.co/Dd2jiJ3lS3 http://t.co/UKNPKgN9Z9"
   spotify:
@@ -2027,10 +2027,10 @@
       url: https://i.scdn.co/image/42a5227b49a09016b6a2b01645b75ef63073c282
       width: 64
 - date: 2014-06-05
-  twitter: https://twitter.com/BBC6Music/status/474553462743924736
-  twitpic: http://pbs.twimg.com/media/BpXz2_6CQAAGObN.jpg
   artist: James
   title: La Petite Mort
+  twitter: https://twitter.com/BBC6Music/status/474553462743924736
+  twitpic: http://pbs.twimg.com/media/BpXz2_6CQAAGObN.jpg
   tweet_text: "#NowPlaying on @bbcradmac Quicken the Dead by @wearejames from our
     AOTD 'La Petite Mort'.  http://t.co/Dd2jiJ3lS3 http://t.co/gw4lQvAjUu"
   spotify:
@@ -2046,10 +2046,10 @@
       url: https://i.scdn.co/image/3172344f0b9ad0dcf7a4ff08889c5e8c326fedd3
       width: 64
 - date: 2014-06-04
-  twitter: https://twitter.com/BBC6Music/status/474191117563744256
-  twitpic: http://pbs.twimg.com/media/BpSqTtlCQAAudkm.jpg
   artist: PAWS
   title: Youth Culture Forever!
+  twitter: https://twitter.com/BBC6Music/status/474191117563744256
+  twitpic: http://pbs.twimg.com/media/BpSqTtlCQAAudkm.jpg
   tweet_text: "#NowPlaying Narcissist by PAWS (@wehavepaws) from our Album of the
     Day, Youth Culture Forever! http://t.co/Dd2jiJ3lS3 http://t.co/ahwqxey3rD"
   spotify:
@@ -2065,10 +2065,10 @@
       url: https://i.scdn.co/image/0f12e63807881eacfd55c4a2457de3eaad044993
       width: 64
 - date: 2014-06-03
-  twitter: https://twitter.com/BBC6Music/status/473718324228927488
-  twitpic: http://pbs.twimg.com/media/BpL8TdJCcAEJ3bG.jpg
   artist: Jack White
   title: Lazaretto
+  twitter: https://twitter.com/BBC6Music/status/473718324228927488
+  twitpic: http://pbs.twimg.com/media/BpL8TdJCcAEJ3bG.jpg
   tweet_text: Our Album of the Day PLUS today is Jack White's 'Lazaretto' via @thirdmanrecords.
     He joins @BBClamacqshow from 4pm. http://t.co/S1MJuMtA63
   spotify:
@@ -2084,10 +2084,10 @@
       url: https://i.scdn.co/image/c9176d6989c0eb295d1faf75007839f70a72d6e3
       width: 64
 - date: 2014-06-02
-  twitter: https://twitter.com/BBC6Music/status/473467308237934592
-  twitpic: http://pbs.twimg.com/media/BpIYAdPCIAA8feQ.jpg
   artist: Teleman
   title: Breakfast
+  twitter: https://twitter.com/BBC6Music/status/473467308237934592
+  twitpic: http://pbs.twimg.com/media/BpIYAdPCIAA8feQ.jpg
   tweet_text: "#NowPlaying Mainline by @Telemanmusic from our Album of the Day ‘Breakfast’.
     http://t.co/Dd2jiJ3lS3 http://t.co/gGnvsuFvp2"
   spotify:
@@ -2103,10 +2103,10 @@
       url: https://i.scdn.co/image/0fb9963f27dcf3151788e53e9e6fd0b8c343c60c
       width: 64
 - date: 2014-05-30
-  twitter: https://twitter.com/BBC6Music/status/472379384318660608
-  twitpic: http://pbs.twimg.com/media/Bo46i-RCYAEFDH_.jpg
   artist: Blondie
   title: Blondie
+  twitter: https://twitter.com/BBC6Music/status/472379384318660608
+  twitpic: http://pbs.twimg.com/media/Bo46i-RCYAEFDH_.jpg
   tweet_text: "#Nowplaying Kung Fu Girls from our Album of The Day - Blondie by @BlondieOfficial
     http://t.co/Dd2jiJ3lS3 http://t.co/CPi4jhxvv4"
   spotify:
@@ -2123,10 +2123,10 @@
       url: https://i.scdn.co/image/f41891036cbd23f0347082a83c5ff4e30ea47b9e
       width: 64
 - date: 2014-05-29
-  twitter: https://twitter.com/BBC6Music/status/472017447995060225
-  twitpic: http://pbs.twimg.com/media/BozxXgdCYAEicvo.jpg
   artist: Neil Young
   title: A Letter Home
+  twitter: https://twitter.com/BBC6Music/status/472017447995060225
+  twitpic: http://pbs.twimg.com/media/BozxXgdCYAEicvo.jpg
   tweet_text: "#Nowplaying Crazy from our Album of The Day - A Letter Home by @Neilyoung
     http://t.co/Dd2jiJ3lS3 http://t.co/OliAn3Y7yR"
   spotify:
@@ -2142,10 +2142,10 @@
       url: https://i.scdn.co/image/2cc77e54f4519bfa72566fa293fbbd912c33d0bc
       width: 64
 - date: 2014-05-28
-  twitter: https://twitter.com/BBC6Music/status/471651586520125440
-  twitpic: http://pbs.twimg.com/media/BouknMICQAASTYc.jpg
   artist: Karol Conka
   title: Batuk Freak
+  twitter: https://twitter.com/BBC6Music/status/471651586520125440
+  twitpic: http://pbs.twimg.com/media/BouknMICQAASTYc.jpg
   tweet_text: "#NowPlaying Mundo Loco by @karolconka from 'Batukfreak', our Album
     of the Day! http://t.co/Wpnw7FJukB"
   spotify:
@@ -2162,10 +2162,10 @@
       url: https://i.scdn.co/image/04c28393eca595f511f08c35a26ffe0e38423101
       width: 64
 - date: 2014-05-27
-  twitter: https://twitter.com/BBC6Music/status/471292539837100032
-  twitpic: http://pbs.twimg.com/media/BopeET2IcAA4w3y.jpg
   artist: Echo & The Bunnymen
   title: Meteorites
+  twitter: https://twitter.com/BBC6Music/status/471292539837100032
+  twitpic: http://pbs.twimg.com/media/BopeET2IcAA4w3y.jpg
   tweet_text: "#NowPlaying on @BBCRadMac it's Is This A Breakdown? by Echo &amp; The
     @Bunnymen from our Album Of The Day, Meteorites http://t.co/3mCXoonJ8t"
   spotify:
@@ -2181,10 +2181,10 @@
       url: https://i.scdn.co/image/f4b559045e2363bbbe59e327899b719d16463aee
       width: 64
 - date: 2014-05-26
-  twitter: https://twitter.com/BBC6Music/status/470929361332609026
-  twitpic: http://pbs.twimg.com/media/BokTwf4CYAAOmJh.jpg
   artist: Sharon Van Etten
   title: Are We There
+  twitter: https://twitter.com/BBC6Music/status/470929361332609026
+  twitpic: http://pbs.twimg.com/media/BokTwf4CYAAOmJh.jpg
   tweet_text: "#NowPlaying Tarifa from our Album Of The Day, Are We There by @sharonvanetten
     on @BBCRadMac http://t.co/4vOBcSEgTZ"
   spotify:
@@ -2200,10 +2200,10 @@
       url: https://i.scdn.co/image/2beba87c7d460eddd1a56896b6c1149e6ceb8074
       width: 64
 - date: 2014-05-23
-  twitter: https://twitter.com/BBC6Music/status/469842549868617728
-  twitpic: http://pbs.twimg.com/media/BoU3TxLCUAEOB-g.jpg
   artist: Gil Scott-Heron
   title: Pieces Of A Man
+  twitter: https://twitter.com/BBC6Music/status/469842549868617728
+  twitpic: http://pbs.twimg.com/media/BoU3TxLCUAEOB-g.jpg
   tweet_text: "#NowPlaying on @BBCRadMac it's Or Down You Fall by Gil Scott-Heron
     from our Album Of The Day: Pieces Of A Man http://t.co/FVZORHKenQ"
   spotify:
@@ -2219,10 +2219,10 @@
       url: https://i.scdn.co/image/c5d5f33ecfcdd74400534a4c7ee8256e61fee571
       width: 64
 - date: 2014-05-22
-  twitter: https://twitter.com/BBC6Music/status/469480512428728320
-  twitpic: http://pbs.twimg.com/media/BoPuCZuIAAA8fer.jpg
   artist: Archie Bronson Outfit
   title: Wild Crush
+  twitter: https://twitter.com/BBC6Music/status/469480512428728320
+  twitpic: http://pbs.twimg.com/media/BoPuCZuIAAA8fer.jpg
   tweet_text: "#NowPlaying on @ChrisHawkinsUK it's Glory Sweat &amp; Flow from our
     Album Of The Day:Wild Crush by @archiebron-son Outfit http://t.co/z2uPJ1mqjl"
   spotify:
@@ -2238,11 +2238,11 @@
       url: https://i.scdn.co/image/f537293a22d4da86932fc46df917c328e8f1a28e
       width: 64
 - date: 2014-05-21
-  twitter: https://twitter.com/BBC6Music/status/469118095588851712
-  twitpic: http://pbs.twimg.com/media/BoKka-iIIAAoz8q.png
   artist: Oasis
   title: Definitely Maybe
   notes: Using the Deluxe version, since that's what they played...
+  twitter: https://twitter.com/BBC6Music/status/469118095588851712
+  twitpic: http://pbs.twimg.com/media/BoKka-iIIAAoz8q.png
   tweet_text: "#NowPlaying @oasis Sad Song (Live at @MancAcademy) from Album Of The
     Day: Definitely Maybe:Chasing The Sun @BBCRadMac http://t.co/soEeNF19bT"
   spotify:
@@ -2258,10 +2258,10 @@
       url: https://i.scdn.co/image/565a350486fce298d47568ce279c338bb0e063c8
       width: 64
 - date: 2014-05-20
-  twitter: https://twitter.com/BBC6Music/status/468755716623589378
-  twitpic: http://pbs.twimg.com/media/BoFa1uzIgAAqJYC.jpg
   artist: Mr. Scruff
   title: Friendly Bacteria
+  twitter: https://twitter.com/BBC6Music/status/468755716623589378
+  twitpic: http://pbs.twimg.com/media/BoFa1uzIgAAqJYC.jpg
   tweet_text: "#NowPlaying on @BBCRadMac it's What from our Album of the Day, Friendly
     Bacteria by @mrscruff1 http://t.co/9Ir0bLi42v"
   spotify:
@@ -2277,10 +2277,10 @@
       url: https://i.scdn.co/image/57d340035ff3ed879b18213f7ebd254dfea34996
       width: 64
 - date: 2014-05-19
-  twitter: https://twitter.com/BBC6Music/status/468393008954880000
-  twitpic: http://pbs.twimg.com/media/BoAQ9WRIgAEgzE5.png
   artist: Conor Oberst
   title: Upside Down Mountain
+  twitter: https://twitter.com/BBC6Music/status/468393008954880000
+  twitpic: http://pbs.twimg.com/media/BoAQ9WRIgAEgzE5.png
   tweet_text: "#NowPlaying on @BBCRadMac it’s Kick from our Album Of The Day: Upside
     Down Mountain by @conoroberst http://t.co/m90XlZEc21"
   spotify:
@@ -2296,9 +2296,9 @@
       url: https://i.scdn.co/image/41599e690f0a86e9095c725e2b7ea278418b1c40
       width: 64
 - date: 2014-05-16
-  twitter: https://twitter.com/BBC6Music/status/467306158689386496
   artist: Kraftwerk
   title: Radio-Activity
+  twitter: https://twitter.com/BBC6Music/status/467306158689386496
   tweet_text: "#NowPlaying on @BBCRadMac it's Transistor by @kraftwerk from our Album
     Of The Day Radio-Activity…"
   spotify:
@@ -2314,9 +2314,9 @@
       url: https://i.scdn.co/image/24ea342c2615e86bace4e6c8017aaff7181a117d
       width: 64
 - date: 2014-05-15
-  twitter: https://twitter.com/BBC6Music/status/466943813060419584
   artist: Nick Mulvey
   title: First Mind
+  twitter: https://twitter.com/BBC6Music/status/466943813060419584
   tweet_text: "#NowPlaying on @BBCRadMac I Don't Want To Go Home by @nickmulveymusic
     from First Mind our Album Of The Day"
   spotify:
@@ -2332,9 +2332,9 @@
       url: https://i.scdn.co/image/93ad23719a13df83d76ed071b7de99fbae797c17
       width: 64
 - date: 2014-05-14
-  twitter: https://twitter.com/BBC6Music/status/466581636839383041
   artist: Tune Yards
   title: Nikki Nack
+  twitter: https://twitter.com/BBC6Music/status/466581636839383041
   tweet_text: "#NowPlaying on @BBCRadMac it's Hey Life from our Album Of The Day:
     Nikki Nack by @tuneyards"
   spotify:
@@ -2350,9 +2350,9 @@
       url: https://i.scdn.co/image/f859025ad7c2524159e99027d5559d24ef0ef505
       width: 64
 - date: 2014-05-13
-  twitter: https://twitter.com/BBC6Music/status/466219519930007552
   artist: Hollie Cook
   title: Twice
+  twitter: https://twitter.com/BBC6Music/status/466219519930007552
   tweet_text: "#Nowplaying on @Bbcradmac: Tiger Balm from the album Twice, our @bbc6music
     Album Of The Day by @holliecookie"
   spotify:
@@ -2368,9 +2368,9 @@
       url: https://i.scdn.co/image/78f6b8de61b6bb65073e36812142c77a5300ece0
       width: 64
 - date: 2014-05-12
-  twitter: https://twitter.com/BBC6Music/status/465855949547532289
   artist: Little Dragon
   title: Nabuma Rubberband
+  twitter: https://twitter.com/BBC6Music/status/465855949547532289
   tweet_text: "#Nowplaying on @Bbcradmac: Nabuma Rubberband from our @bbc6music Album
     Of The Day by @LittleDragon"
   spotify:
@@ -2386,9 +2386,9 @@
       url: https://i.scdn.co/image/2fe6acc7e3f3c2ace985d99fe1ad8d2a243fe69e
       width: 64
 - date: 2014-05-09
-  twitter: https://twitter.com/BBC6Music/status/464769209931923457
   artist: Eno Hyde
   title: Someday World
+  twitter: https://twitter.com/BBC6Music/status/464769209931923457
   tweet_text: "#NowPlaying on @BBCRadMac it's To Us All by Eno Hyde @theboyhyde from
     our Album Of The Day: Someday World"
   spotify:
@@ -2404,9 +2404,9 @@
       url: https://i.scdn.co/image/2ada93f4273ada53aeb9f05a569348f6f6ae450f
       width: 64
 - date: 2014-05-08
-  twitter: https://twitter.com/BBC6Music/status/464407494241308672
   artist: Gruff Rhys
   title: American Interior
+  twitter: https://twitter.com/BBC6Music/status/464407494241308672
   tweet_text: "#NowPlaying on @BBCRadMac Lost Tribes from our Album Of The Day American
     Interior by @gruffingtonpost"
   spotify:
@@ -2422,9 +2422,9 @@
       url: https://i.scdn.co/image/85358845c8f81b73d23fcc2d20d4769c6f1abefb
       width: 64
 - date: 2014-05-07
-  twitter: https://twitter.com/BBC6Music/status/464046042862743552
   artist: Lykke Li
   title: I Never Learn
+  twitter: https://twitter.com/BBC6Music/status/464046042862743552
   tweet_text: "#NowPlaying on @BBCRadMac it's Gunshot from our Album Of The Day: I
     Never Learn by @LykkeLi"
   spotify:
@@ -2440,17 +2440,17 @@
       url: https://i.scdn.co/image/f12c39b007999c1a5368d5a59a1ffeb1396d734d
       width: 64
 - date: 2014-05-06
-  twitter: https://twitter.com/BBC6Music/status/463683268886663168
   artist: The Black Keys
   title: Turn Blue
+  twitter: https://twitter.com/BBC6Music/status/463683268886663168
   tweet_text: "#NowPlaying Waiting On Words from Turn Blue by @theblackkeys - our
     Album Of The Day Plus. @BBCLamacqShow will be chatting to them later"
 - date: 2014-05-05
 - date: 2014-05-02
 - date: 2014-05-01
-  twitter: https://twitter.com/BBC6Music/status/461869665950908416
   artist: Oliver Wilde
   title: Red Tide Opal In The Loose End Womb
+  twitter: https://twitter.com/BBC6Music/status/461869665950908416
   tweet_text: "#NowPlaying on @BBCRadMac it’s Say Yes To Ewans by @Oliver_Wilde from
     our Album Of The Day: Red Tide Opal In The Loose End Womb"
   spotify:
@@ -2466,9 +2466,9 @@
       url: https://i.scdn.co/image/9a10f21f8a30e1daf751343fe9e2eca6a0e3af05
       width: 64
 - date: 2014-04-30
-  twitter: https://twitter.com/BBC6Music/status/461507984305438720
   artist: Wye Oak
   title: Shriek
+  twitter: https://twitter.com/BBC6Music/status/461507984305438720
   tweet_text: 'Logic Of Color by @wyeoak is #NowPlaying from our Album Of The Day:
     Shriek'
   spotify:
@@ -2484,9 +2484,9 @@
       url: https://i.scdn.co/image/084284a5f1a5499b6e49ba03e14c9d5b0645739a
       width: 64
 - date: 2014-04-29
-  twitter: https://twitter.com/BBC6Music/status/461104061597884416
   artist: Pixies
   title: Indie Cindy
+  twitter: https://twitter.com/BBC6Music/status/461104061597884416
   tweet_text: "#nowplaying our album of the day from @PIXIES-Magdalena 318 \n\n\\m/&gt;.&lt;\\m/"
   spotify:
     album_id: 2buKtzUMKIsPcusMqnRYTk
@@ -2501,9 +2501,9 @@
       url: https://i.scdn.co/image/4f9daccf5a333ef839cde91d697662949db38ac7
       width: 64
 - date: 2014-04-28
-  twitter: https://twitter.com/BBC6Music/status/460783765502316544
   artist: Damon Albarn
   title: Everyday Robots
+  twitter: https://twitter.com/BBC6Music/status/460783765502316544
   tweet_text: "#NowPlaying Mr Tembo by @Damonalbarn from our Album Of The Day: Everyday
     Robots"
   spotify:
@@ -2520,9 +2520,9 @@
       width: 64
 - date: 2014-04-25
 - date: 2014-04-24
-  twitter: https://twitter.com/BBC6Music/status/459333538333335552
   artist: Fear of Men
   title: Loom
+  twitter: https://twitter.com/BBC6Music/status/459333538333335552
   tweet_text: "#NowPlaying on @BBCRadMac it's Luna from Loom our Album Of The Day
     by @fearofmen"
   spotify:
@@ -2538,9 +2538,9 @@
       url: https://i.scdn.co/image/41bfe587d2b50fec5305fe147ed947363aeec035
       width: 64
 - date: 2014-04-23
-  twitter: https://twitter.com/BBC6Music/status/458970863287939072
   artist: Eels
   title: The Cautionary Tales Of Mark Oliver Everett
+  twitter: https://twitter.com/BBC6Music/status/458970863287939072
   tweet_text: "#NowPlaying A Swallow In The Sun by @THE_EELS from our Album Of The
     Day, Cautionary Tales Of... and E is on @BBCRadMac on June 16th"
   spotify:
@@ -2556,9 +2556,9 @@
       url: https://i.scdn.co/image/ee14db343a7fb47c4e1ac1daf8e92a8579883227
       width: 64
 - date: 2014-04-22
-  twitter: https://twitter.com/BBC6Music/status/458608945159225344
   artist: Stereolab
   title: Mars Audiac Quintet
+  twitter: https://twitter.com/BBC6Music/status/458608945159225344
   tweet_text: "#NowPlaying Wow And Flutter from our Album Of The Day: Mars Audiac
     Quintet &amp; @SadierLae will be on @BBCRadMac tomorrow"
   spotify:
@@ -2574,9 +2574,9 @@
       url: https://i.scdn.co/image/6a7a1a25f9bb6e516d78c56be1e4adefbc0ce5c3
       width: 64
 - date: 2014-04-21
-  twitter: https://twitter.com/BBC6Music/status/458245901937831936
   artist: Kelis
   title: Food
+  twitter: https://twitter.com/BBC6Music/status/458245901937831936
   tweet_text: "#NowPlaying on @BBCRadMac it's @iamkelis’ Hooch from our Album Of The
     Day… Food"
   spotify:
@@ -2592,9 +2592,9 @@
       url: https://i.scdn.co/image/3c7c7fed3c91e1484abd480cc2e84dcf9243391c
       width: 64
 - date: 2014-04-18
-  twitter: https://twitter.com/BBC6Music/status/457160482055786496
   artist: Nas
   title: Illmatic
+  twitter: https://twitter.com/BBC6Music/status/457160482055786496
   tweet_text: "#NowPlaying From #IllmaticXX, our Album Of The Day it’s @Nas and Halftime..."
   spotify:
     artists:
@@ -2612,9 +2612,9 @@
       url: https://i.scdn.co/image/11e9f0b26115bdf197eea8036c5315006eb9bc66
       width: 64
 - date: 2014-04-17
-  twitter: https://twitter.com/BBC6Music/status/456796881016725504
   artist: Ben Watt
   title: Hendra
+  twitter: https://twitter.com/BBC6Music/status/456796881016725504
   tweet_text: "#NowPlaying on @BBCRadMac The Levels from our Album Of The Day: Hendra
     by @ben_watt"
   spotify:
@@ -2630,9 +2630,9 @@
       url: https://i.scdn.co/image/80852d3b53f2b27c68aae0af9bab61f3778bf1cf
       width: 64
 - date: 2014-04-16
-  twitter: https://twitter.com/BBC6Music/status/456434919627948032
   artist: LCD Soundsystem
   title: The Long Goodbye
+  twitter: https://twitter.com/BBC6Music/status/456434919627948032
   tweet_text: "#NowPlaying on @BBCRadMac Time To Get Away from our Album Of The Day:
     The Long Goodbye (Live At Madison Square Garden) by @lcdsoundsystem"
   spotify:
@@ -2649,9 +2649,9 @@
       width: 64
 - date: 2014-04-15
 - date: 2014-04-14
-  twitter: https://twitter.com/BBC6Music/status/455709570430955520
   artist: The Afghan Whigs
   title: Do To The Beast
+  twitter: https://twitter.com/BBC6Music/status/455709570430955520
   tweet_text: "#NowPlaying on @BBCRadMac Algiers from our Album Of The Day: Do To
     The Beast by @theafghanwhigs"
   spotify:
@@ -2668,9 +2668,9 @@
       width: 64
 - date: 2014-04-11
 - date: 2014-04-10
-  twitter: https://twitter.com/BBC6Music/status/454259546228543488
   artist: Todd Terje
   title: It's Album Time
+  twitter: https://twitter.com/BBC6Music/status/454259546228543488
   tweet_text: 'It’s Album Of The Day Time on @BBCRadMac! #NowPlaying It’s Album Time
     from @toddterjeolsen’s ......It’s Album Time!'
   spotify:
@@ -2686,9 +2686,9 @@
       url: https://i.scdn.co/image/f0b95747e0c3a460486c72b003ce20b46c3f3edd
       width: 64
 - date: 2014-04-09
-  twitter: https://twitter.com/BBC6Music/status/453897431760248832
   artist: SOHN
   title: Tremors
+  twitter: https://twitter.com/BBC6Music/status/453897431760248832
   tweet_text: "#NowPlaying on @BBCRadMac it's Lights by @SOHN from Tremors, our Album
     Of The Day"
   spotify:
@@ -2704,9 +2704,9 @@
       url: https://i.scdn.co/image/bef177512f17dd8f4f945e39740be37411f21c2a
       width: 64
 - date: 2014-04-08
-  twitter: https://twitter.com/BBC6Music/status/453534527512915969
   artist: Protomartyr
   title: Under Color Of Official Right
+  twitter: https://twitter.com/BBC6Music/status/453534527512915969
   tweet_text: 'Album of the Day time! #NowPlaying on @BBCRadMac it''s Come &amp; See
     by Protomartyr from their album Under Color Of Official Right'
   spotify:
@@ -2723,9 +2723,9 @@
       width: 64
 - date: 2014-04-07
 - date: 2014-04-04
-  twitter: https://twitter.com/BBC6Music/status/452085128123383808
   artist: Therapy
   title: Troublegum
+  twitter: https://twitter.com/BBC6Music/status/452085128123383808
   tweet_text: "#NowPlaying on @BBCRadMac it's Nowhere by @therapyofficial from our
     Album Of The Day: Troublegum"
   spotify:
@@ -2741,15 +2741,15 @@
       url: https://i.scdn.co/image/609e86dfdf95c9b27a3348e6b7373ce592189191
       width: 64
 - date: 2014-04-03
-  twitter: https://twitter.com/BBC6Music/status/451722507398422530
   artist: I Love Lucius
   title: Wildewoman
+  twitter: https://twitter.com/BBC6Music/status/451722507398422530
   tweet_text: "#NowPlaying on @BBCRadMac Hey, Doreen by @ilovelucius from Wildewoman
     - our Album Of The Day"
 - date: 2014-04-02
-  twitter: https://twitter.com/BBC6Music/status/451360625382658048
   artist: Cloud Nothings
   title: Here And Nowhere Else
+  twitter: https://twitter.com/BBC6Music/status/451360625382658048
   tweet_text: 'Now time for Album Of The Day… #NowPlaying on @BBCRadMac I’m Not Part
     Of Me by @cloud_nothings from their album Here And Nowhere Else'
   spotify:
@@ -2765,9 +2765,9 @@
       url: https://i.scdn.co/image/1979ff4c34f73d0017a1efdeaf94964e89d53d77
       width: 64
 - date: 2014-04-01
-  twitter: https://twitter.com/BBC6Music/status/450997853989912576
   artist: Future Islands
   title: Singles
+  twitter: https://twitter.com/BBC6Music/status/450997853989912576
   tweet_text: "#NowPlaying on @bbcradmac: Album of the Day today is Singles by @futureislands
     - Back In The Tall Grass"
   spotify:
@@ -2783,9 +2783,9 @@
       url: https://i.scdn.co/image/3eb58e564cc6ede9ac234c293e905e166cefa1b2
       width: 64
 - date: 2014-03-31
-  twitter: https://twitter.com/BBC6Music/status/450636249431568384
   artist: Kaiser Chiefs
   title: Education, Education, Education
+  twitter: https://twitter.com/BBC6Music/status/450636249431568384
   tweet_text: "#NowPlaying One More Last Song from the Album Of The Day by @KaiserChiefs"
   spotify:
     album_id: 4Tj1BbmWboz5OstQsmXDSt
@@ -2800,10 +2800,10 @@
       url: https://i.scdn.co/image/ed059c5bdf3056cd018c4d17f0badaa7df99809c
       width: 64
 - date: 2014-03-28
-  twitter: https://twitter.com/BBC6Music/status/449566895125975040
-  twitpic: http://pbs.twimg.com/media/Bj0utY8CUAE8_Iu.jpg
   artist: Squarepusher
   title: Hello Everything
+  twitter: https://twitter.com/BBC6Music/status/449566895125975040
+  twitpic: http://pbs.twimg.com/media/Bj0utY8CUAE8_Iu.jpg
   tweet_text: 'You just heard @_SQUAREPUSHER''s Theme From Sprite which is Album of
     the Day: hear him on Freak Zone this Sunday 8pm http://t.co/hGNd8f8Muv'
   spotify:
@@ -2820,9 +2820,9 @@
       width: 64
 - date: 2014-03-27
 - date: 2014-03-26
-  twitter: https://twitter.com/BBC6Music/status/448797299855360000
   artist: Liars
   title: Mess
+  twitter: https://twitter.com/BBC6Music/status/448797299855360000
   tweet_text: "#NowPlaying @LiarsOfficial-I'm No Gold as their album Mess is Album
     of the Day #PartyHard"
   spotify:
@@ -2839,9 +2839,9 @@
       width: 64
 - date: 2014-03-25
 - date: 2014-03-24
-  twitter: https://twitter.com/BBC6Music/status/448020059295084544
   artist: Foster The People
   title: Supermodel
+  twitter: https://twitter.com/BBC6Music/status/448020059295084544
   tweet_text: Now playing a track from our Album of the Day from @fosterthepeople.
     Supermodel is out today. This little number is 'Coming of Age'
   spotify:
@@ -2857,9 +2857,9 @@
       url: https://i.scdn.co/image/08569eddc222e0c7e2f7c0a68d1a33b1d6951fc6
       width: 64
 - date: 2014-03-21
-  twitter: https://twitter.com/BBC6Music/status/447027686909943808
   artist: Lambchop
   title: Nixon
+  twitter: https://twitter.com/BBC6Music/status/447027686909943808
   tweet_text: "#NowPlaying Up With People by @lambchopisaband from today’s @BBC6Music
     Album Of The Day, the reissue of their classic, Nixon"
 - date: 2014-03-20
@@ -2884,9 +2884,9 @@
 - date: 2014-03-18
 - date: 2014-03-17
 - date: 2014-03-14
-  twitter: https://twitter.com/BBC6Music/status/444408298167885826
   artist: Iggy Pop
   title: Lust For Life
+  twitter: https://twitter.com/BBC6Music/status/444408298167885826
   tweet_text: "@jonmhowells We go for the well known on Breakfast. Expect some 'deeper
     cuts' throughout the day as it's today's Album of the Day."
   spotify:
@@ -2902,9 +2902,9 @@
       url: https://i.scdn.co/image/7b1464238068dd81f68a97bd5e3f92ce1485c3e6
       width: 64
 - date: 2014-03-13
-  twitter: https://twitter.com/BBC6Music/status/444085955763662848
   artist: Mutual Benefit
   title: Love's Crushing Diamond
+  twitter: https://twitter.com/BBC6Music/status/444085955763662848
   tweet_text: '#NowPlaying a track from our album of the day from @mutual_benefit-"Let''s
     Play..." #FridgePoetry #LovesCrushingDiamond'
   spotify:
@@ -2920,9 +2920,9 @@
       url: https://i.scdn.co/image/460040b39ca65f00ade88b2c9bc106e36fe65a26
       width: 64
 - date: 2014-03-12
-  twitter: https://twitter.com/BBC6Music/status/443724080416821248
   artist: Metronomy
   title: Love Letters
+  twitter: https://twitter.com/BBC6Music/status/443724080416821248
   tweet_text: "#NowPlaying a track from our album of the day from @metronomy-Monstrous
     from #LoveLetters #synth"
   spotify:
@@ -2939,9 +2939,9 @@
       width: 64
 - date: 2014-03-11
 - date: 2014-03-10
-  twitter: https://twitter.com/BBC6Music/status/443041824945766400
   artist: Elbow
   title: The Take Off And Landing Of Everything
+  twitter: https://twitter.com/BBC6Music/status/443041824945766400
   tweet_text: 'The 6 Music Album of the Day is by @Elbow #NowPlaying Honey Sun and
     @Guy_Garvey and @peteelbow will be on @BBCRadMac tomorrow!'
   spotify:
@@ -2985,9 +2985,9 @@
 - date: 2014-02-24
 - date: 2014-02-21
 - date: 2014-02-20
-  twitter: https://twitter.com/BBC6Music/status/436422169909018624
   title: And Now Our Lives Are Complete
   type: compilation
+  twitter: https://twitter.com/BBC6Music/status/436422169909018624
   tweet_text: Album of the day today is the And Now Our Lives Are Complete comp from
     O Genesis @Tim_Burgess gave us that lovely track. Hear more in Lauren
 - date: 2014-02-19
@@ -3029,9 +3029,9 @@
       url: https://i.scdn.co/image/9b9432841f626b1fdd33f93e466b057d7defedb2
       width: 64
 - date: 2014-02-13
-  twitter: https://twitter.com/BBC6Music/status/433939947037286400
   artist: Eagulls
   title: Eagulls
+  twitter: https://twitter.com/BBC6Music/status/433939947037286400
   tweet_text: 'The wall of noise! #NowPlaying @EAGULLSUK-Possessed and @cheatahssuck-Geographic
     as our Album of the Day #90s'
   spotify:
@@ -3047,9 +3047,9 @@
       url: https://i.scdn.co/image/be752fc9b27c41e68604d8260b750f8b251d9734
       width: 64
 - date: 2014-02-13
-  twitter: https://twitter.com/BBC6Music/status/433939947037286400
   artist: Cheatahs
   title: Cheatahs
+  twitter: https://twitter.com/BBC6Music/status/433939947037286400
   tweet_text: 'The wall of noise! #NowPlaying @EAGULLSUK-Possessed and @cheatahssuck-Geographic
     as our Album of the Day #90s'
   spotify:
@@ -3082,9 +3082,9 @@
 - date: 2014-01-22
 - date: 2014-01-21
 - date: 2014-01-20
-  twitter: https://twitter.com/BBC6Music/status/425243254670376960
   artist: Warpaint
   title: Warpaint
+  twitter: https://twitter.com/BBC6Music/status/425243254670376960
   tweet_text: "#NowPlaying our Album of the Day from @_warpaint-Disco//Very from new
     self-titled album"
   spotify:
@@ -3102,9 +3102,9 @@
 - date: 2014-01-17
 - date: 2014-01-16
 - date: 2014-01-15
-  twitter: https://twitter.com/BBC6Music/status/423376696184557569
   artist: East India Youth
   title: Total Strife Forever
+  twitter: https://twitter.com/BBC6Music/status/423376696184557569
   tweet_text: "#nowplaying @eastindiayouth 'Dripping Down' - from today's 6 Music
     Album of the Day 'Total Strife Forever'"
   spotify:
@@ -3121,9 +3121,9 @@
       width: 64
 - date: 2014-01-14
 - date: 2014-01-13
-  twitter: https://twitter.com/BBC6Music/status/422706030061973506
   artist: Stephen Malkmus & The Jicks
   title: Wig Out At Jagbags
+  twitter: https://twitter.com/BBC6Music/status/422706030061973506
   tweet_text: |-
     The first Album of the Day '14 is from @MalkmusAndJicks-Wig Out At Jagbags
     #NowPlaying Chartjunk. And they're in session on Thursday!!!!!!

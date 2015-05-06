@@ -16,19 +16,28 @@ def update_file(file_name)
 end
 
 def process_album(client, album)
-    puts album['twitter']
-    tweet = client.status(album['twitter'])
-    if tweet and tweet.media?
-#      photo = tweet.media[0]
+  id = album['twitter']
+  puts id
+  tweet = client.status(id)
+  if tweet
+    tweet_data = {}
+    tweet_data['id'] = id
+    tweet_data['created'] = tweet.created_at.to_s
+    tweet_data['text'] = tweet.text
+    if tweet.media?
+      photo = tweet.media[0]
 #      puts photo.media_url
 #      puts photo.sizes
-#      puts photo.sizes[:thumb]
-      album['twitpic'] = tweet.media[0].media_url.to_s()
+      #album['twitpic'] = tweet.media[0].media_url.to_s()
+      tweet_data['media'] = {'url' => photo.media_url.to_s(), 'sizes'=>{}}
+      
+      photo.sizes.each{|k,size| tweet_data['media']['sizes'][k] = {'w'=>size.w, 'h'=>size.h, 'resize'=>size.resize}}
     end
-    album['tweet_text'] = tweet.text
+    album['tweet'] = tweet_data
     if !(album['date'])
-       album['date'] = tweet.created_at
+      album['date'] = Date.parse(tweet.created_at.to_s)
     end
+  end
 end
 
 def process_data(data)  
@@ -39,11 +48,7 @@ def process_data(data)
 
   data.each do |album|
     if !album.has_key?('twitter') then next end
-    if album['twitter'] == '' or album['twitter'].nil? then
-      album.delete('twitter')
-      next
-    end
-    if !album['twitpic'] and !album['tweet_text'] and !album['title']
+    if !album['tweet']
       process_album(client, album)
     end
   end

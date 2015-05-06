@@ -1557,3 +1557,36 @@
     on @BBCRadMac http://t.co/vXcqqlymRD"
   artist: Rozi Plain
   title: Friend
+  spotify:
+    artists:
+    - Rozi Plain
+    name: Friend
+    album_id: 2DRGOooaLuTThGjfk1nMgA
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/bb47bc5e4be9994ade2e9fd44852bbc701c5adab
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2cc4c0f3c22a71b09114e125d9881711ed7421ff
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/779e5977c3fa604173fed530f4bffa1155f5e43d
+      width: 64
+- date: 2015-05-06
+  artist: My Morning Jacket
+  title: The Waterfall
+  spotify:
+    artists:
+    - My Morning Jacket
+    name: The Waterfall
+    album_id: 3W1PbjmhdQ79OlN6ovK6cF
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/274c0e0ad80d88719468d2d09635e3c76888e04e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e4afd35bf9bc9a0ba7c1998c481fa2e054799357
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/114a8dd1db4fa3f0e7842fee34067c97d01d74cb
+      width: 64

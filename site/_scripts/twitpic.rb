@@ -34,6 +34,7 @@ def process_album(client, album)
       photo.sizes.each{|k,size| tweet_data['media']['sizes'][k] = {'w'=>size.w, 'h'=>size.h, 'resize'=>size.resize}}
     end
     album['tweet'] = tweet_data
+    album.delete('twitter')
     if !(album['date'])
       album['date'] = Date.parse(tweet.created_at.to_s)
     end

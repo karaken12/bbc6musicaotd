@@ -1,8 +1,8 @@
 <div class="album">
   <div class="album-date">{{ album.date }}</div>
   <div class="album-cover-wrapper">
-    {% if album.twitpic %}
-    <img class="album-cover" title="{{ album.title }}" src="{{album.twitpic}}:small" />
+    {% if album.tweet and album.tweet.media %}
+    <img class="album-cover" title="{{ album.title }}" src="{{album.tweet.media.url}}:small" />
     {% elsif album.spotify.images %}
     <img class="album-cover" title="{{ album.title }}" src="{{album.spotify.images[1].url}}" />
     {% endif %}

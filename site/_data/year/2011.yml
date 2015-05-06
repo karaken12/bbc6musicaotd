@@ -2,9 +2,10 @@
 - date: 2011-08-30
   artist: The Specials
   title: The Specials
-  twitter: https://twitter.com/BBC6Music/status/108484176373743616
-  tweet_text: 'The Specials - by The #Specials is the classic album of the day on
-    @BBC6Music - and what a classic it is! Listen to their interview later -'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/108484176373743616
+    text: 'The Specials - by The #Specials is the classic album of the day on @BBC6Music
+      - and what a classic it is! Listen to their interview later -'
   spotify:
     name: The Specials
     album_id: 3slMWt0RziAAsTyKO0v98W
@@ -21,9 +22,10 @@
 - date: 2011-08-16
   artist: Orbital
   title: Orbital
-  twitter: https://twitter.com/BBC6Music/status/103429556001701888
-  tweet_text: 'Our album of the day today #Orbital by Orbital - listen to tracks from
-    the album all day today on @BBC6Music =&gt; @orbitalband interview 4pm'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/103429556001701888
+    text: 'Our album of the day today #Orbital by Orbital - listen to tracks from
+      the album all day today on @BBC6Music =&gt; @orbitalband interview 4pm'
   spotify:
     name: Orbital
     album_id: 4xlGmLv1KsyhEKqPK7gmPK
@@ -40,9 +42,10 @@
 - date: 2011-04-06
   artist: Foo Fighters
   title: Wasting Light
-  twitter: https://twitter.com/BBC6Music/status/55255319101706240
-  tweet_text: 'The @foofighters new album is album of the day tomorrow on @bbc6music  listen
-    in @foofightersfans -  #foofighters its going to be soo good!'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/55255319101706240
+    text: 'The @foofighters new album is album of the day tomorrow on @bbc6music  listen
+      in @foofightersfans -  #foofighters its going to be soo good!'
   spotify:
     name: Wasting Light
     album_id: 5lnQLEUiVDkLbFJHXHQu9m
@@ -59,9 +62,10 @@
 - date: 2011-02-21
   artist: Radiohead
   title: King Of Limbs
-  twitter: https://twitter.com/BBC6Music/status/39649585429221376
-  tweet_text: 'RT @bbcalbumreviews: #thekingoflimbs #radiohead is also @Inside6music''s
-    Album of the Day - http://bbc.in/i9aFPZ'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/39649585429221376
+    text: 'RT @bbcalbumreviews: #thekingoflimbs #radiohead is also @Inside6music''s
+      Album of the Day - http://bbc.in/i9aFPZ'
   spotify:
     album_id: 6CeulIpMN8ZxqlMk5Gn3S3
     images:

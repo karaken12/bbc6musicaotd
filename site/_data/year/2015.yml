@@ -2,8 +2,10 @@
 - date: 2015-01-12
   artist: Panda Bear
   title: Panda Bear Meets The Grim Reaper
-  twitter: https://twitter.com/BBC6Music/status/554656299687116800
-  twitpic: http://pbs.twimg.com/media/B7KIHTrCQAM4xFE.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/554656299687116800
+    media:
+      url: http://pbs.twimg.com/media/B7KIHTrCQAM4xFE.jpg
   spotify:
     artists:
     - Panda Bear
@@ -22,8 +24,9 @@
 - date: 2015-01-13
   artist: Ghost Culture
   title: Ghost Culture
-  twitter: https://twitter.com/BBC6Music/status/555018623862206464
-  tweet_text: "#NowPlaying on @BBCRadMac it’s Lying from our Album Of The Day by @ghostculture"
+  tweet:
+    id: https://twitter.com/BBC6Music/status/555018623862206464
+    text: "#NowPlaying on @BBCRadMac it’s Lying from our Album Of The Day by @ghostculture"
   spotify:
     artists:
     - Ghost Culture
@@ -42,8 +45,10 @@
 - date: 2015-01-14
   artist: Belle and Sebastian
   title: Girls in Peacetime Want to Dance
-  twitter: https://twitter.com/BBC6Music/status/555382037486792704
-  twitpic: http://pbs.twimg.com/media/B7UdAuyCQAAbHik.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/555382037486792704
+    media:
+      url: http://pbs.twimg.com/media/B7UdAuyCQAAbHik.jpg
   spotify:
     artists:
     - Belle & Sebastian
@@ -62,8 +67,10 @@
 - date: 2015-01-15
   artist: The Rolling Stones
   title: The Rolling Stones No. 2
-  twitter: https://twitter.com/BBC6Music/status/555744357434019841
-  twitpic: http://pbs.twimg.com/media/B7Zlu4dCEAAtKHR.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/555744357434019841
+    media:
+      url: http://pbs.twimg.com/media/B7Zlu4dCEAAtKHR.jpg
   spotify:
     artists:
     - The Rolling Stones
@@ -82,8 +89,10 @@
 - date: 2015-01-16
   artist: BC Camplight
   title: How To Die In The North
-  twitter: https://twitter.com/BBC6Music/status/556106373625544705
-  twitpic: http://pbs.twimg.com/media/B7evxBgCYAEZ5Is.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/556106373625544705
+    media:
+      url: http://pbs.twimg.com/media/B7evxBgCYAEZ5Is.jpg
   spotify:
     artists:
     - BC Camplight
@@ -102,8 +111,10 @@
 - date: 2015-01-19
   artist: Sleater-Kinney
   title: No Cities To Love
-  twitter: https://twitter.com/BBC6Music/status/557193607447576576
-  twitpic: http://pbs.twimg.com/media/B7uMOQiCcAESCKu.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/557193607447576576
+    media:
+      url: http://pbs.twimg.com/media/B7uMOQiCcAESCKu.jpg
   spotify:
     artists:
     - Sleater-Kinney
@@ -122,8 +133,10 @@
 - date: 2015-01-20
   artist: Menace Beach
   title: Ratworld
-  twitter: https://twitter.com/BBC6Music/status/557556076389072896
-  twitpic: http://pbs.twimg.com/media/B7zVtZuCQAAoZI0.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/557556076389072896
+    media:
+      url: http://pbs.twimg.com/media/B7zVtZuCQAAoZI0.jpg
   spotify:
     artists:
     - Menace Beach
@@ -142,8 +155,10 @@
 - date: 2015-01-21
   artist: The Decemberists
   title: What A Terrible World, What A Beautiful World
-  twitter: https://twitter.com/BBC6Music/status/557918215981260800
-  twitpic: http://pbs.twimg.com/media/B74e0nvCYAEdstp.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/557918215981260800
+    media:
+      url: http://pbs.twimg.com/media/B74e0nvCYAEdstp.jpg
   spotify:
     artists:
     - The Decemberists
@@ -162,8 +177,10 @@
 - date: 2015-01-22
   artist: Francisco The Man
   title: Loose Ends
-  twitter: https://twitter.com/BBC6Music/status/558281634227978241
-  twitpic: http://pbs.twimg.com/media/B79qJqNCUAACR7F.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/558281634227978241
+    media:
+      url: http://pbs.twimg.com/media/B79qJqNCUAACR7F.jpg
   spotify:
     artists:
     - Francisco The Man
@@ -182,8 +199,10 @@
 - date: 2015-01-23
   artist: The Go-Betweens
   title: Before Hollywood
-  twitter: https://twitter.com/BBC6Music/status/558643607423705090
-  twitpic: http://pbs.twimg.com/media/B8CykKECMAASEun.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/558643607423705090
+    media:
+      url: http://pbs.twimg.com/media/B8CykKECMAASEun.jpg
 - date: 2015-01-26
   artist: Smashing Pumpkins
   title: Mellon Collie and the Infinite Sadness
@@ -205,8 +224,10 @@
 - date: 2015-01-27
   artist: The Charlatans
   title: Modern Nature
-  twitter: https://twitter.com/BBC6Music/status/559997081658880000
-  twitpic: http://pbs.twimg.com/media/B8WCYNJIAAEY9oJ.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/559997081658880000
+    media:
+      url: http://pbs.twimg.com/media/B8WCYNJIAAEY9oJ.jpg
   spotify:
     artists:
     - The Charlatans
@@ -225,8 +246,10 @@
 - date: 2015-01-28
   artist: Gaz Coombes
   title: Matador
-  twitter: https://twitter.com/BBC6Music/status/560455071872606208
-  twitpic: http://pbs.twimg.com/media/B8ci35cCcAA8ERP.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/560455071872606208
+    media:
+      url: http://pbs.twimg.com/media/B8ci35cCcAA8ERP.jpg
   spotify:
     artists:
     - Gaz Coombes
@@ -281,8 +304,10 @@
 - date: 2015-02-02
   artist: Hanni El Khatib
   title: Moonlight
-  twitter: https://twitter.com/BBC6Music/status/562266766978859009
-  twitpic: http://pbs.twimg.com/media/B82R3DfCMAAnNQr.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/562266766978859009
+    media:
+      url: http://pbs.twimg.com/media/B82R3DfCMAAnNQr.jpg
   spotify:
     artists:
     - Hanni El Khatib
@@ -301,8 +326,10 @@
 - date: 2015-02-03
   artist: Zun Zun Egui
   title: Shackles Gift
-  twitter: https://twitter.com/BBC6Music/status/562628875956801536
-  twitpic: http://pbs.twimg.com/media/B87b-xwCUAMrStj.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/562628875956801536
+    media:
+      url: http://pbs.twimg.com/media/B87b-xwCUAMrStj.jpg
   spotify:
     artists:
     - Zun Zun Egui
@@ -321,8 +348,10 @@
 - date: 2015-02-04
   artist: All We Are
   title: All We Are
-  twitter: https://twitter.com/BBC6Music/status/562991765972873216
-  twitpic: http://pbs.twimg.com/media/B9AmBvVIQAAbCWA.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/562991765972873216
+    media:
+      url: http://pbs.twimg.com/media/B9AmBvVIQAAbCWA.jpg
   spotify:
     artists:
     - All We Are
@@ -341,8 +370,10 @@
 - date: 2015-02-05
   artist: Roxy Music
   title: For Your Pleasure
-  twitter: https://twitter.com/BBC6Music/status/563353676367290369
-  twitpic: http://pbs.twimg.com/media/B9FvFbQCUAEYCnL.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/563353676367290369
+    media:
+      url: http://pbs.twimg.com/media/B9FvFbQCUAEYCnL.jpg
   spotify:
     artists:
     - Roxy Music
@@ -361,8 +392,10 @@
 - date: 2015-02-06
   artist: Father John Misty
   title: I Love You, Honeybear
-  twitter: https://twitter.com/BBC6Music/status/563716978427592705
-  twitpic: http://pbs.twimg.com/media/B9K4qcrCQAI_oYr.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/563716978427592705
+    media:
+      url: http://pbs.twimg.com/media/B9K4qcrCQAI_oYr.jpg
   spotify:
     artists:
     - Father John Misty
@@ -381,8 +414,10 @@
 - date: 2015-02-09
   artist: Black Rivers
   title: Black Rivers
-  twitter: https://twitter.com/BBC6Music/status/564803874926911490
-  twitpic: http://pbs.twimg.com/media/B9aVqWeCAAAT5g1.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/564803874926911490
+    media:
+      url: http://pbs.twimg.com/media/B9aVqWeCAAAT5g1.jpg
   spotify:
     artists:
     - Black Rivers
@@ -419,8 +454,10 @@
 - date: 2015-02-11
   artist: Silk Rhodes
   title: Silk Rhodes
-  twitter: https://twitter.com/BBC6Music/status/565528986340839426
-  twitpic: http://pbs.twimg.com/media/B9kn2fSIgAA7rHy.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/565528986340839426
+    media:
+      url: http://pbs.twimg.com/media/B9kn2fSIgAA7rHy.jpg
   spotify:
     artists:
     - Silk Rhodes
@@ -439,8 +476,10 @@
 - date: 2015-02-12
   artist: The Unthanks
   title: Mount the Air
-  twitter: https://twitter.com/BBC6Music/status/565890309759188992
-  twitpic: http://pbs.twimg.com/media/B9pyGUrIIAA-D_z.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/565890309759188992
+    media:
+      url: http://pbs.twimg.com/media/B9pyGUrIIAA-D_z.jpg
   spotify:
     artists:
     - The Unthanks
@@ -459,8 +498,10 @@
 - date: 2015-02-13
   artist: Bob Marley & The Wailers
   title: Easy Skanking in Boston '78
-  twitter: https://twitter.com/BBC6Music/status/566253007399309313
-  twitpic: http://pbs.twimg.com/media/B9u6w9AIcAEGf6v.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/566253007399309313
+    media:
+      url: http://pbs.twimg.com/media/B9u6w9AIcAEGf6v.jpg
   spotify:
     artists:
     - Bob Marley & The Wailers
@@ -479,8 +520,10 @@
 - date: 2015-02-16
   artist: Carl Barat And The Jackals
   title: Let It Reign
-  twitter: https://twitter.com/BBC6Music/status/567340713952935936
-  twitpic: http://pbs.twimg.com/media/B9-XzJWIAAE0p60.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/567340713952935936
+    media:
+      url: http://pbs.twimg.com/media/B9-XzJWIAAE0p60.jpg
   spotify:
     artists:
     - Carl Barat And The Jackals
@@ -499,8 +542,10 @@
 - date: 2015-02-17
   artist: José González
   title: Vestiges & Claws
-  twitter: https://twitter.com/BBC6Music/status/567703368806965248
-  twitpic: http://pbs.twimg.com/media/B-DjMlPCEAASxxx.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/567703368806965248
+    media:
+      url: http://pbs.twimg.com/media/B-DjMlPCEAASxxx.jpg
   spotify:
     artists:
     - José González
@@ -519,8 +564,10 @@
 - date: 2015-02-18
   artist: Marika Hackman
   title: We Slept At Last
-  twitter: https://twitter.com/BBC6Music/status/568065174801944577
-  twitpic: http://pbs.twimg.com/media/B-IryXTCAAAVfIl.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/568065174801944577
+    media:
+      url: http://pbs.twimg.com/media/B-IryXTCAAAVfIl.jpg
   spotify:
     artists:
     - Marika Hackman
@@ -539,8 +586,10 @@
 - date: 2015-02-19
   artist: Idlewild
   title: Everything Ever Written
-  twitter: https://twitter.com/BBC6Music/status/568427241564213248
-  twitpic: http://pbs.twimg.com/media/B-N0SImCAAEwqWy.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/568427241564213248
+    media:
+      url: http://pbs.twimg.com/media/B-N0SImCAAEwqWy.jpg
   spotify:
     artists:
     - Idlewild
@@ -579,8 +628,10 @@
 - date: 2015-02-24
   artist: The Pop Group
   title: Citizen Zombie
-  twitter: https://twitter.com/BBC6Music/status/570239291474862083
-  twitpic: http://pbs.twimg.com/media/B-nkHUbVIAEfToN.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/570239291474862083
+    media:
+      url: http://pbs.twimg.com/media/B-nkHUbVIAEfToN.jpg
   spotify:
     artists:
     - The Pop Group
@@ -599,8 +650,10 @@
 - date: 2015-02-25
   artist: Public Service Broadcasting
   title: The Race For Space
-  twitter: https://twitter.com/BBC6Music/status/570602392653316096
-  twitpic: http://pbs.twimg.com/media/B-suwHmWwAAYCYf.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/570602392653316096
+    media:
+      url: http://pbs.twimg.com/media/B-suwHmWwAAYCYf.jpg
   spotify:
     artists:
     - Public Service Broadcasting
@@ -619,8 +672,10 @@
 - date: 2015-02-26
   artist: Songhoy Blues
   title: Music In Exile
-  twitter: https://twitter.com/BBC6Music/status/570964306537394176
-  twitpic: http://pbs.twimg.com/media/B-x4uqRVIAAHASB.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/570964306537394176
+    media:
+      url: http://pbs.twimg.com/media/B-x4uqRVIAAHASB.jpg
   spotify:
     artists:
     - Songhoy Blues
@@ -639,8 +694,10 @@
 - date: 2015-02-27
   artist: Radiohead
   title: The Bends
-  twitter: https://twitter.com/BBC6Music/status/571229669611184128
-  twitpic: http://pbs.twimg.com/media/B-1p9EQVIAAnhel.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/571229669611184128
+    media:
+      url: http://pbs.twimg.com/media/B-1p9EQVIAAnhel.jpg
   spotify:
     artists:
     - Radiohead
@@ -659,8 +716,10 @@
 - date: 2015-03-02
   artist: Noel Gallagher's High Flying Birds
   title: Chasing Yesterday
-  twitter: https://twitter.com/BBC6Music/status/572412945126305793
-  twitpic: http://pbs.twimg.com/media/B_GeGQ_UwAAz7L9.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/572412945126305793
+    media:
+      url: http://pbs.twimg.com/media/B_GeGQ_UwAAz7L9.jpg
   spotify:
     artists:
     - Noel Gallagher's High Flying Birds
@@ -679,8 +738,10 @@
 - date: 2015-03-03
   artist: Ghostpoet
   title: Shedding Skin
-  twitter: https://twitter.com/BBC6Music/status/572772719940513792
-  twitpic: http://pbs.twimg.com/media/B_LlwNGU0AAHn_n.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/572772719940513792
+    media:
+      url: http://pbs.twimg.com/media/B_LlwNGU0AAHn_n.jpg
   spotify:
     artists:
     - Ghostpoet
@@ -699,8 +760,10 @@
 - date: 2015-03-04
   artist: Dutch Uncles
   title: Shudder
-  twitter: https://twitter.com/BBC6Music/status/573137946238435329
-  twitpic: http://pbs.twimg.com/media/B_Qx6wfUQAA4e7V.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/573137946238435329
+    media:
+      url: http://pbs.twimg.com/media/B_Qx6wfUQAA4e7V.jpg
   spotify:
     artists:
     - Dutch Uncles
@@ -719,8 +782,10 @@
 - date: 2015-03-05
   artist: Dan Deacon
   title: Gliss Riffer
-  twitter: https://twitter.com/BBC6Music/status/573501849275363328
-  twitpic: http://pbs.twimg.com/media/B_V84bsUsAEcbd5.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/573501849275363328
+    media:
+      url: http://pbs.twimg.com/media/B_V84bsUsAEcbd5.jpg
   spotify:
     artists:
     - Dan Deacon
@@ -739,8 +804,10 @@
 - date: 2015-03-06
   artist: Maxïmo Park
   title: A Certain Trigger
-  twitter: https://twitter.com/BBC6Music/status/573862856241868800
-  twitpic: https://pbs.twimg.com/media/B_bDtvNUYAEV6O9.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/573862856241868800
+    media:
+      url: https://pbs.twimg.com/media/B_bDtvNUYAEV6O9.jpg
   spotify:
     artists:
     - Maximo Park
@@ -762,8 +829,10 @@
 - date: 2015-03-10
   artist: Matthew E. White
   title: Fresh Blood
-  twitter: https://twitter.com/BBC6Music/status/575312520480694272
-  twitpic: http://pbs.twimg.com/media/B_vrnsqVAAIO7hy.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/575312520480694272
+    media:
+      url: http://pbs.twimg.com/media/B_vrnsqVAAIO7hy.jpg
   spotify:
     artists:
     - Matthew E. White
@@ -782,8 +851,10 @@
 - date: 2015-03-11
   artist: Gang of Four
   title: What Happens Next
-  twitter: https://twitter.com/BBC6Music/status/575674585510715392
-  twitpic: http://pbs.twimg.com/media/B_00kjQUcAAqWpi.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/575674585510715392
+    media:
+      url: http://pbs.twimg.com/media/B_00kjQUcAAqWpi.jpg
   spotify:
     artists:
     - Gang Of Four
@@ -802,8 +873,10 @@
 - date: 2015-03-12
   artist: Will Butler
   title: Policy
-  twitter: https://twitter.com/BBC6Music/status/576037586898153472
-  twitpic: http://pbs.twimg.com/media/B_5_H2KUUAAcKYw.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/576037586898153472
+    media:
+      url: http://pbs.twimg.com/media/B_5_H2KUUAAcKYw.jpg
   spotify:
     artists:
     - Will Butler
@@ -825,8 +898,10 @@
 - date: 2015-03-16
   artist: Modest Mouse
   title: Strangers To Ourselves
-  twitter: https://twitter.com/BBC6Music/status/577486771782594561
-  twitpic: http://pbs.twimg.com/media/CAOkpWYUsAAeTm9.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/577486771782594561
+    media:
+      url: http://pbs.twimg.com/media/CAOkpWYUsAAeTm9.jpg
   spotify:
     artists:
     - Modest Mouse
@@ -866,8 +941,10 @@
 - date: 2015-03-18
   artist: Seasick Steve
   title: Sonic Soul Surfer
-  twitter: https://twitter.com/BBC6Music/status/578211448674979840
-  twitpic: http://pbs.twimg.com/media/CAY4O73XIAAWW3E.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/578211448674979840
+    media:
+      url: http://pbs.twimg.com/media/CAY4O73XIAAWW3E.jpg
   spotify:
     artists:
     - Seasick Steve
@@ -886,8 +963,10 @@
 - date: 2015-03-19
   artist: Courtney Barnett
   title: Sometimes I Sit and Think, and Sometimes I Just Sit
-  twitter: https://twitter.com/BBC6Music/status/578573830026850307
-  twitpic: http://pbs.twimg.com/media/CAeA39rUQAAv2gY.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/578573830026850307
+    media:
+      url: http://pbs.twimg.com/media/CAeA39rUQAAv2gY.jpg
   spotify:
     artists:
     - Courtney Barnett
@@ -903,8 +982,10 @@
 - date: 2015-03-20
   artist: Simple Minds
   title: Sparkle In The Rain
-  twitter: https://twitter.com/BBC6Music/status/578936175102156800
-  twitpic: http://pbs.twimg.com/media/CAjLIOVUMAIg_AB.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/578936175102156800
+    media:
+      url: http://pbs.twimg.com/media/CAjLIOVUMAIg_AB.jpg
   spotify:
     artists:
     - Simple Minds
@@ -923,8 +1004,10 @@
 - date: 2015-03-23
   artist: Laura Marling
   title: Short Movie
-  twitter: https://twitter.com/BBC6Music/status/580023112286244865
-  twitpic: http://pbs.twimg.com/media/CAyn78lUQAAgfgK.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/580023112286244865
+    media:
+      url: http://pbs.twimg.com/media/CAyn78lUQAAgfgK.jpg
   spotify:
     artists:
     - Laura Marling
@@ -943,8 +1026,10 @@
 - date: 2015-03-24
   artist: Lonelady
   title: Hinterland
-  twitter: https://twitter.com/BBC6Music/status/580386223165956096
-  twitpic: http://pbs.twimg.com/media/CA3yI4FUgAEcj3p.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/580386223165956096
+    media:
+      url: http://pbs.twimg.com/media/CA3yI4FUgAEcj3p.jpg
   spotify:
     artists:
     - Lonelady
@@ -963,8 +1048,10 @@
 - date: 2015-03-25
   artist: The Cribs
   title: All My Sisters
-  twitter: https://twitter.com/BBC6Music/status/580748920508268544
-  twitpic: http://pbs.twimg.com/media/CA87X1jVEAArJZ4.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/580748920508268544
+    media:
+      url: http://pbs.twimg.com/media/CA87X1jVEAArJZ4.jpg
   spotify:
     artists:
     - The Cribs
@@ -983,8 +1070,10 @@
 - date: 2015-03-26
   artist: The Staves
   title: If I Was
-  twitter: https://twitter.com/BBC6Music/status/581111833215545344
-  twitpic: http://pbs.twimg.com/media/CBCE7EXUUAEOWM4.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/581111833215545344
+    media:
+      url: http://pbs.twimg.com/media/CBCE7EXUUAEOWM4.jpg
   spotify:
     artists:
     - The Staves
@@ -1003,8 +1092,10 @@
 - date: 2015-03-27
   artist: The Kinks
   title: Village Green Preservation Society
-  twitter: https://twitter.com/BBC6Music/status/581472920293249024
-  twitpic: http://pbs.twimg.com/media/CBHOTh9UcAEmQBt.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/581472920293249024
+    media:
+      url: http://pbs.twimg.com/media/CBHOTh9UcAEmQBt.jpg
   spotify:
     candidates:
     - artists:
@@ -1022,8 +1113,10 @@
 - date: 2015-03-30
   artist: Sufjan Stevens
   title: Carrie & Lowell
-  twitter: https://twitter.com/BBC6Music/status/582544923771203585
-  twitpic: http://pbs.twimg.com/media/CBWdfjcUIAAs2RO.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/582544923771203585
+    media:
+      url: http://pbs.twimg.com/media/CBWdfjcUIAAs2RO.jpg
   spotify:
     artists:
     - Sufjan Stevens
@@ -1042,8 +1135,10 @@
 - date: 2015-03-31
   artist: Death Cab for Cutie
   title: Kintsugi
-  twitter: https://twitter.com/BBC6Music/status/582907857210904576
-  twitpic: http://pbs.twimg.com/media/CBbmlxsUwAEgrMK.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/582907857210904576
+    media:
+      url: http://pbs.twimg.com/media/CBbmlxsUwAEgrMK.jpg
   spotify:
     artists:
     - Death Cab for Cutie
@@ -1062,8 +1157,10 @@
 - date: 2015-04-01
   artist: The Prodigy
   title: The Day Is My Enemy
-  twitter: https://twitter.com/BBC6Music/status/583269876304908288
-  twitpic: http://pbs.twimg.com/media/CBgw3H7UIAEzIgX.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/583269876304908288
+    media:
+      url: http://pbs.twimg.com/media/CBgw3H7UIAEzIgX.jpg
   spotify:
     artists:
     - The Prodigy
@@ -1082,8 +1179,10 @@
 - date: 2015-04-02
   artist: Chastity Belt
   title: Time To Go Home
-  twitter: https://twitter.com/BBC6Music/status/583632724348559361
-  twitpic: http://pbs.twimg.com/media/CBl6t8rUoAIKDGG.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/583632724348559361
+    media:
+      url: http://pbs.twimg.com/media/CBl6t8rUoAIKDGG.jpg
   spotify:
     artists:
     - Chastity Belt
@@ -1102,13 +1201,17 @@
 - date: 2015-04-03
   artist: Shirley & Dolly Collins
   title: Love, Death & The Lady
-  twitter: https://twitter.com/BBC6Music/status/583996448385150976
-  twitpic: http://pbs.twimg.com/media/CBrE3QcVEAAT4CC.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/583996448385150976
+    media:
+      url: http://pbs.twimg.com/media/CBrE3QcVEAAT4CC.jpg
 - date: 2015-04-06
   artist: Robert Wyatt
   title: Ruth Is Stranger Than Richard
-  twitter: https://twitter.com/BBC6Music/status/585082361357959169
-  twitpic: http://pbs.twimg.com/media/CB6hK9lWYAAlqOt.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/585082361357959169
+    media:
+      url: http://pbs.twimg.com/media/CB6hK9lWYAAlqOt.jpg
   spotify:
     artists:
     - Robert Wyatt
@@ -1127,8 +1230,10 @@
 - date: 2015-04-07
   artist: Nadine Shah
   title: Fast Food
-  twitter: https://twitter.com/BBC6Music/status/585445479305105408
-  twitpic: http://pbs.twimg.com/media/CB_rdCbWEAAwIk_.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/585445479305105408
+    media:
+      url: http://pbs.twimg.com/media/CB_rdCbWEAAwIk_.jpg
   spotify:
     artists:
     - Nadine Shah
@@ -1147,8 +1252,10 @@
 - date: 2015-04-08
   artist: Toro Y Moi
   title: What For?
-  twitter: https://twitter.com/BBC6Music/status/585807006847660032
-  twitpic: http://pbs.twimg.com/media/CCEzpiGWIAE9Kf9.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/585807006847660032
+    media:
+      url: http://pbs.twimg.com/media/CCEzpiGWIAE9Kf9.jpg
   spotify:
     artists:
     - Toro Y Moi
@@ -1167,8 +1274,10 @@
 - date: 2015-04-09
   artist: Drenge
   title: Undertow
-  twitter: https://twitter.com/BBC6Music/status/586169050037936128
-  twitpic: http://pbs.twimg.com/media/CCJ89nbW4AE3U-J.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/586169050037936128
+    media:
+      url: http://pbs.twimg.com/media/CCJ89nbW4AE3U-J.jpg
   spotify:
     artists:
     - Drenge
@@ -1187,8 +1296,10 @@
 - date: 2015-04-10
   artist: Young Fathers
   title: White Men Are Black Men Too
-  twitter: https://twitter.com/BBC6Music/status/586532407186194432
-  twitpic: http://pbs.twimg.com/media/CCPIHZ9UIAEn85M.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/586532407186194432
+    media:
+      url: http://pbs.twimg.com/media/CCPIHZ9UIAEn85M.jpg
   spotify:
     artists:
     - Young Fathers
@@ -1207,8 +1318,10 @@
 - date: 2015-04-13
   artist: Villagers
   title: Darling Arithmetic
-  twitter: https://twitter.com/BBC6Music/status/587522261114089472
-  twitpic: http://pbs.twimg.com/media/CCdMYhEWYAA4Gbe.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/587522261114089472
+    media:
+      url: http://pbs.twimg.com/media/CCdMYhEWYAA4Gbe.jpg
   spotify:
     artists:
     - Villagers
@@ -1227,8 +1340,10 @@
 - date: 2015-04-14
   artist: Wire
   title: Wire
-  twitter: https://twitter.com/BBC6Music/status/587884206166016000
-  twitpic: http://pbs.twimg.com/media/CCiVkeyXIAAz9Rw.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/587884206166016000
+    media:
+      url: http://pbs.twimg.com/media/CCiVkeyXIAAz9Rw.jpg
   spotify:
     artists:
     - Wire
@@ -1247,8 +1362,10 @@
 - date: 2015-04-15
   artist: The Who
   title: Quadrophenia
-  twitter: https://twitter.com/BBC6Music/status/588247809612247040
-  twitpic: http://pbs.twimg.com/media/CCngQ_AWIAAQLtZ.jpg
+  tweet:
+    id: https://twitter.com/BBC6Music/status/588247809612247040
+    media:
+      url: http://pbs.twimg.com/media/CCngQ_AWIAAQLtZ.jpg
   spotify:
     artists:
     - The Who
@@ -1267,10 +1384,12 @@
 - date: 2015-04-16
   artist: Waxahatchee
   title: Ivy Tripp
-  twitter: https://twitter.com/BBC6Music/status/588605304968904704
-  twitpic: http://pbs.twimg.com/media/CCslZ8SVAAABeZg.jpg
-  tweet_text: 'The Album of the Day comes from @k_crutchfield AKA Waxahatchee - @BBC6Breakfast
-    #nowplaying ''The Dirt'' http://t.co/hjD8L3HDMi'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/588605304968904704
+    text: 'The Album of the Day comes from @k_crutchfield AKA Waxahatchee - @BBC6Breakfast
+      #nowplaying ''The Dirt'' http://t.co/hjD8L3HDMi'
+    media:
+      url: http://pbs.twimg.com/media/CCslZ8SVAAABeZg.jpg
   spotify:
     artists:
     - Waxahatchee
@@ -1289,10 +1408,12 @@
 - date: 2015-04-17
   artist: East India Youth
   title: Culture Of Volume
-  twitter: https://twitter.com/BBC6Music/status/588966746947727360
-  twitpic: http://pbs.twimg.com/media/CCxuIo1W4AAnktL.jpg
-  tweet_text: 'We turn to @eastindiayouth now for our Album of the Day. #nowplaying
-    ''Don''t Look Backwards'' from ''Culture Of Volume'' http://t.co/30mkridV2K'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/588966746947727360
+    text: 'We turn to @eastindiayouth now for our Album of the Day. #nowplaying ''Don''t
+      Look Backwards'' from ''Culture Of Volume'' http://t.co/30mkridV2K'
+    media:
+      url: http://pbs.twimg.com/media/CCxuIo1W4AAnktL.jpg
   spotify:
     artists:
     - East India Youth
@@ -1311,10 +1432,12 @@
 - date: 2015-04-20
   artist: Blur
   title: The Magic Whip
-  twitter: https://twitter.com/BBC6Music/status/590020116361961472
-  twitpic: http://pbs.twimg.com/media/CDAsKz4WEAIzab-.jpg
-  tweet_text: "#np @blurofficial - There Are Too Many Of Us // Taken from The Magic
-    Whip http://t.co/SdzmVS7mBZ  Album of the Day + http://t.co/ecdVtA7lcP"
+  tweet:
+    id: https://twitter.com/BBC6Music/status/590020116361961472
+    text: "#np @blurofficial - There Are Too Many Of Us // Taken from The Magic Whip
+      http://t.co/SdzmVS7mBZ  Album of the Day + http://t.co/ecdVtA7lcP"
+    media:
+      url: http://pbs.twimg.com/media/CDAsKz4WEAIzab-.jpg
   spotify:
     artists:
     - Blur
@@ -1333,10 +1456,12 @@
 - date: 2015-04-21
   artist: Alabama Shakes
   title: Sound & Color
-  twitter: https://twitter.com/BBC6Music/status/590422521310216192
-  twitpic: http://pbs.twimg.com/media/CDGaJ2aWAAAIwvw.jpg
-  tweet_text: "#nowplaying on @BBC6Breakfast our Album of the Day from @Alabama_Shakes
-    - 'Don't Wanna Fight' http://t.co/P7uscGX8cZ"
+  tweet:
+    id: https://twitter.com/BBC6Music/status/590422521310216192
+    text: "#nowplaying on @BBC6Breakfast our Album of the Day from @Alabama_Shakes
+      - 'Don't Wanna Fight' http://t.co/P7uscGX8cZ"
+    media:
+      url: http://pbs.twimg.com/media/CDGaJ2aWAAAIwvw.jpg
   spotify:
     artists:
     - Alabama Shakes
@@ -1355,10 +1480,12 @@
 - date: 2015-04-22
   artist: Stealing Sheep
   title: Not Real
-  twitter: https://twitter.com/BBC6Music/status/590784785687179264
-  twitpic: http://pbs.twimg.com/media/CDLjobZW8AACJ4O.jpg
-  tweet_text: "#nowplaying @stealingsheep's 'Sequence' - Their brand new record 'Not
-    Real' is our Album of the Day. You're welcome! http://t.co/FxtlsA2qTj"
+  tweet:
+    id: https://twitter.com/BBC6Music/status/590784785687179264
+    text: "#nowplaying @stealingsheep's 'Sequence' - Their brand new record 'Not Real'
+      is our Album of the Day. You're welcome! http://t.co/FxtlsA2qTj"
+    media:
+      url: http://pbs.twimg.com/media/CDLjobZW8AACJ4O.jpg
   spotify:
     artists:
     - Stealing Sheep
@@ -1377,10 +1504,12 @@
 - date: 2015-04-23
   artist: Slug
   title: RIPE
-  twitter: https://twitter.com/BBC6Music/status/591146680503926784
-  twitpic: http://pbs.twimg.com/media/CDQsxeSWEAAfNFc.jpg
-  tweet_text: "#nowplaying on @BBC6Breakfast is @SLUG_MrIBlack with the gloriously
-    titled 'Cockeyed Rabbit Wrapped in Plastic' #AotD http://t.co/napeCa5kIX"
+  tweet:
+    id: https://twitter.com/BBC6Music/status/591146680503926784
+    text: "#nowplaying on @BBC6Breakfast is @SLUG_MrIBlack with the gloriously titled
+      'Cockeyed Rabbit Wrapped in Plastic' #AotD http://t.co/napeCa5kIX"
+    media:
+      url: http://pbs.twimg.com/media/CDQsxeSWEAAfNFc.jpg
   spotify:
     artists:
     - Slug
@@ -1399,10 +1528,12 @@
 - date: 2015-04-24
   artist: Foo Fighters
   title: The Colour and the Shape
-  twitter: https://twitter.com/BBC6Music/status/591606190162993155
-  twitpic: http://pbs.twimg.com/media/CDXMNG7WIAAhnS7.jpg
-  tweet_text: Wind Up from AOTD Colour &amp; The Shape @foofighters on @BBCRadMac
-    @FooFightersDave Grohl is with @Matteveritt Sun 1pm http://t.co/C5El7wTUNq
+  tweet:
+    id: https://twitter.com/BBC6Music/status/591606190162993155
+    text: Wind Up from AOTD Colour &amp; The Shape @foofighters on @BBCRadMac @FooFightersDave
+      Grohl is with @Matteveritt Sun 1pm http://t.co/C5El7wTUNq
+    media:
+      url: http://pbs.twimg.com/media/CDXMNG7WIAAhnS7.jpg
   spotify:
     artists:
     - Foo Fighters
@@ -1421,10 +1552,12 @@
 - date: 2015-04-27
   artist: Squarepusher
   title: Damogen Furies
-  twitter: https://twitter.com/BBC6Music/status/592597587661856768
-  twitpic: http://pbs.twimg.com/media/CDlUXZNWYAEKOOr.jpg
-  tweet_text: Our Album of the Day comes from @SQUAREPUSHER and @BBC6Breakfast are
-    playing album opener 'Stor Eiglass' http://t.co/guhLvdKT1K
+  tweet:
+    id: https://twitter.com/BBC6Music/status/592597587661856768
+    text: Our Album of the Day comes from @SQUAREPUSHER and @BBC6Breakfast are playing
+      album opener 'Stor Eiglass' http://t.co/guhLvdKT1K
+    media:
+      url: http://pbs.twimg.com/media/CDlUXZNWYAEKOOr.jpg
   spotify:
     artists:
     - Squarepusher
@@ -1443,10 +1576,12 @@
 - date: 2015-04-28
   artist: Speedy Ortiz
   title: Foil Deer
-  twitter: https://twitter.com/BBC6Music/status/592959508151934977
-  twitpic: http://pbs.twimg.com/media/CDqdhzjWoAEBP8F.jpg
-  tweet_text: 'Speedy Ortiz @killquilty are Album of the Day. ''Foil Deer'' is awesome
-    @BBC6Breakfast #nowplaying ''Mister Difficult'' http://t.co/rkmkzuVR4P'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/592959508151934977
+    text: 'Speedy Ortiz @killquilty are Album of the Day. ''Foil Deer'' is awesome
+      @BBC6Breakfast #nowplaying ''Mister Difficult'' http://t.co/rkmkzuVR4P'
+    media:
+      url: http://pbs.twimg.com/media/CDqdhzjWoAEBP8F.jpg
   spotify:
     artists:
     - Speedy Ortiz
@@ -1465,10 +1600,12 @@
 - date: 2015-04-29
   artist: Django Django
   title: Born Under Saturn
-  twitter: https://twitter.com/BBC6Music/status/593321453451399168
-  twitpic: http://pbs.twimg.com/media/CDvmt7jWAAAwvdm.jpg
-  tweet_text: 'The mighty @thedjangos are our Album of the Day - @BBC6Breakfast #nowplaying
-    ''Shake and Tremble'' http://t.co/Mrd4BbnSIG'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/593321453451399168
+    text: 'The mighty @thedjangos are our Album of the Day - @BBC6Breakfast #nowplaying
+      ''Shake and Tremble'' http://t.co/Mrd4BbnSIG'
+    media:
+      url: http://pbs.twimg.com/media/CDvmt7jWAAAwvdm.jpg
   spotify:
     artists:
     - Django Django
@@ -1487,10 +1624,12 @@
 - date: 2015-04-30
   artist: Martin Gore
   title: MG
-  twitter: https://twitter.com/BBC6Music/status/593683074526904320
-  twitpic: http://pbs.twimg.com/media/CD0vnCOW8AEnCJF.jpg
-  tweet_text: 'Our Album of the Day today is from @depechemode''s Martin Gore. #nowplaying
-    ''Pinking'' from his solo effort ''MG'' http://t.co/YwmrCSXv5H'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/593683074526904320
+    text: 'Our Album of the Day today is from @depechemode''s Martin Gore. #nowplaying
+      ''Pinking'' from his solo effort ''MG'' http://t.co/YwmrCSXv5H'
+    media:
+      url: http://pbs.twimg.com/media/CD0vnCOW8AEnCJF.jpg
   spotify:
     artists:
     - MG
@@ -1509,10 +1648,12 @@
 - date: 2015-05-01
   artist: The Human League
   title: Travelogue
-  twitter: https://twitter.com/BBC6Music/status/594142181868367872
-  twitpic: http://pbs.twimg.com/media/CD7P1FrUkAAn23t.jpg
-  tweet_text: "#NowPlaying on @BBCRadMac Crow And a Baby from our Album of the Day
-    Travelogue by @humanleagueHQ… http://t.co/9FKwOky7cL"
+  tweet:
+    id: https://twitter.com/BBC6Music/status/594142181868367872
+    text: "#NowPlaying on @BBCRadMac Crow And a Baby from our Album of the Day Travelogue
+      by @humanleagueHQ… http://t.co/9FKwOky7cL"
+    media:
+      url: http://pbs.twimg.com/media/CD7P1FrUkAAn23t.jpg
   spotify:
     artists:
     - The Human League
@@ -1531,10 +1672,12 @@
 - date: 2015-05-04
   artist: Mumford And Sons
   title: Wilder Mind
-  twitter: https://twitter.com/BBC6Music/status/595229060357345280
-  twitpic: http://pbs.twimg.com/media/CEKtZLXUUAIQFXo.jpg
-  tweet_text: "#NowPlaying on @BBCRadMac - Cold Arms by @MumfordAndSons from Wilder
-    Mind, our Album of the Day. http://t.co/u5wo2eJDUe"
+  tweet:
+    id: https://twitter.com/BBC6Music/status/595229060357345280
+    text: "#NowPlaying on @BBCRadMac - Cold Arms by @MumfordAndSons from Wilder Mind,
+      our Album of the Day. http://t.co/u5wo2eJDUe"
+    media:
+      url: http://pbs.twimg.com/media/CEKtZLXUUAIQFXo.jpg
   spotify:
     artists:
     - Mumford & Sons
@@ -1553,10 +1696,12 @@
 - date: 2015-05-05
   artist: Rozi Plain
   title: Friend
-  twitter: https://twitter.com/BBC6Music/status/595592203096981504
-  twitpic: http://pbs.twimg.com/media/CEP0L_wWoAANl6_.jpg
-  tweet_text: "#NowPlaying Friend City from our Album Of The Day: Friend by @ROZIPLAIN
-    on @BBCRadMac http://t.co/vXcqqlymRD"
+  tweet:
+    id: https://twitter.com/BBC6Music/status/595592203096981504
+    text: "#NowPlaying Friend City from our Album Of The Day: Friend by @ROZIPLAIN
+      on @BBCRadMac http://t.co/vXcqqlymRD"
+    media:
+      url: http://pbs.twimg.com/media/CEP0L_wWoAANl6_.jpg
   spotify:
     artists:
     - Rozi Plain

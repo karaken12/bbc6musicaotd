@@ -1720,6 +1720,30 @@
 - date: 2015-05-06
   artist: My Morning Jacket
   title: The Waterfall
+  tweet:
+    id: https://twitter.com/BBC6Music/status/595954419247775746
+    created: '2015-05-06 14:13:00 +0000'
+    text: "#NowPlaying Compound Fracture from our Album Of The Day: The Waterfall
+      by @mymorningjacket on @BBCRadMac http://t.co/9Chnl9uidg"
+    media:
+      url: http://pbs.twimg.com/media/CEU_sYbW8AAWaBn.jpg
+      sizes:
+        :small:
+          w: 340
+          h: 340
+          resize: fit
+        :thumb:
+          w: 150
+          h: 150
+          resize: crop
+        :medium:
+          w: 600
+          h: 600
+          resize: fit
+        :large:
+          w: 1024
+          h: 1024
+          resize: fit
   spotify:
     artists:
     - My Morning Jacket

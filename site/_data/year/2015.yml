@@ -1102,14 +1102,17 @@
       - The Kinks
       name: The Village Green Preservation Society
       album_id: 4wcH6H2h6LFBbfXgwZY9oH
+      type: album
     - artists:
       - The Kinks
       name: The Village Green Preservation Society
       album_id: 6OWWMfCWiqOZJBpJieBB6B
+      type: album
     - artists:
       - The Kinks
       name: The Village Green Preservation Society
       album_id: 5SwMo0HmRi529JaKkt6Rn8
+      type: album
 - date: 2015-03-30
   artist: Sufjan Stevens
   title: Carrie & Lowell

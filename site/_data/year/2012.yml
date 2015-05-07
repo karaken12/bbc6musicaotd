@@ -1406,6 +1406,28 @@
     id: https://twitter.com/BBC6Music/status/234943548150132736
     text: Today's album of the day is Trojan Records' Freedom Sounds comp - five discs
       of quality Jamaican sounds... http://t.co/nIm5nqp5
+  spotify:
+    candidates:
+    - artists:
+      - Joe Scholes & The Clerks
+      name: Freedom Sounds
+      album_id: 55lYXLGmc19vdfsQAgTfLH
+      type: single
+    - artists:
+      - Dana Mora
+      name: Freedom Sounds Like Gunfire
+      album_id: 5oboT62c52UDOAyR0xa9ZH
+      type: album
+    - artists:
+      - Various Artists
+      name: Freedom Sounds
+      album_id: 19dvwjvOwWV1S5PLn7ASPe
+      type: album
+    - artists:
+      - Various Artists
+      name: 'Freedom Sounds: A Tribute To The Skatalites'
+      album_id: 1v3swjJzmeWOjGDjOeRgdW
+      type: album
 - date: 2012-08-03
   artist: Jimmy Cliff
   title: Rebirth

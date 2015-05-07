@@ -15,6 +15,15 @@ def update_file(file_name)
   file.close
 end
 
+def get_candidate(album)
+  return {
+    'artists'  => album.artists.map{|a| a.name},
+    'name'     => album.name,
+    'album_id' => album.id,
+    'type'     => album.album_type
+  }
+end
+
 def process_data(data)
   data.each do |album|
     if (album['spotify'] and !(album['spotify']['candidates'])) then next end
@@ -38,27 +47,14 @@ def process_data(data)
     if (album['type'])
       type = album['type']
     end
-    spotify_albums_sel = spotify_albums
     spotify_albums_sel = spotify_albums.select{|sa| sa.album_type == type}
 
     puts "- Search for #{album['title']} by #{album['artist']}"
     puts "  Found #{spotify_albums.total} (#{spotify_albums_sel.count} selected)"
-
-    if (spotify_albums_sel.count != 0)
-      #puts "  Candidate titles: " + spotify_albums_sel.map{|sa| "#{sa.name} (#{sa.id})"}.join(", ")
-      candidates = []
-      spotify_albums_sel.each{ |sa|
-        candidates.push({
-          'artists' => sa.artists.map{|a| a.name},
-          'name'=>sa.name,
-          'album_id'=>sa.id
-        })
-      }
-      if candidates.count == 1
-        album['spotify'] = candidates[0]
-      else
-        album['spotify'] = {'candidates' => candidates}
-      end
+    if (spotify_albums_sel.count == 1)
+      album['spotify'] = get_candidate(spotify_albums_sel[0])
+    elsif (spotify_albums.count > 0)
+      album['spotify'] = {'candidates' => spotify_albums.map{|sa| get_candidate(sa)}}
     end
     #puts "  Search at: https://api.spotify.com/v1/search?q=#{search_string}&type=album&market=GB"
 

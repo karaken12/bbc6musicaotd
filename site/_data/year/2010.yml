@@ -148,14 +148,17 @@
       - Sandy Denny
       name: The Best Of Sandy Denny
       album_id: 0ZB5rH35CecAy7Rwiquirt
+      type: album
     - artists:
       - Sandy Denny
       name: 'The Lady: The Essential Sandy Denny'
       album_id: 4uqafBLQA6iFCl0o06Up2C
+      type: album
     - artists:
       - Sandy Denny
       name: Listen, Listen - An Introduction To Sandy Denny
       album_id: 2EqLwh6RkwZsI1BGt2UIQg
+      type: album
 - date: 2010-11-29
   artist: David Bowie
   title: 'Station to Station: Super Deluxe Edition'
@@ -321,18 +324,27 @@
       - The Greenhornes
       name: Dual Mono
       album_id: 4NrdlpNTAeRwF5SrarP2vk
+      type: album
     - artists:
       - The Greenhornes
       name: Sewed Soles
       album_id: 2fdX9VUNnu8PfPfTuMvSJV
+      type: album
     - artists:
       - The Greenhornes
       name: Gun for You
       album_id: 6eIpFf6vvpSP6qCik9JeBP
+      type: album
     - artists:
       - The Greenhornes
       name: East Grand Blues
       album_id: 40WZTo1JDcAHWUeq4xGemm
+      type: album
+    - artists:
+      - Eric Burdon & the Greenhornes
+      name: Eric Burdon & The Greenhornes
+      album_id: 2YJYzxdwujq74KX6iCYl44
+      type: single
 - date: 2010-11-17
   artist: The Seal Cub Clubbing Club
   title: Royal Variety

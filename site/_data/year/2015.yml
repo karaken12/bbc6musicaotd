@@ -1765,6 +1765,30 @@
 - date: 2015-05-07
   artist: Best Coast
   title: California Nights
+  tweet:
+    id: https://twitter.com/BBC6Music/status/596318669946363904
+    created: '2015-05-07 14:20:24 +0000'
+    text: 'You heard Feeling OK from our Album Of The Day: California Nights by @BestCoast
+      http://t.co/n9gBspQRf2'
+    media:
+      url: http://pbs.twimg.com/media/CEaMqG0WoAA_rs6.jpg
+      sizes:
+        :small:
+          w: 340
+          h: 340
+          resize: fit
+        :thumb:
+          w: 150
+          h: 150
+          resize: crop
+        :medium:
+          w: 600
+          h: 600
+          resize: fit
+        :large:
+          w: 1024
+          h: 1024
+          resize: fit
   spotify:
     artists:
     - Best Coast

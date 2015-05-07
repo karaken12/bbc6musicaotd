@@ -1759,3 +1759,21 @@
     - height: 64
       url: https://i.scdn.co/image/114a8dd1db4fa3f0e7842fee34067c97d01d74cb
       width: 64
+- date: 2015-05-07
+  artist: Best Coast
+  title: California Nights
+  spotify:
+    artists:
+    - Best Coast
+    name: California Nights
+    album_id: 6j4PKBoTlHPweQNSGlu9pX
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/abca051a2913c00d2b7f8fa60cda15aa4ebac9f8
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a7563432b6055377901461ab4c21ca3251102854
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/b9113ef4d282e5143b9c1b7878ba587b3107cf6e
+      width: 64

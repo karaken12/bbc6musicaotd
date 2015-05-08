@@ -24,17 +24,21 @@
   title: A Creature I Don’t Know
   review: http://www.bbc.co.uk/music/reviews/4r28
   spotify:
-    candidates:
-    - artists:
-      - Laura Marling
-      name: A Creature I Don't Know (Deluxe Version)
-      album_id: 1yvrtiby7Zo7MiBrW1IDXD
-      type: album
-    - artists:
-      - Laura Marling
-      name: A Creature I Don't Know
-      album_id: 6l9AdRG0yVneRu5PNbAvRZ
-      type: album
+    artists:
+    - Laura Marling
+    name: A Creature I Don't Know
+    album_id: 6l9AdRG0yVneRu5PNbAvRZ
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/75c120d005f4440cc9e6c86f29a76da5a7a9de0d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2daa5722a9510ffe50e7cc092203fe438b9015f2
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/2d95dba082506153d3e3dcd0c8218c1fa7431915
+      width: 64
 - date: 2011-12-28
   artist: SBTRKT
   title: SBTRKT
@@ -80,38 +84,41 @@
   title: Bon Iver
   review: http://www.bbc.co.uk/music/reviews/nvx2
   spotify:
-    candidates:
-    - artists:
-      - Bon Iver
-      name: Bon Iver
-      album_id: 7pTARJYCVO49nFXB1Mo5re
-      type: album
-    - artists:
-      - Bon Iver
-      name: 'Bon Iver: Stems Project'
-      album_id: 7uWt8lkGoXdApD6VsrUzgf
-      type: album
+    artists:
+    - Bon Iver
+    name: Bon Iver
+    album_id: 7pTARJYCVO49nFXB1Mo5re
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7545086b88cbaf702a842e03058964403e840c29
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/bdc4f164fdcf5f8a2ce2f857f8bf35c0e83fea51
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ffebbcd72239fd6e02f9c8b51c652cfd7dca9f15
+      width: 64
 - date: 2011-12-23
   artist: Metronomy
   title: The English Riviera
   review: http://www.bbc.co.uk/music/reviews/r46m
   spotify:
-    candidates:
-    - artists:
-      - Metronomy
-      name: The English Riviera
-      album_id: 5yJS8oNKYDsDAy06z4QCIi
-      type: album
-    - artists:
-      - Metronomy
-      name: The English Riviera
-      album_id: 6KXo7uvGpnwMr5SZbhHTAd
-      type: album
-    - artists:
-      - Metronomy
-      name: The English Riviera (Unreleased Remixes)
-      album_id: 0tQSrlmySxsrnZo3kOfNmT
-      type: album
+    artists:
+    - Metronomy
+    name: The English Riviera
+    album_id: 5yJS8oNKYDsDAy06z4QCIi
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/a6b1db4555057091e63285834e38bf2308fe6a1b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/766d7de2001a9761ceaa91161878caa8eb4ac35c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/539602aeb19c0cad642525e176aa21d9d1a251db
+      width: 64
 - date: 2011-12-22
   artist: Foster the People
   title: Torches
@@ -197,17 +204,21 @@
   title: James Blake
   review: http://www.bbc.co.uk/music/reviews/dhpn
   spotify:
-    candidates:
-    - artists:
-      - James Blake
-      name: James Blake
-      album_id: 10ezzZAhOon51wDVhXgB77
-      type: album
-    - artists:
-      - James Blake
-      name: James Blake
-      album_id: 5InSs4GSvxTAsLIIzZ3otl
-      type: album
+    artists:
+    - James Blake
+    name: James Blake
+    album_id: 10ezzZAhOon51wDVhXgB77
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/569e4e8ad26734f6d03001f65eb06433748ad62d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/8c023ca97250a7d568370e4428f110ac95af6454
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/000a253b34c0a6d61568fd90b317b17c286fa860
+      width: 64
 - date: 2011-12-14
   artist: Girls
   title: Father, Son, Holy Ghost
@@ -411,33 +422,42 @@
   title: Odelay
   review: http://www.bbc.co.uk/music/reviews/6wcz
   spotify:
-    candidates:
-    - artists:
-      - Beck
-      name: Odelay
-      album_id: 3PpTsdpZmaLUh6RvViu9G7
-      type: album
-    - artists:
-      - Beck
-      name: Odelay - Deluxe Edition
-      album_id: 6WRuVEXRc1sYlzBVBElBFq
-      type: album
+    artists:
+    - Beck
+    name: Odelay
+    album_id: 3PpTsdpZmaLUh6RvViu9G7
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/f2154193398708f1611d44486cdc9876022c4be3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/1aa8e7cd9c52832e89ad0807b2b91da593ef5e20
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/95665ca5113d854b26dcce12f946e2e1d8626bf7
+      width: 64
 - date: 2011-11-24
   artist: Queen
   title: Sheer Heart Attack
+  notes: Not the remaster, but it's what's on Spotify.
   review: http://www.bbc.co.uk/music/reviews/xxhj
   spotify:
-    candidates:
-    - artists:
-      - Queen
-      name: Sheer Heart Attack (2011 Remaster)
-      album_id: 2mEAmmRoZrvhBh1Vic03fZ
-      type: album
-    - artists:
-      - Queen
-      name: Sheer Heart Attack (Deluxe Edition 2011 Remaster)
-      album_id: 1Gnrd76EubInPV4KjOJ1Zr
-      type: album
+    artists:
+    - Queen
+    name: Sheer Heart Attack (2011 Remaster)
+    album_id: 2mEAmmRoZrvhBh1Vic03fZ
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c370d4905c39ce377b6b490c5f68d342d4fbdeff
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/735afc888526cf537c1203589219e912fccf44e0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/744ab2272266532d017d12d9d1ddac5f952190ef
+      width: 64
 - date: 2011-11-23
   artist: The Fall
   title: Ersatz G.B.
@@ -481,14 +501,24 @@
 - date: 2011-11-18
   artist: R.E.M.
   title: Part Lies, Part Heart, Part Truth, Part Garbage, 1982-2011
+  type: compilation
   review: http://www.bbc.co.uk/music/reviews/9zq4
   spotify:
-    candidates:
-    - artists:
-      - R.E.M.
-      name: Part Lies Part Heart Part Truth Part Garbage 1982-2011
-      album_id: 4xpa61vQwmHPkX774qOZH9
-      type: compilation
+    artists:
+    - R.E.M.
+    name: Part Lies Part Heart Part Truth Part Garbage 1982-2011
+    album_id: 4xpa61vQwmHPkX774qOZH9
+    type: compilation
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/3e2b60579b5c86a730d8d18f470ef70bb202892e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e6dd1c8a9403427a8a7e05724205d43b010e1c6d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d320e30af76880410b08c1364474386439de2e5f
+      width: 64
 - date: 2011-11-17
   artist: The Dø
   title: Both Ways Open Jaws
@@ -678,17 +708,21 @@
   title: The SMiLE Sessions
   review: http://www.bbc.co.uk/music/reviews/4xgw
   spotify:
-    candidates:
-    - artists:
-      - The Beach Boys
-      name: The Smile Sessions
-      album_id: 5SKIMMI6ilJTGOLd69Q9aM
-      type: album
-    - artists:
-      - The Beach Boys
-      name: The Smile Sessions
-      album_id: 01TG7VOg4F90jXv3a1yCgA
-      type: album
+    artists:
+    - The Beach Boys
+    name: The Smile Sessions
+    album_id: 5SKIMMI6ilJTGOLd69Q9aM
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d26d1d9c3ff9becc7b1dd6fb0172fcf5e025a2cd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/9f7eef0a62d9a7b2b8c32b345cbe9e9140dabf65
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/6805b0c05e0e2367def0c67fcd0ce4f5c36da15d
+      width: 64
 - date: 2011-11-03
   artist: Summer Camp
   title: Welcome to Condale
@@ -754,33 +788,41 @@
   title: Ceremonials
   review: http://www.bbc.co.uk/music/reviews/qwcg
   spotify:
-    candidates:
-    - artists:
-      - Florence + The Machine
-      name: Ceremonials
-      album_id: 3gmm8Sd93oyjTWug7Ci0Fd
-      type: album
-    - artists:
-      - Florence + The Machine
-      name: Ceremonials (Original Deluxe Version)
-      album_id: 19J2iqK89BCrNG4El2FRi5
-      type: album
+    artists:
+    - Florence + The Machine
+    name: Ceremonials
+    album_id: 3gmm8Sd93oyjTWug7Ci0Fd
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/50b34edb9efa434371a09df5b42a916a36b1f6b7
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b69a7d9649e182900eda310856e790a49f504e8c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/5c1cd4aed7ca4b51bc4e64d5cf4664b32cbc0a6a
+      width: 64
 - date: 2011-10-28
   artist: The Allman Brothers Band
   title: Eat a Peach
   review: http://www.bbc.co.uk/music/reviews/g2wx
   spotify:
-    candidates:
-    - artists:
-      - The Allman Brothers Band
-      name: Eat A Peach (Deluxe Edition)
-      album_id: 57jB1SWfHvv66ub2tpZCdc
-      type: album
-    - artists:
-      - The Allman Brothers Band
-      name: Eat A Peach
-      album_id: 6SbmZ6QPXZ7HqpNlte2tzC
-      type: album
+    artists:
+    - The Allman Brothers Band
+    name: Eat A Peach
+    album_id: 6SbmZ6QPXZ7HqpNlte2tzC
+    type: album
+    images:
+    - height: 631
+      url: https://i.scdn.co/image/471fac93918f8838cf688823f74e574462317eef
+      width: 640
+    - height: 296
+      url: https://i.scdn.co/image/2c6260ef942ba3dff745a9b97df638ad660e6d41
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/7825ee9bc0e6d0e614cc591180bbe705070baa86
+      width: 64
 - date: 2011-10-27
   artist: Magazine
   title: No Thyself
@@ -806,22 +848,21 @@
   title: Audio, Video, Disco
   review: http://www.bbc.co.uk/music/reviews/w8x2
   spotify:
-    candidates:
-    - artists:
-      - Justice
-      name: Audio, Video, Disco.
-      album_id: 1XWz4cZ6Q6YW3pOni2b49m
-      type: album
-    - artists:
-      - Justice
-      name: Audio, Video, Disco.
-      album_id: 7FnRlBoM2Fvlio8U9wf7wC
-      type: single
-    - artists:
-      - Justice
-      name: Interview Spotify - Audio, Video, Disco.
-      album_id: 3anbckIE1MaOSVyk5WsLm8
-      type: album
+    artists:
+    - Justice
+    name: Audio, Video, Disco.
+    album_id: 1XWz4cZ6Q6YW3pOni2b49m
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7ad4bab257f0c65395af51db6ff54803102d2d33
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/3572399deb7b26b40b978aa62ba8c766d5381fda
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ab58634d1127d16a65fa91f98811b6d212195466
+      width: 64
 - date: 2011-10-25
   artist: Tom Waits
   title: Bad as Me
@@ -888,17 +929,21 @@
   title: Hurry Up, We’re Dreaming
   review: http://www.bbc.co.uk/music/reviews/vwcg
   spotify:
-    candidates:
-    - artists:
-      - M83
-      name: Hurry up, We're Dreaming
-      album_id: 5lZrn6dy53gXNatTjgiIoi
-      type: album
-    - artists:
-      - M83
-      name: Hurry up, We're Dreaming with Exclusive Commentary by Anthony Gonzalez
-      album_id: 2t1893LgQNYehE1eoMptQn
-      type: album
+    artists:
+    - M83
+    name: Hurry up, We're Dreaming
+    album_id: 5lZrn6dy53gXNatTjgiIoi
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/476e3327f857f0a6cc4bba75b41c86fea2e69cde
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/c2d9518b8269e23d3cf24f7dca14303368a38325
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/72bc3d9179f55f75b7aeeed29feba19df49f2916
+      width: 64
 - date: 2011-10-19
   artist: Jane’s Addiction
   title: The Great Escape Artist
@@ -1040,17 +1085,21 @@
   title: Psychocandy
   review: http://www.bbc.co.uk/music/reviews/xh25
   spotify:
-    candidates:
-    - artists:
-      - The Jesus And Mary Chain
-      name: Psychocandy
-      album_id: 4NGWe17wxoQvF0an1ps49l
-      type: album
-    - artists:
-      - The Jesus And Mary Chain
-      name: Psychocandy (Expanded Version)
-      album_id: 2t1hVEwp82QebO7lq21Vto
-      type: album
+    artists:
+    - The Jesus And Mary Chain
+    name: Psychocandy
+    album_id: 4NGWe17wxoQvF0an1ps49l
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/76d3d6fc3e6a6668f1e0405e710c98e2d8229f8a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b7dc1185a009f9d1a1d4e147872e62afe17d9a12
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/61f6c187b1331ddfa40ae3b2aa4152894ffb9894
+      width: 64
 - date: 2011-10-06
   artist: Dum Dum Girls
   title: Only in Dreams
@@ -1096,33 +1145,41 @@
   title: Metals
   review: http://www.bbc.co.uk/music/reviews/z9rj
   spotify:
-    candidates:
-    - artists:
-      - Feist
-      name: Metals
-      album_id: 3vxiBAlJUDqePZboDhd3I5
-      type: album
-    - artists:
-      - Feist
-      name: Metals (Spotify Interview)
-      album_id: 28hdGiu9ciD9NpONT50fnJ
-      type: album
+    artists:
+    - Feist
+    name: Metals
+    album_id: 3vxiBAlJUDqePZboDhd3I5
+    type: album
+    images:
+    - height: 631
+      url: https://i.scdn.co/image/3df81ceda1bef7cd0cd800d5217a0579edd02ea4
+      width: 640
+    - height: 296
+      url: https://i.scdn.co/image/d9f402ca49a72bc55d8276192f3f71f3ffc05afd
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/be2d30de5f3a2cf97dced7a653bdf9882a55cab3
+      width: 64
 - date: 2011-10-03
   artist: DJ Shadow
   title: The Less You Know, the Better
   review: http://www.bbc.co.uk/music/reviews/g6zb
   spotify:
-    candidates:
-    - artists:
-      - DJ Shadow
-      name: The Less You Know, The Better
-      album_id: 2GeU8lwouOy2H6fWJHy2rK
-      type: album
-    - artists:
-      - DJ Shadow
-      name: The Less You Know, The Better (Deluxe Edition)
-      album_id: 7HGeqtehWUgjI4upM01LZ9
-      type: album
+    artists:
+    - DJ Shadow
+    name: The Less You Know, The Better
+    album_id: 2GeU8lwouOy2H6fWJHy2rK
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/2b534c786bd87c2c89c75f3efd6abea41691aaad
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/f007317d5a406f00550d6d15538d69ac46bcbf19
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/6e6730c4343ef447bc7a1cdb295c0da690560cd7
+      width: 64
 - date: 2011-09-30
   artist: Pink Floyd
   title: The Dark Side of the Moon (Immersion Edition)
@@ -1470,17 +1527,21 @@
   title: It's A Shame About Ray
   review: http://www.bbc.co.uk/music/reviews/q9rg
   spotify:
-    candidates:
-    - artists:
-      - The Lemonheads
-      name: It's A Shame About Ray [Expanded Edition]
-      album_id: 1DxkKAQDMX4H1TlXCJAYyS
-      type: album
-    - artists:
-      - The Lemonheads
-      name: It's A Shame About Ray
-      album_id: 6pFFRqFbkh3XDBBuiFZqye
-      type: album
+    artists:
+    - The Lemonheads
+    name: It's A Shame About Ray
+    album_id: 6pFFRqFbkh3XDBBuiFZqye
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/97d88a3c116dff4adc1d0fb2d59a75f82b8ef96f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/8fa027b727cfe8c24a35995c0244030efe861427
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/37a0c5c81b3537494fecb95fc1f86788f1cf7242
+      width: 64
 - date: 2011-08-16
   artist: Orbital
   title: Orbital
@@ -1588,76 +1649,81 @@
   title: Love Bites
   review: http://www.bbc.co.uk/music/reviews/cqp2
   spotify:
-    candidates:
-    - artists:
-      - Buzzcocks
-      name: Love Bites (Special Edition)
-      album_id: 7p6Nh183RUdsEM5wltdv9Q
-      type: album
-    - artists:
-      - Buzzcocks
-      name: Love Bites
-      album_id: 1WkdgDeAbzdpMPwNtPQAGY
-      type: album
-    - artists:
-      - Buzzcocks
-      name: 5 Album Set (Remastered) [Another Music in a Different Kitchen/Love Bites/A
-        Different Kind of Tension/Entertaining Friends/All Set]
-      album_id: 6OQ2e9DacwQ02nKQn4O1zH
-      type: compilation
+    artists:
+    - Buzzcocks
+    name: Love Bites
+    album_id: 1WkdgDeAbzdpMPwNtPQAGY
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/28a009de59450bf2c100577fe4a0783fc0b0acb7
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/d4f3b6af45a395f8c6487c49cf451dbd4462bd1c
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/5e1c11d49699653d7750c2bddf6e5ea5dbcd95c4
+      width: 64
 - date: 2011-08-08
   artist: Crystal Fighters
   title: Star of Love
   review: http://www.bbc.co.uk/music/reviews/2gpn
   spotify:
-    candidates:
-    - artists:
-      - Crystal Fighters
-      name: Star of Love
-      album_id: 1AQHtyT6hCekKYlGRwOZqz
-      type: album
-    - artists:
-      - Crystal Fighters
-      name: Star of Love (Deluxe Edition)
-      album_id: 4KArXdKv22dahXwbedfiiA
-      type: album
+    artists:
+    - Crystal Fighters
+    name: Star of Love
+    album_id: 1AQHtyT6hCekKYlGRwOZqz
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/2720b36538f6b4c643dc6f2622ae181a1328d07d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/41415a376ed2c8051b6f43a6a0c23cfca8189212
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/beabf289c373be180a409d955ca4782440c6088e
+      width: 64
 - date: 2011-08-05
   artist: James
   title: Laid
   review: http://www.bbc.co.uk/music/reviews/hq9p
   spotify:
-    candidates:
-    - artists:
-      - James
-      name: Laid (Deluxe Edition)
-      album_id: 2xF0D4tscF7bROkfsaXFP3
-      type: album
-    - artists:
-      - James
-      name: Laid
-      album_id: 4OiaczLX4A9BtdaBUyVLxO
-      type: album
-    - artists:
-      - James
-      name: Laid / Wah Wah (Super Deluxe Edition)
-      album_id: 48GpPGHRadcXQ5zxXnrfeO
-      type: album
+    artists:
+    - James
+    name: Laid
+    album_id: 4OiaczLX4A9BtdaBUyVLxO
+    type: album
+    images:
+    - height: 634
+      url: https://i.scdn.co/image/903cea7dfd183a503718c4cb8ddc2e481c788063
+      width: 640
+    - height: 297
+      url: https://i.scdn.co/image/48f0de528bfe920c739e02ae659b9bbc898f2d9f
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/b0ff0fd3c138e79c33b19534f629376675798665
+      width: 64
 - date: 2011-08-04
   artist: Tricky
   title: Maxinquaye
   review: http://www.bbc.co.uk/music/reviews/zq9p
   spotify:
-    candidates:
-    - artists:
-      - Tricky
-      name: Maxinquaye
-      album_id: 7Hj7jLvac1sBCDnvP6qBYd
-      type: album
-    - artists:
-      - Tricky
-      name: Maxinquaye (Deluxe Edition)
-      album_id: 76it1foYFQBaRCl3RCAXt1
-      type: album
+    artists:
+    - Tricky
+    name: Maxinquaye
+    album_id: 7Hj7jLvac1sBCDnvP6qBYd
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/f1c64cfffa940110990bfb7d84bd81222c3aaed3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/c438def43fe171e04e859b35e700f05b3f0b58fa
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ba993a7a490c780caed77760e46ad2c7c1f6edc8
+      width: 64
 - date: 2011-08-03
   artist: Oh Minnows
   title: For Shadows
@@ -1743,22 +1809,21 @@
   title: Ritual Union
   review: http://www.bbc.co.uk/music/reviews/jq9p
   spotify:
-    candidates:
-    - artists:
-      - Little Dragon
-      name: Ritual Union
-      album_id: 1BQVdofe7ROnSoaiC9418p
-      type: album
-    - artists:
-      - Little Dragon
-      name: Ritual Union (Remixes)
-      album_id: 1CMRftTwcQ1FjH1MU3Oxqe
-      type: album
-    - artists:
-      - Little Dragon
-      name: Ritual Union
-      album_id: 6Nw4ZfB56dM3PkuaS0m8WI
-      type: single
+    artists:
+    - Little Dragon
+    name: Ritual Union
+    album_id: 1BQVdofe7ROnSoaiC9418p
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/4266809c41b5f08e2cee325aed2cc01e5dcb1f65
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/dca2d4ffb571ee5139fb53ebab124e3f0e289079
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/557b3ec50e71fd939ff1f79b3243248e0f9b94fc
+      width: 64
 - date: 2011-07-27
   artist: Steve Mason & Dennis Bovell
   title: Ghosts Outside
@@ -1788,47 +1853,21 @@
   title: Back To Black
   review: http://www.bbc.co.uk/music/reviews/89vr
   spotify:
-    candidates:
-    - artists:
-      - Amy Winehouse
-      name: Back To Black
-      album_id: 6GJCGWfI95aeRsdtVB52vc
-      type: album
-    - artists:
-      - Amy Winehouse
-      name: Back To Black (Deluxe Edition)
-      album_id: 0E4xv5gPjykrwBgBZzI8XG
-      type: album
-    - artists:
-      - Amy Winehouse
-      name: Frank & Back To Black
-      album_id: 4O5NY8SjUZqs4D9tvhJhk6
-      type: compilation
-    - artists:
-      - Amy Winehouse
-      name: Back To Black Remix EP
-      album_id: 4POKU4nCNkAWAzuNe7lOFR
-      type: single
-    - artists:
-      - Amy Winehouse
-      name: Back To Black (Radio version)
-      album_id: 1xQoCXT3R3FgyrLyaxY3aU
-      type: single
-    - artists:
-      - Amy Winehouse
-      name: Back To Black
-      album_id: 5TCL9AKcfLr3IMs1wpD73H
-      type: single
-    - artists:
-      - Amy Winehouse
-      name: Back To Black
-      album_id: 39NmGUOrhe67pYgS12L3Zn
-      type: single
-    - artists:
-      - Amy Winehouse Tribute Band
-      name: Back to black
-      album_id: 0ioU4h41jJIfkWG9YJS6IF
-      type: single
+    artists:
+    - Amy Winehouse
+    name: Back To Black
+    album_id: 6GJCGWfI95aeRsdtVB52vc
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/51418933e0e45577c9bb1bbf6d263aeb465cfd2e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/065142e0c4c0cb194e20702cae8dda05d1085a44
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/27bec168de7f655d13e329a781e290b844b831a4
+      width: 64
 - date: 2011-07-07
   artist: Drums Between the Bells
   title: Brian Eno
@@ -2023,17 +2062,21 @@
   title: Bon Iver
   review: http://www.bbc.co.uk/music/reviews/nvx2
   spotify:
-    candidates:
-    - artists:
-      - Bon Iver
-      name: Bon Iver
-      album_id: 7pTARJYCVO49nFXB1Mo5re
-      type: album
-    - artists:
-      - Bon Iver
-      name: 'Bon Iver: Stems Project'
-      album_id: 7uWt8lkGoXdApD6VsrUzgf
-      type: album
+    artists:
+    - Bon Iver
+    name: Bon Iver
+    album_id: 7pTARJYCVO49nFXB1Mo5re
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/7545086b88cbaf702a842e03058964403e840c29
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/bdc4f164fdcf5f8a2ce2f857f8bf35c0e83fea51
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ffebbcd72239fd6e02f9c8b51c652cfd7dca9f15
+      width: 64
 - date: 2011-06-17
   artist: Paul McCartney
   title: McCartney
@@ -2060,17 +2103,21 @@
   title: Virtue
   review: http://www.bbc.co.uk/music/reviews/48d3
   spotify:
-    candidates:
-    - artists:
-      - Emmy The Great
-      name: Virtue
-      album_id: 127jsCoyIUgB4q579eQXMx
-      type: album
-    - artists:
-      - Emmy The Great
-      name: Virtue (Bonus Edition)
-      album_id: 1DoYLVspQhjPY4ByqeQVnN
-      type: album
+    artists:
+    - Emmy The Great
+    name: Virtue
+    album_id: 127jsCoyIUgB4q579eQXMx
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/9cccffe79992db822dc2fd3b69e38e2c16be272b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/0983ebe5e8e655583ed1e1184378cd0d8ee66728
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/69d260e76c8bff1f6f6296ef31d59c848e616f6d
+      width: 64
 - date: 2011-06-15
   artist: Scala & Kolacny Brothers
   title: Scala & Kolacny Brothers
@@ -2154,18 +2201,21 @@
   title: Hollie Cook
   review: http://www.bbc.co.uk/music/reviews/v59p
   spotify:
-    candidates:
-    - artists:
-      - Hollie Cook
-      name: Hollie Cook
-      album_id: 1maKK0LZS4kKqJmrDPMMU5
-      type: album
-    - artists:
-      - Hollie Cook
-      - Prince Fatty
-      name: Hollie Cook in Dub (Prince Fatty Presents)
-      album_id: 0WRN5cCzKxKNZbU9S4aRxF
-      type: album
+    artists:
+    - Hollie Cook
+    name: Hollie Cook
+    album_id: 1maKK0LZS4kKqJmrDPMMU5
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/fc9cb0574553132afd0840041206ce9ea7faa5bd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/59aef874f6064358745376d954692cddc71969ce
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/2e4e4d47e292093250f1915d0bac1ca247f90251
+      width: 64
 - date: 2011-05-17
   artist: Danger Mouse & Daniele Luppi
   title: Rome

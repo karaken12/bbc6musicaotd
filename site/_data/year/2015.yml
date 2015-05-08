@@ -1804,3 +1804,47 @@
     - height: 64
       url: https://i.scdn.co/image/b9113ef4d282e5143b9c1b7878ba587b3107cf6e
       width: 64
+- date: 2015-05-08
+  artist: Grace Jones
+  title: The Disco Years
+  notes: There seems to be some disagreement about what this album is called...!
+  tweet:
+    id: https://twitter.com/BBC6Music/status/596583049694949376
+    created: '2015-05-08 07:50:57 +0000'
+    text: 'Our Album of the Day is ''The Disco Years'' and comes from @Miss_GraceJones
+      @BBC6Breakfast #nowplaying ''On Your Knees'' http://t.co/9wDpbTEExt'
+    media:
+      url: http://pbs.twimg.com/media/CEd9H0YW8AAFJ1F.jpg
+      sizes:
+        :small:
+          w: 340
+          h: 340
+          resize: fit
+        :thumb:
+          w: 150
+          h: 150
+          resize: crop
+        :medium:
+          w: 600
+          h: 600
+          resize: fit
+        :large:
+          w: 1024
+          h: 1024
+          resize: fit
+  spotify:
+    artists:
+    - Grace Jones
+    name: Disco
+    album_id: 3MUy4U6Rx7fBM4WD40H4aG
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/91008bc29d4913f20ed008fb3a7ffed4f48a4d44
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/6254f7177de4b70d7c607701c072c44f17ed4615
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c2de275fdf13c0570cdaefbe53c1b87d408ea1da
+      width: 64

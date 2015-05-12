@@ -523,6 +523,23 @@
     text: 'What''s that wonderful racket? It''s our album of the day: Iggy &amp; The
       Stooges'' Raw Power... http://t.co/qUSuoY6wjv via @bbcalbumreviews'
   review: http://www.bbc.co.uk/music/reviews/zbpn
+  spotify:
+    artists:
+    - Iggy Pop
+    - The Stooges
+    name: Raw Power (Legacy Edition)
+    album_id: 6vHqopioDuXtXTDoJhQZls
+    type: album
+    images:
+    - height: 585
+      url: https://i.scdn.co/image/ea0c2ede3b6c8aafa0b92983bd62dd639c1e537d
+      width: 640
+    - height: 274
+      url: https://i.scdn.co/image/3a417656799f4b94149dbad9febc23751acfbe30
+      width: 300
+    - height: 59
+      url: https://i.scdn.co/image/5bbc9558ca1cd20080baf5b458f88504846b95f6
+      width: 64
 - date: 2013-02-28
   artist: Alice Russell
   title: To Dust

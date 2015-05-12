@@ -1891,3 +1891,46 @@
     - height: 64
       url: https://i.scdn.co/image/90ecb3306d7c0a34cfd984af19f296c3e7a1f2c2
       width: 64
+- date: 2015-05-12
+  artist: Leonard Cohen
+  title: 'Can''t Forget: A Souvenir of the Grand Tour'
+  tweet:
+    id: https://twitter.com/BBC6Music/status/598031387980005376
+    created: '2015-05-12 07:46:08 +0000'
+    text: 'The legendary Leonard Cohen is our Album of the Day. #nowplaying ''Field
+      Commander Cohen'' for your listening pleasure. http://t.co/wChqhwj1eJ'
+    media:
+      url: http://pbs.twimg.com/media/CEygJJqXIAEClwy.jpg
+      sizes:
+        :small:
+          w: 340
+          h: 340
+          resize: fit
+        :thumb:
+          w: 150
+          h: 150
+          resize: crop
+        :medium:
+          w: 600
+          h: 600
+          resize: fit
+        :large:
+          w: 1024
+          h: 1024
+          resize: fit
+  spotify:
+    artists:
+    - Leonard Cohen
+    name: 'Can''t Forget: A Souvenir of the Grand Tour'
+    album_id: 7yUDBh0Q2IjPctdv5pFP6b
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/50ca66c2ce85676e095edbfce0a3a71e28fb6d8f
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2d2d7f2a5ec76dc606c1164bcbd9a66b641e7218
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/18911b32f578941cd8a48609e2726cdc6ea9eff5
+      width: 64

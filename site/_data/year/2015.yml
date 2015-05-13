@@ -1934,3 +1934,46 @@
     - height: 64
       url: https://i.scdn.co/image/18911b32f578941cd8a48609e2726cdc6ea9eff5
       width: 64
+- date: 2015-05-13
+  artist: Joanna Gruesome
+  title: Peanut Butter
+  tweet:
+    id: https://twitter.com/BBC6Music/status/598393756627275776
+    created: '2015-05-13 07:46:03 +0000'
+    text: 'The brilliant @JOANNAGRUESOME''s latest record is ''Peanut Butter'' and
+      it''s Album of the Day #nowplaying ''Last Year'' http://t.co/0ze3pBIqHg'
+    media:
+      url: http://pbs.twimg.com/media/CE3oiI2WAAABDRU.jpg
+      sizes:
+        :small:
+          w: 340
+          h: 340
+          resize: fit
+        :thumb:
+          w: 150
+          h: 150
+          resize: crop
+        :medium:
+          w: 600
+          h: 600
+          resize: fit
+        :large:
+          w: 1024
+          h: 1024
+          resize: fit
+  spotify:
+    artists:
+    - Joanna Gruesome
+    name: Peanut Butter
+    album_id: 1rWnLAp2trg6LyrsEc6wEZ
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d3655928b5d736203f3c87faacd3b0f73edf4982
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/7ab8ff983d218cbbc75c6d8de491fa0b95265c6a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/3470ecbcce87c1431ee10fb1f018671b25e7e3d2
+      width: 64

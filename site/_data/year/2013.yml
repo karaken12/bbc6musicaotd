@@ -1,34 +1,95 @@
 ---
 - date: 2013-12-06
+  artist: The Mary Chain
+  title: 30th Anniversary Vinyl Collection
   tweet:
     id: https://twitter.com/BBC6Music/status/408981064359493632
     text: "#NowPlaying Some Candy Talking by @TheMaryChain from our Album of the Day,
       their 30th Anniversary Vinyl Collection. @BBCPlaylister"
 - date: 2013-12-05
+  artist: Bijou
+  title: 'Africa Express Presents: Maison Des Jeunes'
   tweet:
     id: https://twitter.com/BBC6Music/status/408618216475213824
     text: "#NowPlaying on @bbcradmac, Dougoude Sarrafo by Bijou from our Album of
       the Day – Africa Express Presents: Maison Des Jeunes. @BBCPlaylister"
 - date: 2013-12-04
+  artist: Velvet Underground
+  title: White Light / White Heat (45th Anniversary)
   tweet:
     id: https://twitter.com/BBC6Music/status/408255596077400064
     text: "#NowPlaying - Velvet Underground’s Stephanie Says from the 45th anniversary
       reissue of White Light/White Heat - our Album of the Day"
+  spotify:
+    artists:
+    - The Velvet Underground
+    name: White Light / White Heat (45th Anniversary)
+    album_id: 3YtP68puTTAor9lfHiSUr6
+    type: album
+    images:
+    - height: 637
+      url: https://i.scdn.co/image/63ae41b994d0da14aa7101baa2b1bfe0328336f3
+      width: 640
+    - height: 299
+      url: https://i.scdn.co/image/ee1d5f1d2aacf25fd675a1c9307070d3b0dae6af
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/cbbdb4392edc02888487525517135e9460ac9705
+      width: 64
 - date: 2013-12-03
+  artist: Lizzo
+  title: Lizzobangers
   tweet:
     id: https://twitter.com/BBC6Music/status/407893128247406592
     text: "#NowPlaying on @BBCRadMac, ‘Lizzie Borden’ from our Album of the Day #lizzobangers
       by @lizzo. @BBCPlaylister"
+  spotify:
+    artists:
+    - Lizzo
+    name: Lizzobangers
+    album_id: 32UJ8XJogn6T8JSENLETMS
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/8a72d1942842486dab4d73f79dd795099bad3fc1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/26097ae4e0e94486e7a2724b535dd5eaaaf7d8a1
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a9bf97506c93eb69244ad7253436e0e79d25b37b
+      width: 64
 - date: 2013-12-02
+  artist: Toy
+  title: Join The Dots
   tweet:
     id: https://twitter.com/BBC6Music/status/407485932078497792
     text: "#NowPlaying our Album of the Day from @thebandtoy - You Won't Be The Same"
+  spotify:
+    artists:
+    - Toy
+    name: Join The Dots
+    album_id: 3GJDHI5RGFxWTCrCFvyFEh
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/fb5f267d73cc482cde12203e68d755e2dabd0f4e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/93c61df7643aa642974cebd04755da43bbb81e8f
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/457686a76b9ca7ff861a4db716ad015a686c0890
+      width: 64
 - date: 2013-11-29
+  artist: The Kitchen Cinq
+  title: Everything But
   tweet:
     id: https://twitter.com/BBC6Music/status/406443661224734720
     text: "#nowplaying Album of the Day track from The Kitchen Cinq - Need All The
       Help I Can Get @BBCRadMac. @BBCPlaylister"
 - date: 2013-11-28
+  artist: Stornoway
   tweet:
     id: https://twitter.com/BBC6Music/status/405987476965044224
     text: Live in the studio @StornowayBand join @ChrisHawkinsUK to chat about todays
@@ -36,6 +97,8 @@
     media:
       url: http://pbs.twimg.com/media/BaJbdZRCMAA7sg8.jpg
 - date: 2013-11-20
+  artist: Sonic Youth
+  title: Dirty Boots
   tweet:
     id: https://twitter.com/BBC6Music/status/403182301938335744
     text: "#NowPlaying #AOTD Dirty Boots by @thesonicyouth. Why not wear your old
@@ -43,102 +106,306 @@
     media:
       url: http://pbs.twimg.com/media/BZhkKt9CQAAGM0u.jpg
 - date: 2013-11-13
+  artist: Jake Bugg
+  title: Shangri La
   tweet:
     id: https://twitter.com/BBC6Music/status/400689347017465857
     text: 'EXCLUSIVE #nowplaying @jakebugg ''Simple Pleasures'' from our Album of
       the Day ''Shangri La'' via @BBClamacqshow'
+  spotify:
+    artists:
+    - Jake Bugg
+    name: Shangri La
+    album_id: 2kl9qhHRgNPQFSeWrliGeR
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/34a90dfb28e98dc874b2bb823c5e9afea0f3f0ab
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/1824e9a630a6d1cec7549caf2a7e07dda68b6b79
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/445ed0da4b5789b4a1076075ec27d38dfa09d014
+      width: 64
 - date: 2013-11-12
   tweet:
     id: https://twitter.com/BBC6Music/status/400322958142353408
     text: "#nowplaying @JakeBugg 'Slumville Sunrise' - his new album is our Album
       of the Day tomorrow. The lad joins @BBCRadMac after 1pm on Wednesday"
 - date: 2013-10-15
+  artist: Paul McCartney
   tweet:
     id: https://twitter.com/BBC6Music/status/390085439513571328
     text: 'Thanks Lauren #MaidaVale @BBCRadMac have an Album Of The Day track by @PaulMcCartney,
       #TheChain &amp; more from @Goldfrapp #6MusicLive'
 - date: 2013-09-18
+  artist: Placebo
+  title: Loud Like Love
   tweet:
     id: https://twitter.com/BBC6Music/status/380367734996873216
     text: "#nowplaying @placeboworld 'Purify' from today's 6Music Album of the Day
       'Loud Like Love'"
+  spotify:
+    artists:
+    - Placebo
+    name: Loud Like Love
+    album_id: 1I7nurs0QFuIrDPXjdx96L
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/09fa29ac7823c797c5454095c774ca7766ccd5ef
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ddbb5ce138a2e7d4bc6d4f15562acd640cf39321
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/427b428be119426767118e5fe37e205dae0f719f
+      width: 64
 - date: 2013-09-16
+  artist: MGMT
   tweet:
     id: https://twitter.com/BBC6Music/status/379613271663202305
     text: "#NowPlaying on @bbcradmac - Album of the Day track from @whoisMGMT"
 - date: 2013-09-10
+  artist: Manic Street Preachers
+  title: Rewind The Film
   tweet:
     id: https://twitter.com/BBC6Music/status/377422140040945665
     text: "#NowChatting –it’s only the @manics ! Nicky and James on the @bbc6music
       Album of the Day – Rewind the Film @bbcradmac"
+  spotify:
+    artists:
+    - Manic Street Preachers
+    name: Rewind the Film
+    album_id: 2BnILbb4wJR2qp9qZbSUDr
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/5d6d1525c6fcdeb2d28a00acd9a0cd86ac70f4c5
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/9ba593d466cca47f8ed7d19dadb6d2a91584f7e8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1ed81f8fc0d378994621d51f4fa19d5ac4c98242
+      width: 64
 - date: 2013-09-09
+  artist: Arctic Monkeys
+  title: AM
   tweet:
     id: https://twitter.com/BBC6Music/status/377076246363918336
     text: "#NowPlaying on @bbcradmac @ArcticMonkeys - Snap out of It from new album
       AM @BBC6Music Album of the Day"
+  spotify:
+    artists:
+    - Arctic Monkeys
+    name: AM
+    album_id: 5bU1XKYxHhEwukllT20xtk
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/4d9ec146e3a257b10634d9a413ef6cc3de325008
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/956296446175bba4ccdfd6edce8c78e31d8a9add
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/6d8f0b88783515c116fdbbe92c6d54e7f15c37c2
+      width: 64
 - date: 2013-09-01
   tweet:
     id: https://twitter.com/BBC6Music/status/374266205622005761
     text: Should clarify it's the new @Manics album, not a JDB solo record - Album
       of the Day on 10 Sept with @BBCRadMac
 - date: 2013-08-29
+  title: Shadow of Heaven
   tweet:
     id: https://twitter.com/BBC6Music/status/373042851375898624
     text: "#NowPlaying our Album of the Day - Money-So Long from debut album The Shadow
       of Heaven"
 - date: 2013-08-27
+  artist: King Krule
+  title: 6 Feet Beneath The Moon
   tweet:
     id: https://twitter.com/BBC6Music/status/372319352239816704
     text: "#NowPlaying our Album of the Day from @KingKruleST - Neptune Estate from
       6  Feet Beneath The Ocean"
+  spotify:
+    artists:
+    - King Krule
+    name: 6 Feet Beneath the Moon
+    album_id: 6DAL46eCFRxgj624atbOYY
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/12b52d45d316d689d8f1c7bebd7b42a2d68e1380
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/27d7eecad7dada54f799c7bda75a67a6386bd0d3
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/eefec46ed597a6460bc0b83ce360e9b3c510c48a
+      width: 64
 - date: 2013-08-23
+  artist: Blondie
   tweet:
     id: https://twitter.com/BBC6Music/status/370869865105457152
     text: "#NowPlaying our Album of the Day track - @BlondieOfficial-Picture This.
       Debbie is on this station on Sunday you know http://t.co/3pZzYku7Bm"
 - date: 2013-08-22
+  artist: Drenge
+  title: Drenge
   tweet:
     id: https://twitter.com/BBC6Music/status/370507165842149376
     text: |-
       #NowPlaying a track from our Album of the Day from @drenge-People In Love...
 
       More tracks to come throughout the day
+  spotify:
+    artists:
+    - Drenge
+    name: Drenge
+    album_id: 6UAC7m5tmCeBYTbo4yZinf
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/b48fa3f92ef3f4bc77afe9930e5f5290461b96c1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/9dc61c619258733b43de9e4945dc1c9d11abb8ef
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/3dc81faa9a11663d5e8fc9e7acdb3b70d58dda95
+      width: 64
 - date: 2013-08-21
+  artist: Tired Pony
+  title: The Ghost of the Mountain
   tweet:
     id: https://twitter.com/BBC6Music/status/370190298443309056
     text: "#NowPlaying on @bbcradmac - our Album of the Day track - @TiredPony  -
       and I'm Begging You Not To Go. More in @BBClamacqshow later"
+  spotify:
+    artists:
+    - Tired Pony
+    name: The Ghost Of The Mountain
+    album_id: 5DmYFslVfXMxPt4XoQBNUi
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/405e30d1510df0c6c3c5230bd50be2c34034d4f1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/45c64e21f97d56d091f9cea978e26099eb0942f9
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/931d9463e32dc333f10a62ad14d42ce9f38bf495
+      width: 64
 - date: 2013-08-20
+  artist: Laura Veirs
+  title: Warp and Weft
   tweet:
     id: https://twitter.com/BBC6Music/status/369781288506363904
     text: "#NowPlaying our Album of the Day track from @lauraveirs-America. More tracks
       from Warp &amp; Weft throughout the day"
+  spotify:
+    artists:
+    - Laura Veirs
+    name: Warp & Weft
+    album_id: 3mnRV6xwaO9vMJeeeI2QyJ
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ffdd1c0370c0ae77fc1bd8441a57316991acae3a
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/85d797a34a35e8084d2fa885936ccf484be351e4
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c8beb5ad69534168c176cbfb77a66e464da10801
+      width: 64
 - date: 2013-08-19
+  artist: Franz Ferdinand
+  title: Right Thoughts, Right Words, Right Action
   tweet:
     id: https://twitter.com/BBC6Music/status/369405632689893377
     text: 'Album of the Day Plus from @Franz_Ferdinand-Brief Encounters #NowPlaying
       from new album Rights Thoughts... We''re playing it in full today.'
+  spotify:
+    artists:
+    - Franz Ferdinand
+    name: Right Thoughts, Right Words, Right Action (Deluxe Edition)
+    album_id: 4X6YC6PgSMt5s7ARwGpLJ7
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/2761c23612535d4c4fa804b5af3185d4b8b606af
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/00f9058190cb997d33727a77144e88d9eecf447d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/f8b278bede6836b399da7e230c2c6ca58e744766
+      width: 64
 - date: 2013-07-29
+  artist: AlunaGeorge
+  title: Body Music
   tweet:
     id: https://twitter.com/BBC6Music/status/361809863489224705
     text: "#NowPlaying our Album of the Day - @alunageorge - This Is How We Do it.
       Yep, the Montell Jordan cover! More tracks throughout the day"
+  spotify:
+    artists:
+    - AlunaGeorge
+    name: Body Music
+    album_id: 7nXdR8vOT55x18KJ4kuE5W
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/31a813a6c0170f1f2c0267fdcf8e1132e4119d85
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/763aca58d0d2af7874d645c0302d6d854c1fdc5f
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1c3bbd483e197198459febe6514392441f8c19d1
+      width: 64
 - date: 2013-07-26
   tweet:
     id: https://twitter.com/BBC6Music/status/360799303779876864
     text: "@skifflefella It's Album of the Day on Monday and they join @nemonemetaxas
       on @BBC6MorningShow on Thursday"
 - date: 2013-07-18
+  artist: Daughn Gibson
+  title: Me Moan
   tweet:
     id: https://twitter.com/BBC6Music/status/357823968671039491
     text: "#AOTD today is the latest from Daughn Gibson and his new album 'Me Moan'.
       #Nowplaying 'Into The Sea' from it @laurenlaverne.."
+  spotify:
+    artists:
+    - Daughn Gibson
+    name: Me Moan
+    album_id: 4qmHbjCEf6v4uOKeabNugL
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/863245dbebe52b4d435f4a704aa36d5542398a4d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2529e0c0e2b72bba664de8312299ba2d04aef7b9
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/df0324e83bd2a8019864b76272c02d6c80e88fcb
+      width: 64
 - date: 2013-05-23
+  artist: Bibio
   tweet:
     id: https://twitter.com/BBC6Music/status/337540273062166529
     text: Jace and Olga from @BesnardLakes are dropping by @bbcradmac 's MegaCity
       node today mid tour... and hear an AOTD track from @bibio
 - date: 2013-04-02
+  artist: British Sea Power
   tweet:
     id: https://twitter.com/BBC6Music/status/319057816516190209
     text: 'Hold those Hoxton Bonnets aloft! Now up to Stuart in MegaCity @bbcradmac
@@ -375,6 +642,22 @@
     text: 'The 6 album of the day is Sound City: Real to Reel, the friends-united
       collection helmed by that there Dave Grohl. http://t.co/LcZzTtfwPz'
   review: http://www.bbc.co.uk/music/reviews/cq3q
+  spotify:
+    artists:
+    - Sound City - Real to Reel
+    name: Sound City - Real to Reel
+    album_id: 066mZjq57UkWDAM7A6PWce
+    type: album
+    images:
+    - height: 629
+      url: https://i.scdn.co/image/90e888fd9c69fe7440272adbafb1beb7ef687155
+      width: 640
+    - height: 295
+      url: https://i.scdn.co/image/df5c39bb6313f244487f1a2f131e5d718b81190c
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/62bbe49a96ecfe89305a986efcda87d13f3e0c01
+      width: 64
 - date: 2013-03-11
   artist: David Bowie
   title: The Next Day
@@ -549,27 +832,21 @@
       positively indeed, at BBC Music: http://t.co/lkGcQlC5jK'
   review: http://www.bbc.co.uk/music/reviews/g5m5
   spotify:
-    candidates:
-    - artists:
-      - Alice Russell
-      name: To Dust (Track by Track Commentary)
-      album_id: 1w2Exc0CxS2A4JEfZLRADR
-      type: album
-    - artists:
-      - Alice Russell
-      name: To Dust (Bonus Track Version)
-      album_id: 41qYsjnz9uTgYJkhUw4ouF
-      type: album
-    - artists:
-      - Alice Russell
-      name: To Dust
-      album_id: 4letdZv5LglegGc9Oo4aSg
-      type: album
-    - artists:
-      - Alice Russell
-      name: To Dust / I Loved You
-      album_id: 59M5BjopDvAl1NXjDeyLnr
-      type: album
+    artists:
+    - Alice Russell
+    name: To Dust
+    album_id: 4letdZv5LglegGc9Oo4aSg
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/1b20d5f78df298e3b79eed3d9b7e54892ca165d1
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/fb4a3ad48440505e32bd8af3a109d90c4cab57f8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/1f89a39ff59fee59dacce523b09a66b995c11c4a
+      width: 64
 - date: 2013-02-27
   artist: Various Artists
   title: 'Son of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys'
@@ -651,17 +928,21 @@
       newly reissued - http://t.co/NLi0MfFPlG via @bbcalbumreviews
   review: http://www.bbc.co.uk/music/reviews/hm6m
   spotify:
-    candidates:
-    - artists:
-      - Julian Cope
-      name: Saint Julian (Expanded Edition)
-      album_id: 0cWXdCck9lEusGVYb5wpfa
-      type: album
-    - artists:
-      - Julian Cope
-      name: Saint Julian + My Nation Underground
-      album_id: 0QGwDGc2Ldl4Ji9zyPlrZR
-      type: album
+    artists:
+    - Julian Cope
+    name: Saint Julian (Expanded Edition)
+    album_id: 0cWXdCck9lEusGVYb5wpfa
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/b4e662a0901e6190bf8b0408fa306aa9fe3ea5f9
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/bbd417a2d630495da2e0b9c5b7fef4260ff5982e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/7c799e4aa18110eb4df52eb02eb9bbe35a730163
+      width: 64
 - date: 2013-02-21
   artist: Flume
   title: Flume
@@ -671,17 +952,21 @@
       - http://t.co/aJg1aR5HHU
   review: http://www.bbc.co.uk/music/reviews/b5m5
   spotify:
-    candidates:
-    - artists:
-      - Flume
-      name: Flume
-      album_id: 21m7s6qWpksbj6l08OM7Pu
-      type: album
-    - artists:
-      - Flume
-      name: 'Flume: Deluxe Edition'
-      album_id: 0rIkPxL8Uv4zb78irBAuwS
-      type: album
+    artists:
+    - Flume
+    name: Flume
+    album_id: 21m7s6qWpksbj6l08OM7Pu
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/3c9a5557e7ccbefe845ed74471c11350f77464ec
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/c09b4cd8b60e70bc5ed9d0793f6cc6bd72d05e44
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/152c8218d08bb15c7384ab089f6f28e92c2caa94
+      width: 64
 - date: 2013-02-20
   artist: Jamie Lidell
   title: Jamie Lidell
@@ -715,17 +1000,21 @@
       Sky Away. Reviewed via @bbcalbumreviews - http://t.co/PEqWqYwc
   review: http://www.bbc.co.uk/music/reviews/dc5c
   spotify:
-    candidates:
-    - artists:
-      - Nick Cave & The Bad Seeds
-      name: Push the Sky Away
-      album_id: 7DGzeERtReCHCG0k9mABXv
-      type: album
-    - artists:
-      - Nick Cave & The Bad Seeds
-      name: Push the Sky Away
-      album_id: 6Yl951bwCSY70QjvLm1AEG
-      type: album
+    artists:
+    - Nick Cave & The Bad Seeds
+    name: Push the Sky Away
+    album_id: 7DGzeERtReCHCG0k9mABXv
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ffde1d7cccd0a3a856e3c57fd11d8cea6fb39fa4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a174497a8c8ca5445ed915fae78d72f601ef7552
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9b2f14eb52b6a34400adc3c61dca393b5dce61f0
+      width: 64
 - date: 2013-02-18
   artist: Atoms for Peace
   title: Amok
@@ -763,22 +1052,21 @@
       Forever Changes... http://t.co/rAjnZmxw via @bbcalbumreviews
   review: http://www.bbc.co.uk/music/reviews/hj8c
   spotify:
-    candidates:
-    - artists:
-      - Love
-      name: Forever Changes
-      album_id: 6myt0Ez6hGJIPQeZKgY8um
-      type: album
-    - artists:
-      - Love
-      name: 'Forever Changes: Expanded And Remastered'
-      album_id: 7HyOYi5rQHs186a4KarxK5
-      type: album
-    - artists:
-      - Love
-      name: 'Forever Changes: Alternate Mix and Outtakes'
-      album_id: 4SV4V8btcNM0AyBb8jruyS
-      type: album
+    artists:
+    - Love
+    name: Forever Changes
+    album_id: 6myt0Ez6hGJIPQeZKgY8um
+    type: album
+    images:
+    - height: 633
+      url: https://i.scdn.co/image/4b75f62dc127de65f0f08dab5ab1fe0807c07f35
+      width: 640
+    - height: 297
+      url: https://i.scdn.co/image/72c753398dc517ff137652a9d48d4ec9113491ee
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/fdbe62b34bda230349a50dc755d1ebf7ea9190b3
+      width: 64
 - date: 2013-02-13
   artist: Veronica Falls
   title: Waiting for Something to Happen
@@ -865,17 +1153,21 @@
       Reviewed here: http://t.co/cPYpWqHJ via @bbcalbumreviews'
   review: http://www.bbc.co.uk/music/reviews/95m5
   spotify:
-    candidates:
-    - artists:
-      - Eels
-      name: Wonderful, Glorious
-      album_id: 0g6HBzK01pW8msQOXwQ1kq
-      type: album
-    - artists:
-      - Eels
-      name: Wonderful, Glorious
-      album_id: 5KcoCeN7hvgE5D5u0IGsJm
-      type: album
+    artists:
+    - Eels
+    name: Wonderful, Glorious
+    album_id: 0g6HBzK01pW8msQOXwQ1kq
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/968a7643934738ea0271a5b3d353b14f7e10b2fe
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/e1a48447667f6fba7df6aec38179a80d5ed4dc2e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9bc4aadca27a5e35d863361b82c21a03a5d1776c
+      width: 64
 - date: 2013-02-07
   artist: Night Beds
   title: Country Sleep
@@ -909,17 +1201,21 @@
       via @bbcalbumreviews
   review: http://www.bbc.co.uk/music/reviews/4wgw
   spotify:
-    candidates:
-    - artists:
-      - FIDLAR
-      name: FIDLAR
-      album_id: 3rAgFYzYX5BjeyuzhltxfA
-      type: album
-    - artists:
-      - FIDLAR
-      name: FIDLAR
-      album_id: 7noWdtQX6rNOzFDSASlQE0
-      type: album
+    artists:
+    - FIDLAR
+    name: FIDLAR
+    album_id: 3rAgFYzYX5BjeyuzhltxfA
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/590fe9972d19ad353fec304504bda459b5c8de71
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/9fa32b44f95a2f04200c241e801f0135e78cd1c5
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/c7be877d4338d55188c02fe1bd2e97cba015bb7c
+      width: 64
 - date: 2013-02-05
   artist: Various Artists
   title: Reason to Believe – The Songs of Tim Hardin
@@ -953,13 +1249,30 @@
       's words on the band's comeback - http://t.co/LpE0puhX
   review: http://www.bbc.co.uk/music/reviews/fq3q
 - date: 2013-01-31
-  artist: Adam Green and Binki Shapiro
-  title: Adam Green and Binki Shapiro
+  artist: Adam Green & Binki Shapiro
+  title: Adam Green & Binki Shapiro
   tweet:
     id: https://twitter.com/BBC6Music/status/296903813871316993
     text: Adam Green and Binki Shapiro's new collaborative collection is 6's album
       of the day - http://t.co/qLB5nHh2 via @bbcalbumreviews
   review: http://www.bbc.co.uk/music/reviews/x4q4
+  spotify:
+    artists:
+    - Adam Green
+    - Binki Shapiro
+    name: Adam Green & Binki Shapiro
+    album_id: 4LhC0kVPC2xnUESi1L0cRM
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c47631d05d254a4877c2bcf228d050b4b8833bac
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/74c377a76c1e5a003f79e5407245779b679c204d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/5de6e6d7ffdf98dd447e78c1a341751ea899e244
+      width: 64
 - date: 2013-01-30
   artist: Foxygen
   title: We Are the 21st Century Ambassadors of Peace & Magic
@@ -1089,17 +1402,21 @@
       via @bbcalbumreviews - http://t.co/FNRxyir3
   review: http://www.bbc.co.uk/music/reviews/4bzb
   spotify:
-    candidates:
-    - artists:
-      - Unknown Mortal Orchestra
-      name: II (Deluxe Edition)
-      album_id: 6ULZg9jfTYgi41HmrRww24
-      type: album
-    - artists:
-      - Unknown Mortal Orchestra
-      name: II
-      album_id: 41C5iULlHU9sMYiekI75Pn
-      type: album
+    artists:
+    - Unknown Mortal Orchestra
+    name: II
+    album_id: 41C5iULlHU9sMYiekI75Pn
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/b579fd6ec8b4e9ea92dac99cd965934f14520f22
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ae7b8ab6d6d7e4dd944ca038c00880e9724ab0cf
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/315fc9131cec8bb057b14e17ee7e37d2c93646bf
+      width: 64
 - date: 2013-01-22
   artist: Wave Machines
   title: Pollen
@@ -1165,12 +1482,21 @@
   title: Natural Order
   review: http://www.bbc.co.uk/music/reviews/92x2
   spotify:
-    candidates:
-    - artists:
-      - Talk Talk
-      name: Natural Order 1982 - 1991
-      album_id: 76ZOmdq69NGwSxlVyc7peJ
-      type: compilation
+    artists:
+    - Talk Talk
+    name: Natural Order 1982 - 1991
+    album_id: 76ZOmdq69NGwSxlVyc7peJ
+    type: compilation
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/3e629cee69cb0c80406b8ca34231f6ec768839fa
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a4ba831b0fcc971492aeb16f90b9428f094c7ce8
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/2b6834686eb448bd0c04853f373f5406f33d1a46
+      width: 64
 - date: 2013-01-16
   artist: Christopher Owens
   title: Lysandre
@@ -1180,17 +1506,21 @@
       review via @bbcalbumreviews
   review: http://www.bbc.co.uk/music/reviews/hbzb
   spotify:
-    candidates:
-    - artists:
-      - Christopher Owens
-      name: Lysandre
-      album_id: 79pZVE4kIdBwRwP27Fw1yJ
-      type: album
-    - artists:
-      - Christopher Owens
-      name: Lysandre (Acoustic Album)
-      album_id: 1jOCMTRMei6lph3K9lBw2z
-      type: album
+    artists:
+    - Christopher Owens
+    name: Lysandre
+    album_id: 79pZVE4kIdBwRwP27Fw1yJ
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/41b89a4faa22701092451a5269af2e76cea08afd
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/5eb8f623c7afea6737ee9b77f461c6af9681b718
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/d4cf82b042f75f5d7e6ca0950fa7fcaceaf0a3b0
+      width: 64
 - date: 2013-01-15
   artist: Villagers
   title: "{Awayland}"

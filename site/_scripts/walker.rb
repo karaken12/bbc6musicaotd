@@ -18,11 +18,11 @@ def process_data(data)
       next
     end
     puts "==="
-    if !album.has_key?('tweet_text')
+    if !album.has_key?('tweet') or !album['tweet'].has_key?('text')
       puts "No tweet text on #{album['date']}."
       next
     end
-    puts "Twitter: #{album['tweet_text']}"
+    puts "Twitter: #{album['tweet']['text']}"
     print "Enter artist (#{album['artist']}): "
     artist = STDIN.gets.chomp
     if artist != ''

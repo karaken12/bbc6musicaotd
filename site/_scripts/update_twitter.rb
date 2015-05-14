@@ -1,49 +1,36 @@
 
 require 'yaml'
+CACHE_FILE_NAME = "_data/cache/twitter.yml"
 
 def update_file(file_name)
   data = YAML.load_file(file_name)
+  if File.exist?(CACHE_FILE_NAME)
+    cache = YAML.load_file(CACHE_FILE_NAME)
+  else
+    cache = {}
+  end
 
-  data = process_data(data)
+  process_data(cache, data)
 
   file = File.open(file_name, 'w')
   file.puts data.to_yaml
   file.close
+
+  file = File.open(CACHE_FILE_NAME, 'w')
+  file.puts cache.to_yaml
+  file.close
 end
 
-def process_album(album)
-  tweet_data = {}
-  tweet_data['id'] = album['twitter']
-  album.delete('twitter')
-  if album['tweet_text']
-    tweet_data['text'] = album['tweet_text']
-    album.delete('tweet_text')
-  end
-  if album['twitpic']
-    tweet_data['media'] = {'url' => album['twitpic']}
-    album.delete('twitpic')
-  end
-  album['tweet'] = tweet_data
-  return album
-end
-
-def process_data(data)
-  new_data = [] 
+def process_data(cache, data)
   data.each do |album|
-    new_album = album
-    if !album.has_key?('twitter') then
-      new_data.push(album)
+    if !album.has_key?('tweet') then
       next
     end
-    if album['twitter'] == '' or album['twitter'].nil? then
-      album.delete('twitter')
-      new_data.push(album)
-      next
-    end
-    if !album['tweet']
-      new_album = process_album(album)
-    end
-    new_data.push(new_album)
+
+    tweet_id = album['tweet']['id']
+    cache[tweet_id] = album['tweet']
+    album['twitter'] = tweet_id
+    album.delete('tweet')
   end
 end
 

@@ -2,24 +2,15 @@
 - date: 2013-12-06
   artist: The Mary Chain
   title: 30th Anniversary Vinyl Collection
-  tweet:
-    id: https://twitter.com/BBC6Music/status/408981064359493632
-    text: "#NowPlaying Some Candy Talking by @TheMaryChain from our Album of the Day,
-      their 30th Anniversary Vinyl Collection. @BBCPlaylister"
+  twitter: https://twitter.com/BBC6Music/status/408981064359493632
 - date: 2013-12-05
   artist: Bijou
   title: 'Africa Express Presents: Maison Des Jeunes'
-  tweet:
-    id: https://twitter.com/BBC6Music/status/408618216475213824
-    text: "#NowPlaying on @bbcradmac, Dougoude Sarrafo by Bijou from our Album of
-      the Day – Africa Express Presents: Maison Des Jeunes. @BBCPlaylister"
+  twitter: https://twitter.com/BBC6Music/status/408618216475213824
 - date: 2013-12-04
   artist: Velvet Underground
   title: White Light / White Heat (45th Anniversary)
-  tweet:
-    id: https://twitter.com/BBC6Music/status/408255596077400064
-    text: "#NowPlaying - Velvet Underground’s Stephanie Says from the 45th anniversary
-      reissue of White Light/White Heat - our Album of the Day"
+  twitter: https://twitter.com/BBC6Music/status/408255596077400064
   spotify:
     artists:
     - The Velvet Underground
@@ -39,10 +30,7 @@
 - date: 2013-12-03
   artist: Lizzo
   title: Lizzobangers
-  tweet:
-    id: https://twitter.com/BBC6Music/status/407893128247406592
-    text: "#NowPlaying on @BBCRadMac, ‘Lizzie Borden’ from our Album of the Day #lizzobangers
-      by @lizzo. @BBCPlaylister"
+  twitter: https://twitter.com/BBC6Music/status/407893128247406592
   spotify:
     artists:
     - Lizzo
@@ -62,9 +50,7 @@
 - date: 2013-12-02
   artist: Toy
   title: Join The Dots
-  tweet:
-    id: https://twitter.com/BBC6Music/status/407485932078497792
-    text: "#NowPlaying our Album of the Day from @thebandtoy - You Won't Be The Same"
+  twitter: https://twitter.com/BBC6Music/status/407485932078497792
   spotify:
     artists:
     - Toy
@@ -84,34 +70,18 @@
 - date: 2013-11-29
   artist: The Kitchen Cinq
   title: Everything But
-  tweet:
-    id: https://twitter.com/BBC6Music/status/406443661224734720
-    text: "#nowplaying Album of the Day track from The Kitchen Cinq - Need All The
-      Help I Can Get @BBCRadMac. @BBCPlaylister"
+  twitter: https://twitter.com/BBC6Music/status/406443661224734720
 - date: 2013-11-28
   artist: Stornoway
-  tweet:
-    id: https://twitter.com/BBC6Music/status/405987476965044224
-    text: Live in the studio @StornowayBand join @ChrisHawkinsUK to chat about todays
-      Album of  the Day http://t.co/OvBfEVej5z
-    media:
-      url: http://pbs.twimg.com/media/BaJbdZRCMAA7sg8.jpg
+  twitter: https://twitter.com/BBC6Music/status/405987476965044224
 - date: 2013-11-20
   artist: Sonic Youth
   title: Dirty Boots
-  tweet:
-    id: https://twitter.com/BBC6Music/status/403182301938335744
-    text: "#NowPlaying #AOTD Dirty Boots by @thesonicyouth. Why not wear your old
-      Goo Tshirt on Friday @BBCLamacqShow #TShirtDay http://t.co/TGFjE34X3X"
-    media:
-      url: http://pbs.twimg.com/media/BZhkKt9CQAAGM0u.jpg
+  twitter: https://twitter.com/BBC6Music/status/403182301938335744
 - date: 2013-11-13
   artist: Jake Bugg
   title: Shangri La
-  tweet:
-    id: https://twitter.com/BBC6Music/status/400689347017465857
-    text: 'EXCLUSIVE #nowplaying @jakebugg ''Simple Pleasures'' from our Album of
-      the Day ''Shangri La'' via @BBClamacqshow'
+  twitter: https://twitter.com/BBC6Music/status/400689347017465857
   spotify:
     artists:
     - Jake Bugg
@@ -129,23 +99,14 @@
       url: https://i.scdn.co/image/445ed0da4b5789b4a1076075ec27d38dfa09d014
       width: 64
 - date: 2013-11-12
-  tweet:
-    id: https://twitter.com/BBC6Music/status/400322958142353408
-    text: "#nowplaying @JakeBugg 'Slumville Sunrise' - his new album is our Album
-      of the Day tomorrow. The lad joins @BBCRadMac after 1pm on Wednesday"
+  twitter: https://twitter.com/BBC6Music/status/400322958142353408
 - date: 2013-10-15
   artist: Paul McCartney
-  tweet:
-    id: https://twitter.com/BBC6Music/status/390085439513571328
-    text: 'Thanks Lauren #MaidaVale @BBCRadMac have an Album Of The Day track by @PaulMcCartney,
-      #TheChain &amp; more from @Goldfrapp #6MusicLive'
+  twitter: https://twitter.com/BBC6Music/status/390085439513571328
 - date: 2013-09-18
   artist: Placebo
   title: Loud Like Love
-  tweet:
-    id: https://twitter.com/BBC6Music/status/380367734996873216
-    text: "#nowplaying @placeboworld 'Purify' from today's 6Music Album of the Day
-      'Loud Like Love'"
+  twitter: https://twitter.com/BBC6Music/status/380367734996873216
   spotify:
     artists:
     - Placebo
@@ -164,16 +125,11 @@
       width: 64
 - date: 2013-09-16
   artist: MGMT
-  tweet:
-    id: https://twitter.com/BBC6Music/status/379613271663202305
-    text: "#NowPlaying on @bbcradmac - Album of the Day track from @whoisMGMT"
+  twitter: https://twitter.com/BBC6Music/status/379613271663202305
 - date: 2013-09-10
   artist: Manic Street Preachers
   title: Rewind The Film
-  tweet:
-    id: https://twitter.com/BBC6Music/status/377422140040945665
-    text: "#NowChatting –it’s only the @manics ! Nicky and James on the @bbc6music
-      Album of the Day – Rewind the Film @bbcradmac"
+  twitter: https://twitter.com/BBC6Music/status/377422140040945665
   spotify:
     artists:
     - Manic Street Preachers
@@ -193,10 +149,7 @@
 - date: 2013-09-09
   artist: Arctic Monkeys
   title: AM
-  tweet:
-    id: https://twitter.com/BBC6Music/status/377076246363918336
-    text: "#NowPlaying on @bbcradmac @ArcticMonkeys - Snap out of It from new album
-      AM @BBC6Music Album of the Day"
+  twitter: https://twitter.com/BBC6Music/status/377076246363918336
   spotify:
     artists:
     - Arctic Monkeys
@@ -214,23 +167,14 @@
       url: https://i.scdn.co/image/6d8f0b88783515c116fdbbe92c6d54e7f15c37c2
       width: 64
 - date: 2013-09-01
-  tweet:
-    id: https://twitter.com/BBC6Music/status/374266205622005761
-    text: Should clarify it's the new @Manics album, not a JDB solo record - Album
-      of the Day on 10 Sept with @BBCRadMac
+  twitter: https://twitter.com/BBC6Music/status/374266205622005761
 - date: 2013-08-29
   title: Shadow of Heaven
-  tweet:
-    id: https://twitter.com/BBC6Music/status/373042851375898624
-    text: "#NowPlaying our Album of the Day - Money-So Long from debut album The Shadow
-      of Heaven"
+  twitter: https://twitter.com/BBC6Music/status/373042851375898624
 - date: 2013-08-27
   artist: King Krule
   title: 6 Feet Beneath The Moon
-  tweet:
-    id: https://twitter.com/BBC6Music/status/372319352239816704
-    text: "#NowPlaying our Album of the Day from @KingKruleST - Neptune Estate from
-      6  Feet Beneath The Ocean"
+  twitter: https://twitter.com/BBC6Music/status/372319352239816704
   spotify:
     artists:
     - King Krule
@@ -249,19 +193,11 @@
       width: 64
 - date: 2013-08-23
   artist: Blondie
-  tweet:
-    id: https://twitter.com/BBC6Music/status/370869865105457152
-    text: "#NowPlaying our Album of the Day track - @BlondieOfficial-Picture This.
-      Debbie is on this station on Sunday you know http://t.co/3pZzYku7Bm"
+  twitter: https://twitter.com/BBC6Music/status/370869865105457152
 - date: 2013-08-22
   artist: Drenge
   title: Drenge
-  tweet:
-    id: https://twitter.com/BBC6Music/status/370507165842149376
-    text: |-
-      #NowPlaying a track from our Album of the Day from @drenge-People In Love...
-
-      More tracks to come throughout the day
+  twitter: https://twitter.com/BBC6Music/status/370507165842149376
   spotify:
     artists:
     - Drenge
@@ -281,10 +217,7 @@
 - date: 2013-08-21
   artist: Tired Pony
   title: The Ghost of the Mountain
-  tweet:
-    id: https://twitter.com/BBC6Music/status/370190298443309056
-    text: "#NowPlaying on @bbcradmac - our Album of the Day track - @TiredPony  -
-      and I'm Begging You Not To Go. More in @BBClamacqshow later"
+  twitter: https://twitter.com/BBC6Music/status/370190298443309056
   spotify:
     artists:
     - Tired Pony
@@ -304,10 +237,7 @@
 - date: 2013-08-20
   artist: Laura Veirs
   title: Warp and Weft
-  tweet:
-    id: https://twitter.com/BBC6Music/status/369781288506363904
-    text: "#NowPlaying our Album of the Day track from @lauraveirs-America. More tracks
-      from Warp &amp; Weft throughout the day"
+  twitter: https://twitter.com/BBC6Music/status/369781288506363904
   spotify:
     artists:
     - Laura Veirs
@@ -327,10 +257,7 @@
 - date: 2013-08-19
   artist: Franz Ferdinand
   title: Right Thoughts, Right Words, Right Action
-  tweet:
-    id: https://twitter.com/BBC6Music/status/369405632689893377
-    text: 'Album of the Day Plus from @Franz_Ferdinand-Brief Encounters #NowPlaying
-      from new album Rights Thoughts... We''re playing it in full today.'
+  twitter: https://twitter.com/BBC6Music/status/369405632689893377
   spotify:
     artists:
     - Franz Ferdinand
@@ -350,10 +277,7 @@
 - date: 2013-07-29
   artist: AlunaGeorge
   title: Body Music
-  tweet:
-    id: https://twitter.com/BBC6Music/status/361809863489224705
-    text: "#NowPlaying our Album of the Day - @alunageorge - This Is How We Do it.
-      Yep, the Montell Jordan cover! More tracks throughout the day"
+  twitter: https://twitter.com/BBC6Music/status/361809863489224705
   spotify:
     artists:
     - AlunaGeorge
@@ -371,17 +295,11 @@
       url: https://i.scdn.co/image/1c3bbd483e197198459febe6514392441f8c19d1
       width: 64
 - date: 2013-07-26
-  tweet:
-    id: https://twitter.com/BBC6Music/status/360799303779876864
-    text: "@skifflefella It's Album of the Day on Monday and they join @nemonemetaxas
-      on @BBC6MorningShow on Thursday"
+  twitter: https://twitter.com/BBC6Music/status/360799303779876864
 - date: 2013-07-18
   artist: Daughn Gibson
   title: Me Moan
-  tweet:
-    id: https://twitter.com/BBC6Music/status/357823968671039491
-    text: "#AOTD today is the latest from Daughn Gibson and his new album 'Me Moan'.
-      #Nowplaying 'Into The Sea' from it @laurenlaverne.."
+  twitter: https://twitter.com/BBC6Music/status/357823968671039491
   spotify:
     artists:
     - Daughn Gibson
@@ -400,16 +318,10 @@
       width: 64
 - date: 2013-05-23
   artist: Bibio
-  tweet:
-    id: https://twitter.com/BBC6Music/status/337540273062166529
-    text: Jace and Olga from @BesnardLakes are dropping by @bbcradmac 's MegaCity
-      node today mid tour... and hear an AOTD track from @bibio
+  twitter: https://twitter.com/BBC6Music/status/337540273062166529
 - date: 2013-04-02
   artist: British Sea Power
-  tweet:
-    id: https://twitter.com/BBC6Music/status/319057816516190209
-    text: 'Hold those Hoxton Bonnets aloft! Now up to Stuart in MegaCity @bbcradmac
-      : He has @BSPOfficial Album Of The Day &amp; Music News from Alkerpops'
+  twitter: https://twitter.com/BBC6Music/status/319057816516190209
 - date: 2013-03-28
   artist: Edwyn Collins
   title: Understated
@@ -473,10 +385,7 @@
 - date: 2013-03-21
   artist: Billy Bragg
   title: Tooth & Nail
-  tweet:
-    id: https://twitter.com/BBC6Music/status/314655505937207296
-    text: The 6 Music album of the day is Billy Bragg's new set, Tooth &amp; Nail.
-      http://t.co/8KUI1o8kS8 via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/314655505937207296
   review: http://www.bbc.co.uk/music/reviews/djrj
   spotify:
     artists:
@@ -497,10 +406,7 @@
 - date: 2013-03-20
   artist: Daughter
   title: If You Leave
-  tweet:
-    id: https://twitter.com/BBC6Music/status/314289844937449473
-    text: Album of the day is If You Leave, the beautiful debut by @ohdaughter - reviewed
-      by @MikeDiver for @bbcalbumreviews http://t.co/e6V8RSYosI
+  twitter: https://twitter.com/BBC6Music/status/314289844937449473
   review: http://www.bbc.co.uk/music/reviews/jr8r
   spotify:
     artists:
@@ -521,10 +427,7 @@
 - date: 2013-03-19
   artist: Steve Mason
   title: Monkey Minds in the Devil’s Time
-  tweet:
-    id: https://twitter.com/BBC6Music/status/313926899787255808
-    text: The 6 Music album of the day is Steve Mason's new disc, Monkey Minds in
-      the Devil's Time. http://t.co/x1k4erH1LL via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/313926899787255808
   review: http://www.bbc.co.uk/music/reviews/r828
   spotify:
     artists:
@@ -545,10 +448,7 @@
 - date: 2013-03-18
   artist: Suede
   title: Bloodsports
-  tweet:
-    id: https://twitter.com/BBC6Music/status/313558640709730305
-    text: Album of the day on 6 Music is the great comeback from Suede, Bloodsports.
-      http://t.co/x0SWf7Wf0G via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/313558640709730305
   review: http://www.bbc.co.uk/music/reviews/82x2
   spotify:
     artists:
@@ -569,10 +469,7 @@
 - date: 2013-03-15
   artist: Spinal Tap
   title: This Is Spinal Tap
-  tweet:
-    id: https://twitter.com/BBC6Music/status/312469827589640192
-    text: Album of the day on 6 is THIS IS SPINAL TAP. Sorry, didn't mean to shout.
-      Reviewed by @quantick for @bbcalbumreviews http://t.co/6h9e29c04H
+  twitter: https://twitter.com/BBC6Music/status/312469827589640192
   review: http://www.bbc.co.uk/music/reviews/fr8r
   spotify:
     artists:
@@ -593,10 +490,7 @@
 - date: 2013-03-14
   artist: John Grant
   title: Pale Green Ghosts
-  tweet:
-    id: https://twitter.com/BBC6Music/status/312114384388378624
-    text: Album of the day time... John Grant's Pale Green Ghosts, reviewed by @JudeClarke
-      for @bbcalbumreviews - "stunning second solo LP"
+  twitter: https://twitter.com/BBC6Music/status/312114384388378624
   review: http://www.bbc.co.uk/music/reviews/v2x2
   spotify:
     candidates:
@@ -613,10 +507,7 @@
 - date: 2013-03-13
   artist: Devendra Banhart
   title: Mala
-  tweet:
-    id: https://twitter.com/BBC6Music/status/311755998559875073
-    text: Devendra Banhart's Mala is album of the day on 6, as reviewed by @missbarton
-      for @bbcalbumreviews - http://t.co/8Pj8lvoWdJ
+  twitter: https://twitter.com/BBC6Music/status/311755998559875073
   review: http://www.bbc.co.uk/music/reviews/vnpn
   spotify:
     artists:
@@ -637,10 +528,7 @@
 - date: 2013-03-12
   artist: Various Artists
   title: 'Sound City: Real to Reel'
-  tweet:
-    id: https://twitter.com/BBC6Music/status/311393366841630720
-    text: 'The 6 album of the day is Sound City: Real to Reel, the friends-united
-      collection helmed by that there Dave Grohl. http://t.co/LcZzTtfwPz'
+  twitter: https://twitter.com/BBC6Music/status/311393366841630720
   review: http://www.bbc.co.uk/music/reviews/cq3q
   spotify:
     artists:
@@ -661,10 +549,7 @@
 - date: 2013-03-11
   artist: David Bowie
   title: The Next Day
-  tweet:
-    id: https://twitter.com/BBC6Music/status/311028037674225664
-    text: The album of the day is from some guy or other called David Bowie... http://t.co/4Pq1cV7ylX
-      by @judeclarke for @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/311028037674225664
   review: http://www.bbc.co.uk/music/reviews/rnpn
   spotify:
     artists:
@@ -685,10 +570,7 @@
 - date: 2013-03-08
   artist: The White Stripes
   title: Elephant
-  tweet:
-    id: https://twitter.com/BBC6Music/status/309933436238442496
-    text: 'Your album of the day on 6 is an oldie but a goodie: The White Stripes''
-      Elephant. A-thud-thud-thud... http://t.co/AEhHtBNQq9'
+  twitter: https://twitter.com/BBC6Music/status/309933436238442496
   review: http://www.bbc.co.uk/music/reviews/qfxm
   spotify:
     artists:
@@ -709,10 +591,7 @@
 - date: 2013-03-07
   artist: Caitlin Rose
   title: The Stand-In
-  tweet:
-    id: https://twitter.com/BBC6Music/status/309575551683817472
-    text: 'Today''s album of the day on 6 is Caitlin Rose''s The Stand-In: reviewed
-      via @bbcalbumreviews - http://t.co/jZjtawcqb5'
+  twitter: https://twitter.com/BBC6Music/status/309575551683817472
   review: http://www.bbc.co.uk/music/reviews/gq3q
   spotify:
     artists:
@@ -733,10 +612,7 @@
 - date: 2013-03-06
   artist: Robyn Hitchcock
   title: Love From London
-  tweet:
-    id: https://twitter.com/BBC6Music/status/309225647006445568
-    text: 'Robyn Hitchcock''s Love From London is album of the day - reviewed here:
-      http://t.co/e3PnhvleA5'
+  twitter: https://twitter.com/BBC6Music/status/309225647006445568
   review: http://www.bbc.co.uk/music/reviews/cnpn
   spotify:
     artists:
@@ -757,10 +633,7 @@
 - date: 2013-03-05
   artist: Laura Mvula
   title: Sing to the Moon
-  tweet:
-    id: https://twitter.com/BBC6Music/status/308860460306939904
-    text: "Your album of the day is Laura Mvula's fantastic Sing to the Moon, reviewed
-      by \n@csi_popmusic for @bbcalbumreviews - http://t.co/6lDMsv57Mb"
+  twitter: https://twitter.com/BBC6Music/status/308860460306939904
   review: http://www.bbc.co.uk/music/reviews/fc5c
   spotify:
     artists:
@@ -801,10 +674,7 @@
 - date: 2013-03-01
   artist: Iggy & The Stooges
   title: Raw Power (Legacy Edition)
-  tweet:
-    id: https://twitter.com/BBC6Music/status/307407503753355264
-    text: 'What''s that wonderful racket? It''s our album of the day: Iggy &amp; The
-      Stooges'' Raw Power... http://t.co/qUSuoY6wjv via @bbcalbumreviews'
+  twitter: https://twitter.com/BBC6Music/status/307407503753355264
   review: http://www.bbc.co.uk/music/reviews/zbpn
   spotify:
     artists:
@@ -826,10 +696,7 @@
 - date: 2013-02-28
   artist: Alice Russell
   title: To Dust
-  tweet:
-    id: https://twitter.com/BBC6Music/status/307050779565514752
-    text: 'The 6 album of the day is Alice Russell''s new set, To Dust. Reviewed,
-      positively indeed, at BBC Music: http://t.co/lkGcQlC5jK'
+  twitter: https://twitter.com/BBC6Music/status/307050779565514752
   review: http://www.bbc.co.uk/music/reviews/g5m5
   spotify:
     artists:
@@ -850,10 +717,7 @@
 - date: 2013-02-27
   artist: Various Artists
   title: 'Son of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys'
-  tweet:
-    id: https://twitter.com/BBC6Music/status/306698755363717120
-    text: "Today's album of the day isn't your average: \nSon of Rogues Gallery: Pirate
-      Ballads, Sea Songs &amp; Chanteys... http://t.co/HKz0c7gL6P"
+  twitter: https://twitter.com/BBC6Music/status/306698755363717120
   review: http://www.bbc.co.uk/music/reviews/v3d3
   spotify:
     artists:
@@ -874,10 +738,7 @@
 - date: 2013-02-26
   artist: Palma Violets
   title: '180'
-  tweet:
-    id: https://twitter.com/BBC6Music/status/306327496264134656
-    text: '180, the debut LP from Palma Violets, is album of the day on 6 Music. Review
-      here: http://t.co/JunmBV4SEX via @bbcalbumreviews'
+  twitter: https://twitter.com/BBC6Music/status/306327496264134656
   review: http://www.bbc.co.uk/music/reviews/z2x2
   spotify:
     artists:
@@ -898,10 +759,7 @@
 - date: 2013-02-25
   artist: Johnny Marr
   title: The Messenger
-  tweet:
-    id: https://twitter.com/BBC6Music/status/305964185873944576
-    text: The album of the day on 6 is Johnny Marr's The Messenger. Agree with the
-      mixed @bbcalbumreviews review? http://t.co/nUeE9Fucak
+  twitter: https://twitter.com/BBC6Music/status/305964185873944576
   review: http://www.bbc.co.uk/music/reviews/wvnv
   spotify:
     artists:
@@ -922,10 +780,7 @@
 - date: 2013-02-22
   artist: Julian Cope
   title: Saint Julian
-  tweet:
-    id: https://twitter.com/BBC6Music/status/304873922816516096
-    text: 6's album of the day is Saint Julian by "national treasure" Julian Cope,
-      newly reissued - http://t.co/NLi0MfFPlG via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/304873922816516096
   review: http://www.bbc.co.uk/music/reviews/hm6m
   spotify:
     artists:
@@ -946,10 +801,7 @@
 - date: 2013-02-21
   artist: Flume
   title: Flume
-  tweet:
-    id: https://twitter.com/BBC6Music/status/304520460316581888
-    text: The album of the day is Flume by... wait for it... Flume. Reviewed via @bbcalbumreviews
-      - http://t.co/aJg1aR5HHU
+  twitter: https://twitter.com/BBC6Music/status/304520460316581888
   review: http://www.bbc.co.uk/music/reviews/b5m5
   spotify:
     artists:
@@ -970,10 +822,7 @@
 - date: 2013-02-20
   artist: Jamie Lidell
   title: Jamie Lidell
-  tweet:
-    id: https://twitter.com/BBC6Music/status/304155929463619585
-    text: The album of the day is Jamie Lidell, funnily enough by Jamie Lidell. Review
-      via @bbcalbumreviews - http://t.co/WsYRzMr4
+  twitter: https://twitter.com/BBC6Music/status/304155929463619585
   review: http://www.bbc.co.uk/music/reviews/nfhf
   spotify:
     artists:
@@ -994,10 +843,7 @@
 - date: 2013-02-19
   artist: Nick Cave & The Bad Seeds
   title: Push the Sky Away
-  tweet:
-    id: https://twitter.com/BBC6Music/status/303793687731769344
-    text: The 6 Music album of the day is Nick Cave &amp; The Bad Seeds' Push the
-      Sky Away. Reviewed via @bbcalbumreviews - http://t.co/PEqWqYwc
+  twitter: https://twitter.com/BBC6Music/status/303793687731769344
   review: http://www.bbc.co.uk/music/reviews/dc5c
   spotify:
     artists:
@@ -1022,10 +868,7 @@
 - date: 2013-02-15
   artist: Darwin Deez
   title: Songs for Imaginative People
-  tweet:
-    id: https://twitter.com/BBC6Music/status/302332726583894016
-    text: "The album of the day on 6 is \nDarwin Deez's Songs for Imaginative People.
-      Read a review on BBC Music: http://t.co/pdosDyQZ"
+  twitter: https://twitter.com/BBC6Music/status/302332726583894016
   review: http://www.bbc.co.uk/music/reviews/3hvh
   spotify:
     artists:
@@ -1046,10 +889,7 @@
 - date: 2013-02-14
   artist: Love
   title: Forever Changes
-  tweet:
-    id: https://twitter.com/BBC6Music/status/301970944900100096
-    text: An appropriate album of the day? In band name alone, perhaps. It's Love's
-      Forever Changes... http://t.co/rAjnZmxw via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/301970944900100096
   review: http://www.bbc.co.uk/music/reviews/hj8c
   spotify:
     artists:
@@ -1070,10 +910,7 @@
 - date: 2013-02-13
   artist: Veronica Falls
   title: Waiting for Something to Happen
-  tweet:
-    id: https://twitter.com/BBC6Music/status/301607204627300352
-    text: "6's album of the day is Veronica Falls' \nWaiting for Something to Happen
-      - review + previews: http://t.co/e52NgG9z via @bbcalbumreviews"
+  twitter: https://twitter.com/BBC6Music/status/301607204627300352
   review: http://www.bbc.co.uk/music/reviews/mr8r
   spotify:
     artists:
@@ -1094,10 +931,7 @@
 - date: 2013-02-12
   artist: Jim James
   title: Regions of Light and Sound of God
-  tweet:
-    id: https://twitter.com/BBC6Music/status/301250686727884801
-    text: Jim James' Regions of Light and Sound of God is 6's album of the day. Reviewed
-      via @bbcalbumreviews - http://t.co/XxyuwMqE
+  twitter: https://twitter.com/BBC6Music/status/301250686727884801
   review: http://www.bbc.co.uk/music/reviews/6vnv
   spotify:
     artists:
@@ -1118,10 +952,7 @@
 - date: 2013-02-11
   artist: Foals
   title: Holy Fire
-  tweet:
-    id: https://twitter.com/BBC6Music/status/300891787508191233
-    text: 6's album of the day comes from Foals. Holy Fire is reviewed on BBC Music
-      - http://t.co/QpKeqkHr - and listen out for tracks across the day.
+  twitter: https://twitter.com/BBC6Music/status/300891787508191233
   review: http://www.bbc.co.uk/music/reviews/bq3q
   spotify:
     artists:
@@ -1140,17 +971,11 @@
       url: https://i.scdn.co/image/a893d858296e11eae9530e2d62a203cf0bc8b1a2
       width: 64
 - date: 2013-02-10
-  tweet:
-    id: https://twitter.com/BBC6Music/status/300530931444367361
-    text: "@MartinParnham1 It's 6 music's album of the day on Valentines ! Plenty
-      of tracks played then ... xxx"
+  twitter: https://twitter.com/BBC6Music/status/300530931444367361
 - date: 2013-02-08
   artist: Eels
   title: Wonderful, Glorious
-  tweet:
-    id: https://twitter.com/BBC6Music/status/299805907477475329
-    text: 'Wonderful, Glorious... is the album of the day, the new set from Eels.
-      Reviewed here: http://t.co/cPYpWqHJ via @bbcalbumreviews'
+  twitter: https://twitter.com/BBC6Music/status/299805907477475329
   review: http://www.bbc.co.uk/music/reviews/95m5
   spotify:
     artists:
@@ -1171,10 +996,7 @@
 - date: 2013-02-07
   artist: Night Beds
   title: Country Sleep
-  tweet:
-    id: https://twitter.com/BBC6Music/status/299450640080445441
-    text: The album of the day is this little beauty - Night Beds' Country Sleep.
-      http://t.co/uz48ER6v via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/299450640080445441
   review: http://www.bbc.co.uk/music/reviews/8fhf
   spotify:
     artists:
@@ -1195,10 +1017,7 @@
 - date: 2013-02-06
   artist: FIDLAR
   title: FIDLAR
-  tweet:
-    id: https://twitter.com/BBC6Music/status/299070740643315712
-    text: 6's album of the day is this spiky set from stateside punks Fidlar... http://t.co/SG5QAtBr
-      via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/299070740643315712
   review: http://www.bbc.co.uk/music/reviews/4wgw
   spotify:
     artists:
@@ -1219,10 +1038,7 @@
 - date: 2013-02-05
   artist: Various Artists
   title: Reason to Believe – The Songs of Tim Hardin
-  tweet:
-    id: https://twitter.com/BBC6Music/status/298708887283056641
-    text: "Album of the day time... \nReason to Believe – The Songs of Tim Hardin.
-      A fine comp. Reviewed via @bbcalbumreviews http://t.co/Qn01ss1P"
+  twitter: https://twitter.com/BBC6Music/status/298708887283056641
   review: http://www.bbc.co.uk/music/reviews/2gcg
   spotify:
     artists:
@@ -1243,18 +1059,12 @@
 - date: 2013-02-04
   artist: My Bloody Valentine
   title: m b v
-  tweet:
-    id: https://twitter.com/BBC6Music/status/298378355391217665
-    text: My Bloody Valentine's m b v is 6's album of the day - read @bbcalbumreviews
-      's words on the band's comeback - http://t.co/LpE0puhX
+  twitter: https://twitter.com/BBC6Music/status/298378355391217665
   review: http://www.bbc.co.uk/music/reviews/fq3q
 - date: 2013-01-31
   artist: Adam Green & Binki Shapiro
   title: Adam Green & Binki Shapiro
-  tweet:
-    id: https://twitter.com/BBC6Music/status/296903813871316993
-    text: Adam Green and Binki Shapiro's new collaborative collection is 6's album
-      of the day - http://t.co/qLB5nHh2 via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/296903813871316993
   review: http://www.bbc.co.uk/music/reviews/x4q4
   spotify:
     artists:
@@ -1276,10 +1086,7 @@
 - date: 2013-01-30
   artist: Foxygen
   title: We Are the 21st Century Ambassadors of Peace & Magic
-  tweet:
-    id: https://twitter.com/BBC6Music/status/296535564059041792
-    text: 'Album of the day time: Foxygen''s We Are the 21st Century Ambassadors of
-      Peace &amp; Magic. http://t.co/M23P7w9v via @bbcalbumreviews'
+  twitter: https://twitter.com/BBC6Music/status/296535564059041792
   review: http://www.bbc.co.uk/music/reviews/j3d3
   spotify:
     artists:
@@ -1300,10 +1107,7 @@
 - date: 2013-01-29
   artist: Delphic
   title: Collections
-  tweet:
-    id: https://twitter.com/BBC6Music/status/296171694312271872
-    text: Today's album of the day is Delphic's second set, Collections. Reviewed
-      via @bbcalbumreviews - http://t.co/70Q5dhgc
+  twitter: https://twitter.com/BBC6Music/status/296171694312271872
   review: http://www.bbc.co.uk/music/reviews/pc5c
   spotify:
     artists:
@@ -1324,10 +1128,7 @@
 - date: 2013-01-28
   artist: Local Natives
   title: Hummingbird
-  tweet:
-    id: https://twitter.com/BBC6Music/status/295809235986546689
-    text: The 6 album of the day is from Local Natives with their new LP, Hummingbird.
-      Review and previews via @bbcalbumreviews - http://t.co/PhH8dUJV
+  twitter: https://twitter.com/BBC6Music/status/295809235986546689
   review: http://www.bbc.co.uk/music/reviews/bm6m
   spotify:
     artists:
@@ -1348,10 +1149,7 @@
 - date: 2013-01-25
   artist: Supergrass
   title: I Should Coco
-  tweet:
-    id: https://twitter.com/BBC6Music/status/294720984169189376
-    text: A classic album of the day today - Supergrass with I Should Coco. http://t.co/6qGTS9a8
-      via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/294720984169189376
   review: http://www.bbc.co.uk/music/reviews/wn9x
   spotify:
     artists:
@@ -1372,10 +1170,7 @@
 - date: 2013-01-24
   artist: Toro y Moi
   title: Anything in Return
-  tweet:
-    id: https://twitter.com/BBC6Music/status/294366954595172352
-    text: The album of the day, this very day? It's @ToroyMoi 's latest, Anything
-      In Return. Reviewed via @bbcalbumreviews - http://t.co/GlGLTRn1
+  twitter: https://twitter.com/BBC6Music/status/294366954595172352
   review: http://www.bbc.co.uk/music/reviews/x828
   spotify:
     artists:
@@ -1396,10 +1191,7 @@
 - date: 2013-01-23
   artist: Unknown Mortal Orchestra
   title: II
-  tweet:
-    id: https://twitter.com/BBC6Music/status/293999790704951296
-    text: The album of the day on 6 is Unknown Mortal Orchestra's (@UMO) II, reviewed
-      via @bbcalbumreviews - http://t.co/FNRxyir3
+  twitter: https://twitter.com/BBC6Music/status/293999790704951296
   review: http://www.bbc.co.uk/music/reviews/4bzb
   spotify:
     artists:
@@ -1420,10 +1212,7 @@
 - date: 2013-01-22
   artist: Wave Machines
   title: Pollen
-  tweet:
-    id: https://twitter.com/BBC6Music/status/293634583428210688
-    text: The 6 Music album of the day is Pollen by Wave Machines, reviewed via @bbcalbumreviews
-      - http://t.co/ToMRGb1v
+  twitter: https://twitter.com/BBC6Music/status/293634583428210688
   review: http://www.bbc.co.uk/music/reviews/m4q4
   spotify:
     artists:
@@ -1500,10 +1289,7 @@
 - date: 2013-01-16
   artist: Christopher Owens
   title: Lysandre
-  tweet:
-    id: https://twitter.com/BBC6Music/status/291469363163303937
-    text: Christopher Owens' Lysandre is the 6 Music Album of the Day... http://t.co/DiW9MKC5
-      review via @bbcalbumreviews
+  twitter: https://twitter.com/BBC6Music/status/291469363163303937
   review: http://www.bbc.co.uk/music/reviews/hbzb
   spotify:
     artists:
@@ -1524,10 +1310,7 @@
 - date: 2013-01-15
   artist: Villagers
   title: "{Awayland}"
-  tweet:
-    id: https://twitter.com/BBC6Music/status/291092421184462848
-    text: The album of the day is Villagers' {Awayland} - as reviewed via @bbcalbumreviews
-      - http://t.co/G5LN5Sv4
+  twitter: https://twitter.com/BBC6Music/status/291092421184462848
   review: http://www.bbc.co.uk/music/reviews/cjrj
   spotify:
     artists:
@@ -1548,10 +1331,7 @@
 - date: 2013-01-14
   artist: Everything Everything
   title: Arc
-  tweet:
-    id: https://twitter.com/BBC6Music/status/290741328994791425
-    text: Our first album of the day of 2013 is Everything Everything's Arc. Read
-      the BBC review via @bbcalbumreviews - http://t.co/W7v2eKsg
+  twitter: https://twitter.com/BBC6Music/status/290741328994791425
   review: http://www.bbc.co.uk/music/reviews/4gcg
   spotify:
     artists:

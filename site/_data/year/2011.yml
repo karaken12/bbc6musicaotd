@@ -2521,17 +2521,21 @@
   title: Blue Lines
   review: http://www.bbc.co.uk/music/reviews/zgnv
   spotify:
-    candidates:
-    - artists:
-      - Massive Attack
-      name: Blue Lines
-      album_id: 5mAPk4qeNqVLtNydaWbWlf
-      type: album
-    - artists:
-      - Massive Attack
-      name: Blue Lines - The Remixes
-      album_id: 7jgpev6nHXJ8MLR8HtGg2N
-      type: album
+    artists:
+    - Massive Attack
+    name: Blue Lines
+    album_id: 5mAPk4qeNqVLtNydaWbWlf
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/2a2ad1a7f18442df4f5ba61051cdcd3225b246f3
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b42d4f128807cffcda24466368b6abdac9c25516
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/8009082fef6f28859a65915a072edcaefc8257fc
+      width: 64
 - date: 2011-04-21
   artist: Guillemots
   title: Walk the River
@@ -2608,7 +2612,24 @@
 - date: 2011-02-11
   artist: Echo & The Bunnymen
   title: 'Ocean Rain: Collector''s Edition'
+  notes: Not the right version.
   review: http://www.bbc.co.uk/music/reviews/dg4h
+  spotify:
+    artists:
+    - Echo And The Bunnymen
+    name: Ocean Rain (Expanded & Remastered)
+    album_id: 3V4j1tMdQqpq8nwW02UOiW
+    type: album
+    images:
+    - height: 565
+      url: https://i.scdn.co/image/9b276170ed6b4d7ca7780b3d14386e86a75b802b
+      width: 640
+    - height: 265
+      url: https://i.scdn.co/image/f1d194eb2db09beecb63b15c64a7c97ea7f00209
+      width: 300
+    - height: 57
+      url: https://i.scdn.co/image/eb68bddd2369277b17792ed0963d7d6dbea9b085
+      width: 64
 - date: 2011-02-10
   artist: The Phoenix Foundation
   title: Buffalo
@@ -2654,17 +2675,21 @@
   title: James Blake
   review: http://www.bbc.co.uk/music/reviews/dhpn
   spotify:
-    candidates:
-    - artists:
-      - James Blake
-      name: James Blake
-      album_id: 10ezzZAhOon51wDVhXgB77
-      type: album
-    - artists:
-      - James Blake
-      name: James Blake
-      album_id: 5InSs4GSvxTAsLIIzZ3otl
-      type: album
+    artists:
+    - James Blake
+    name: James Blake
+    album_id: 10ezzZAhOon51wDVhXgB77
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/569e4e8ad26734f6d03001f65eb06433748ad62d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/8c023ca97250a7d568370e4428f110ac95af6454
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/000a253b34c0a6d61568fd90b317b17c286fa860
+      width: 64
 - date: 2011-02-07
   artist: The Streets
   title: Computers and Blues
@@ -2730,109 +2755,21 @@
   title: Jonny
   review: http://www.bbc.co.uk/music/reviews/5dvh
   spotify:
-    candidates:
-    - artists:
-      - Jonny
-      name: Jonny
-      album_id: 74AphSSm0qaxDwr8DmWSh3
-      type: album
-    - artists:
-      - Jonny 5 & Yak
-      name: Onomatopoeia (feat. Jonny 5 of Flobots)
-      album_id: 0Tfdhxn4oST5pV49Q5sGNH
-      type: album
-    - artists:
-      - Jonny Polonsky
-      name: Hi My Name Is Jonny (The Demos)
-      album_id: 2yUIXY2kOyxvO7mdyDkGD3
-      type: album
-    - artists:
-      - Jonny
-      name: Jonny
-      album_id: 28RmyDz9vgqNujoEtwc7FF
-      type: album
-    - artists:
-      - Jonny Telafone
-      name: Jonny Telafone
-      album_id: 4gmXUKzwkUc3zRITl9oHkw
-      type: album
-    - artists:
-      - Jonny Hill
-      name: Jonny Hill
-      album_id: 2a95t1txXPYxjZMMBOC65s
-      type: album
-    - artists:
-      - Jonny Corker
-      name: Jonny Corker
-      album_id: 3hcRXgnxgqPGAUXwZxlqv6
-      type: album
-    - artists:
-      - Jonny Stevens
-      name: Jonny Stevens
-      album_id: 2fcwfamJgVh6eIBL3qBV4L
-      type: album
-    - artists:
-      - Orange Jonny
-      name: Orange Jonny
-      album_id: 6JaqUqHWnFBERdMVbsJwA7
-      type: single
-    - artists:
-      - Jonny Love
-      name: Jonny Love
-      album_id: 5Lt6cd5oFhzT0irevNBkJN
-      type: album
-    - artists:
-      - Jonny Eureka
-      name: Jonny Eureka
-      album_id: 3WBgofLaaYqZSkTVj3cj5U
-      type: album
-    - artists:
-      - Jonny Burke
-      name: Jonny Burke - EP
-      album_id: 44W49Fdznq9JOHj9UIOraa
-      type: single
-    - artists:
-      - Jonny Hill
-      name: Jonny Hill - Special Hits
-      album_id: 73Gv7zfNmZO1xHAEcNkN1S
-      type: compilation
-    - artists:
-      - Jonny Hill
-      name: Shanties Mit Jonny Hill
-      album_id: 4ZVHYsUCpXpgVaAsDb0egw
-      type: album
-    - artists:
-      - Stefano Pain
-      - Jonny Rose
-      - Maury Lobina
-      name: Take Me Back (Feat. Jonny Rose)
-      album_id: 0hfhrszbwHbAPsEX1RHpuA
-      type: single
-    - artists:
-      - Jonny and the Primates
-      name: Jonny and the Primates
-      album_id: 49CuR3CztRGWrE7O3LFFwS
-      type: album
-    - artists:
-      - Jonny Waters & Company
-      name: Jonny Waters & Company
-      album_id: 01A5G2x1PMbtUVmgtcy4Mn
-      type: album
-    - artists:
-      - The Jonny Monster Band
-      name: The Jonny Monster Band
-      album_id: 2ib5bTVNpwzbL6UICl9gX3
-      type: album
-    - artists:
-      - Jonny & Shim
-      name: Jonny & Shim - EP
-      album_id: 4m2bVEoyYrlxYoTgBrtRWo
-      type: album
-    - artists:
-      - Kristal and Jonny Boy
-      name: Kristal and Jonny Boy
-      album_id: 6Owlr8kY9jBTXv9gM95pwT
-      type: single
+    artists:
+    - Jonny
+    name: Jonny
+    album_id: 74AphSSm0qaxDwr8DmWSh3
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/d60d1deca23c3d49682b7b1e8270fbcaf223440d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/04749018ad62216860db153d135ba49ee6c63fb9
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/a9355c37f70a529891968944d24a7cb8ed42913a
+      width: 64
 - date: 2011-02-01
   artist: The Go! Team
   title: Rolling Blackouts
@@ -2858,17 +2795,21 @@
   title: Palace
   review: http://www.bbc.co.uk/music/reviews/frx2
   spotify:
-    candidates:
-    - artists:
-      - Chapel Club
-      name: Palace
-      album_id: 482fQUFOF82a3UaXdBnAxi
-      type: album
-    - artists:
-      - Chapel Club
-      name: Palace (Deluxe Version)
-      album_id: 1GEa6dohcyGWq692sN93zO
-      type: album
+    artists:
+    - Chapel Club
+    name: Palace
+    album_id: 482fQUFOF82a3UaXdBnAxi
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/3e415b5596022db0c468697e28ab5bbd74a261ac
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/ff23719aff8a0c4009812e9ab60e16d2e020ca8b
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/9c90d8bdc86204121fa56f9e41b9b9d34b0afd91
+      width: 64
 - date: 2011-01-28
   artist: The Joy Formidable
   title: The Big Roar
@@ -2918,17 +2859,21 @@
   title: Mine Is Yours
   review: http://www.bbc.co.uk/music/reviews/w5b6
   spotify:
-    candidates:
-    - artists:
-      - Cold War Kids
-      name: Mine Is Yours
-      album_id: 4SdAc9qAJooCunpIzM1g41
-      type: album
-    - artists:
-      - Cold War Kids
-      name: Mine Is Yours
-      album_id: 4nQ1hZMX29XF7I9eLxhp5x
-      type: album
+    artists:
+    - Cold War Kids
+    name: Mine Is Yours
+    album_id: 4SdAc9qAJooCunpIzM1g41
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/f8200e87c23dbe9b1436c25ca69236ac2209ba65
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/dbd7ead5a1cf4e872b7e2e3f8613c0f5b255840e
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/bf921caa36f64f9bd904cd735148d2ad7cc03b84
+      width: 64
 - date: 2011-01-24
   artist: Adele
   title: '21'
@@ -2954,17 +2899,21 @@
   title: Live on Ten Legs
   review: http://www.bbc.co.uk/music/reviews/z3hf
   spotify:
-    candidates:
-    - artists:
-      - Pearl Jam
-      name: Live On Ten Legs
-      album_id: 4X1CI0bG4i76THqJcE0LHM
-      type: compilation
-    - artists:
-      - Pearl Jam
-      name: Live On Ten Legs
-      album_id: 6wKolrCfrRb5GtS2WHoATt
-      type: compilation
+    artists:
+    - Pearl Jam
+    name: Live On Ten Legs
+    album_id: 4X1CI0bG4i76THqJcE0LHM
+    type: compilation
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/c9ed7e3bfefae750888ef46bc29a21ef1cea998e
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b2b22fd564fd298713d8c44a4ca17020887060e0
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/6f5075d91e2da12337aadf8979821921ef181fbe
+      width: 64
 - date: 2011-01-20
   artist: Fujiya & Miyagi
   title: Ventriloquizzing
@@ -3148,35 +3097,44 @@
 - date: 2011-01-07
   artist: The Who
   title: Live At Leeds
+  notes: Not the right version on Spotify, but close enough.
   review: http://www.bbc.co.uk/music/reviews/j3gb
   spotify:
-    candidates:
-    - artists:
-      - The Who
-      name: Live At Leeds (Deluxe Edition)
-      album_id: 1mPYMKJpTeOfXHYk2KZxa6
-      type: album
-    - artists:
-      - The Who
-      name: Live At Leeds (25th Anniversary Edition)
-      album_id: 1jVqTEHG1Fq8xZKcTnNAL7
-      type: album
+    artists:
+    - The Who
+    name: Live At Leeds (25th Anniversary Edition)
+    album_id: 1jVqTEHG1Fq8xZKcTnNAL7
+    type: album
+    images:
+    - height: 634
+      url: https://i.scdn.co/image/ff4f0ead2d56a532ed2792d553e6d67e28136c01
+      width: 640
+    - height: 297
+      url: https://i.scdn.co/image/95ef8db0d178d7dc0dd8309fe90ffc91b4896a63
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/b30434a2f0f1e6425482d08693e0d5842a47b502
+      width: 64
 - date: 2011-01-06
   artist: Talking Heads
   title: Stop Making Sense
   review: http://www.bbc.co.uk/music/reviews/n4d3
   spotify:
-    candidates:
-    - artists:
-      - Talking Heads
-      name: Stop Making Sense
-      album_id: 4FR8Z6TvIsC56NLyNomNRE
-      type: album
-    - artists:
-      - Talking Heads
-      name: Stop Making Sense
-      album_id: 6dzfDCvCXlD1uTTIWlCBvq
-      type: album
+    artists:
+    - Talking Heads
+    name: Stop Making Sense
+    album_id: 6dzfDCvCXlD1uTTIWlCBvq
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/16b649ffcecc3e5e7a66dc5a3feb82b1858d8ef4
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a84e325e81777fc7defb820d1022ba591c402462
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ee555da77c9fbb6d96b6846a1d439378198a9af2
+      width: 64
 - date: 2011-01-05
   artist: Nirvana
   title: MTV Unplugged In New York
@@ -3199,8 +3157,24 @@
       width: 64
 - date: 2011-01-04
   artist: Thin Lizzy
-  title: Live and Dangerous / Johnny the Fox / Jailbreak
+  title: Live and Dangerous
   review: http://www.bbc.co.uk/music/reviews/5rx2
+  spotify:
+    artists:
+    - Thin Lizzy
+    name: Live And Dangerous (Deluxe Edition)
+    album_id: 35hIIMcm8BTJ8Jr5K2Ky7T
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/115904fa0367ec2a33709cf011b2b15f8d383824
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/90b5c0df21e9bedfe3846491a65e17fc481d0f8a
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/20681bd6f74f0e8a4855d21f2e5a07ae005341ce
+      width: 64
 - date: 2011-01-03
   artist: The Smiths
   title: Rank

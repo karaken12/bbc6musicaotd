@@ -1,28 +1,41 @@
 
 require 'yaml'
 
+CACHE_FILE_NAME = "_data/cache/twitter.yml"
+
 def update_file(file_name)
   data = YAML.load_file(file_name)
+  cache = YAML.load_file(CACHE_FILE_NAME)
 
-  data = process_data(data)
+  data = process_data(cache, data)
 
   file = File.open(file_name, 'w')
   file.puts data.to_yaml
   file.close
 end
 
-def process_data(data)
+def process_data(cache, data)
   data.each do |album|
-    if album.has_key?('spotify')
+    if album.has_key?('spotify') or album.has_key?('spotify-id')
       # Assume it's fine
       next
     end
     puts "==="
-    if !album.has_key?('tweet') or !album['tweet'].has_key?('text')
-      puts "No tweet text on #{album['date']}."
+    if !album.has_key?('twitter')
+      puts "No Tweet for #{album['date']}."
       next
     end
-    puts "Twitter: #{album['tweet']['text']}"
+    tweet_id = album['twitter']
+    if !cache.has_key?(tweet_id)
+      puts "No tweet data for #{tweet_id} (#{album['date']})."
+      next
+    end
+    tweet = cache[tweet_id]
+    if !tweet.has_key?('text')
+      puts "No tweet text on #{tweet_id} (#{album['date']})."
+      next
+    end
+    puts "Twitter: #{tweet['text']}"
     print "Enter artist (#{album['artist']}): "
     artist = STDIN.gets.chomp
     if artist != ''

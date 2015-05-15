@@ -1431,17 +1431,21 @@
   title: A Creature I Don’t Know
   review: http://www.bbc.co.uk/music/reviews/4r28
   spotify:
-    candidates:
-    - artists:
-      - Laura Marling
-      name: A Creature I Don't Know (Deluxe Version)
-      album_id: 1yvrtiby7Zo7MiBrW1IDXD
-      type: album
-    - artists:
-      - Laura Marling
-      name: A Creature I Don't Know
-      album_id: 6l9AdRG0yVneRu5PNbAvRZ
-      type: album
+    artists:
+    - Laura Marling
+    name: A Creature I Don't Know
+    album_id: 6l9AdRG0yVneRu5PNbAvRZ
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/75c120d005f4440cc9e6c86f29a76da5a7a9de0d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/2daa5722a9510ffe50e7cc092203fe438b9015f2
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/2d95dba082506153d3e3dcd0c8218c1fa7431915
+      width: 64
 - date: 2011-08-30
   artist: The Specials
   title: The Specials
@@ -1622,22 +1626,21 @@
   title: Grace
   review: http://www.bbc.co.uk/music/reviews/jc3q
   spotify:
-    candidates:
-    - artists:
-      - Jeff Buckley
-      name: Grace (Legacy Edition)
-      album_id: 07Fr36M0hRPJrSJMFWGnvD
-      type: album
-    - artists:
-      - Jeff Buckley
-      name: Grace
-      album_id: 05kFTS7QT3D9Ltb8fvFogN
-      type: album
-    - artists:
-      - Jeff Buckley
-      name: The Grace EPs
-      album_id: 2Tj9owltx8ltFyAp3pC9nE
-      type: album
+    artists:
+    - Jeff Buckley
+    name: Grace
+    album_id: 05kFTS7QT3D9Ltb8fvFogN
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/457b3fc28f3a839a2b62c45c06ea6821dedd0238
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/b31ff5d30573e8d4d543aa07a52b64e753abc47d
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/13af2b39f058bff7e3fdf91a42df376f6e908137
+      width: 64
 - date: 2011-08-09
   artist: Buzzcocks
   title: Love Bites
@@ -2076,22 +2079,21 @@
   title: McCartney
   review: http://www.bbc.co.uk/music/reviews/8vx2
   spotify:
-    candidates:
-    - artists:
-      - Paul McCartney
-      name: McCartney (Special Edition)
-      album_id: 7c0MBOaYZcLAmbrmW42Sjf
-      type: album
-    - artists:
-      - Paul McCartney
-      name: McCartney II (Special Edition)
-      album_id: 7G2kEoHNNWxq6j8okgMvCr
-      type: album
-    - artists:
-      - Sir Paul McCartney
-      name: Interview With Sir Paul McCartney - Single
-      album_id: 6rcVWmbT0KLluPCtNc0Aiv
-      type: single
+    artists:
+    - Paul McCartney
+    name: McCartney (Special Edition)
+    album_id: 7c0MBOaYZcLAmbrmW42Sjf
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/349084475ed3f0588401c17a1b599ea704b9ddc5
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/fdb86da4b5bedce06bee72e886210cb9fcdaea34
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/8c563ffb784bf4e7e5bf6a1d9ac626b925aef8cf
+      width: 64
 - date: 2011-06-16
   artist: Emmy the Great
   title: Virtue
@@ -2133,22 +2135,21 @@
   title: England Keep My Bones
   review: http://www.bbc.co.uk/music/reviews/66rj
   spotify:
-    candidates:
-    - artists:
-      - Frank Turner
-      name: England Keep My Bones
-      album_id: 1NrptBsyTlhEfkGFtkPunw
-      type: album
-    - artists:
-      - Frank Turner
-      name: England Keep My Bones (Deluxe Edition)
-      album_id: 2UbTlfdv4eOxQTQn9oPeGP
-      type: album
-    - artists:
-      - Frank Turner
-      name: England Keep My Bones
-      album_id: 5JlBShGtLEgVd1FFjUnzKY
-      type: album
+    artists:
+    - Frank Turner
+    name: England Keep My Bones
+    album_id: 5JlBShGtLEgVd1FFjUnzKY
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/39e0f9d708957f38361d7c391b4860c3894eb266
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/229a85fd907b6e1295a2fb7841fb9401b1cc3634
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/b0fafa5b2f11b21be1582c86e7a09ef21da869c0
+      width: 64
 - date: 2011-06-13
   artist: Paul Simon
   title: So Beautiful or So What
@@ -2172,24 +2173,24 @@
 - date: 2011-06-10
   artist: The Kinks
   title: Kinda Kinks
+  notes: Should be the original, not the deluxe, but there we go.
   review: http://www.bbc.co.uk/music/reviews/p6rj
   spotify:
-    candidates:
-    - artists:
-      - The Kinks
-      name: Kinda Kinks
-      album_id: 0VEhoNqSB9MsC6izwQaOSC
-      type: album
-    - artists:
-      - The Kinks
-      name: Kinda Kinks
-      album_id: 5ITHAL9vv9vuIpFeIxiCDX
-      type: album
-    - artists:
-      - The Kinks
-      name: Kinda Kinks (Deluxe Edition)
-      album_id: 4bczs0Dyfq0I4WpqobSgOP
-      type: album
+    artists:
+    - The Kinks
+    name: Kinda Kinks (Deluxe Edition)
+    album_id: 4bczs0Dyfq0I4WpqobSgOP
+    type: album
+    images:
+    - height: 577
+      url: https://i.scdn.co/image/4ff71a4dee91e106d2f93af9b444281e8abc9955
+      width: 640
+    - height: 270
+      url: https://i.scdn.co/image/5c3ffac46a253e41dcab755d036d522e3a8030a9
+      width: 300
+    - height: 58
+      url: https://i.scdn.co/image/f5a3740f911e0b9f2da1ff463d45f3b5b789fe53
+      width: 64
 - date: 2011-06-09
   artist: Hollie Cook
   title: Hollie Cook
@@ -2211,9 +2212,26 @@
       url: https://i.scdn.co/image/2e4e4d47e292093250f1915d0bac1ca247f90251
       width: 64
 - date: 2011-05-17
-  artist: Danger Mouse & Daniele Luppi
+  artist: Danger Mouse and Daniele Luppi
   title: Rome
   review: http://www.bbc.co.uk/music/reviews/j59p
+  spotify:
+    artists:
+    - Danger Mouse
+    - Daniele Luppi
+    name: Rome
+    album_id: 2nBo5nFoszkjuY0bxv1y0A
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/74a2827a1ffea9752eff788bd041ba763507917b
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/55ec0327de80a7349f6b46c1f5530cc44c1ca455
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/5b8439c23a569fa86650b3e2d3ca32531da2e4a7
+      width: 64
 - date: 2011-05-16
   artist: Friendly Fires
   title: Pala
@@ -2277,19 +2295,24 @@
 - date: 2011-05-11
   artist: The Wailers
   title: Catch a Fire
+  notes: The remastered version, but still has the album versions.
   review: http://www.bbc.co.uk/music/reviews/vvp2
   spotify:
-    candidates:
-    - artists:
-      - Bob Marley & The Wailers
-      name: Catch A Fire (Deluxe Edition)
-      album_id: 4w9UeNiCO8kr4ZBdWPQKln
-      type: album
-    - artists:
-      - The Wailers
-      name: Catch A Fire (Remastered)
-      album_id: 7p4Qq5bIRmSJPK2OjZ1jUi
-      type: album
+    artists:
+    - The Wailers
+    name: Catch A Fire (Remastered)
+    album_id: 7p4Qq5bIRmSJPK2OjZ1jUi
+    type: album
+    images:
+    - height: 634
+      url: https://i.scdn.co/image/7787b40b125eb5dfc06d837d06d86b319c74c202
+      width: 640
+    - height: 297
+      url: https://i.scdn.co/image/7297c4e1e3e7bd56b2c4129ad4ceb9739582fe9e
+      width: 300
+    - height: 63
+      url: https://i.scdn.co/image/44d26f5b24f6d5dfe9ff73faed941ca0bc4b8b33
+      width: 64
 - date: 2011-05-10
   artist: Okkervil River
   title: I Am Very Far
@@ -2335,27 +2358,21 @@
   title: King of the Delta Blues Singers
   review: http://www.bbc.co.uk/music/reviews/pcpn
   spotify:
-    candidates:
-    - artists:
-      - Robert Johnson
-      name: King Of The Delta Blues Singers
-      album_id: 2IWaNq5o4tG1w6yxve5BMU
-      type: album
-    - artists:
-      - Robert Johnson
-      name: King Of The Delta Blues Singers (Volume 2)
-      album_id: 65Qaqh5BI4sTDSfzDT9rDJ
-      type: album
-    - artists:
-      - Robert Johnson
-      name: King of the Delta Blues Singers
-      album_id: 4DETxTFjVJMDjhUvEJIm4B
-      type: compilation
-    - artists:
-      - Robert Johnson
-      name: King of the Delta Blues Singers (1961)
-      album_id: 4UZbC6ijUo8TADAqabxXNW
-      type: compilation
+    artists:
+    - Robert Johnson
+    name: King Of The Delta Blues Singers
+    album_id: 2IWaNq5o4tG1w6yxve5BMU
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ba01ac4213eac04a067bd332dddbd97332bf657d
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/49108e58c9acba44308d6820987c5c72c147b568
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/ad6ef7c43f3ae4c3379a13cfdace6f3634568bd8
+      width: 64
 - date: 2011-05-05
   artist: Dels
   title: Gob
@@ -2421,17 +2438,21 @@
   title: Hot Sauce Committee Part Two
   review: http://www.bbc.co.uk/music/reviews/dqwx
   spotify:
-    candidates:
-    - artists:
-      - Beastie Boys
-      name: Hot Sauce Committee Part Two
-      album_id: 1vQYbqslni0jVfvaVK2lvx
-      type: album
-    - artists:
-      - Beastie Boys
-      name: Hot Sauce Committee Part Two
-      album_id: 4ZdM8DkKgfTCz8e0wJk9CX
-      type: album
+    artists:
+    - Beastie Boys
+    name: Hot Sauce Committee Part Two
+    album_id: 1vQYbqslni0jVfvaVK2lvx
+    type: album
+    images:
+    - height: 640
+      url: https://i.scdn.co/image/ea2d97b3619866d18c24a17b4b14f61b65fe4191
+      width: 640
+    - height: 300
+      url: https://i.scdn.co/image/a0eb2ec235c6c3540faa8863a412e7efccc271a2
+      width: 300
+    - height: 64
+      url: https://i.scdn.co/image/4b8de63cf65e65d8e7ca3906c59d931d869cd9e0
+      width: 64
 - date: 2011-04-29
   artist: Morrissey
   title: Very Best Of

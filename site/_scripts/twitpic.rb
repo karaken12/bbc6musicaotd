@@ -14,10 +14,14 @@ def update_file(file_name)
     cache = {}
   end
 
-  cache = update_cache(cache, albums)
+  update_cache(cache, albums)
 
   file = File.open(CACHE_FILE_NAME, 'w')
   file.puts cache.to_yaml
+  file.close
+
+  file = File.open(file_name, 'w')
+  file.puts albums.to_yaml
   file.close
 end
 
@@ -60,14 +64,12 @@ def update_cache(cache, albums)
       tweet = get_tweet(client, album['twitter'])
       if tweet
         cache[album['twitter']] = tweet
-        #if !(album['date'])
-        #  album['date'] = Date.parse(tweet.created_at.to_s)
-        #end
+        if !(album['date'])
+          album['date'] = Date.parse(tweet['created'])
+        end
       end
     end
   end
-
-  return cache
 end
 
 # Bit nasty, but should do the job

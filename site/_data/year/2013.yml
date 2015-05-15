@@ -11,62 +11,17 @@
   artist: Velvet Underground
   title: White Light / White Heat (45th Anniversary)
   twitter: https://twitter.com/BBC6Music/status/408255596077400064
-  spotify:
-    artists:
-    - The Velvet Underground
-    name: White Light / White Heat (45th Anniversary)
-    album_id: 3YtP68puTTAor9lfHiSUr6
-    type: album
-    images:
-    - height: 637
-      url: https://i.scdn.co/image/63ae41b994d0da14aa7101baa2b1bfe0328336f3
-      width: 640
-    - height: 299
-      url: https://i.scdn.co/image/ee1d5f1d2aacf25fd675a1c9307070d3b0dae6af
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/cbbdb4392edc02888487525517135e9460ac9705
-      width: 64
+  spotify-id: 3YtP68puTTAor9lfHiSUr6
 - date: 2013-12-03
   artist: Lizzo
   title: Lizzobangers
   twitter: https://twitter.com/BBC6Music/status/407893128247406592
-  spotify:
-    artists:
-    - Lizzo
-    name: Lizzobangers
-    album_id: 32UJ8XJogn6T8JSENLETMS
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/8a72d1942842486dab4d73f79dd795099bad3fc1
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/26097ae4e0e94486e7a2724b535dd5eaaaf7d8a1
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a9bf97506c93eb69244ad7253436e0e79d25b37b
-      width: 64
+  spotify-id: 32UJ8XJogn6T8JSENLETMS
 - date: 2013-12-02
   artist: Toy
   title: Join The Dots
   twitter: https://twitter.com/BBC6Music/status/407485932078497792
-  spotify:
-    artists:
-    - Toy
-    name: Join The Dots
-    album_id: 3GJDHI5RGFxWTCrCFvyFEh
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/fb5f267d73cc482cde12203e68d755e2dabd0f4e
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/93c61df7643aa642974cebd04755da43bbb81e8f
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/457686a76b9ca7ff861a4db716ad015a686c0890
-      width: 64
+  spotify-id: 3GJDHI5RGFxWTCrCFvyFEh
 - date: 2013-11-29
   artist: The Kitchen Cinq
   title: Everything But
@@ -82,22 +37,7 @@
   artist: Jake Bugg
   title: Shangri La
   twitter: https://twitter.com/BBC6Music/status/400689347017465857
-  spotify:
-    artists:
-    - Jake Bugg
-    name: Shangri La
-    album_id: 2kl9qhHRgNPQFSeWrliGeR
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/34a90dfb28e98dc874b2bb823c5e9afea0f3f0ab
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/1824e9a630a6d1cec7549caf2a7e07dda68b6b79
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/445ed0da4b5789b4a1076075ec27d38dfa09d014
-      width: 64
+  spotify-id: 2kl9qhHRgNPQFSeWrliGeR
 - date: 2013-11-12
   twitter: https://twitter.com/BBC6Music/status/400322958142353408
 - date: 2013-10-15
@@ -107,22 +47,7 @@
   artist: Placebo
   title: Loud Like Love
   twitter: https://twitter.com/BBC6Music/status/380367734996873216
-  spotify:
-    artists:
-    - Placebo
-    name: Loud Like Love
-    album_id: 1I7nurs0QFuIrDPXjdx96L
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/09fa29ac7823c797c5454095c774ca7766ccd5ef
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/ddbb5ce138a2e7d4bc6d4f15562acd640cf39321
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/427b428be119426767118e5fe37e205dae0f719f
-      width: 64
+  spotify-id: 1I7nurs0QFuIrDPXjdx96L
 - date: 2013-09-16
   artist: MGMT
   twitter: https://twitter.com/BBC6Music/status/379613271663202305
@@ -130,42 +55,12 @@
   artist: Manic Street Preachers
   title: Rewind The Film
   twitter: https://twitter.com/BBC6Music/status/377422140040945665
-  spotify:
-    artists:
-    - Manic Street Preachers
-    name: Rewind the Film
-    album_id: 2BnILbb4wJR2qp9qZbSUDr
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/5d6d1525c6fcdeb2d28a00acd9a0cd86ac70f4c5
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/9ba593d466cca47f8ed7d19dadb6d2a91584f7e8
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/1ed81f8fc0d378994621d51f4fa19d5ac4c98242
-      width: 64
+  spotify-id: 2BnILbb4wJR2qp9qZbSUDr
 - date: 2013-09-09
   artist: Arctic Monkeys
   title: AM
   twitter: https://twitter.com/BBC6Music/status/377076246363918336
-  spotify:
-    artists:
-    - Arctic Monkeys
-    name: AM
-    album_id: 5bU1XKYxHhEwukllT20xtk
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/4d9ec146e3a257b10634d9a413ef6cc3de325008
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/956296446175bba4ccdfd6edce8c78e31d8a9add
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/6d8f0b88783515c116fdbbe92c6d54e7f15c37c2
-      width: 64
+  spotify-id: 5bU1XKYxHhEwukllT20xtk
 - date: 2013-09-01
   twitter: https://twitter.com/BBC6Music/status/374266205622005761
 - date: 2013-08-29
@@ -175,22 +70,7 @@
   artist: King Krule
   title: 6 Feet Beneath The Moon
   twitter: https://twitter.com/BBC6Music/status/372319352239816704
-  spotify:
-    artists:
-    - King Krule
-    name: 6 Feet Beneath the Moon
-    album_id: 6DAL46eCFRxgj624atbOYY
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/12b52d45d316d689d8f1c7bebd7b42a2d68e1380
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/27d7eecad7dada54f799c7bda75a67a6386bd0d3
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/eefec46ed597a6460bc0b83ce360e9b3c510c48a
-      width: 64
+  spotify-id: 6DAL46eCFRxgj624atbOYY
 - date: 2013-08-23
   artist: Blondie
   twitter: https://twitter.com/BBC6Music/status/370869865105457152
@@ -198,124 +78,34 @@
   artist: Drenge
   title: Drenge
   twitter: https://twitter.com/BBC6Music/status/370507165842149376
-  spotify:
-    artists:
-    - Drenge
-    name: Drenge
-    album_id: 6UAC7m5tmCeBYTbo4yZinf
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b48fa3f92ef3f4bc77afe9930e5f5290461b96c1
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/9dc61c619258733b43de9e4945dc1c9d11abb8ef
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/3dc81faa9a11663d5e8fc9e7acdb3b70d58dda95
-      width: 64
+  spotify-id: 6UAC7m5tmCeBYTbo4yZinf
 - date: 2013-08-21
   artist: Tired Pony
   title: The Ghost of the Mountain
   twitter: https://twitter.com/BBC6Music/status/370190298443309056
-  spotify:
-    artists:
-    - Tired Pony
-    name: The Ghost Of The Mountain
-    album_id: 5DmYFslVfXMxPt4XoQBNUi
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/405e30d1510df0c6c3c5230bd50be2c34034d4f1
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/45c64e21f97d56d091f9cea978e26099eb0942f9
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/931d9463e32dc333f10a62ad14d42ce9f38bf495
-      width: 64
+  spotify-id: 5DmYFslVfXMxPt4XoQBNUi
 - date: 2013-08-20
   artist: Laura Veirs
   title: Warp and Weft
   twitter: https://twitter.com/BBC6Music/status/369781288506363904
-  spotify:
-    artists:
-    - Laura Veirs
-    name: Warp & Weft
-    album_id: 3mnRV6xwaO9vMJeeeI2QyJ
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/ffdd1c0370c0ae77fc1bd8441a57316991acae3a
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/85d797a34a35e8084d2fa885936ccf484be351e4
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/c8beb5ad69534168c176cbfb77a66e464da10801
-      width: 64
+  spotify-id: 3mnRV6xwaO9vMJeeeI2QyJ
 - date: 2013-08-19
   artist: Franz Ferdinand
   title: Right Thoughts, Right Words, Right Action
   twitter: https://twitter.com/BBC6Music/status/369405632689893377
-  spotify:
-    artists:
-    - Franz Ferdinand
-    name: Right Thoughts, Right Words, Right Action (Deluxe Edition)
-    album_id: 4X6YC6PgSMt5s7ARwGpLJ7
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/2761c23612535d4c4fa804b5af3185d4b8b606af
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/00f9058190cb997d33727a77144e88d9eecf447d
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/f8b278bede6836b399da7e230c2c6ca58e744766
-      width: 64
+  spotify-id: 4X6YC6PgSMt5s7ARwGpLJ7
 - date: 2013-07-29
   artist: AlunaGeorge
   title: Body Music
   twitter: https://twitter.com/BBC6Music/status/361809863489224705
-  spotify:
-    artists:
-    - AlunaGeorge
-    name: Body Music
-    album_id: 7nXdR8vOT55x18KJ4kuE5W
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/31a813a6c0170f1f2c0267fdcf8e1132e4119d85
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/763aca58d0d2af7874d645c0302d6d854c1fdc5f
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/1c3bbd483e197198459febe6514392441f8c19d1
-      width: 64
+  spotify-id: 7nXdR8vOT55x18KJ4kuE5W
 - date: 2013-07-26
   twitter: https://twitter.com/BBC6Music/status/360799303779876864
 - date: 2013-07-18
   artist: Daughn Gibson
   title: Me Moan
   twitter: https://twitter.com/BBC6Music/status/357823968671039491
-  spotify:
-    artists:
-    - Daughn Gibson
-    name: Me Moan
-    album_id: 4qmHbjCEf6v4uOKeabNugL
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/863245dbebe52b4d435f4a704aa36d5542398a4d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/2529e0c0e2b72bba664de8312299ba2d04aef7b9
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/df0324e83bd2a8019864b76272c02d6c80e88fcb
-      width: 64
+  spotify-id: 4qmHbjCEf6v4uOKeabNugL
 - date: 2013-05-23
   artist: Bibio
   twitter: https://twitter.com/BBC6Music/status/337540273062166529
@@ -326,167 +116,47 @@
   artist: Edwyn Collins
   title: Understated
   review: http://www.bbc.co.uk/music/reviews/3xwx
-  spotify:
-    artists:
-    - Edwyn Collins
-    name: Understated
-    album_id: 16NFF1JvgU0TJm2ZZRUQLd
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/be7641038afe1fdae993227f87cd16244f29d62f
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/c03a9bb3ceeee898f9f77f172219b966db6fb358
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/c65f3c715dc22cb87da8d80ac0a8293f7558af28
-      width: 64
+  spotify-id: 16NFF1JvgU0TJm2ZZRUQLd
 - date: 2013-03-27
   artist: Peace
   title: In Love
   review: http://www.bbc.co.uk/music/reviews/52x2
-  spotify:
-    artists:
-    - Peace
-    name: In Love
-    album_id: 2WF9WYqw0z4xs4hJi5eSmU
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/1a8ff08bc49c3fcc24695477f4558fb5e2f3754a
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/b1f0d909bbf3b08863ce5956d6eccd338d354594
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/9d6691bad534581a7337f7ba5c7fa289c6a656f1
-      width: 64
+  spotify-id: 2WF9WYqw0z4xs4hJi5eSmU
 - date: 2013-03-26
   artist: The Strokes
   title: Comedown Machine
   review: http://www.bbc.co.uk/music/reviews/4q3q
-  spotify:
-    artists:
-    - The Strokes
-    name: Comedown Machine
-    album_id: 6Gh67utfCyDodVQj2AFLoJ
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/1ddeb572c7f64247c18237f317be4a4440da9a26
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/a5c9597e289637b5678110c9f324d7826aae3a6a
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/1d8ae7866daabd863d2ffbd22d09afeada259980
-      width: 64
+  spotify-id: 6Gh67utfCyDodVQj2AFLoJ
 - date: 2013-03-21
   artist: Billy Bragg
   title: Tooth & Nail
   twitter: https://twitter.com/BBC6Music/status/314655505937207296
   review: http://www.bbc.co.uk/music/reviews/djrj
-  spotify:
-    artists:
-    - Billy Bragg
-    name: Tooth & Nail
-    album_id: 4fhwu8o6R5d92EpYv7JKkl
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/036bf5bacc14fd98158b9bff6f609ee89d95dc27
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/ef4e54626253d83f3ba62d0ccb249dc9bcb21a40
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/00395f52d941b941efd7e7022e8dfdaf17323ebc
-      width: 64
+  spotify-id: 4fhwu8o6R5d92EpYv7JKkl
 - date: 2013-03-20
   artist: Daughter
   title: If You Leave
   twitter: https://twitter.com/BBC6Music/status/314289844937449473
   review: http://www.bbc.co.uk/music/reviews/jr8r
-  spotify:
-    artists:
-    - Daughter
-    name: If You Leave
-    album_id: 6E76aabodIl5DW5BTEZPHG
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b989a99f79fcc8950693253db980d9398f7d8c63
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/86a9f21ac9e96a55b6b5315fa73b6568bbbbd65a
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/66d0a5519fe5b1d09903a340783d74d6cc2ff7f9
-      width: 64
+  spotify-id: 6E76aabodIl5DW5BTEZPHG
 - date: 2013-03-19
   artist: Steve Mason
   title: Monkey Minds in the Devil’s Time
   twitter: https://twitter.com/BBC6Music/status/313926899787255808
   review: http://www.bbc.co.uk/music/reviews/r828
-  spotify:
-    artists:
-    - Steve Mason
-    name: Monkey Minds In the Devil's Time
-    album_id: 0OlY7CuPMVW3qrga41Td0M
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/2e7779b69b399bbc63fc747e7517cdd7fd72f22c
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/6ba101edc5aa5b5937d0bf1532fa7fc5f5073bc9
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/75769d73258c4d1ad55bbbfd40b070bfbe818490
-      width: 64
+  spotify-id: 0OlY7CuPMVW3qrga41Td0M
 - date: 2013-03-18
   artist: Suede
   title: Bloodsports
   twitter: https://twitter.com/BBC6Music/status/313558640709730305
   review: http://www.bbc.co.uk/music/reviews/82x2
-  spotify:
-    artists:
-    - Suede
-    name: Bloodsports
-    album_id: 0KxFgCRvWpee2Dd7D7kRyM
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/91c066a5f1f143b5f2077960924c326f072ba618
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/c62c6bbf05360ad86728b3bb52f733420d0a5daa
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/e6956fcf217183120b2eab50a4136396bcce20e9
-      width: 64
+  spotify-id: 0KxFgCRvWpee2Dd7D7kRyM
 - date: 2013-03-15
   artist: Spinal Tap
   title: This Is Spinal Tap
   twitter: https://twitter.com/BBC6Music/status/312469827589640192
   review: http://www.bbc.co.uk/music/reviews/fr8r
-  spotify:
-    artists:
-    - Spinal Tap
-    name: This Is Spinal Tap (Soundtrack)
-    album_id: 6S5mWLewzhLaAPmgDsnLlM
-    type: album
-    images:
-    - height: 632
-      url: https://i.scdn.co/image/c1d28f78c7bf0a96e4a9d911adeb5c22627617ae
-      width: 640
-    - height: 296
-      url: https://i.scdn.co/image/bf6093f1d355d0ace9a1f3785509251fac42449c
-      width: 300
-    - height: 63
-      url: https://i.scdn.co/image/723d0386b48b3d0f486610edf488e268547173af
-      width: 64
+  spotify-id: 6S5mWLewzhLaAPmgDsnLlM
 - date: 2013-03-14
   artist: John Grant
   title: Pale Green Ghosts
@@ -509,358 +179,102 @@
   title: Mala
   twitter: https://twitter.com/BBC6Music/status/311755998559875073
   review: http://www.bbc.co.uk/music/reviews/vnpn
-  spotify:
-    artists:
-    - Devendra Banhart
-    name: Mala
-    album_id: 1Z69PSnbIBojgF9NBJbKca
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/871aa209cbe347cf860b62cb2914097a3de1f540
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/19f76d32292768d12c2c5bdd1935bcece652a191
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/3afedb423147edab287924bf369c95b7bbfc2928
-      width: 64
+  spotify-id: 1Z69PSnbIBojgF9NBJbKca
 - date: 2013-03-12
   artist: Various Artists
   title: 'Sound City: Real to Reel'
   twitter: https://twitter.com/BBC6Music/status/311393366841630720
   review: http://www.bbc.co.uk/music/reviews/cq3q
-  spotify:
-    artists:
-    - Sound City - Real to Reel
-    name: Sound City - Real to Reel
-    album_id: 066mZjq57UkWDAM7A6PWce
-    type: album
-    images:
-    - height: 629
-      url: https://i.scdn.co/image/90e888fd9c69fe7440272adbafb1beb7ef687155
-      width: 640
-    - height: 295
-      url: https://i.scdn.co/image/df5c39bb6313f244487f1a2f131e5d718b81190c
-      width: 300
-    - height: 63
-      url: https://i.scdn.co/image/62bbe49a96ecfe89305a986efcda87d13f3e0c01
-      width: 64
+  spotify-id: 066mZjq57UkWDAM7A6PWce
 - date: 2013-03-11
   artist: David Bowie
   title: The Next Day
   twitter: https://twitter.com/BBC6Music/status/311028037674225664
   review: http://www.bbc.co.uk/music/reviews/rnpn
-  spotify:
-    artists:
-    - David Bowie
-    name: The Next Day Extra
-    album_id: 2agWNCZl5Ts9W05mij8EPh
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/9289b38f1f745694bc6991fa45b7b80b5eb8627a
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/898e09cad6262e451f9ad13cbad554ce614e31e9
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/63aee5ac820dcf58f6b65e8ea4fbe8eb79c406e3
-      width: 64
+  spotify-id: 2agWNCZl5Ts9W05mij8EPh
 - date: 2013-03-08
   artist: The White Stripes
   title: Elephant
   twitter: https://twitter.com/BBC6Music/status/309933436238442496
   review: http://www.bbc.co.uk/music/reviews/qfxm
-  spotify:
-    artists:
-    - The White Stripes
-    name: Elephant
-    album_id: 0rRNLpdA8nA8Sm8Fk490b9
-    type: album
-    images:
-    - height: 618
-      url: https://i.scdn.co/image/7c7667a66c195842a18341b754ddff1e57295774
-      width: 640
-    - height: 290
-      url: https://i.scdn.co/image/4d761858e1541ef386a0b8a9f1047805db754a6d
-      width: 300
-    - height: 62
-      url: https://i.scdn.co/image/7b5248fbae00aae3c9d6d01abb24b32578aa3f31
-      width: 64
+  spotify-id: 0rRNLpdA8nA8Sm8Fk490b9
 - date: 2013-03-07
   artist: Caitlin Rose
   title: The Stand-In
   twitter: https://twitter.com/BBC6Music/status/309575551683817472
   review: http://www.bbc.co.uk/music/reviews/gq3q
-  spotify:
-    artists:
-    - Caitlin Rose
-    name: The Stand In
-    album_id: 4v76KfOgDLLbN9EfMwwQ8M
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/672a459569fdc3b303d7aa18655fd3a5c21e2e79
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/bc27a49cb31cf7b746d3b35cbcdc5ef3006a06e9
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/3eed920daae294fdd938b5c471475891a84b4346
-      width: 64
+  spotify-id: 4v76KfOgDLLbN9EfMwwQ8M
 - date: 2013-03-06
   artist: Robyn Hitchcock
   title: Love From London
   twitter: https://twitter.com/BBC6Music/status/309225647006445568
   review: http://www.bbc.co.uk/music/reviews/cnpn
-  spotify:
-    artists:
-    - Robyn Hitchcock
-    name: Love From London
-    album_id: 2cX61w29qF6rHVUtZNi065
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/8e841997408f6eef69ef8600d1a890c5a0b54e8b
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/31dd43d03601c04aeb64fc16c95d4022efacbf63
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/71a0a98bf8277c108c2323c1d7786b8fabd3c5aa
-      width: 64
+  spotify-id: 2cX61w29qF6rHVUtZNi065
 - date: 2013-03-05
   artist: Laura Mvula
   title: Sing to the Moon
   twitter: https://twitter.com/BBC6Music/status/308860460306939904
   review: http://www.bbc.co.uk/music/reviews/fc5c
-  spotify:
-    artists:
-    - Laura Mvula
-    name: Sing to the Moon
-    album_id: 6sWQlfb6ju6jG0z4oFPgVn
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/268542be040e8ff12afe168b4a1d9f1b496f51dc
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/94c5212d13e123180d8dc800f8ec586f1400b5af
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/bd95be6cfb6358ed4590a0217755e6e5c989af14
-      width: 64
+  spotify-id: 6sWQlfb6ju6jG0z4oFPgVn
 - date: 2013-03-04
   artist: Jimi Hendrix
   title: People, Hell and Angels
   review: http://www.bbc.co.uk/music/reviews/mdfd
-  spotify:
-    artists:
-    - Jimi Hendrix
-    name: People, Hell & Angels
-    album_id: 4TKeFuhHHiBhRddgUfZEvf
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/d7d46bb9b9666f44a5d5a39316098ade6901238d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/a252a1c0566c5473a969d1c0ef0ae2a8afe19550
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/2c352fbfbec4c7d32e6b87ec71150904943b0993
-      width: 64
+  spotify-id: 4TKeFuhHHiBhRddgUfZEvf
 - date: 2013-03-01
   artist: Iggy & The Stooges
   title: Raw Power (Legacy Edition)
   twitter: https://twitter.com/BBC6Music/status/307407503753355264
   review: http://www.bbc.co.uk/music/reviews/zbpn
-  spotify:
-    artists:
-    - Iggy Pop
-    - The Stooges
-    name: Raw Power (Legacy Edition)
-    album_id: 6vHqopioDuXtXTDoJhQZls
-    type: album
-    images:
-    - height: 585
-      url: https://i.scdn.co/image/ea0c2ede3b6c8aafa0b92983bd62dd639c1e537d
-      width: 640
-    - height: 274
-      url: https://i.scdn.co/image/3a417656799f4b94149dbad9febc23751acfbe30
-      width: 300
-    - height: 59
-      url: https://i.scdn.co/image/5bbc9558ca1cd20080baf5b458f88504846b95f6
-      width: 64
+  spotify-id: 6vHqopioDuXtXTDoJhQZls
 - date: 2013-02-28
   artist: Alice Russell
   title: To Dust
   twitter: https://twitter.com/BBC6Music/status/307050779565514752
   review: http://www.bbc.co.uk/music/reviews/g5m5
-  spotify:
-    artists:
-    - Alice Russell
-    name: To Dust
-    album_id: 4letdZv5LglegGc9Oo4aSg
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/1b20d5f78df298e3b79eed3d9b7e54892ca165d1
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/fb4a3ad48440505e32bd8af3a109d90c4cab57f8
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/1f89a39ff59fee59dacce523b09a66b995c11c4a
-      width: 64
+  spotify-id: 4letdZv5LglegGc9Oo4aSg
 - date: 2013-02-27
   artist: Various Artists
   title: 'Son of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys'
   twitter: https://twitter.com/BBC6Music/status/306698755363717120
   review: http://www.bbc.co.uk/music/reviews/v3d3
-  spotify:
-    artists:
-    - Various Artists
-    name: 'Son Of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys'
-    album_id: 1uU1qkM6WRnwLGIDYVYKP4
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/0774f26f2a3d21c2c101604486b980d923459a7b
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/cf359567eaa8cb4b287370ba52945a2354615db3
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a98dc95ae276ea849da6ab42dec0553a97462e37
-      width: 64
+  spotify-id: 1uU1qkM6WRnwLGIDYVYKP4
 - date: 2013-02-26
   artist: Palma Violets
   title: '180'
   twitter: https://twitter.com/BBC6Music/status/306327496264134656
   review: http://www.bbc.co.uk/music/reviews/z2x2
-  spotify:
-    artists:
-    - Palma Violets
-    name: '180'
-    album_id: 7pRlHTBSENFfpnfNpPllpv
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/1c4c71a47864ed84f65f349cc6a34d18f26fea13
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/876d236593aea83902b8fc115f51550e7e49d2a7
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/2ae45db8e7af7543133f6183086b79c866d7b738
-      width: 64
+  spotify-id: 7pRlHTBSENFfpnfNpPllpv
 - date: 2013-02-25
   artist: Johnny Marr
   title: The Messenger
   twitter: https://twitter.com/BBC6Music/status/305964185873944576
   review: http://www.bbc.co.uk/music/reviews/wvnv
-  spotify:
-    artists:
-    - Johnny Marr
-    name: The Messenger
-    album_id: 3ZFz6QOM8bF9yjNm5NTjWr
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/3d54e82a0488218de13851917e464951f00dc37c
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/7a422356ce5d744710473710cc3e60ad7f8b4aeb
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/537fdd47339560c11b009c84d7fdfa291007f413
-      width: 64
+  spotify-id: 3ZFz6QOM8bF9yjNm5NTjWr
 - date: 2013-02-22
   artist: Julian Cope
   title: Saint Julian
   twitter: https://twitter.com/BBC6Music/status/304873922816516096
   review: http://www.bbc.co.uk/music/reviews/hm6m
-  spotify:
-    artists:
-    - Julian Cope
-    name: Saint Julian (Expanded Edition)
-    album_id: 0cWXdCck9lEusGVYb5wpfa
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b4e662a0901e6190bf8b0408fa306aa9fe3ea5f9
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/bbd417a2d630495da2e0b9c5b7fef4260ff5982e
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/7c799e4aa18110eb4df52eb02eb9bbe35a730163
-      width: 64
+  spotify-id: 0cWXdCck9lEusGVYb5wpfa
 - date: 2013-02-21
   artist: Flume
   title: Flume
   twitter: https://twitter.com/BBC6Music/status/304520460316581888
   review: http://www.bbc.co.uk/music/reviews/b5m5
-  spotify:
-    artists:
-    - Flume
-    name: Flume
-    album_id: 21m7s6qWpksbj6l08OM7Pu
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/3c9a5557e7ccbefe845ed74471c11350f77464ec
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/c09b4cd8b60e70bc5ed9d0793f6cc6bd72d05e44
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/152c8218d08bb15c7384ab089f6f28e92c2caa94
-      width: 64
+  spotify-id: 21m7s6qWpksbj6l08OM7Pu
 - date: 2013-02-20
   artist: Jamie Lidell
   title: Jamie Lidell
   twitter: https://twitter.com/BBC6Music/status/304155929463619585
   review: http://www.bbc.co.uk/music/reviews/nfhf
-  spotify:
-    artists:
-    - Jamie Lidell
-    name: Jamie Lidell
-    album_id: 4j1AWJyMnOoA8CYjrfAhDe
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/3f74bff635246efb98e62e5bd1b1ff5c5da95345
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/c5a4f7d91ea63a3388cc87ff8836d367a13ca4ff
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/47ac57574aec6241268e4e2c1b003bc8c29404c8
-      width: 64
+  spotify-id: 4j1AWJyMnOoA8CYjrfAhDe
 - date: 2013-02-19
   artist: Nick Cave & The Bad Seeds
   title: Push the Sky Away
   twitter: https://twitter.com/BBC6Music/status/303793687731769344
   review: http://www.bbc.co.uk/music/reviews/dc5c
-  spotify:
-    artists:
-    - Nick Cave & The Bad Seeds
-    name: Push the Sky Away
-    album_id: 7DGzeERtReCHCG0k9mABXv
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/ffde1d7cccd0a3a856e3c57fd11d8cea6fb39fa4
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/a174497a8c8ca5445ed915fae78d72f601ef7552
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/9b2f14eb52b6a34400adc3c61dca393b5dce61f0
-      width: 64
+  spotify-id: 7DGzeERtReCHCG0k9mABXv
 - date: 2013-02-18
   artist: Atoms for Peace
   title: Amok
@@ -870,106 +284,31 @@
   title: Songs for Imaginative People
   twitter: https://twitter.com/BBC6Music/status/302332726583894016
   review: http://www.bbc.co.uk/music/reviews/3hvh
-  spotify:
-    artists:
-    - Darwin Deez
-    name: Songs For Imaginative People
-    album_id: 7pr9EAeSlWv5LPdWpC2dJs
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/391adbc40d5c9eabf481ad6ca5f2e2bdae8acfa3
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/70d3114d3e71e5d59391c498f62b6a8daa98cb16
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/cb70753ae59d7b3a252f8ac5d2c41019fe5fbad0
-      width: 64
+  spotify-id: 7pr9EAeSlWv5LPdWpC2dJs
 - date: 2013-02-14
   artist: Love
   title: Forever Changes
   twitter: https://twitter.com/BBC6Music/status/301970944900100096
   review: http://www.bbc.co.uk/music/reviews/hj8c
-  spotify:
-    artists:
-    - Love
-    name: Forever Changes
-    album_id: 6myt0Ez6hGJIPQeZKgY8um
-    type: album
-    images:
-    - height: 633
-      url: https://i.scdn.co/image/4b75f62dc127de65f0f08dab5ab1fe0807c07f35
-      width: 640
-    - height: 297
-      url: https://i.scdn.co/image/72c753398dc517ff137652a9d48d4ec9113491ee
-      width: 300
-    - height: 63
-      url: https://i.scdn.co/image/fdbe62b34bda230349a50dc755d1ebf7ea9190b3
-      width: 64
+  spotify-id: 6myt0Ez6hGJIPQeZKgY8um
 - date: 2013-02-13
   artist: Veronica Falls
   title: Waiting for Something to Happen
   twitter: https://twitter.com/BBC6Music/status/301607204627300352
   review: http://www.bbc.co.uk/music/reviews/mr8r
-  spotify:
-    artists:
-    - Veronica Falls
-    name: Waiting For Something To Happen
-    album_id: 1Wj5YHBkXA37PhMCcUT9OZ
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/645bd0426129f45f03d1c837578365b4cfa3bf52
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/25b7ce21ad43646503f2e266e1c21593c7edf023
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/86433f673b54c2cb7959b2c1842f880f01db405c
-      width: 64
+  spotify-id: 1Wj5YHBkXA37PhMCcUT9OZ
 - date: 2013-02-12
   artist: Jim James
   title: Regions of Light and Sound of God
   twitter: https://twitter.com/BBC6Music/status/301250686727884801
   review: http://www.bbc.co.uk/music/reviews/6vnv
-  spotify:
-    artists:
-    - Jim James
-    name: Regions Of Light And Sound Of God
-    album_id: 4x05RwSTXnyfKSDuHD1SzO
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/09dcac882e5176e138db9c33214a69a9b6fb0b54
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/b8b1451283f55a467a5ec49d03ca219c2782bbb2
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/92bcbda414a6a38d5a422c0065a7af7dec0a5ddf
-      width: 64
+  spotify-id: 4x05RwSTXnyfKSDuHD1SzO
 - date: 2013-02-11
   artist: Foals
   title: Holy Fire
   twitter: https://twitter.com/BBC6Music/status/300891787508191233
   review: http://www.bbc.co.uk/music/reviews/bq3q
-  spotify:
-    artists:
-    - Foals
-    name: Holy Fire
-    album_id: 0PIR7PK8DMB4pgoxq7F9Ad
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/dd27f090fd89c99a3c3688bb26ea5b79ccf7589d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/ac539429804d18bd0fcb5f0fbc8602805a5404e1
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a893d858296e11eae9530e2d62a203cf0bc8b1a2
-      width: 64
+  spotify-id: 0PIR7PK8DMB4pgoxq7F9Ad
 - date: 2013-02-10
   twitter: https://twitter.com/BBC6Music/status/300530931444367361
 - date: 2013-02-08
@@ -977,85 +316,25 @@
   title: Wonderful, Glorious
   twitter: https://twitter.com/BBC6Music/status/299805907477475329
   review: http://www.bbc.co.uk/music/reviews/95m5
-  spotify:
-    artists:
-    - Eels
-    name: Wonderful, Glorious
-    album_id: 0g6HBzK01pW8msQOXwQ1kq
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/968a7643934738ea0271a5b3d353b14f7e10b2fe
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e1a48447667f6fba7df6aec38179a80d5ed4dc2e
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/9bc4aadca27a5e35d863361b82c21a03a5d1776c
-      width: 64
+  spotify-id: 0g6HBzK01pW8msQOXwQ1kq
 - date: 2013-02-07
   artist: Night Beds
   title: Country Sleep
   twitter: https://twitter.com/BBC6Music/status/299450640080445441
   review: http://www.bbc.co.uk/music/reviews/8fhf
-  spotify:
-    artists:
-    - Night Beds
-    name: Country Sleep
-    album_id: 0g1M5RuzXzcn2NPleWsRoy
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/6c2317838bb424081f6a5b6b0addf872697de31c
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/d6e255139832c59fc778972ade389cab2dfa5055
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/de947e3748b45e81c545b244f14578485d0103a0
-      width: 64
+  spotify-id: 0g1M5RuzXzcn2NPleWsRoy
 - date: 2013-02-06
   artist: FIDLAR
   title: FIDLAR
   twitter: https://twitter.com/BBC6Music/status/299070740643315712
   review: http://www.bbc.co.uk/music/reviews/4wgw
-  spotify:
-    artists:
-    - FIDLAR
-    name: FIDLAR
-    album_id: 3rAgFYzYX5BjeyuzhltxfA
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/590fe9972d19ad353fec304504bda459b5c8de71
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/9fa32b44f95a2f04200c241e801f0135e78cd1c5
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/c7be877d4338d55188c02fe1bd2e97cba015bb7c
-      width: 64
+  spotify-id: 3rAgFYzYX5BjeyuzhltxfA
 - date: 2013-02-05
   artist: Various Artists
   title: Reason to Believe – The Songs of Tim Hardin
   twitter: https://twitter.com/BBC6Music/status/298708887283056641
   review: http://www.bbc.co.uk/music/reviews/2gcg
-  spotify:
-    artists:
-    - Various Artists
-    name: Reason To Believe - The Songs Of Tim Hardin
-    album_id: 08Nez59HdgQNV5Lh5Qo8vr
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/0dfe7662165c4cc196c6d012a10aaa938623c156
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/c69aa9b2f3a8d4f12fda1f6c543226cd107e9009
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a1a95073c239fdbe1345e8308a87a80c583c62f4
-      width: 64
+  spotify-id: 08Nez59HdgQNV5Lh5Qo8vr
 - date: 2013-02-04
   artist: My Bloody Valentine
   title: m b v
@@ -1066,170 +345,49 @@
   title: Adam Green & Binki Shapiro
   twitter: https://twitter.com/BBC6Music/status/296903813871316993
   review: http://www.bbc.co.uk/music/reviews/x4q4
-  spotify:
-    artists:
-    - Adam Green
-    - Binki Shapiro
-    name: Adam Green & Binki Shapiro
-    album_id: 4LhC0kVPC2xnUESi1L0cRM
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/c47631d05d254a4877c2bcf228d050b4b8833bac
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/74c377a76c1e5a003f79e5407245779b679c204d
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/5de6e6d7ffdf98dd447e78c1a341751ea899e244
-      width: 64
+  spotify-id: 4LhC0kVPC2xnUESi1L0cRM
 - date: 2013-01-30
   artist: Foxygen
   title: We Are the 21st Century Ambassadors of Peace & Magic
   twitter: https://twitter.com/BBC6Music/status/296535564059041792
   review: http://www.bbc.co.uk/music/reviews/j3d3
-  spotify:
-    artists:
-    - Foxygen
-    name: We Are the 21st Century Ambassadors of Peace & Magic
-    album_id: 1iQNqvcWTFwfUYnsGgMYBw
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b09b43068f95b9e6c5d056f90b15f4d311fd53c6
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/9980fbba78bdf319c80ac20e8a87ab9cd675eecf
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/12079f4b120c43c958d02d1ff13c19a4b1e8fe39
-      width: 64
+  spotify-id: 1iQNqvcWTFwfUYnsGgMYBw
 - date: 2013-01-29
   artist: Delphic
   title: Collections
   twitter: https://twitter.com/BBC6Music/status/296171694312271872
   review: http://www.bbc.co.uk/music/reviews/pc5c
-  spotify:
-    artists:
-    - Delphic
-    name: Collections
-    album_id: 5B4BvA4qzrKxBZGoojZohQ
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/df3aa4a326178edc2ae41600e9d0285aee905091
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/33dbec26aa374acdb577e651c21a1a14d98a4c84
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/43f5670127c8cc763f0df091b7d91bd1996e7533
-      width: 64
+  spotify-id: 5B4BvA4qzrKxBZGoojZohQ
 - date: 2013-01-28
   artist: Local Natives
   title: Hummingbird
   twitter: https://twitter.com/BBC6Music/status/295809235986546689
   review: http://www.bbc.co.uk/music/reviews/bm6m
-  spotify:
-    artists:
-    - Local Natives
-    name: Hummingbird
-    album_id: 1vONbFftSl3PkZs5ayRJ4B
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/5c70d5e7cc1f0128eaeaeba353da5adaf7775ad6
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/2ec6f080e40c8e0e09dde8786a9b90c8900db05c
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/f7d5e23a78e141fddd14ad42e028fa0943d4c39c
-      width: 64
+  spotify-id: 1vONbFftSl3PkZs5ayRJ4B
 - date: 2013-01-25
   artist: Supergrass
   title: I Should Coco
   twitter: https://twitter.com/BBC6Music/status/294720984169189376
   review: http://www.bbc.co.uk/music/reviews/wn9x
-  spotify:
-    artists:
-    - Supergrass
-    name: I Should Coco
-    album_id: 3YfIjaJEWqiSbKPguS9Bxd
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/333f2b19c0323396cf8cef00424e24a8c8433459
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/66fa1e206cb804815e908ab3bc072dd2406e1c6b
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/f2a9c738b00c846f42b82e5473031172061a2c79
-      width: 64
+  spotify-id: 3YfIjaJEWqiSbKPguS9Bxd
 - date: 2013-01-24
   artist: Toro y Moi
   title: Anything in Return
   twitter: https://twitter.com/BBC6Music/status/294366954595172352
   review: http://www.bbc.co.uk/music/reviews/x828
-  spotify:
-    artists:
-    - Toro Y Moi
-    name: Anything in Return
-    album_id: 6WUioz2k9ARaHrh7dYpNoF
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/4a0debcb0cab04e1ee057039a5a734c6fa7abfb3
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/2566d7979bc36dd9d8bbaf8b6fda51c58250f8eb
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/0d4bf23c2a1cacccee607f0d262804328f3d46e0
-      width: 64
+  spotify-id: 6WUioz2k9ARaHrh7dYpNoF
 - date: 2013-01-23
   artist: Unknown Mortal Orchestra
   title: II
   twitter: https://twitter.com/BBC6Music/status/293999790704951296
   review: http://www.bbc.co.uk/music/reviews/4bzb
-  spotify:
-    artists:
-    - Unknown Mortal Orchestra
-    name: II
-    album_id: 41C5iULlHU9sMYiekI75Pn
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b579fd6ec8b4e9ea92dac99cd965934f14520f22
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/ae7b8ab6d6d7e4dd944ca038c00880e9724ab0cf
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/315fc9131cec8bb057b14e17ee7e37d2c93646bf
-      width: 64
+  spotify-id: 41C5iULlHU9sMYiekI75Pn
 - date: 2013-01-22
   artist: Wave Machines
   title: Pollen
   twitter: https://twitter.com/BBC6Music/status/293634583428210688
   review: http://www.bbc.co.uk/music/reviews/m4q4
-  spotify:
-    artists:
-    - Wave Machines
-    name: Pollen
-    album_id: 4C0tcx42GntvztT3HJr95e
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b0adf68ad8d74f46f399efa2179a35f5be74f2d0
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/04b8a0d7f1e87a498a248897374f9ccc611b95f1
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/98b33f81124b8b8ab15cb4e8e592d94209450f27
-      width: 64
+  spotify-id: 4C0tcx42GntvztT3HJr95e
 - date: 2013-01-21
   artist: I Am Kloot
   title: Let It All In
@@ -1250,102 +408,27 @@
   artist: Dutch Uncles
   title: Out of Touch in the Wild
   review: http://www.bbc.co.uk/music/reviews/f6b6
-  spotify:
-    artists:
-    - Dutch Uncles
-    name: Out of Touch in the Wild
-    album_id: 1QmxjQ0c2TQpWQ5qeaW4Ev
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/d9a69ba71697fa9971fb9ebd247bd29e9df915cf
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/d924334659faa6e559b57c4a88df77b94add174b
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/34f483b991332be56a5d5b38e67ff793e424a7b4
-      width: 64
+  spotify-id: 1QmxjQ0c2TQpWQ5qeaW4Ev
 - date: 2013-01-17
   artist: Talk Talk
   title: Natural Order
   review: http://www.bbc.co.uk/music/reviews/92x2
-  spotify:
-    artists:
-    - Talk Talk
-    name: Natural Order 1982 - 1991
-    album_id: 76ZOmdq69NGwSxlVyc7peJ
-    type: compilation
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/3e629cee69cb0c80406b8ca34231f6ec768839fa
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/a4ba831b0fcc971492aeb16f90b9428f094c7ce8
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/2b6834686eb448bd0c04853f373f5406f33d1a46
-      width: 64
+  spotify-id: 76ZOmdq69NGwSxlVyc7peJ
 - date: 2013-01-16
   artist: Christopher Owens
   title: Lysandre
   twitter: https://twitter.com/BBC6Music/status/291469363163303937
   review: http://www.bbc.co.uk/music/reviews/hbzb
-  spotify:
-    artists:
-    - Christopher Owens
-    name: Lysandre
-    album_id: 79pZVE4kIdBwRwP27Fw1yJ
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/41b89a4faa22701092451a5269af2e76cea08afd
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/5eb8f623c7afea6737ee9b77f461c6af9681b718
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/d4cf82b042f75f5d7e6ca0950fa7fcaceaf0a3b0
-      width: 64
+  spotify-id: 79pZVE4kIdBwRwP27Fw1yJ
 - date: 2013-01-15
   artist: Villagers
   title: "{Awayland}"
   twitter: https://twitter.com/BBC6Music/status/291092421184462848
   review: http://www.bbc.co.uk/music/reviews/cjrj
-  spotify:
-    artists:
-    - Villagers
-    name: "{Awayland} (Digital Deluxe)"
-    album_id: 4fD1uoU05A4d9A7sb2YcCr
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/45f2648e6eafb625f0bbc13bbb393a17ed985a1d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/edfb3d667a754d5528358d41ab1a9b768a3bc336
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/7b82399c1402ae594565f20e587abaae84efb6aa
-      width: 64
+  spotify-id: 4fD1uoU05A4d9A7sb2YcCr
 - date: 2013-01-14
   artist: Everything Everything
   title: Arc
   twitter: https://twitter.com/BBC6Music/status/290741328994791425
   review: http://www.bbc.co.uk/music/reviews/4gcg
-  spotify:
-    artists:
-    - Everything Everything
-    name: Arc (Deluxe)
-    album_id: 54rCSZQzGYQtllqSdIJ1M7
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/cc090a7b56db043475a51d5c10ba8fd2c8eb54be
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/dc29f2e80dae846ffb55c506470e41c9dbfdae74
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/f44c46eb4ee084719e016c5d04d0e7eacb0357a9
-      width: 64
+  spotify-id: 54rCSZQzGYQtllqSdIJ1M7

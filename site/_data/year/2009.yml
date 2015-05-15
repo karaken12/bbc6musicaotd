@@ -3,21 +3,7 @@
   artist: Snow Patrol
   title: Up to Now
   review: http://www.bbc.co.uk/music/reviews/9qvh
-  spotify:
-    artists:
-    - Snow Patrol
-    name: Up To Now
-    album_id: 61ydlH3GzijGrRrivGZASi
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/805677f4934b3fa2add7313dc11ea0d3306edb98
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/d96711b7996749db3e28d6ca38efe6ec683affcc
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/ff821b754b3ee499a6c8e5ed2c921dec6675d039
-      width: 64
+  spotify-id: 61ydlH3GzijGrRrivGZASi
 - date: 2009-12-08
   artist: Frankie Goes to Hollywood
   title: Frankie Say Greatest
@@ -26,22 +12,7 @@
   artist: Foo Fighters
   title: Greatest Hits
   review: http://www.bbc.co.uk/music/reviews/496m
-  spotify:
-    artists:
-    - Foo Fighters
-    name: Greatest Hits
-    album_id: 1zCNrbPpz5OLSr6mSpPdKm
-    type: compilation
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/d181666ebeda1aa062a5f0250b85be6150badd0f
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/9ed1dc82d30f1b519a97659f401c2397cfd68878
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/e08a4a69c8c83ecf2437f15ba706db3f35106a6b
-      width: 64
+  spotify-id: 1zCNrbPpz5OLSr6mSpPdKm
 - date: 2009-12-04
   artist: Various Artists
   title: A Complete Introduction to Tamla Motown
@@ -54,703 +25,184 @@
   artist: Kraftwerk
   title: Trans Europe Express
   review: http://www.bbc.co.uk/music/reviews/fgfd
-  spotify:
-    artists:
-    - Kraftwerk
-    name: Trans Europe Express (2009 Remastered Version)
-    album_id: 0HHRIVjvBcnTepfeRVgS2f
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/961a19794fcb452928010195273079dfbdcb5217
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/8c7dd60a81f387d0e3a3d80f2d64b23a2908d8dc
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/709115a56441fc5e0d1f05385703638a5be0d753
-      width: 64
+  spotify-id: 0HHRIVjvBcnTepfeRVgS2f
 - date: 2009-12-02
   artist: Kraftwerk
   title: The Man Machine
   review: http://www.bbc.co.uk/music/reviews/bjb6
-  spotify:
-    artists:
-    - Kraftwerk
-    name: The Man Machine (2009 Remastered Version)
-    album_id: 3eyz60xEK5dGEeZF1JJSi9
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/2ed4bd5e72af30abc5fee42dd58f2f31961a2fe3
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/916da41b713993c9a7b6d957f304da51bdea9347
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/95c56a533fc0ef4abf71319ad20f2c7af023fb8a
-      width: 64
+  spotify-id: 3eyz60xEK5dGEeZF1JJSi9
 - date: 2009-12-02
   artist: Kraftwerk
   title: Autobahn
   review: http://www.bbc.co.uk/music/reviews/jzj9
-  spotify:
-    artists:
-    - Kraftwerk
-    name: Autobahn (2009 Remastered Version)
-    album_id: 0DzC0tyowMi2O9QfkDRvfJ
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/59ebf78a594c1f7dd7869711cb8aa21479cc2dea
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/15b21c419e1c49bfe61f4fcdb8a8d641d693e130
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/6367254d95e141108d9c69073ba41a4a39177cd6
-      width: 64
+  spotify-id: 0DzC0tyowMi2O9QfkDRvfJ
 - date: 2009-12-01
   title: Out Come the Freaks! An Island Post Punk Anthology
   type: compilation
   review: http://www.bbc.co.uk/music/reviews/4czb
-  spotify:
-    artists:
-    - Various Artists
-    name: Island Records Post Punk Box Set - Out Come The Freaks
-    album_id: 0THgn0SNHFx0tqqYqQlt4R
-    type: album
-    images:
-    - height: 639
-      url: https://i.scdn.co/image/a34b0288f843b7a1ff0fb5a7488b49909cf52448
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/4ddbe270c7c1072d8939b73021ea5a7a135af373
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/ad8d82553ef3bdce4dd63f40e1482974d06f1b98
-      width: 64
+  spotify-id: 0THgn0SNHFx0tqqYqQlt4R
 - date: 2009-11-30
   artist: Nirvana
   title: Live at Reading
   review: http://www.bbc.co.uk/music/reviews/g4rj
-  spotify:
-    artists:
-    - Nirvana
-    name: Live at Reading
-    album_id: 7xAzFnsPL6Bv84Cgvpg3yj
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/fcf9abf2aaf3737283b4f76a1a050b714dc2708f
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/f887139b1ac566e4ba7947daf20bbdbe831652fe
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/7caf701038e6463c51cf1f89e44276fe95087872
-      width: 64
+  spotify-id: 7xAzFnsPL6Bv84Cgvpg3yj
 - date: 2009-11-27
   artist: Björk
   title: Post
   review: http://www.bbc.co.uk/music/reviews/3pm5
-  spotify:
-    artists:
-    - Björk
-    name: Post
-    album_id: 6k9dsZpHS3DUsv8FFBQkib
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b452916cdc8ce957049c82f0371f98ebdd7445bd
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/3a31f2e3e29f401f9b5f7fa8bd4d0f55ed3c74ab
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/63382e3691c334b2e4c2817cb75a7dbb9aea1808
-      width: 64
+  spotify-id: 6k9dsZpHS3DUsv8FFBQkib
 - date: 2009-11-26
   artist: Sly & The Family Stone
   title: There’s a Riot Goin’ On
   review: http://www.bbc.co.uk/music/reviews/m328
-  spotify:
-    artists:
-    - Sly & The Family Stone
-    name: There's A Riot Goin' On
-    album_id: 0ihYToxMgYcuHuxOKjGQKO
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/994e07f05d03672c800f638587aba996c5267ddb
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/fa7b6d1638187e616cf814ed82ef9450d3f0d4ac
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/d6381e7da622e6cb8434c6359e695b37038e13a3
-      width: 64
+  spotify-id: 0ihYToxMgYcuHuxOKjGQKO
 - date: 2009-11-25
   artist: Spiritualized
   title: Ladies and Gentlemen We Are Floating in Space
   review: http://www.bbc.co.uk/music/reviews/2qvh
-  spotify:
-    artists:
-    - Spiritualized
-    name: Ladies & Gentlemen We Are Floating In Space
-    album_id: 4GMgNPA4fMv3U0QQsdRLJk
-    images:
-    - height: 639
-      url: https://i.scdn.co/image/c071954cee2f1be4a23ef81ae8b08daa09d2bafa
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/5b8b5ca30f92b70aa63e42f1140267e5b4bd2407
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/6d5f2b199bc1bd2b9f600963b1d108cb712f69ce
-      width: 64
+  spotify-id: 4GMgNPA4fMv3U0QQsdRLJk
 - date: 2009-11-24
   artist: Local Natives
   title: Gorilla Manor
   review: http://www.bbc.co.uk/music/reviews/zq8r
-  spotify:
-    artists:
-    - Local Natives
-    name: Gorilla Manor
-    album_id: 0r5Ish3BCwLoJ1nPtZtLbc
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/2bb32062e0208dac9d4d5208000a9afb23052aa6
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/df5e2d873b1efd11141867fec781fcc057874782
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/ef920f7c73ff54e6fd7fb74e8967b57905607a57
-      width: 64
+  spotify-id: 0r5Ish3BCwLoJ1nPtZtLbc
 - date: 2009-11-23
   artist: Tom Waits
   title: Glitter & Doom Live
   review: http://www.bbc.co.uk/music/reviews/gjwx
-  spotify:
-    artists:
-    - Tom Waits
-    name: Glitter And Doom Live
-    album_id: 1yELCMs6eqG7VCZwKdhazj
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/6acbfcfdac0e8d25f843ec3472eefe3262b96d85
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/9749ff46b3b5a0aea88e31f77317a3825f776c21
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/4e4fec34302a173671ee0d85eb3b3c9bf20b8ef8
-      width: 64
+  spotify-id: 1yELCMs6eqG7VCZwKdhazj
 - date: 2009-11-20
   artist: Orbital
   title: Orbital
   review: http://www.bbc.co.uk/music/reviews/dfwx
-  spotify:
-    artists:
-    - Orbital
-    name: Orbital
-    album_id: 4xlGmLv1KsyhEKqPK7gmPK
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/7a9aa53e4ae75f4b6dbdd948cf4efff8708eef9a
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/d4c41fac75caed6d17b902dc06064acdfbfc60ea
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/0c85616f0606fdb416104813c9715905a4ba543a
-      width: 64
+  spotify-id: 4xlGmLv1KsyhEKqPK7gmPK
 - date: 2009-11-19
   artist: Various Artists
   title: Rough Trade Shops – Indiepop 09
   review: http://www.bbc.co.uk/music/reviews/vq8r
-  spotify:
-    artists:
-    - Various Artists
-    name: 'Rough Trade Shops: Indiepop ''09'
-    album_id: 7rit2xMRcLGbeGQYoknfgH
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/fdfe4084fd7963ad59de01b768de8bd9fa46502f
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/d7da47ec8ecb873756b5ad874145eea8f49a1e7e
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/83bc268e35ce9837791c2576f5eba027f2ea73b7
-      width: 64
+  spotify-id: 7rit2xMRcLGbeGQYoknfgH
 - date: 2009-11-18
   artist: Mazzy Star
   title: So Tonight That I Might See
   review: http://www.bbc.co.uk/music/reviews/wjb6
-  spotify:
-    artists:
-    - Mazzy Star
-    name: So Tonight That I Might See
-    album_id: 5K18gTgac0q6Jma5HkV1vA
-    images:
-    - height: 633
-      url: https://i.scdn.co/image/415d1ad15255a04ff7942473596ebfc3dd98b558
-      width: 640
-    - height: 297
-      url: https://i.scdn.co/image/ae2b289c5f15bc6af166a4c7a7d4766ecf11ff39
-      width: 300
-    - height: 63
-      url: https://i.scdn.co/image/3400ed7693382c0b70f7d840264d8eed51db7b0a
-      width: 64
+  spotify-id: 5K18gTgac0q6Jma5HkV1vA
 - date: 2009-11-17
   artist: Paul Weller
   title: 'Paul Weller: Deluxe Edition'
   review: http://www.bbc.co.uk/music/reviews/xb9p
-  spotify:
-    artists:
-    - Paul Weller
-    name: Paul Weller (Deluxe Edition)
-    album_id: 04ZvzEV1Qz9hQ4FPmbXtyP
-    images:
-    - height: 588
-      url: https://i.scdn.co/image/05c86f3a653182168987dbcf23d61fe73375e0a7
-      width: 640
-    - height: 276
-      url: https://i.scdn.co/image/bf0599f4b57cad1ce42c0548bd7358f79d5395cf
-      width: 300
-    - height: 59
-      url: https://i.scdn.co/image/35fd10d213c716342d3a553edbc25a7b7703d859
-      width: 64
+  spotify-id: 04ZvzEV1Qz9hQ4FPmbXtyP
 - date: 2009-11-16
   artist: Them Crooked Vultures
   title: Them Crooked Vultures
   review: http://www.bbc.co.uk/music/reviews/qmnv
-  spotify:
-    artists:
-    - Them Crooked Vultures
-    name: Them Crooked Vultures
-    album_id: 2Tue2cd1zxKZdsVevrH0iS
-    images:
-    - height: 636
-      url: https://i.scdn.co/image/33e094d2ef9e543adef1290c87687235fb68133f
-      width: 640
-    - height: 298
-      url: https://i.scdn.co/image/de7273ae10ddfddd107a98ae748cd9741708503a
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/7bdc78ab97462ef7aa589c858fa413b5a691be00
-      width: 64
+  spotify-id: 2Tue2cd1zxKZdsVevrH0iS
 - date: 2009-11-13
   artist: Luke Haines
   title: 21st Century Man
   review: http://www.bbc.co.uk/music/reviews/d4rj
-  spotify:
-    artists:
-    - Luke Haines
-    name: 21st Century Man
-    album_id: 4bE6pF83PqmunqJaRMNYUN
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/7ae5f67aff9b9720971f5bdb815dec1127fdb1b5
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/30a14fd5f6dd42d2178286e23345a12baac05ad2
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a587cd5c4d924e9eec40b5fc8380c05edf302b64
-      width: 64
+  spotify-id: 4bE6pF83PqmunqJaRMNYUN
 - date: 2009-11-12
   artist: Flight of the Conchords
   title: I Told You I Was Freaky
   review: http://www.bbc.co.uk/music/reviews/pfwx
-  spotify:
-    artists:
-    - Flight Of The Conchords
-    name: I Told You I Was Freaky
-    album_id: 3ZyzPCfcExx2AHKdnSFKPg
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/6bb7e4a64ea72aa2e1c83e5ab966cc765156ab54
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e2d1cff1aa06996c1ac35f92d9d882c574f76132
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/1ad6d7fb64e22e9873519f49d3c53e4197dea0b4
-      width: 64
+  spotify-id: 3ZyzPCfcExx2AHKdnSFKPg
 - date: 2009-10-28
   artist: Morrissey
   title: Swords
   review: http://www.bbc.co.uk/music/reviews/hwd3
-  spotify:
-    artists:
-    - Morrissey
-    name: Swords
-    album_id: 7gUbLZuSb2DDIxLQ8zIBXl
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/c1874476dc06821a888b12514bdd9f008d696298
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/5be08ecb8a1cbff5a34bdd89b2214ffe43f78619
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/b3fb5fcfddee4445d6c83dc84c3635139fe0bada
-      width: 64
+  spotify-id: 7gUbLZuSb2DDIxLQ8zIBXl
 - date: 2009-10-23
   artist: The Who
   title: Who's Next
   review: http://www.bbc.co.uk/music/reviews/98zf
-  spotify:
-    artists:
-    - The Who
-    name: Who's Next (Remastered)
-    album_id: 3ipneUq3vZhmTXOFZMoHkf
-    images:
-    - height: 577
-      url: https://i.scdn.co/image/57f64eebbd06418cdcb52738afd4e2a0452c4cff
-      width: 640
-    - height: 270
-      url: https://i.scdn.co/image/2aaa97df57289b00162a1a672e7223de941e12ba
-      width: 300
-    - height: 58
-      url: https://i.scdn.co/image/7ff86c56ee589f34a12e439a26c76be05da221ef
-      width: 64
+  spotify-id: 3ipneUq3vZhmTXOFZMoHkf
 - date: 2009-10-22
   artist: The Flaming Lips
   title: Embryonic
   review: http://www.bbc.co.uk/music/reviews/6fbd
-  spotify:
-    artists:
-    - The Flaming Lips
-    name: Embryonic
-    album_id: 4YznyQ3oHQEIlx9RRnzDJ7
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/3d6475215f416bbefc9aa35481b859f68b53ee22
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/7c42fd5a884dbc4fe1cea7c895e6fd5afc5b9755
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/0c374e14c1eb9e191a5ae1a06b4896dceb4cadcd
-      width: 64
+  spotify-id: 4YznyQ3oHQEIlx9RRnzDJ7
 - date: 2009-10-21
   artist: Lush
   title: Lovelife
   review: http://www.bbc.co.uk/music/reviews/5gfd
-  spotify:
-    artists:
-    - Lush
-    name: Lovelife
-    album_id: 6YKbfqrJ9GvbasmXnSkFXj
-    images:
-    - height: 624
-      url: https://i.scdn.co/image/5901b4224cbb54d44f1857cb1a915274ea769003
-      width: 640
-    - height: 293
-      url: https://i.scdn.co/image/197e8fdd96179ae2b4b10f10447e3488d5870939
-      width: 300
-    - height: 62
-      url: https://i.scdn.co/image/726eca16e81bf8564cc506c538414e88cf92a937
-      width: 64
+  spotify-id: 6YKbfqrJ9GvbasmXnSkFXj
 - date: 2009-10-20
   artist: Seasick Steve
   title: Man From Another Time
   review: http://www.bbc.co.uk/music/reviews/fpm5
-  spotify:
-    artists:
-    - Seasick Steve
-    name: Man From Another Time
-    album_id: 0Hm4CenQ9GyDF3GXeO8amy
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/99b588bf7226c6620a1d988c101d9daacf3fbcbe
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/8cc2d7fe812eeeafa2ff9520556210db498dae06
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/9818702ef02a108f722c4fbd0cb10680d88d043e
-      width: 64
+  spotify-id: 0Hm4CenQ9GyDF3GXeO8amy
 - date: 2009-10-19
   artist: Kings of Convenience
   title: Declaration of Dependence
   review: http://www.bbc.co.uk/music/reviews/2vcg
-  spotify:
-    artists:
-    - Kings Of Convenience
-    name: Declaration Of Dependence
-    album_id: 0Giakz9l0EP5Mc7zEh2lk0
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/a9de7f08d18e473ef40a17a20d0b7764917c084d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e5d624fbc447f18f243a59eefeceb714d86465bd
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/f0ed006594c23819198467a4d62122e392badeb2
-      width: 64
+  spotify-id: 0Giakz9l0EP5Mc7zEh2lk0
 - date: 2009-10-16
   artist: Idlewild
   title: Post Electric Blues
   review: http://www.bbc.co.uk/music/reviews/ww9x
-  spotify:
-    artists:
-    - Idlewild
-    name: Post Electric Blues
-    album_id: 3jm1h1lYTAxJaCSQSqAReU
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/73eb69b8ca2db778489ccd5b6f6ef69cb15b27f1
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/dd6d768e443fe79effaa33810dd389390db3b6fb
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/37984c918c460c031c0bd24161662250e1f22291
-      width: 64
+  spotify-id: 3jm1h1lYTAxJaCSQSqAReU
 - date: 2009-10-15
   artist: The Raveonettes
   title: In and Out of Control
   review: http://www.bbc.co.uk/music/reviews/n5vh
-  spotify:
-    artists:
-    - The Raveonettes
-    name: In And Out Of Control
-    album_id: 1TuFOFP36U3pipCKyE1ZWj
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/1621800b93357e5d989c0d66c7bfdb4577f268db
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/24da5f296e301a114fab7ab316e29d1c45959fd6
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/1157119ec8122537b63dfe9b7ef1a6672727a880
-      width: 64
+  spotify-id: 1TuFOFP36U3pipCKyE1ZWj
 - date: 2009-10-13
   artist: Echo & The Bunnymen
   title: The Fountain
   review: http://www.bbc.co.uk/music/reviews/p328
-  spotify:
-    artists:
-    - Echo And The Bunnymen
-    name: The Fountain
-    album_id: 7hbcnsaUBPgOhQA3MJenLT
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/98db21c6a13ab7bdb128680f45a645950bc5bc85
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/8c3cb36a65846b6e42b48e8f54f91711efaa6331
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/fd64eef1873cd725b9187351d35803d6e95e4c75
-      width: 64
+  spotify-id: 7hbcnsaUBPgOhQA3MJenLT
 - date: 2009-10-12
   artist: Editors
   title: In This Light and on This Evening
   review: http://www.bbc.co.uk/music/reviews/d6pn
-  spotify:
-    artists:
-    - Editors
-    name: In This Light And On This Evening
-    album_id: 55G6kC2dMIMS82ULG0nIz3
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/f9e66e084713294fe76b8eec8bbb627ce9ed6254
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/2ffd5d82754bdec6b82593a421e20ce1f48da016
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/c2527117ea6984a2d36bc8062c05d4d5763475a4
-      width: 64
+  spotify-id: 55G6kC2dMIMS82ULG0nIz3
 - date: 2009-10-09
   artist: PJ Harvey
   title: Rid of Me
   review: http://www.bbc.co.uk/music/reviews/9x3q
-  spotify:
-    artists:
-    - PJ Harvey
-    name: Rid Of Me
-    album_id: 215g9jBzdRufNn0uFN1VZN
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/864156e34c3d692f41ea41d0fb1a2e1183bf4dac
-      width: 639
-    - height: 300
-      url: https://i.scdn.co/image/e95f4de6ab88f9454a9f9947186427e832ff343b
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/014726dfce6f497ef0d975fc29dd3359d9da346e
-      width: 64
+  spotify-id: 215g9jBzdRufNn0uFN1VZN
 - date: 2009-10-08
   artist: Zero 7
   title: Yeah Ghost
   review: http://www.bbc.co.uk/music/reviews/9v4h
-  spotify:
-    artists:
-    - Zero 7
-    name: Yeah Ghost
-    album_id: 2pM7f9qa3SZCkI5NeGjsa5
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/6c881901af480a80386cff545f205f773f53f09d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/f92e8e25f22cce3e4fa1ac99a12b605278a4df23
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a942c3d8c9132c15a5950cf2806ac14fabb539fc
-      width: 64
+  spotify-id: 2pM7f9qa3SZCkI5NeGjsa5
 - date: 2009-10-07
   artist: Alice in Chains
   title: Black Gives Way to Blue
   review: http://www.bbc.co.uk/music/reviews/3zgb
-  spotify:
-    artists:
-    - Alice In Chains
-    name: Black Gives Way To Blue
-    album_id: 2vkLky2qG0rziUk0eOsIZ9
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/707c0c084545f24c8741200a63070663f9dbe80d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/d7bfb7729f37082cadb276441119f76bb379e1e4
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/29773fe3d9f719f20f41d5151d064c0aa3af32b2
-      width: 64
+  spotify-id: 2vkLky2qG0rziUk0eOsIZ9
 - date: 2009-10-06
   artist: Mumford and Sons
   title: Sigh No More
   review: http://www.bbc.co.uk/music/reviews/w96m
-  spotify:
-    artists:
-    - Mumford & Sons
-    name: Sigh No More
-    album_id: 1c2Ee269Rj9w8wn8s3qQu9
-    images:
-    - height: 562
-      url: https://i.scdn.co/image/c8addc1b72adf9825405f385d21e72c664ee3590
-      width: 640
-    - height: 263
-      url: https://i.scdn.co/image/e9ad7103c00072d70dd33ddddde9a4ac4d0354ab
-      width: 300
-    - height: 56
-      url: https://i.scdn.co/image/8d9bf7dcd029f0f6a10d1eecd77ea1f81dea2b71
-      width: 64
+  spotify-id: 1c2Ee269Rj9w8wn8s3qQu9
 - date: 2009-10-05
   artist: Air
   title: Love 2
   review: http://www.bbc.co.uk/music/reviews/rhgw
-  spotify:
-    artists:
-    - Air
-    name: Love 2
-    album_id: 2h1ZUZIpJ7cHJ5IoncLA1H
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/690910b1487dadf7bf1ca32b9d9b3f5e421324ae
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/b0f26539154bc90dd34a944c73970245c1526da1
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/df22684e062f97284ccde9384133d56e39d97e5c
-      width: 64
+  spotify-id: 2h1ZUZIpJ7cHJ5IoncLA1H
 - date: 2009-10-02
   artist: The Clash
   title: Sandinista!
   review: http://www.bbc.co.uk/music/reviews/6d63
-  spotify:
-    artists:
-    - The Clash
-    name: Sandinista!
-    album_id: 2UxN3UKyS3Z5r0Sra8A5RF
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/244299dbb608f77f281576af4d19836ca899b7d8
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/bc11a96025cc75597cac8854bb6cbc8f18e67b84
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/7ae2278ba49498eddd803d087483ad8f9464cb7e
-      width: 64
+  spotify-id: 2UxN3UKyS3Z5r0Sra8A5RF
 - date: 2009-10-01
   artist: Monsters of Folk
   title: Monsters of Folk
   review: http://www.bbc.co.uk/music/reviews/fgjw
-  spotify:
-    artists:
-    - Monsters Of Folk
-    name: Monsters Of Folk
-    album_id: 5IYzvGYq475r52HxDuWU58
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/a7ccd698e5691ec687f3ed0685f52e8e710258dd
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/7fce7f0cf61626074c9919f25b7e401abd95107f
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/3c368ef345bb81834c0a422efd51ac5a656770cf
-      width: 64
+  spotify-id: 5IYzvGYq475r52HxDuWU58
 - date: 2009-09-30
   artist: Hope Sandoval & the Warm Inventions
   title: Through the Devil Softly
   review: http://www.bbc.co.uk/music/reviews/dw9x
-  spotify:
-    artists:
-    - Hope Sandoval and the Warm Inventions
-    name: Through the Devil Softly
-    album_id: 7q5fKEq1TT3tAuekDAdhZE
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/def3ce9fdf3c2a030672edcf57a2af8ea35d9a24
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/6c79ad1c6bdcdfcc0a74fa13bfd2cc3b16d70a82
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/274d201ec784107fd1efdce4cb199a040e07de08
-      width: 64
+  spotify-id: 7q5fKEq1TT3tAuekDAdhZE
 - date: 2009-09-28
   artist: Ian Brown
   title: My Way
   review: http://www.bbc.co.uk/music/reviews/8m25
-  spotify:
-    artists:
-    - Ian Brown
-    name: My Way
-    album_id: 1AktNZcFg806a81j37DWcf
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/92d5b69b55d39ed46ff9e3f6e121be038d0699c9
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/7d220c7b7a0e19c0694686afd26156f5dfc252bb
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/84a5691b407bb74f8f67a9e3fb7bb9c275427e18
-      width: 64
+  spotify-id: 1AktNZcFg806a81j37DWcf
 - date: 2009-09-25
   artist: Richard Hawley
   title: Truelove's Gutter
   review: http://www.bbc.co.uk/music/reviews/bcrg
-  spotify:
-    artists:
-    - Richard Hawley
-    name: Truelove's Gutter
-    album_id: 0zVtspcd49i55XA3LY1SSX
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/543280ba03fa66a96d586e76b2461e819c78945f
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e1543709172734a657714d5db97366091235c981
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/ea6eab9290e7ce6f6ff9d795a7690f435ee98c8f
-      width: 64
+  spotify-id: 0zVtspcd49i55XA3LY1SSX

@@ -3,173 +3,47 @@
   artist: Panda Bear
   title: Panda Bear Meets The Grim Reaper
   twitter: https://twitter.com/BBC6Music/status/554656299687116800
-  spotify:
-    artists:
-    - Panda Bear
-    name: Panda Bear Meets The Grim Reaper
-    album_id: 6bHsJXJoEdQTw3tUpHV8iB
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/e2679fdcf27302f425c97924ee0fb74cdbc9bd14
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/040505145ff3caf41ba2cd7966fbb43ecb89f06a
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/baf3d87751f0d45c6c1fbed4fc7438ac428a2a4f
-      width: 64
+  spotify-id: 6bHsJXJoEdQTw3tUpHV8iB
 - date: 2015-01-13
   artist: Ghost Culture
   title: Ghost Culture
   twitter: https://twitter.com/BBC6Music/status/555018623862206464
-  spotify:
-    artists:
-    - Ghost Culture
-    name: Ghost Culture
-    album_id: 6zo4l9WX7kO79T2g6KjsyC
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/c5f915d45772e9c77e3ba37411d864e45c015c0b
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/ab1a8ecccac90686800402aaff8d2407b6bc1b94
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/0bea30a602aa7cf521a4bad63f89976638a66a7d
-      width: 64
+  spotify-id: 6zo4l9WX7kO79T2g6KjsyC
 - date: 2015-01-14
   artist: Belle and Sebastian
   title: Girls in Peacetime Want to Dance
   twitter: https://twitter.com/BBC6Music/status/555382037486792704
-  spotify:
-    artists:
-    - Belle & Sebastian
-    name: Girls in Peacetime Want to Dance
-    album_id: 3Gy0FCDIx9MoliXd3YcTBt
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/90baed20ba7f27636c424e73eb9b2f8071bcbbdf
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/8206f6db27bf94bda35148262c9287ff3ba43263
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/50ff818ef0ba805928c6d38b698a245d251073f0
-      width: 64
+  spotify-id: 3Gy0FCDIx9MoliXd3YcTBt
 - date: 2015-01-15
   artist: The Rolling Stones
   title: The Rolling Stones No. 2
   twitter: https://twitter.com/BBC6Music/status/555744357434019841
-  spotify:
-    artists:
-    - The Rolling Stones
-    name: The Rolling Stones No. 2
-    album_id: 4lzMSOfoyr3LsOuWeve5Cw
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/8d70de023e871561d9516a512954b8dad4e322af
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/1a22b2d8932285090951d42349b9b53e9d3677c2
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/d5bca0b8e22e47486c1bafabdc6d3d0edf121aac
-      width: 64
+  spotify-id: 4lzMSOfoyr3LsOuWeve5Cw
 - date: 2015-01-16
   artist: BC Camplight
   title: How To Die In The North
   twitter: https://twitter.com/BBC6Music/status/556106373625544705
-  spotify:
-    artists:
-    - BC Camplight
-    name: How To Die In The North
-    album_id: 58Ebu0Ics8Tgk1VSqykGXu
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/f051abbd6ca7049a0cd18b5c0acadce19a423a5e
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/0d5c08e3b3f508adb8b7f9077f2b668aa1593c9e
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/e25e28e95decb3038fb48b8e69bc73a0f64b2fdd
-      width: 64
+  spotify-id: 58Ebu0Ics8Tgk1VSqykGXu
 - date: 2015-01-19
   artist: Sleater-Kinney
   title: No Cities To Love
   twitter: https://twitter.com/BBC6Music/status/557193607447576576
-  spotify:
-    artists:
-    - Sleater-Kinney
-    name: No Cities To Love
-    album_id: 4hzSVWntrdQzf9JuTtH4pf
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/6d99538eb387d1ae4b818a55ce28405202276c2c
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/2c2bbb3ddc041cb313b37afd9200d115c1af1135
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/60f2a72482d64ca9d0e9dd6490b9360e3b668fee
-      width: 64
+  spotify-id: 4hzSVWntrdQzf9JuTtH4pf
 - date: 2015-01-20
   artist: Menace Beach
   title: Ratworld
   twitter: https://twitter.com/BBC6Music/status/557556076389072896
-  spotify:
-    artists:
-    - Menace Beach
-    name: Ratworld
-    album_id: 57TkfBuJwisC8WfMB1Ydei
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/caf8fc8f9fdd5d44e4239c5ffc1cae4b31cb5595
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/c09472f0d9d1226cd8c42b83798f2e253458b9a9
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/9ba265062dd0c86c1199290fa0c307aa54675144
-      width: 64
+  spotify-id: 57TkfBuJwisC8WfMB1Ydei
 - date: 2015-01-21
   artist: The Decemberists
   title: What A Terrible World, What A Beautiful World
   twitter: https://twitter.com/BBC6Music/status/557918215981260800
-  spotify:
-    artists:
-    - The Decemberists
-    name: What A Terrible World, What A Beautiful World
-    album_id: 0GDJEXa8wAflEyA3yIOrl2
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/40b4417e40bb6e1fb95e612157c8a553cfa042d4
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/ef17f5e4df45ac50c78367e53a41edf7306ec3e5
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/09443cb93defd77be61479ecbe05d412ed0ab36c
-      width: 64
+  spotify-id: 0GDJEXa8wAflEyA3yIOrl2
 - date: 2015-01-22
   artist: Francisco The Man
   title: Loose Ends
   twitter: https://twitter.com/BBC6Music/status/558281634227978241
-  spotify:
-    artists:
-    - Francisco The Man
-    name: Loose Ends
-    album_id: 1ohZmamTdJSPZyFbDa1nP2
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/e55b43227e775bd1835558dfb33d9e5b7d9d8de1
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/a5f9eb1a573ac71f2bda857e3c6264d71b357f87
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/499f103e194d6ce9648f6f0d65becb24182efe27
-      width: 64
+  spotify-id: 1ohZmamTdJSPZyFbDa1nP2
 - date: 2015-01-23
   artist: The Go-Betweens
   title: Before Hollywood
@@ -177,551 +51,145 @@
 - date: 2015-01-26
   artist: Smashing Pumpkins
   title: Mellon Collie and the Infinite Sadness
-  spotify:
-    artists:
-    - The Smashing Pumpkins
-    name: Mellon Collie and the Infinite Sadness (2012 - Remaster)
-    album_id: 4bPT6Q8ppaSNppk1kbEbLl
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/781f636483f9f08e9f183021e81812cdd0512b7e
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e478c9aa6b08b1816ec54f47a1fbfca38875e0aa
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/89a28e6997c35385dd71237dbffb4d0ca1297584
-      width: 64
+  spotify-id: 4bPT6Q8ppaSNppk1kbEbLl
 - date: 2015-01-27
   artist: The Charlatans
   title: Modern Nature
   twitter: https://twitter.com/BBC6Music/status/559997081658880000
-  spotify:
-    artists:
-    - The Charlatans
-    name: Modern Nature
-    album_id: 092DzkT8yzq5nhlpd1uKqt
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/ad19ffc090b8d0eb43eda33207f493b3ec13ace4
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/f1657a32062955e8a526caaef69dab0937037172
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/5fbd046080b2c0a03b555a75198cbda984b37e10
-      width: 64
+  spotify-id: 092DzkT8yzq5nhlpd1uKqt
 - date: 2015-01-28
   artist: Gaz Coombes
   title: Matador
   twitter: https://twitter.com/BBC6Music/status/560455071872606208
-  spotify:
-    artists:
-    - Gaz Coombes
-    name: Matador
-    album_id: 0IB3YW488VN09LBM75Q77A
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/7b90b918fe06213e451ddf6e887168c78009c3a6
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/25efb5fa901b8505b1ab7f4ac5d8c7414323a4f8
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/35cdb650983529d0c9a1e36f1bd277dc995f081c
-      width: 64
+  spotify-id: 0IB3YW488VN09LBM75Q77A
 - date: 2015-01-29
   artist: Pinkshinyultrablast
   title: Everything Else Matters
-  spotify:
-    artists:
-    - Pinkshinyultrablast
-    name: Everything Else Matters
-    album_id: 5i4chaWK0h50pbc3WJNXhL
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/920a4c2966b487b408c7fdde4ac4648e53cd2da9
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/23bd9cee4c8073a91cdf6e7dccdbeeea482db64f
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/934af76d3d3fbed3dc673702b2a938871816c9a5
-      width: 64
+  spotify-id: 5i4chaWK0h50pbc3WJNXhL
 - date: 2015-01-30
   artist: Boxed In
   title: Boxed In
-  spotify:
-    artists:
-    - Boxed In
-    name: Boxed In
-    album_id: 53Blw4ZLqoSSc5DOXX7Fsp
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/31c2f61ae7bcc30a8766643101c5b119a8809a3a
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/6916156ee3b69b0594bf0201835722e7016e642a
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/d5fec568fbbfafad8f963897dd277c217e27cf76
-      width: 64
+  spotify-id: 53Blw4ZLqoSSc5DOXX7Fsp
 - date: 2015-02-02
   artist: Hanni El Khatib
   title: Moonlight
   twitter: https://twitter.com/BBC6Music/status/562266766978859009
-  spotify:
-    artists:
-    - Hanni El Khatib
-    name: Moonlight
-    album_id: 2mStvdtYvfejFj2jmdinsz
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/63c403a88fd44bc15d386b5e671cc4407b6a8056
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/57e991b2fdd2b4cc7a7831f68a6fa3111dd2dfa4
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/49959fa3fd1dfdf3c08119939c29dbb43d8b4fd1
-      width: 64
+  spotify-id: 2mStvdtYvfejFj2jmdinsz
 - date: 2015-02-03
   artist: Zun Zun Egui
   title: Shackles Gift
   twitter: https://twitter.com/BBC6Music/status/562628875956801536
-  spotify:
-    artists:
-    - Zun Zun Egui
-    name: Shackles Gift
-    album_id: 5osO1C5b0DjtGcLuDueI3I
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/2a0b4d9f24cfa7a2362932c3949a7f0e50cf593a
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/4c289e994ba1a570ff0e717735c38b638d3da4da
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/96791e061c93b4380a8304078b7d584883622b2b
-      width: 64
+  spotify-id: 5osO1C5b0DjtGcLuDueI3I
 - date: 2015-02-04
   artist: All We Are
   title: All We Are
   twitter: https://twitter.com/BBC6Music/status/562991765972873216
-  spotify:
-    artists:
-    - All We Are
-    name: All We Are
-    album_id: 1m8eD0pIs9bPDoMXVLYgjL
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/c5e42daca8fe1526a59b79bbdc9aee890a7aede2
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/9fcd086cd7abdd66405d9e916e68ab5060943fa3
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a9b8042e967e78820e4cde9a65f89fa838fe4fc3
-      width: 64
+  spotify-id: 1m8eD0pIs9bPDoMXVLYgjL
 - date: 2015-02-05
   artist: Roxy Music
   title: For Your Pleasure
   twitter: https://twitter.com/BBC6Music/status/563353676367290369
-  spotify:
-    artists:
-    - Roxy Music
-    name: For Your Pleasure
-    album_id: 6gKMWnGptVs6yT2MgCxw29
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/cef63fdc490b03b894090368ba4b57de40f44268
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/aa6a0559d282a39fb3fb1cfee382c353f8120a21
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/0c5f471fd47870731018bc514f8a1e38946dac16
-      width: 64
+  spotify-id: 6gKMWnGptVs6yT2MgCxw29
 - date: 2015-02-06
   artist: Father John Misty
   title: I Love You, Honeybear
   twitter: https://twitter.com/BBC6Music/status/563716978427592705
-  spotify:
-    artists:
-    - Father John Misty
-    name: I Love You, Honeybear
-    album_id: 7buEcyw6fJF3WPgr06BomH
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/09ac3be0f7cd80783c79e1a1b85416a409e4a6ff
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/53efa566f98ba130f28c23b95bd40136741289ed
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a66a4d1c396bb515434092d5d8dfc0d658970221
-      width: 64
+  spotify-id: 7buEcyw6fJF3WPgr06BomH
 - date: 2015-02-09
   artist: Black Rivers
   title: Black Rivers
   twitter: https://twitter.com/BBC6Music/status/564803874926911490
-  spotify:
-    artists:
-    - Black Rivers
-    name: Black Rivers
-    album_id: 4ZMub3gNq3VR8b3DzonBKQ
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/5b98e7149b9e7d2c2c768bf8e681ea015b69c9fe
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/bd33f40bb092edf71991ec1db53578e468fefd5c
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/82f4ad23604dd74bd665bd437abae38a499a3810
-      width: 64
+  spotify-id: 4ZMub3gNq3VR8b3DzonBKQ
 - date: 2015-02-10
   artist: The Districts
   title: A Flourish and a Spoil
-  spotify:
-    artists:
-    - The Districts
-    name: A Flourish and A Spoil
-    album_id: 2NKtrrrgN4cV9hDntaLb0u
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/c7abf7a3c3722b87a1e7784030a65f9be9e1c88e
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/98a90345d3f48830bfe86a004d792b7faa3edcf0
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/98024ebfd9d3cbe4672138fe1f71aa2cd2a1018a
-      width: 64
+  spotify-id: 2NKtrrrgN4cV9hDntaLb0u
 - date: 2015-02-11
   artist: Silk Rhodes
   title: Silk Rhodes
   twitter: https://twitter.com/BBC6Music/status/565528986340839426
-  spotify:
-    artists:
-    - Silk Rhodes
-    name: Silk Rhodes
-    album_id: 4dQE1rgzd0LpTdPc3Vl4yA
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/023a68d836b39333a9255886e634464933ca385d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e3f991ccbf30720da340e2145b46f9a074bd1e52
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/bb2f04d30a34876fb37450b97a6448fc32503c47
-      width: 64
+  spotify-id: 4dQE1rgzd0LpTdPc3Vl4yA
 - date: 2015-02-12
   artist: The Unthanks
   title: Mount the Air
   twitter: https://twitter.com/BBC6Music/status/565890309759188992
-  spotify:
-    artists:
-    - The Unthanks
-    name: Mount the Air
-    album_id: 0b8aN5YAdL4zBAQxNc30Uf
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/495007442333e5f0ac69ecd003fafbf862918e4e
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/2a73cb373e6d7202e80482b7c677a1059569c593
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/b608a4a16e858683516202483807117fb6c1d351
-      width: 64
+  spotify-id: 0b8aN5YAdL4zBAQxNc30Uf
 - date: 2015-02-13
   artist: Bob Marley & The Wailers
   title: Easy Skanking in Boston '78
   twitter: https://twitter.com/BBC6Music/status/566253007399309313
-  spotify:
-    artists:
-    - Bob Marley & The Wailers
-    name: Easy Skanking In Boston '78
-    album_id: 1SfFIU49Hh3x07wsdqPCRE
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/c6b446a161cc5fb11b72d47833be460045ab7dd1
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/5b1b9896382325d78b2f2e629e78a68054a03557
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/905a04ef771137dcf06c64d5dc6953c6f78a841e
-      width: 64
+  spotify-id: 1SfFIU49Hh3x07wsdqPCRE
 - date: 2015-02-16
   artist: Carl Barat And The Jackals
   title: Let It Reign
   twitter: https://twitter.com/BBC6Music/status/567340713952935936
-  spotify:
-    artists:
-    - Carl Barat And The Jackals
-    name: Let It Reign
-    album_id: 05EUFesm2wcq95fTcyLFBm
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b4d1e69a839b97d4e8971b719d609e31aab8e0fd
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/487549191e5413f12b0a623743fe37482fdd93c8
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a3ca365b9e09d8f6588a9303a845a082c65727f6
-      width: 64
+  spotify-id: 05EUFesm2wcq95fTcyLFBm
 - date: 2015-02-17
   artist: José González
   title: Vestiges & Claws
   twitter: https://twitter.com/BBC6Music/status/567703368806965248
-  spotify:
-    artists:
-    - José González
-    name: Vestiges & Claws
-    album_id: 7dbekHelRxPH8ULPEWdxdJ
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/9b801a46c6c21af2a487797d0ff193543c6fd8d4
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e9ce03c8d84866d593220e9512362a719bc4242e
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/b9c5c697ebf90046d8cd39426f28ad9dfb8fee6b
-      width: 64
+  spotify-id: 7dbekHelRxPH8ULPEWdxdJ
 - date: 2015-02-18
   artist: Marika Hackman
   title: We Slept At Last
   twitter: https://twitter.com/BBC6Music/status/568065174801944577
-  spotify:
-    artists:
-    - Marika Hackman
-    name: We Slept at Last
-    album_id: 7bGKJT7GMChX7lM3txM9Iz
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/5fc20c92406fe04fe8b1f204cf910929d2c20c3d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/bb33edcde24fa052a6fe87cb9c89aa8eec01171c
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/1545b47eb0170d07806bd40b69d65e6ec613d23d
-      width: 64
+  spotify-id: 7bGKJT7GMChX7lM3txM9Iz
 - date: 2015-02-19
   artist: Idlewild
   title: Everything Ever Written
   twitter: https://twitter.com/BBC6Music/status/568427241564213248
-  spotify:
-    artists:
-    - Idlewild
-    name: Everything Ever Written
-    album_id: 4vG8HRbNiijPyQyRIigWba
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/e61c91ed8606330217b6f31d3eeb585e100fbef1
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/6bd0a507029f39fdcf6357f98ffdc7a95d4c5237
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/eda381ce123068afbe71acb620cf3800a93eea6f
-      width: 64
+  spotify-id: 4vG8HRbNiijPyQyRIigWba
 - date: 2015-02-20
   artist: The Futureheads
   title: The Futureheads
-  spotify:
-    artists:
-    - The Futureheads
-    name: The Futureheads
-    album_id: 1iN1V1c3nuAasssfCribNl
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/0f208b37a4f7b6a445a84b7761d6075ff2c38185
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/a997f7e9048cae30103f6104b4f574f7a197b277
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/b28de224815df7a16090ffbee11cf8397418c542
-      width: 64
+  spotify-id: 1iN1V1c3nuAasssfCribNl
 - date: 2015-02-23
   notes: Don't think they had one (playing lots from the 6Music Festival).
 - date: 2015-02-24
   artist: The Pop Group
   title: Citizen Zombie
   twitter: https://twitter.com/BBC6Music/status/570239291474862083
-  spotify:
-    artists:
-    - The Pop Group
-    name: Citizen Zombie
-    album_id: 07sdLJORy8VisgF9Gmb0wo
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/c72d8d0e98b864115424b27defd1461221e13dbe
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/8fe0321964f3aae351572c22e24967d973d22347
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/3eebbfc81ec1005255815c70450ad3abe153c3d2
-      width: 64
+  spotify-id: 07sdLJORy8VisgF9Gmb0wo
 - date: 2015-02-25
   artist: Public Service Broadcasting
   title: The Race For Space
   twitter: https://twitter.com/BBC6Music/status/570602392653316096
-  spotify:
-    artists:
-    - Public Service Broadcasting
-    name: The Race For Space
-    album_id: 65KwtzkJXw7oT819NFWmEP
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/7af34b704cbec22651cabc7d6ef4cfa0fdfdc625
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/a4ef8061758da36906ece33abd506737ecb03ca8
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a358780c50fff6eb04284861610f01c982f0d283
-      width: 64
+  spotify-id: 65KwtzkJXw7oT819NFWmEP
 - date: 2015-02-26
   artist: Songhoy Blues
   title: Music In Exile
   twitter: https://twitter.com/BBC6Music/status/570964306537394176
-  spotify:
-    artists:
-    - Songhoy Blues
-    name: Music in Exile
-    album_id: 03uzjUD03Rtobppd6gesIC
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/22d4ce43e9c9b9cf33c046a2412d218447031075
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/80c072fb76ee59a729744db23e2e0a218dbfcfb1
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/6536357c9f9e41d4e3ff6c86340e082285a3c924
-      width: 64
+  spotify-id: 03uzjUD03Rtobppd6gesIC
 - date: 2015-02-27
   artist: Radiohead
   title: The Bends
   twitter: https://twitter.com/BBC6Music/status/571229669611184128
-  spotify:
-    artists:
-    - Radiohead
-    name: The Bends
-    album_id: 6Lmj92VLXz7Z5xcsjXBMSC
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/5930ff2ec8be19a6d76ef1e1d181d4ed4803c0fc
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/9a251a9ea3e80d65d8e41a05823295fb74fec088
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/19d24b5482c1ecefc9858f96ca54cd87b6a27387
-      width: 64
+  spotify-id: 6Lmj92VLXz7Z5xcsjXBMSC
 - date: 2015-03-02
   artist: Noel Gallagher's High Flying Birds
   title: Chasing Yesterday
   twitter: https://twitter.com/BBC6Music/status/572412945126305793
-  spotify:
-    artists:
-    - Noel Gallagher's High Flying Birds
-    name: Chasing Yesterday
-    album_id: 5Ngc0q3qKwp8buErZy96vs
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/ec5cf3b13f3097ff4f0b96e98ca2bfe903f0a543
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/854af7ef5357bc001e514dea9cb1b8f4efc79d5a
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/3e61e473cc622f2dda51af8f9ac91f119158765d
-      width: 64
+  spotify-id: 5Ngc0q3qKwp8buErZy96vs
 - date: 2015-03-03
   artist: Ghostpoet
   title: Shedding Skin
   twitter: https://twitter.com/BBC6Music/status/572772719940513792
-  spotify:
-    artists:
-    - Ghostpoet
-    name: Shedding Skin
-    album_id: 7pmp7mopLSAChGiAlgQs2D
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/698a6d60ef5d7355ec816861f4a2556558a56f77
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/3e68064483a9b462c126dd0ce136bb9376d85bff
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/459a61e59b3fa3c5c0eb3d0ca8fe3db72b8fe7e7
-      width: 64
+  spotify-id: 7pmp7mopLSAChGiAlgQs2D
 - date: 2015-03-04
   artist: Dutch Uncles
   title: Shudder
   twitter: https://twitter.com/BBC6Music/status/573137946238435329
-  spotify:
-    artists:
-    - Dutch Uncles
-    name: O Shudder
-    album_id: 7EEHgEWuVqvoxxcUd7xbUZ
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/d66919376cf55352a2edf50b8ad49f99b24b32c0
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/515a1d1e16a2355ddf31c1a62b139b689a8714e0
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/cbe4f58e264384e1c04034b4e84f83499cfa431d
-      width: 64
+  spotify-id: 7EEHgEWuVqvoxxcUd7xbUZ
 - date: 2015-03-05
   artist: Dan Deacon
   title: Gliss Riffer
   twitter: https://twitter.com/BBC6Music/status/573501849275363328
-  spotify:
-    artists:
-    - Dan Deacon
-    name: Gliss Riffer
-    album_id: 05cihLeGrisaOseQdhxDcr
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/bd00c99e9d34a8bbbbb1f165da2079b1e5f31796
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/fda8afe178f7c51e8c9716fffe36b7cb609335ef
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/d6d070443e44f3d90204af92af9c750a62086122
-      width: 64
+  spotify-id: 05cihLeGrisaOseQdhxDcr
 - date: 2015-03-06
   artist: Maxïmo Park
   title: A Certain Trigger
   twitter: https://twitter.com/BBC6Music/status/573862856241868800
-  spotify:
-    artists:
-    - Maximo Park
-    name: A Certain Trigger
-    album_id: 5AMY7GZtT4hz0h4O7OBUz4
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/a29134e75ed4353fcc2bc3b31de766fd9e925143
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/47e58b8c6ae9a323ef4afbf64e6250066fdfcba8
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/47324997d2b371137c470f69a513a46e2e723e99
-      width: 64
+  spotify-id: 5AMY7GZtT4hz0h4O7OBUz4
 - date: 2015-03-09
   artist: Björk
   title: Vulnicura
@@ -729,59 +197,17 @@
   artist: Matthew E. White
   title: Fresh Blood
   twitter: https://twitter.com/BBC6Music/status/575312520480694272
-  spotify:
-    artists:
-    - Matthew E. White
-    name: Fresh Blood
-    album_id: 5OGJgAhcBPAUIHX5x47eDK
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/2fb2fab4869ba5d9a19c132fe33dc449142d17f4
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e91bd241c9761b14b53ac3051fe2d7bca41e17c0
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/231e7a75ff09daa258f129926edbb86db8096ecd
-      width: 64
+  spotify-id: 5OGJgAhcBPAUIHX5x47eDK
 - date: 2015-03-11
   artist: Gang of Four
   title: What Happens Next
   twitter: https://twitter.com/BBC6Music/status/575674585510715392
-  spotify:
-    artists:
-    - Gang Of Four
-    name: What Happens Next
-    album_id: 5GR1U8Niv6VpRERmm6EywI
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/c5a3570db715c898102bc2c71932a02fe579680b
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/0d2e24a38f30eaac0e7deffc5bfd5bd423065947
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/331232097cbf51018608f7c4e439beb137f044d4
-      width: 64
+  spotify-id: 5GR1U8Niv6VpRERmm6EywI
 - date: 2015-03-12
   artist: Will Butler
   title: Policy
   twitter: https://twitter.com/BBC6Music/status/576037586898153472
-  spotify:
-    artists:
-    - Will Butler
-    name: Policy
-    album_id: 3skSkUIi340Fp7KzUAxTBW
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/5c37cb23a1ef50258e56b269930f3a1ad27d1971
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/49a4b395554c53b1bd20e773e24fe0c88981ed15
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/474052f7aac666d39d9b4aedffa053587a0b6095
-      width: 64
+  spotify-id: 3skSkUIi340Fp7KzUAxTBW
 - date: 2015-03-13
   artist: T. Rex
   title: Singles Box Set
@@ -789,21 +215,7 @@
   artist: Modest Mouse
   title: Strangers To Ourselves
   twitter: https://twitter.com/BBC6Music/status/577486771782594561
-  spotify:
-    artists:
-    - Modest Mouse
-    name: Strangers to Ourselves
-    album_id: 6iKqPv9C5oU29LR82N8lJf
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b6b24353f626ea5c947d66b0f805833288d10106
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/dc585bab06606108e38996ac74de0c87b29f4888
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/82429558fab00bda77238845898ee586aaeccc2b
-      width: 64
+  spotify-id: 6iKqPv9C5oU29LR82N8lJf
 - date: 2015-03-17
   notes: |
     I think we had 6MRecommends instead of an aotd
@@ -829,132 +241,37 @@
   artist: Seasick Steve
   title: Sonic Soul Surfer
   twitter: https://twitter.com/BBC6Music/status/578211448674979840
-  spotify:
-    artists:
-    - Seasick Steve
-    name: Sonic Soul Surfer
-    album_id: 4m6XAOBmTMRu5RiW07SyTR
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/173e271ac96cdddac6d195060d14575814e6c727
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/5c085846b0d7965172a1f40646630472665fdc11
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/2b654d8dc91803a459514e718deac4dfbf0a3461
-      width: 64
+  spotify-id: 4m6XAOBmTMRu5RiW07SyTR
 - date: 2015-03-19
   artist: Courtney Barnett
   title: Sometimes I Sit and Think, and Sometimes I Just Sit
   twitter: https://twitter.com/BBC6Music/status/578573830026850307
-  spotify:
-    artists:
-    - Courtney Barnett
-    name: Sometimes I Sit and Think, and Sometimes I Just Sit
-    album_id: 4xRrnbv5WmQp6CJXksbF1t
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/a35b804d50a6ce8d267dc23af41b4fe42e96cb7f
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/6380f948fa315d551283e13e6a7d0f422ff3e8ea
-      width: 300
+  spotify-id: 4xRrnbv5WmQp6CJXksbF1t
 - date: 2015-03-20
   artist: Simple Minds
   title: Sparkle In The Rain
   twitter: https://twitter.com/BBC6Music/status/578936175102156800
-  spotify:
-    artists:
-    - Simple Minds
-    name: Sparkle In The Rain (Remastered)
-    album_id: 4PlrByHu51LbKy93D1y0ub
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/a55115578c7166cf51d51f555a8cefeea16cc70d
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/91819f0b99b484b074f23ef1fbd06f6f3307c88a
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/382ce295ffc087fb112e7f4be94047ea3e9a7eb8
-      width: 64
+  spotify-id: 4PlrByHu51LbKy93D1y0ub
 - date: 2015-03-23
   artist: Laura Marling
   title: Short Movie
   twitter: https://twitter.com/BBC6Music/status/580023112286244865
-  spotify:
-    artists:
-    - Laura Marling
-    name: Short Movie
-    album_id: 3RkJlZjE0oBkkV3aKoGUjb
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/ef540a6fd1bf1ebaf78d67afbc4a52858fab9454
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/01c47b62127e114ced9c935f0eaae940f0dde0d0
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/defbe8778cd8198a37d89e228009c54c087deb2e
-      width: 64
+  spotify-id: 3RkJlZjE0oBkkV3aKoGUjb
 - date: 2015-03-24
   artist: Lonelady
   title: Hinterland
   twitter: https://twitter.com/BBC6Music/status/580386223165956096
-  spotify:
-    artists:
-    - Lonelady
-    name: Hinterland
-    album_id: 1hWXJpz2XmBdgW6t4aNcjJ
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/fd8549ac1692a4fd7e4f73b9020cc8df3d335c5b
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/d82f95b1e7186a5f3761e02ad83e351ac6a135b4
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/17d8aad1902d0efa4ea02ca4163e507125c785ca
-      width: 64
+  spotify-id: 1hWXJpz2XmBdgW6t4aNcjJ
 - date: 2015-03-25
   artist: The Cribs
   title: All My Sisters
   twitter: https://twitter.com/BBC6Music/status/580748920508268544
-  spotify:
-    artists:
-    - The Cribs
-    name: For All My Sisters
-    album_id: 6APjeK0fvpxKrQbU8mIOnJ
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/6b642e66d23693b8785e950d91776efdbfd47469
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/870454632c49f7af917fec7cc0f71dee540e85ce
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/ef23905b539f88a71adaf01f44b54b27d3992063
-      width: 64
+  spotify-id: 6APjeK0fvpxKrQbU8mIOnJ
 - date: 2015-03-26
   artist: The Staves
   title: If I Was
   twitter: https://twitter.com/BBC6Music/status/581111833215545344
-  spotify:
-    artists:
-    - The Staves
-    name: If I Was
-    album_id: 4VxImQegPEsTorjDTaAkFV
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/04e959e0413de5913cad831483382a0109240522
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/93717ddca9291b53d3e54447f526e28adbeca214
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/d4ca56c1b047b1b0fa400f445c79370a9431d678
-      width: 64
+  spotify-id: 4VxImQegPEsTorjDTaAkFV
 - date: 2015-03-27
   artist: The Kinks
   title: Village Green Preservation Society
@@ -980,78 +297,22 @@
   artist: Sufjan Stevens
   title: Carrie & Lowell
   twitter: https://twitter.com/BBC6Music/status/582544923771203585
-  spotify:
-    artists:
-    - Sufjan Stevens
-    name: Carrie & Lowell
-    album_id: 0U8DeqqKDgIhIiWOdqiQXE
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/40fed892c25cb2a8942b7503c4b2bc51cf642ecc
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/19d8730694d33cb588d78ab1bf5043ac5b8d8aec
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/944525d0e1c5d0f0c3bc50f3e4edd544eb873aea
-      width: 64
+  spotify-id: 0U8DeqqKDgIhIiWOdqiQXE
 - date: 2015-03-31
   artist: Death Cab for Cutie
   title: Kintsugi
   twitter: https://twitter.com/BBC6Music/status/582907857210904576
-  spotify:
-    artists:
-    - Death Cab for Cutie
-    name: Kintsugi
-    album_id: 6BK3muExDOuk0VnyMn9NVw
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/b7876c761b170496fab3738660771a77eb3ffb07
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/c489b575661f9afafdd569d14ba58ea627509fb1
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/39080f8b44a816a49d1a1b923f34afd871249404
-      width: 64
+  spotify-id: 6BK3muExDOuk0VnyMn9NVw
 - date: 2015-04-01
   artist: The Prodigy
   title: The Day Is My Enemy
   twitter: https://twitter.com/BBC6Music/status/583269876304908288
-  spotify:
-    artists:
-    - The Prodigy
-    name: The Day Is My Enemy
-    album_id: 64B6CA8cnu2jP43z0BZ2KI
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/479fd7ca85c5ef2e327b496e238b82467c898073
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/f4ab8757f253f8dfa4dc64d0212e7ce8e82adb63
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/9f3d9eaae4096f673be431efa31d4df758ae6012
-      width: 64
+  spotify-id: 64B6CA8cnu2jP43z0BZ2KI
 - date: 2015-04-02
   artist: Chastity Belt
   title: Time To Go Home
   twitter: https://twitter.com/BBC6Music/status/583632724348559361
-  spotify:
-    artists:
-    - Chastity Belt
-    name: Time to Go Home
-    album_id: 10kPjDQXraJLGgXVO3cLz9
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/49ac2c846198d0903b771ba34da0889921b9377c
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/21e0e0dcf1ee08c6736e829670f8af0396c87150
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/1e316c4ec1da1179ce86b76e48c1ddd846985b14
-      width: 64
+  spotify-id: 10kPjDQXraJLGgXVO3cLz9
 - date: 2015-04-03
   artist: Shirley & Dolly Collins
   title: Love, Death & The Lady
@@ -1060,539 +321,143 @@
   artist: Robert Wyatt
   title: Ruth Is Stranger Than Richard
   twitter: https://twitter.com/BBC6Music/status/585082361357959169
-  spotify:
-    artists:
-    - Robert Wyatt
-    name: Ruth Is Stranger Than Richard
-    album_id: 5vuiuUVBVImwvX6X3rGgeH
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/6c9a1ecde1162aa44c63ccd89760cfbe9b8ee848
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/655c8798db013cc240e73321ed519b7f2e30bea9
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/c564d919376d370bb1381adc1b3c68a2656ac288
-      width: 64
+  spotify-id: 5vuiuUVBVImwvX6X3rGgeH
 - date: 2015-04-07
   artist: Nadine Shah
   title: Fast Food
   twitter: https://twitter.com/BBC6Music/status/585445479305105408
-  spotify:
-    artists:
-    - Nadine Shah
-    name: Fast Food
-    album_id: 6LMAhRJdVibiVSFAwNXyHn
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/9acdb7e49277c06c87c71f3482b00921d0ab6e0c
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/3c7fc4f642db003c06c36997a44c679a48f8c887
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/88e6468e636c9d3298fb871859d9f6405252b1f2
-      width: 64
+  spotify-id: 6LMAhRJdVibiVSFAwNXyHn
 - date: 2015-04-08
   artist: Toro Y Moi
   title: What For?
   twitter: https://twitter.com/BBC6Music/status/585807006847660032
-  spotify:
-    artists:
-    - Toro Y Moi
-    name: What For?
-    album_id: 3Olrr4wQa26NRaNjwz6alX
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/dd8f2d891f3703f9f50d1ae79cbc4c000b849cbf
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/c9a6baf32b7ac0c8feb6901fce0eb8d90c29a78d
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/6b5994b448ff548211cf88499c647115a7f8675a
-      width: 64
+  spotify-id: 3Olrr4wQa26NRaNjwz6alX
 - date: 2015-04-09
   artist: Drenge
   title: Undertow
   twitter: https://twitter.com/BBC6Music/status/586169050037936128
-  spotify:
-    artists:
-    - Drenge
-    name: Undertow
-    album_id: 7eyAZD1dlFAJKkxGtofRST
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/6f77093e1ae1660f42f23b164be1a0cf160d6848
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e9ddb518897984a8ce803340ccdf57cc88619478
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/59f95b74289e7b10c0d4a2078546a1fc57cee522
-      width: 64
+  spotify-id: 7eyAZD1dlFAJKkxGtofRST
 - date: 2015-04-10
   artist: Young Fathers
   title: White Men Are Black Men Too
   twitter: https://twitter.com/BBC6Music/status/586532407186194432
-  spotify:
-    artists:
-    - Young Fathers
-    name: White Men Are Black Men Too
-    album_id: 3xtwcBeltPMO0I4PnDfV0k
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/108e95fe21f6a966f4940cbbed0f4ce03cc091c7
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/85fcdbf5d570be281ad289fa758b496a7c651ad4
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/3720102b9b73ad8c0b23cb41c7025d7b6e1ee9cd
-      width: 64
+  spotify-id: 3xtwcBeltPMO0I4PnDfV0k
 - date: 2015-04-13
   artist: Villagers
   title: Darling Arithmetic
   twitter: https://twitter.com/BBC6Music/status/587522261114089472
-  spotify:
-    artists:
-    - Villagers
-    name: Darling Arithmetic
-    album_id: 1rwks602GtqNzZGjc62rIQ
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/7e9163082884ac28f9ca7b980389d0c6fa9b54a0
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/7c6f196aa6aa06ab500adb93779258fc13c40fe6
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/814689a17929a126a03151be0aa7f6a84072bb40
-      width: 64
+  spotify-id: 1rwks602GtqNzZGjc62rIQ
 - date: 2015-04-14
   artist: Wire
   title: Wire
   twitter: https://twitter.com/BBC6Music/status/587884206166016000
-  spotify:
-    artists:
-    - Wire
-    name: Wire
-    album_id: 3bLwfwMXq9zCEfZZ06VHGk
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/5b755cbefe02ab7bfeb8b0462b1c07995b6e6f7e
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/4cb7e43c9a34450525c216cdceaf14b573c673ea
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/822264a50470bc74e78ea93f2728f85d984d5ec2
-      width: 64
+  spotify-id: 3bLwfwMXq9zCEfZZ06VHGk
 - date: 2015-04-15
   artist: The Who
   title: Quadrophenia
   twitter: https://twitter.com/BBC6Music/status/588247809612247040
-  spotify:
-    artists:
-    - The Who
-    name: Quadrophenia
-    album_id: 3JV6BIIXo3mj6GLIGH9p8a
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/617fb3377ea4ccf60c8582dd8ec0de168bceca4c
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/d114cf56d2796e2e829b46ec126941550ff52e62
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/1b95e1e68a58eda6154657a69c5d7bf600448226
-      width: 64
+  spotify-id: 3JV6BIIXo3mj6GLIGH9p8a
 - date: 2015-04-16
   artist: Waxahatchee
   title: Ivy Tripp
   twitter: https://twitter.com/BBC6Music/status/588605304968904704
-  spotify:
-    artists:
-    - Waxahatchee
-    name: Ivy Tripp
-    album_id: 330rzJqNOw2BELsfWg3vXl
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/aefd60cb94a52391fb3f650a430cfc7e61a92029
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/7d4da38666e58c5a5b54d0107ee0d60cd0a9283c
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/07f0c607f15d701a807871d91ba8e3b1e259c220
-      width: 64
+  spotify-id: 330rzJqNOw2BELsfWg3vXl
 - date: 2015-04-17
   artist: East India Youth
   title: Culture Of Volume
   twitter: https://twitter.com/BBC6Music/status/588966746947727360
-  spotify:
-    artists:
-    - East India Youth
-    name: CULTURE OF VOLUME
-    album_id: 2li0SgHlqjpPF2gqTr5FHh
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/959a0ad604e7089bb05238c058687c84789882a3
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/c2332c559164663448508724bb40393600bc28f3
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/e7075bc164aafd72953af73002c159859afc6bb0
-      width: 64
+  spotify-id: 2li0SgHlqjpPF2gqTr5FHh
 - date: 2015-04-20
   artist: Blur
   title: The Magic Whip
   twitter: https://twitter.com/BBC6Music/status/590020116361961472
-  spotify:
-    artists:
-    - Blur
-    name: The Magic Whip
-    album_id: 0nSzBICzQHea8grwfqa5Gb
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/df8c538355952635b435b4723136b7a30bdf46e3
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/eef2b4e70030af1417df9f59b11342077ed74efd
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/d85de0a0ca6d1f00d86d6406c33b40ad48efc979
-      width: 64
+  spotify-id: 0nSzBICzQHea8grwfqa5Gb
 - date: 2015-04-21
   artist: Alabama Shakes
   title: Sound & Color
   twitter: https://twitter.com/BBC6Music/status/590422521310216192
-  spotify:
-    artists:
-    - Alabama Shakes
-    name: Sound & Color
-    album_id: 03nQNGFi3dIxg6ghNbtVWW
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/6ad37350caa9ba01195b64e92bd5b167999f9a17
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/0bb90c910a63dfc56d4d6012fb7b787d16f7c638
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/81470533ed9e162ca1323472f6b89940c24d22fc
-      width: 64
+  spotify-id: 03nQNGFi3dIxg6ghNbtVWW
 - date: 2015-04-22
   artist: Stealing Sheep
   title: Not Real
   twitter: https://twitter.com/BBC6Music/status/590784785687179264
-  spotify:
-    artists:
-    - Stealing Sheep
-    name: Not Real
-    album_id: 5auvSfKOZqHsNWo7fRnys0
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/ef3ce7b7ba6bcdf7d7db4acee02a8c3bd0e2ab75
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/4fe20b83043057790bc4e45fe386c728be049e9c
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/109fcf1bd864b1ede8bcaae212f58b1952386d68
-      width: 64
+  spotify-id: 5auvSfKOZqHsNWo7fRnys0
 - date: 2015-04-23
   artist: Slug
   title: RIPE
   twitter: https://twitter.com/BBC6Music/status/591146680503926784
-  spotify:
-    artists:
-    - Slug
-    name: RIPE
-    album_id: 1ZhEig5Qlr71MP7iICmBfq
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/cf8a0bd158eb8c0fb221296d140ee03db36c4ad9
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/4f18ff9be35f29d4c3345f873dc7e0a3a0928c59
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/e001d4a0760f747e7990461bc2d2fd5806bfaf41
-      width: 64
+  spotify-id: 1ZhEig5Qlr71MP7iICmBfq
 - date: 2015-04-24
   artist: Foo Fighters
   title: The Colour and the Shape
   twitter: https://twitter.com/BBC6Music/status/591606190162993155
-  spotify:
-    artists:
-    - Foo Fighters
-    name: The Colour And The Shape
-    album_id: 30ly6F6Xl0TKmyBCU50Khv
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/855591f5bf941043ea03dbfef58c48d282d5039e
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/b6b2379273ff7d685e19f5094486877a6011c913
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/5f574fb6e47ce830ff1750b26b710943fd4d851d
-      width: 64
+  spotify-id: 30ly6F6Xl0TKmyBCU50Khv
 - date: 2015-04-27
   artist: Squarepusher
   title: Damogen Furies
   twitter: https://twitter.com/BBC6Music/status/592597587661856768
-  spotify:
-    artists:
-    - Squarepusher
-    name: Damogen Furies
-    album_id: 6g7mrQCnCgS6lp2ZNFzkIU
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/a7e60d94b83531024c096776750db77893ee0fb6
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/98b5e57cbdbc6cb4b1622b8c74c3bb443112923c
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/2988fc5ae5dc400c6b4e0743fe84f8d8ef2e8347
-      width: 64
+  spotify-id: 6g7mrQCnCgS6lp2ZNFzkIU
 - date: 2015-04-28
   artist: Speedy Ortiz
   title: Foil Deer
   twitter: https://twitter.com/BBC6Music/status/592959508151934977
-  spotify:
-    artists:
-    - Speedy Ortiz
-    name: Foil Deer
-    album_id: 50oUe6Xa2j2fL1M3izIzue
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/73de1e5a1381cb9f92bb6b599499c8f2942aca76
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/9fd4c17bc6713f3ebe90fc4c138914e967b46c96
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/7cae2b993378429ad536733c7366fea380d76053
-      width: 64
+  spotify-id: 50oUe6Xa2j2fL1M3izIzue
 - date: 2015-04-29
   artist: Django Django
   title: Born Under Saturn
   twitter: https://twitter.com/BBC6Music/status/593321453451399168
-  spotify:
-    artists:
-    - Django Django
-    name: Born Under Saturn
-    album_id: 0mOFv0y1ybyIo6JEReaUGL
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/86d451a99db636a431569136e1bca79bf008f002
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/285e0f7534fe37fbd604dc291c1036eb61c84389
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/89f9d3f36f153520883a3fbcb70f897b62c1c8fd
-      width: 64
+  spotify-id: 0mOFv0y1ybyIo6JEReaUGL
 - date: 2015-04-30
   artist: Martin Gore
   title: MG
   twitter: https://twitter.com/BBC6Music/status/593683074526904320
-  spotify:
-    artists:
-    - MG
-    name: MG
-    album_id: 5TYM2fhV1qbRRGM04QKMAr
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/65d09f79c13b13afbdfca7f1eaf4431952c1b580
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/fa7a7442b137c99cb27fb6941768477555f79ad8
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/a4bda9eff00975e607ea4fa442c2204a9e5dceff
-      width: 64
+  spotify-id: 5TYM2fhV1qbRRGM04QKMAr
 - date: 2015-05-01
   artist: The Human League
   title: Travelogue
   twitter: https://twitter.com/BBC6Music/status/594142181868367872
-  spotify:
-    artists:
-    - The Human League
-    name: Travelogue
-    album_id: 3nRP83YnVmP4TTyEzieq2H
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/11d39aa110c66a78a782557280f86b1dbde50f8f
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/81f0aa863033fefcf035bf24e622208bf4755a21
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/ecba602e2880f7e622d8b4f178e18c7256a48045
-      width: 64
+  spotify-id: 3nRP83YnVmP4TTyEzieq2H
 - date: 2015-05-04
   artist: Mumford And Sons
   title: Wilder Mind
   twitter: https://twitter.com/BBC6Music/status/595229060357345280
-  spotify:
-    artists:
-    - Mumford & Sons
-    name: Wilder Mind
-    album_id: 4trTvSZSfcCSzeH8kJeCbD
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/d02e32c7f15235fc30edfaf7abe5124a16d6baab
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/def379bf17da54447574e4d7e771690845950907
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/069edca15cc82548e03a23df57db063401e85956
-      width: 64
+  spotify-id: 4trTvSZSfcCSzeH8kJeCbD
 - date: 2015-05-05
   artist: Rozi Plain
   title: Friend
   twitter: https://twitter.com/BBC6Music/status/595592203096981504
-  spotify:
-    artists:
-    - Rozi Plain
-    name: Friend
-    album_id: 2DRGOooaLuTThGjfk1nMgA
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/bb47bc5e4be9994ade2e9fd44852bbc701c5adab
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/2cc4c0f3c22a71b09114e125d9881711ed7421ff
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/779e5977c3fa604173fed530f4bffa1155f5e43d
-      width: 64
+  spotify-id: 2DRGOooaLuTThGjfk1nMgA
 - date: 2015-05-06
   artist: My Morning Jacket
   title: The Waterfall
   twitter: https://twitter.com/BBC6Music/status/595954419247775746
-  spotify:
-    artists:
-    - My Morning Jacket
-    name: The Waterfall
-    album_id: 3W1PbjmhdQ79OlN6ovK6cF
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/274c0e0ad80d88719468d2d09635e3c76888e04e
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/e4afd35bf9bc9a0ba7c1998c481fa2e054799357
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/114a8dd1db4fa3f0e7842fee34067c97d01d74cb
-      width: 64
+  spotify-id: 3W1PbjmhdQ79OlN6ovK6cF
 - date: 2015-05-07
   artist: Best Coast
   title: California Nights
   twitter: https://twitter.com/BBC6Music/status/596318669946363904
-  spotify:
-    artists:
-    - Best Coast
-    name: California Nights
-    album_id: 6j4PKBoTlHPweQNSGlu9pX
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/abca051a2913c00d2b7f8fa60cda15aa4ebac9f8
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/a7563432b6055377901461ab4c21ca3251102854
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/b9113ef4d282e5143b9c1b7878ba587b3107cf6e
-      width: 64
+  spotify-id: 6j4PKBoTlHPweQNSGlu9pX
 - date: 2015-05-08
   artist: Grace Jones
   title: The Disco Years
   notes: There seems to be some disagreement about what this album is called...!
   twitter: https://twitter.com/BBC6Music/status/596583049694949376
-  spotify:
-    artists:
-    - Grace Jones
-    name: Disco
-    album_id: 3MUy4U6Rx7fBM4WD40H4aG
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/91008bc29d4913f20ed008fb3a7ffed4f48a4d44
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/6254f7177de4b70d7c607701c072c44f17ed4615
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/c2de275fdf13c0570cdaefbe53c1b87d408ea1da
-      width: 64
+  spotify-id: 3MUy4U6Rx7fBM4WD40H4aG
 - date: 2015-05-11
   artist: Roisin Murphy
   title: Hairless Toys
   twitter: https://twitter.com/BBC6Music/status/597669701645373440
-  spotify:
-    artists:
-    - Roisin Murphy
-    name: Hairless Toys
-    album_id: 4FcK8q5oQnZZZCWkW8BlBS
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/df7a41503d4a61f751c85b4bdfae838c7dcd6009
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/80e07eceb3de812de6ec9c7fe03f9910f00aa09a
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/90ecb3306d7c0a34cfd984af19f296c3e7a1f2c2
-      width: 64
+  spotify-id: 4FcK8q5oQnZZZCWkW8BlBS
 - date: 2015-05-12
   artist: Leonard Cohen
   title: 'Can''t Forget: A Souvenir of the Grand Tour'
   twitter: https://twitter.com/BBC6Music/status/598031387980005376
-  spotify:
-    artists:
-    - Leonard Cohen
-    name: 'Can''t Forget: A Souvenir of the Grand Tour'
-    album_id: 7yUDBh0Q2IjPctdv5pFP6b
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/50ca66c2ce85676e095edbfce0a3a71e28fb6d8f
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/2d2d7f2a5ec76dc606c1164bcbd9a66b641e7218
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/18911b32f578941cd8a48609e2726cdc6ea9eff5
-      width: 64
+  spotify-id: 7yUDBh0Q2IjPctdv5pFP6b
 - date: 2015-05-13
   artist: Joanna Gruesome
   title: Peanut Butter
   twitter: https://twitter.com/BBC6Music/status/598393756627275776
-  spotify:
-    artists:
-    - Joanna Gruesome
-    name: Peanut Butter
-    album_id: 1rWnLAp2trg6LyrsEc6wEZ
-    type: album
-    images:
-    - height: 640
-      url: https://i.scdn.co/image/d3655928b5d736203f3c87faacd3b0f73edf4982
-      width: 640
-    - height: 300
-      url: https://i.scdn.co/image/7ab8ff983d218cbbc75c6d8de491fa0b95265c6a
-      width: 300
-    - height: 64
-      url: https://i.scdn.co/image/3470ecbcce87c1431ee10fb1f018671b25e7e3d2
-      width: 64
+  spotify-id: 1rWnLAp2trg6LyrsEc6wEZ
 - date: 2015-05-14
   artist: The Fall
   title: Sub-Lingual Tablet

@@ -52,10 +52,12 @@ def process_data(data)
 
     puts "- Search for #{album['title']} by #{album['artist']}"
     puts "  Found #{spotify_albums.total} (#{spotify_albums_sel.count} selected)"
-    if (spotify_albums_sel.count == 1)
-      album['spotify'] = get_candidate(spotify_albums_sel[0])
-    elsif (spotify_albums.count > 0)
-      album['spotify'] = {'candidates' => spotify_albums.map{|sa| get_candidate(sa)}}
+    if (spotify_albums.count > 0)
+      album['spotify'] = {}
+      if (spotify_albums_sel.count == 1)
+        album['spotify']['selected'] = get_candidate(spotify_albums_sel[0])
+      end
+      album['spotify']['candidates'] = spotify_albums.map{|sa| get_candidate(sa)}
     end
     #puts "  Search at: https://api.spotify.com/v1/search?q=#{search_string}&type=album&market=GB"
 

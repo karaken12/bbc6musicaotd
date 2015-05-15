@@ -26,6 +26,7 @@ end
 
 def process_data(data)
   data.each do |album|
+    if album.has_key?('spotify-id') then next end
     if (album['spotify'] and !(album['spotify']['candidates'])) then next end
     if !album['title']
       #puts "= Title missing for item on #{album['date']}"

@@ -6,6 +6,9 @@ module JekyllBbc6musicaotd
           if album.has_key?('twitter')
             album['tweet'] = site.data['cache']['twitter'][album['twitter']]
           end
+          if album.has_key?('spotify-id')
+            album['spotify'] = site.data['cache']['spotify'][album['spotify-id']]
+          end
         end
       end
     end

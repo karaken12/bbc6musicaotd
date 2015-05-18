@@ -7,9 +7,15 @@ layout: default
   <h1 class="page-heading">Posts</h1>
 
   <div class="albums">
+{% assign current_week = nil %}
     {% for album in page.albums %}
 {% if album.title == nil and album.artist == nil %}
 {% continue %}
+{% endif %}
+
+{% if album.week != current_week %}
+  {% assign current_week = album.week %}
+  <div class="week">{{ album.week }}</div>
 {% endif %}
 
 {% include album.html %}

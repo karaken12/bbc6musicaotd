@@ -903,23 +903,7 @@
   artist: Best Coast
   title: The Only Place
   review: http://www.bbc.co.uk/music/reviews/pm9p
-  spotify:
-    candidates:
-    - artists:
-      - Best Coast
-      name: The Only Place
-      album_id: 6aIRKVkzUq4RnyDdiqyQAN
-      type: album
-    - artists:
-      - Best Coast
-      name: The Only Place
-      album_id: 19jWqzaJqJroDWhKeIU1vj
-      type: single
-    - artists:
-      - Best Coast
-      name: The Only Place
-      album_id: 3arAg7bLm1t6qVD9XVOpTo
-      type: album
+  spotify-id: 6aIRKVkzUq4RnyDdiqyQAN
 - date: 2012-05-16
   artist: Cornershop
   title: Urban Turban – The Singhles Club
@@ -948,18 +932,7 @@
   artist: Damon Albarn
   title: Dr Dee
   review: http://www.bbc.co.uk/music/reviews/x3wx
-  spotify:
-    candidates:
-    - artists:
-      - Damon Albarn
-      name: Dr Dee
-      album_id: 5kYYzRPUu3X8R544wihphw
-      type: album
-    - artists:
-      - Damon Albarn
-      name: Dr Dee [Album Sampler]
-      album_id: 08CMzGoSwYgkmm4aBlRojd
-      type: album
+  spotify-id: 5kYYzRPUu3X8R544wihphw
 - date: 2012-05-08
   artist: The Cribs
   title: In the Belly of the Brazen Bull
@@ -1007,23 +980,7 @@
   artist: Rufus Wainwright
   title: Out of the Game
   review: http://www.bbc.co.uk/music/reviews/9wrj
-  spotify:
-    candidates:
-    - artists:
-      - Rufus Wainwright
-      name: Out Of The Game
-      album_id: 1ASBTJsGYgxfPZiTgWTXqp
-      type: album
-    - artists:
-      - Rufus Wainwright
-      name: Out Of The Game
-      album_id: 1neyKVCYZ1ZIyZWMCGRTWW
-      type: single
-    - artists:
-      - Rufus Wainwright
-      name: Out Of The Game - Track By Track
-      album_id: 3SKYsYbOHeiFe2VFm9l7ec
-      type: album
+  spotify-id: 1ASBTJsGYgxfPZiTgWTXqp
 - date: 2012-04-24
   artist: Santigold
   title: Master of My Make-Believe
@@ -1072,9 +1029,10 @@
   review: http://www.bbc.co.uk/music/reviews/vqvh
   spotify-id: 2okCg9scHue9GNELoB8U9g
 - date: 2012-04-10
-  artist: De La Soul’s Plug One & Plug Two Present... First Serve
+  artist: De La Soul`s Plug 1 & Plug 2 Present First Serve
   title: First Serve
   review: http://www.bbc.co.uk/music/reviews/r8pn
+  spotify-id: 5dyXxPhluk0Mhoj9rYshEZ
 - date: 2012-04-09
   artist: Alabama Shakes
   title: Boys & Girls
@@ -1084,27 +1042,17 @@
   artist: The Chemical Brothers
   title: Dig Your Own Hole
   review: http://www.bbc.co.uk/music/reviews/bh28
-  spotify:
-    candidates:
-    - artists:
-      - The Chemical Brothers
-      name: Dig Your Own Hole
-      album_id: 0FjHy5dCyVROqDUl6f2VTK
-      type: album
-    - artists:
-      - The Chemical Brothers
-      name: Dig Your Own Hole
-      album_id: 2DYl4Z5qrQrQvEbMj4Alle
-      type: album
+  spotify-id: 0FjHy5dCyVROqDUl6f2VTK
 - date: 2012-04-05
   artist: The Futureheads
   title: Rant
   review: http://www.bbc.co.uk/music/reviews/r5x2
   spotify-id: 3SNQJmds1xHYyCP3ms5zFq
 - date: 2012-04-04
-  artist: Quantic & Alice Russell with the Combo Bárbaro
+  artist: Quantic and Alice Russell with the Combo Bárbaro
   title: Look Around the Corner
   review: http://www.bbc.co.uk/music/reviews/6f4z
+  spotify-id: 4tnOiym4nIPeqY76LJgBjp
 - date: 2012-04-03
   artist: Graham Coxon
   title: A+E
@@ -1134,34 +1082,12 @@
   artist: Gemma Hayes
   title: Let It Break
   review: http://www.bbc.co.uk/music/reviews/2dzb
-  spotify:
-    candidates:
-    - artists:
-      - Gemma Hayes
-      name: Let It Break
-      album_id: 0sk6qEwcml0rIBbOpQOkQJ
-      type: album
-    - artists:
-      - Gemma Hayes
-      name: Let It Break
-      album_id: 1drLsmab6XcCyJC1UuoiKa
-      type: album
+  spotify-id: 0sk6qEwcml0rIBbOpQOkQJ
 - date: 2012-03-26
   artist: Rocket Juice and The Moon
   title: Rocket Juice and The Moon
   review: http://www.bbc.co.uk/music/reviews/xf4z
-  spotify:
-    candidates:
-    - artists:
-      - Rocket Juice & The Moon
-      name: Rocket Juice & The Moon
-      album_id: 2Gejp5iiU13gYmisUBfkr7
-      type: album
-    - artists:
-      - Rocket Juice & The Moon
-      name: Rocket Juice & The Moon
-      album_id: 2aB5w5l9jQan7gN7pq9BcC
-      type: album
+  spotify-id: 2Gejp5iiU13gYmisUBfkr7
 - date: 2012-03-09
   artist: The Magnetic Fields
   title: Love at the Bottom of the Sea
@@ -1176,6 +1102,7 @@
   artist: We Are Augustines
   title: Rise Ye Sunken Ships
   review: http://www.bbc.co.uk/music/reviews/2jvh
+  spotify-id: 0i080JQAcvU3RZTX1LkD9E
 - date: 2012-03-06
   artist: Sinéad O’Connor
   title: How About I Be Me (And You Be You)?
@@ -1189,7 +1116,10 @@
 - date: 2012-03-02
   artist: Pink Floyd
   title: The Wall (Experience Edition)
+  notes: I'm not sure it's exactly the same as the Experience Edition, but the track
+    list seems to be the same.
   review: http://www.bbc.co.uk/music/reviews/rxj9
+  spotify-id: 33p78EyTp6esCBodi24Pzx
 - date: 2012-03-01
   artist: The Ting Tings
   title: Sounds From Nowheresville
@@ -1214,18 +1144,7 @@
   artist: Azari & III
   title: Azari & III
   review: http://www.bbc.co.uk/music/reviews/xbvh
-  spotify:
-    candidates:
-    - artists:
-      - Azari & III
-      name: Azari & III (Deluxe Version)
-      album_id: 60GRhFM0u1kHV7T85pz370
-      type: album
-    - artists:
-      - Azari & III
-      name: Azari & III
-      album_id: 7vd55snhAOrAXNsqxBqX1T
-      type: album
+  spotify-id: 7vd55snhAOrAXNsqxBqX1T
 - date: 2012-02-23
   artist: Lambchop
   title: Mr M
@@ -1250,30 +1169,14 @@
 - date: 2012-02-17
   artist: Simple Minds
   title: X5
+  type: compilation
   review: http://www.bbc.co.uk/music/reviews/68pn
-  spotify:
-    candidates:
-    - artists:
-      - Simple Minds
-      name: X5
-      album_id: 5Stnhgsxl2ERxmMJFBqLmX
-      type: compilation
+  spotify-id: 5Stnhgsxl2ERxmMJFBqLmX
 - date: 2012-02-16
   artist: Sharon Van Etten
   title: Tramp
   review: http://www.bbc.co.uk/music/reviews/vjvh
-  spotify:
-    candidates:
-    - artists:
-      - Sharon Van Etten
-      name: Tramp (Deluxe Edition)
-      album_id: 1NoICRwiJYl097SstizuJj
-      type: album
-    - artists:
-      - Sharon Van Etten
-      name: Tramp
-      album_id: 7bYAuBOpWMA1F61cbXrKfM
-      type: album
+  spotify-id: 7bYAuBOpWMA1F61cbXrKfM
 - date: 2012-02-15
   artist: Speech Debelle
   title: Freedom of Speech
@@ -1293,38 +1196,17 @@
   artist: Goldfrapp
   title: The Singles
   review: http://www.bbc.co.uk/music/reviews/8g8r
-  spotify:
-    candidates:
-    - artists:
-      - Goldfrapp
-      name: The Singles
-      album_id: 1N95u2l5f9zbzBug4hXWt2
-      type: album
-    - artists:
-      - Goldfrapp
-      name: The Singles
-      album_id: 5RzAoKaTbDnDDAUTJ5Sghs
-      type: album
+  spotify-id: 1N95u2l5f9zbzBug4hXWt2
 - date: 2012-02-09
   artist: Various Artists
-  title: 'Chimes of Freedom: Songs of Bob Dylan'
+  title: 'Chimes of Freedom: The Songs of Bob Dylan'
   review: http://www.bbc.co.uk/music/reviews/gxj9
+  spotify-id: 7n6OTzqfqzeMUSVSaTODT0
 - date: 2012-02-08
   artist: Mark Lanegan Band
   title: Blues Funeral
   review: http://www.bbc.co.uk/music/reviews/4f4z
-  spotify:
-    candidates:
-    - artists:
-      - Mark Lanegan
-      name: Blues Funeral
-      album_id: 7hE8hyVqRGa7HFFZsEIG1e
-      type: album
-    - artists:
-      - Mark Lanegan
-      name: Blues Funeral
-      album_id: 0SvgSZT9yW6ocN88GtZwVG
-      type: album
+  spotify-id: 0SvgSZT9yW6ocN88GtZwVG
 - date: 2012-02-07
   artist: Beth Jeans Houghton & The Hooves of Destiny
   title: Yours Truly, Cellophane Nose
@@ -1334,101 +1216,22 @@
   artist: Air
   title: Le Voyage Dans La Lune
   review: http://www.bbc.co.uk/music/reviews/g6gw
-  spotify:
-    candidates:
-    - artists:
-      - Air
-      name: Le voyage dans la lune
-      album_id: 5wSWhq54GZv15t0542vDDj
-      type: album
-    - artists:
-      - Air
-      name: Le voyage dans la lune [Bonus Commentary]
-      album_id: 74zvKh316vpwiDuFhkCDL1
-      type: album
+  spotify-id: 5wSWhq54GZv15t0542vDDj
 - date: 2012-02-02
   artist: Django Django
   title: Django Django
   review: http://www.bbc.co.uk/music/reviews/bpfd
-  spotify:
-    candidates:
-    - artists:
-      - Django Django
-      name: Django Django
-      album_id: 3pqPOPqLgIwLaE4ZuVhYlg
-      type: album
-    - artists:
-      - Django Django
-      name: Late Night Tales - Django Django
-      album_id: 06npNK2P198p67wIzGe7pJ
-      type: album
-    - artists:
-      - Django Django
-      name: Hi Djinx! Django Django Remixed
-      album_id: 3qoGsx7ZqF4A97dBxcZeZi
-      type: album
-    - artists:
-      - Django Django
-      name: Django Django - Track by Track
-      album_id: 3WRZlfxZPzBjgyNEcPGmiV
-      type: album
-    - artists:
-      - Django Django
-      name: Django Django NME Awards Tour interview
-      album_id: 2iA8pfBWGFGyPOuFZndcP5
-      type: album
-    - artists:
-      - Django Django Radioshow
-      name: Django Django Interview
-      album_id: 6UzYSbTfpaXF5Bt0gvjl50
-      type: album
+  spotify-id: 3pqPOPqLgIwLaE4ZuVhYlg
 - date: 2012-02-01
   artist: The 2 Bears
   title: Be Strong
   review: http://www.bbc.co.uk/music/reviews/5rnv
-  spotify:
-    candidates:
-    - artists:
-      - The 2 Bears
-      name: Be Strong
-      album_id: 0DSCXv8rx9jJgdqZnJ2LH9
-      type: album
-    - artists:
-      - The 2 Bears
-      name: Be Strong Remixed
-      album_id: 21v6cAfuWxkHD8xf7zKFiZ
-      type: album
-    - artists:
-      - The 2 Bears
-      name: Be Strong (Remixes)
-      album_id: 357vnYmvKP7sgLUL8NJnzg
-      type: single
+  spotify-id: 0DSCXv8rx9jJgdqZnJ2LH9
 - date: 2012-01-31
   artist: Lana Del Rey
   title: Born to Die
   review: http://www.bbc.co.uk/music/reviews/qrnv
-  spotify:
-    candidates:
-    - artists:
-      - Lana Del Rey
-      name: Born To Die - The Paradise Edition
-      album_id: 5VoeRuTrGhTbKelUfwymwu
-      type: album
-    - artists:
-      - Lana Del Rey
-      name: Born To Die (Deluxe Version)
-      album_id: 4F5dVhgk569Du5cLfal3t5
-      type: album
-    - artists:
-      - Lana Del Rey
-      name: Born To Die
-      album_id: 6nwVplrq1uGwJ2o5VL44l5
-      type: album
-    - artists:
-      - Lana Del Rey
-      name: Born To Die
-      album_id: 0wjZLB37I9YAcvlMf86eM9
-      type: single
+  spotify-id: 6nwVplrq1uGwJ2o5VL44l5
 - date: 2012-01-30
   artist: Leonard Cohen
   title: Old Ideas
@@ -1442,44 +1245,12 @@
   artist: First Aid Kit
   title: The Lion’s Roar
   review: http://www.bbc.co.uk/music/reviews/629p
-  spotify:
-    candidates:
-    - artists:
-      - First Aid Kit
-      name: The Lion's Roar
-      album_id: 6Z3MfMebUucj95zrHMrbyV
-      type: album
-    - artists:
-      - First Aid Kit
-      name: The Lion's Roar
-      album_id: 3JYZyuyjz9GDtNMfcE4kRi
-      type: album
-    - artists:
-      - First Aid Kit
-      name: The Lion's Roar
-      album_id: 0ZMe3WiJzdXuPs1KrThUPp
-      type: single
+  spotify-id: 6Z3MfMebUucj95zrHMrbyV
 - date: 2012-01-25
   artist: Pulled Apart By Horses
   title: Tough Love
   review: http://www.bbc.co.uk/music/reviews/dmwx
-  spotify:
-    candidates:
-    - artists:
-      - Pulled Apart By Horses
-      name: Tough Love
-      album_id: 27bBOgbImN6ocUFr86FANh
-      type: album
-    - artists:
-      - Pulled Apart By Horses
-      name: Tough Love (Deluxe)
-      album_id: 18rzKdFMVQ8WC74JjxZqSZ
-      type: album
-    - artists:
-      - Pulled Apart By Horses
-      name: The Tough Love Sessions
-      album_id: 1Vig884KUS6SLK1sv3XBXQ
-      type: album
+  spotify-id: 27bBOgbImN6ocUFr86FANh
 - date: 2012-01-24
   artist: Nada Surf
   title: The Stars Are Indifferent To Astronomy
@@ -1494,34 +1265,12 @@
   artist: Kathleen Edwards
   title: Voyageur
   review: http://www.bbc.co.uk/music/reviews/j9hf
-  spotify:
-    candidates:
-    - artists:
-      - Kathleen Edwards
-      name: Voyageur
-      album_id: 69kzvq9exYSPaWp5bRjui3
-      type: album
-    - artists:
-      - Kathleen Edwards
-      name: Voyageur - Track By Track
-      album_id: 2Yvs7rLwJmLb0OuP3OOfIN
-      type: album
+  spotify-id: 69kzvq9exYSPaWp5bRjui3
 - date: 2012-01-18
   artist: The Big Pink
   title: Future This
   review: http://www.bbc.co.uk/music/reviews/9xj9
-  spotify:
-    candidates:
-    - artists:
-      - The Big Pink
-      name: Future This
-      album_id: 0gCpzlKlPqRyjJRoLS7s3I
-      type: album
-    - artists:
-      - The Big Pink
-      name: Future This
-      album_id: 4wdt1FIzAhCTRdTtr8kjZK
-      type: album
+  spotify-id: 4wdt1FIzAhCTRdTtr8kjZK
 - date: 2012-01-17
   artist: Howler
   title: America Give Up
@@ -1536,18 +1285,7 @@
   artist: Ian Dury
   title: New Boots and Panties!!
   review: http://www.bbc.co.uk/music/reviews/mq6m
-  spotify:
-    candidates:
-    - artists:
-      - Ian Dury
-      name: New Boots And Panties (Deluxe Edition)
-      album_id: 5tuUAXD8S0QVhPW7M2aQb0
-      type: album
-    - artists:
-      - Ian Dury
-      name: New Boots And Panties
-      album_id: 4WSbGsCtpm4socUvJv3VFZ
-      type: album
+  spotify-id: 4WSbGsCtpm4socUvJv3VFZ
 - date: 2012-01-12
   artist: Laura Gibson
   title: La Grande
@@ -1562,18 +1300,7 @@
   artist: Teenage Fanclub
   title: Bandwagonesque
   review: http://www.bbc.co.uk/music/reviews/3nd3
-  spotify:
-    candidates:
-    - artists:
-      - Teenage Fanclub
-      name: Bandwagonesque
-      album_id: 4Fk2HFyeCuJ0HVym79jq0H
-      type: album
-    - artists:
-      - Teenage Fanclub
-      name: Bandwagonesque
-      album_id: 6hpUr55OFFQKC7KmrwyWSJ
-      type: album
+  spotify-id: 6hpUr55OFFQKC7KmrwyWSJ
 - date: 2012-01-09
   artist: The Maccabees
   title: Given to the Wild
@@ -1583,23 +1310,7 @@
   artist: David Bowie
   title: Black Tie White Noise
   review: http://www.bbc.co.uk/music/reviews/m29p
-  spotify:
-    candidates:
-    - artists:
-      - David Bowie
-      name: Black Tie White Noise
-      album_id: 1yFItZkb7DBAkQ5RB8OJv9
-      type: album
-    - artists:
-      - David Bowie
-      name: Black Tie White Noise Extras
-      album_id: 329GKhK03PzYbbhaWg9K70
-      type: album
-    - artists:
-      - David Bowie
-      name: Black Tie White Noise
-      album_id: 4ei2YwwzpcilzEWqG4wD7s
-      type: single
+  spotify-id: 1yFItZkb7DBAkQ5RB8OJv9
 - date: 2012-01-05
   artist: David Bowie
   title: Let’s Dance
@@ -1612,8 +1323,11 @@
   spotify-id: 0Oqi3Mm316FRX5H9mHjF0b
 - date: 2012-01-03
   artist: David Bowie
-  title: 'Station to Station: Super Deluxe Edition'
+  title: Station to Station
+  notes: Not the Super-Deluxe edition, but the reviewer prefers the Special Edition
+    anyway.
   review: http://www.bbc.co.uk/music/reviews/5c9p
+  spotify-id: 359mtWK6URMr2CXK7orSZl
 - date: 2012-01-02
   artist: David Bowie
   title: 'Ziggy Stardust and the Spiders From Mars: The Motion Picture'

@@ -133,8 +133,10 @@
 - date: 2012-11-07
   artist: Manic Street Preachers
   title: 'Generation Terrorists: 20th Anniversary Edition'
+  notes: Called something different on Spotify, but is the same track list.
   twitter: https://twitter.com/BBC6Music/status/266100645453516800
   review: http://www.bbc.co.uk/music/reviews/dg4z
+  spotify-id: 5XV63qDoIC1z2Tb0EIMVua
 - date: 2012-11-06
   artist: Stars
   title: The North
@@ -709,10 +711,11 @@
   review: http://www.bbc.co.uk/music/reviews/jvm5
   spotify-id: 45ZocvIqjtKmw5t36KEpxE
 - date: 2012-07-06
-  artist: Tom Paley’s Old-Time Moonshine Review
+  artist: Tom Paley's Old-Time Moonshine Revue
   title: Roll On, Roll On
   twitter: https://twitter.com/BBC6Music/status/221182970545963008
   review: http://www.bbc.co.uk/music/reviews/q9zb
+  spotify-id: 1RfNbOmrKrIzr1pTjKIyZE
 - date: 2012-07-05
   artist: Gemma Ray
   title: Island Fire

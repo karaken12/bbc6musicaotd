@@ -9,7 +9,7 @@ module JekyllBbc6musicaotd
       site.data['year'].values.each do |year|
         year.sort!{|a,b| a['date'] <=> b['date']}
         year.each do |album|
-          album['week'] = week_start(album['date'],1)
+          album['week'] = monday(album['date'])
         end
       end
       this_year = '2015'

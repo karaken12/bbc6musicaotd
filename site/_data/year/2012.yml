@@ -911,6 +911,7 @@
   artist: Cornershop
   title: Urban Turban – The Singhles Club
   review: http://www.bbc.co.uk/music/reviews/fdgw
+  spotify-id: 1C3H92nLPUNBgzYe7a7ttp
 - date: 2012-05-15
   artist: Beach House
   title: Bloom
@@ -995,9 +996,10 @@
   review: http://www.bbc.co.uk/music/reviews/5q6m
   spotify-id: 5Khz5tP9sdilu9YwlX8AE3
 - date: 2012-04-20
-  artist: Florence + the Machine
-  title: MTV Unplugged
+  artist: Florence + The Machine
+  title: 'MTV Unplugged: Florence + The Machine'
   review: http://www.bbc.co.uk/music/reviews/mpfd
+  spotify-id: 11JHRCPKllt4DDiaaBi3Kl
 - date: 2012-04-19
   artist: THEESatisfaction
   title: awE naturalE
@@ -1026,6 +1028,7 @@
   artist: The Jeffrey Lee Pierce Sessions Project
   title: The Journey Is Long
   review: http://www.bbc.co.uk/music/reviews/4q6m
+  spotify-id: 5YwlySjmsa8GqtE3d7lFOE
 - date: 2012-04-11
   artist: The Verve
   title: Urban Hymns

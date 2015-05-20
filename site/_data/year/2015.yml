@@ -275,24 +275,10 @@
 - date: 2015-03-27
   artist: The Kinks
   title: Village Green Preservation Society
+  notes: This is not the original version, this is over 60 tracks long! But I can't
+    find a shorter one on Spotify at this time.
   twitter: https://twitter.com/BBC6Music/status/581472920293249024
-  spotify:
-    candidates:
-    - artists:
-      - The Kinks
-      name: The Village Green Preservation Society
-      album_id: 4wcH6H2h6LFBbfXgwZY9oH
-      type: album
-    - artists:
-      - The Kinks
-      name: The Village Green Preservation Society
-      album_id: 6OWWMfCWiqOZJBpJieBB6B
-      type: album
-    - artists:
-      - The Kinks
-      name: The Village Green Preservation Society
-      album_id: 5SwMo0HmRi529JaKkt6Rn8
-      type: album
+  spotify-id: 6OWWMfCWiqOZJBpJieBB6B
 - date: 2015-03-30
   artist: Sufjan Stevens
   title: Carrie & Lowell

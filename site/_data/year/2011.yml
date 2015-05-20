@@ -235,23 +235,7 @@
   artist: Tom Waits
   title: Bad as Me
   review: http://www.bbc.co.uk/music/reviews/hpj9
-  spotify:
-    candidates:
-    - artists:
-      - Tom Waits
-      name: Bad As Me (Deluxe Version)
-      album_id: 22TNnSog7pAVPnhkYCYKZj
-      type: album
-    - artists:
-      - Tom Waits
-      name: Bad As Me (Deluxe Edition)
-      album_id: 7Ah3DkGxil3UE6b5R4qlif
-      type: album
-    - artists:
-      - Tom Waits
-      name: Bad As Me (single)
-      album_id: 7EhpK2nODFm0LJy750vFQR
-      type: single
+  spotify-id: 22TNnSog7pAVPnhkYCYKZj
 - date: 2011-10-24
   artist: Coldplay
   title: Mylo Xyloto
@@ -271,18 +255,7 @@
   artist: Jane’s Addiction
   title: The Great Escape Artist
   review: http://www.bbc.co.uk/music/reviews/643q
-  spotify:
-    candidates:
-    - artists:
-      - Jane's Addiction
-      name: The Great Escape Artist
-      album_id: 0mqzGqI1ZDOWkr7we7Uard
-      type: album
-    - artists:
-      - Jane's Addiction
-      name: The Great Escape Artist
-      album_id: 2xcFxFLi8CGvJLXBiVkHQj
-      type: album
+  spotify-id: 0mqzGqI1ZDOWkr7we7Uard
 - date: 2011-10-18
   artist: Real Estate
   title: Days
@@ -297,18 +270,7 @@
   artist: Ben Folds
   title: 'The Best Imitation of Myself: A Retrospective'
   review: http://www.bbc.co.uk/music/reviews/qzq4
-  spotify:
-    candidates:
-    - artists:
-      - Ben Folds
-      name: 'The Best Imitation Of Myself: A Retrospective'
-      album_id: 1h4LqT4SV5pTlyW6eonP4S
-      type: album
-    - artists:
-      - Ben Folds
-      name: 'The Best Imitation Of Myself: A Retrospective'
-      album_id: 2ZqZGgJBgCn3NDWN3B1suq
-      type: album
+  spotify-id: 1h4LqT4SV5pTlyW6eonP4S
 - date: 2011-10-13
   artist: Peter Gabriel
   title: New Blood
@@ -361,23 +323,7 @@
   artist: Wilco
   title: The Whole Love
   review: http://www.bbc.co.uk/music/reviews/fxgw
-  spotify:
-    candidates:
-    - artists:
-      - Wilco
-      name: The Whole Love
-      album_id: 6w4AIyT2CNFbR1RGbL0rTg
-      type: album
-    - artists:
-      - Wilco
-      name: The Whole Love (Deluxe Edition)
-      album_id: 77WMbPujQbxWvY6P6XO5aC
-      type: album
-    - artists:
-      - Wilco
-      name: The Whole Love (Deluxe Edition)
-      album_id: 5HelbMCeX3uTOZFxRMHF3w
-      type: album
+  spotify-id: 6w4AIyT2CNFbR1RGbL0rTg
 - date: 2011-09-28
   artist: Roots Manuva
   title: 4everevolution
@@ -411,23 +357,7 @@
   artist: The Duke Spirit
   title: Bruiser
   review: http://www.bbc.co.uk/music/reviews/vhnv
-  spotify:
-    candidates:
-    - artists:
-      - The Duke Spirit
-      name: Bruiser
-      album_id: 1MZ16mRIUJRx4C4NCJqmp1
-      type: album
-    - artists:
-      - The Duke Spirit
-      name: Bruiser
-      album_id: 7kFEwkNSfhSVu3OsCHGkrW
-      type: album
-    - artists:
-      - The Duke Spirit
-      name: Bruiser (The Remixes)
-      album_id: 62vEbbzpiWFUMYmJhpbeNn
-      type: single
+  spotify-id: 1MZ16mRIUJRx4C4NCJqmp1
 - date: 2011-09-19
   artist: Kasabian
   title: Velociraptor!
@@ -452,18 +382,7 @@
   artist: Slow Club
   title: Paradise
   review: http://www.bbc.co.uk/music/reviews/xmb6
-  spotify:
-    candidates:
-    - artists:
-      - Slow Club
-      name: Paradise
-      album_id: 3EMfhZXmhhhRvBff1Vq6hj
-      type: album
-    - artists:
-      - Slow Club
-      name: Paradise
-      album_id: 4ndz1P9foQuh1fvwKlKlKG
-      type: album
+  spotify-id: 3EMfhZXmhhhRvBff1Vq6hj
 - date: 2011-09-12
   artist: Laura Marling
   title: A Creature I Don’t Know
@@ -602,23 +521,7 @@
   artist: The Doors
   title: The Doors
   review: http://www.bbc.co.uk/music/reviews/xnwx
-  spotify:
-    candidates:
-    - artists:
-      - The Doors
-      name: The Doors
-      album_id: 1jWmEhn3ggaL6isoyLfwBn
-      type: album
-    - artists:
-      - The Doors
-      name: The Doors
-      album_id: 3lTH4XNFCu0j46UYVELHHJ
-      type: album
-    - artists:
-      - The Doors
-      name: The Doors Commentary By Jac Holzman
-      album_id: 47MpeqLFDVB841tIatVGl5
-      type: compilation
+  spotify-id: 1jWmEhn3ggaL6isoyLfwBn
 - date: 2011-06-30
   artist: Shabazz Palaces
   title: Black Up
@@ -642,18 +545,7 @@
   artist: U2
   title: Achtung Baby
   review: http://www.bbc.co.uk/music/reviews/bqw6
-  spotify:
-    candidates:
-    - artists:
-      - U2
-      name: Achtung Baby
-      album_id: 3hErePSImi79vYHrSmypGw
-      type: album
-    - artists:
-      - U2
-      name: Achtung Baby
-      album_id: 1U69hFsxaQxP6fquZmOmNH
-      type: album
+  spotify-id: 1U69hFsxaQxP6fquZmOmNH
 - date: 2011-06-22
   artist: Cashier No.9
   title: To the Death of Fun
@@ -682,18 +574,7 @@
   artist: Scala & Kolacny Brothers
   title: Scala & Kolacny Brothers
   review: http://www.bbc.co.uk/music/reviews/586m
-  spotify:
-    candidates:
-    - artists:
-      - Scala & Kolacny Brothers
-      name: Scala & Kolacny Brothers
-      album_id: 4ErZs8fOfbsRsqlcKuCOC3
-      type: album
-    - artists:
-      - Scala & Kolacny Brothers
-      name: Scala & Kolacny Brothers
-      album_id: 2ubN5LChp9MWiLd5wAuutl
-      type: album
+  spotify-id: 4ErZs8fOfbsRsqlcKuCOC3
 - date: 2011-06-14
   artist: Frank Turner
   title: England Keep My Bones

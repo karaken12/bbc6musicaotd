@@ -162,18 +162,7 @@
   title: Pale Green Ghosts
   twitter: https://twitter.com/BBC6Music/status/312114384388378624
   review: http://www.bbc.co.uk/music/reviews/v2x2
-  spotify:
-    candidates:
-    - artists:
-      - John Grant
-      name: Pale Green Ghosts
-      album_id: 0p20tvquTndRdGqL3gewBB
-      type: album
-    - artists:
-      - John Grant
-      name: Pale Green Ghosts
-      album_id: 2dfTV7CktUEBkZCHiB7VQB
-      type: album
+  spotify-id: 2dfTV7CktUEBkZCHiB7VQB
 - date: 2013-03-13
   artist: Devendra Banhart
   title: Mala
@@ -392,18 +381,7 @@
   artist: I Am Kloot
   title: Let It All In
   review: http://www.bbc.co.uk/music/reviews/jp9p
-  spotify:
-    candidates:
-    - artists:
-      - I Am Kloot
-      name: Let It All In
-      album_id: 3b3XTPwYmlyEWvvg8amWWR
-      type: album
-    - artists:
-      - I Am Kloot
-      name: Let It All In
-      album_id: 2HhYoEMZROB88JS2bgSoVU
-      type: album
+  spotify-id: 3b3XTPwYmlyEWvvg8amWWR
 - date: 2013-01-18
   artist: Dutch Uncles
   title: Out of Touch in the Wild

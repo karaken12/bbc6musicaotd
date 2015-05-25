@@ -30,7 +30,7 @@ def process_data(data)
     candidates = album['spotify']['candidates']
     selected_id = nil
     if album['spotify'].has_key?('selected')
-      selected_id = album['selected']['album_id']
+      selected_id = album['spotify']['selected']['album_id']
     end
     puts "#{album['title']} by #{album['artist']}"
     if album.has_key?('notes')

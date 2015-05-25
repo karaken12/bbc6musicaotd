@@ -25,7 +25,7 @@ def choose_candidates(candidates, selected_id)
     artist = candidate['artists'].join(', ')
     if id == selected_id
       ast = "*"
-      default = index
+      default = index.to_s()
     else
       ast = " "
     end

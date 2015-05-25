@@ -1,11 +1,11 @@
 
 require 'yaml'
-
-CACHE_FILE_NAME = "_data/cache/twitter.yml"
+require_relative '_cache'
+require_relative '_questions'
 
 def update_file(file_name)
   data = YAML.load_file(file_name)
-  cache = YAML.load_file(CACHE_FILE_NAME)
+  cache = YAML.load_file(TWITTER_CACHE_FILE_NAME)
 
   data = process_data(cache, data)
 
@@ -35,17 +35,10 @@ def process_data(cache, data)
       puts "No tweet text on #{tweet_id} (#{album['date']})."
       next
     end
-    puts "Twitter: #{tweet['text']}"
-    print "Enter artist (#{album['artist']}): "
-    artist = STDIN.gets.chomp
-    if artist != ''
-      album['artist'] = artist
-    end
-    print "Enter title (#{album['title']}): "
-    title = STDIN.gets.chomp
-    if title != ''
-      album['title'] = title
-    end
+
+    response = ask_for_twitter_data(tweet, album)
+    album['artist'] = response['artist']
+    album['title'] = response['title']
   end
   return data
 end

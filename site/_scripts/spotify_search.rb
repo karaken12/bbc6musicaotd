@@ -1,9 +1,6 @@
 
-require 'rspotify'
 require 'yaml'
-
-config_path = File.expand_path('app_secret.yml', File.dirname(__FILE__))
-$app_config = YAML.load_file(config_path)
+require_relative 'SpotifySearch'
 
 def update_file(file_name)
   data = YAML.load_file(file_name)
@@ -13,15 +10,6 @@ def update_file(file_name)
   file = File.open(file_name, 'w')
   file.puts data.to_yaml
   file.close
-end
-
-def get_candidate(album)
-  return {
-    'artists'  => album.artists.map{|a| a.name},
-    'name'     => album.name,
-    'album_id' => album.id,
-    'type'     => album.album_type
-  }
 end
 
 def process_data(data)
@@ -37,30 +25,10 @@ def process_data(data)
       next
     end
 
-    search_string = "album:\"#{album['title']}\""
-    if (album['artist'])
-      search_string += "+artist:\"#{album['artist']}\""
+    spotify_data = SpotifySearch.get_spotify_data(album['title'], album['artist'], album['type'])
+    if spotify_data
+      album['spotify'] = spotify_data
     end
-
-    spotify_albums = RSpotify::Album.search(search_string, market: 'GB')
-
-    type='album'
-    if (album['type'])
-      type = album['type']
-    end
-    spotify_albums_sel = spotify_albums.select{|sa| sa.album_type == type}
-
-    puts "- Search for #{album['title']} by #{album['artist']}"
-    puts "  Found #{spotify_albums.total} (#{spotify_albums_sel.count} selected)"
-    if (spotify_albums.count > 0)
-      album['spotify'] = {}
-      if (spotify_albums_sel.count == 1)
-        album['spotify']['selected'] = get_candidate(spotify_albums_sel[0])
-      end
-      album['spotify']['candidates'] = spotify_albums.map{|sa| get_candidate(sa)}
-    end
-    #puts "  Search at: https://api.spotify.com/v1/search?q=#{search_string}&type=album&market=GB"
-
   end
 end
 

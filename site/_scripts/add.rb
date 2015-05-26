@@ -2,6 +2,7 @@
 require 'yaml'
 require_relative 'TwitterCache'
 require_relative 'SpotifyCache'
+require_relative 'SpotifySearch'
 require_relative '_questions'
 
 def update_file(file_name)
@@ -11,9 +12,9 @@ def update_file(file_name)
 
   data = process_data(twitter_cache, spotify_cache, data)
 
-#  file = File.open(file_name, 'w')
-#  file.puts data.to_yaml
-#  file.close
+  file = File.open(file_name, 'w')
+  file.puts data.to_yaml
+  file.close
 end
 
 def get_album(twitter_cache, spotify_cache)
@@ -28,15 +29,42 @@ def get_album(twitter_cache, spotify_cache)
   if tweet == nil then return nil end
 
   # Ask for Artist / Album
-  album = ask_for_twitter_data(tweet, {'artist'=>'', 'title'=>''})
+  artist_album_data = ask_for_twitter_data(tweet, {'artist'=>'', 'title'=>''})
+  artist = artist_album_data['artist']
+  title = artist_album_data['title']
 
   # Search Spotify
+  spotify_data = SpotifySearch.get_spotify_data(title, artist, nil)
+
   # Ask for Spotify confirmation
+  selected_id = nil
+  if spotify_data.has_key?('selected')
+    selected_id = spotify_data['selected']['album_id']
+  end
+  chosen_index = choose_candidates(spotify_data['candidates'], selected_id)
+
+  if chosen_index == nil
+    spotify_id = nil
+  else
+    spotify_id = spotify_data['candidates'][chosen_index]['album_id']
+  end
+
   # (Give the option to update the Artist / Album based on this choice)
+  if spotify_id != nil
+    artist_album_data = ask_for_twitter_data(tweet, artist_album_data)
+    artist = artist_album_data['artist']
+    title = artist_album_data['title']
+  end
 
   # Construct album object
+  album = {'artist' => artist, 'title' => title}
   album['twitter'] = tweet_id
   album['date'] = Date.parse(tweet['created'])
+  if spotify_id
+    album['spotify-id'] = spotify_id
+  else
+    album['spotify'] = spotify_data
+  end
 
   return album
 end
@@ -47,7 +75,7 @@ def process_data(twitter_cache, spotify_cache, data)
   while true
     album = get_album(twitter_cache, spotify_cache)
     if album == nil then break end
-    puts album
+    new_data.push(album)
   end
   return new_data
 end

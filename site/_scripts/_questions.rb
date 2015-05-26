@@ -31,7 +31,7 @@ def choose_candidates(candidates, selected_id)
     end
     puts "#{ast}#{index}: #{title} by #{artist} (#{type}, #{id})"
   end
-  print "Enter option (#{default}): "
+  print "Enter option (#{default}) (X to cancel): "
   chosen = STDIN.gets.chomp
   if chosen == nil or chosen.strip() == ''
     chosen = default

@@ -15,6 +15,9 @@ def update_file(file_name)
   file = File.open(file_name, 'w')
   file.puts data.to_yaml
   file.close
+
+  twitter_cache.write()
+  spotify_cache.write()
 end
 
 def get_album(twitter_cache, spotify_cache)
@@ -51,6 +54,7 @@ def get_album(twitter_cache, spotify_cache)
 
   # (Give the option to update the Artist / Album based on this choice)
   if spotify_id != nil
+    spotify_album = spotify_cache.get_album(spotify_id)
     artist_album_data = ask_for_twitter_data(tweet, artist_album_data)
     artist = artist_album_data['artist']
     title = artist_album_data['title']
@@ -70,7 +74,6 @@ def get_album(twitter_cache, spotify_cache)
 end
 
 def process_data(twitter_cache, spotify_cache, data)
-
   new_data = data
   while true
     album = get_album(twitter_cache, spotify_cache)

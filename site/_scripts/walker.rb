@@ -1,11 +1,11 @@
 
 require 'yaml'
-require_relative '_cache'
 require_relative '_questions'
+require_relative 'TwitterCache'
 
 def update_file(file_name)
   data = YAML.load_file(file_name)
-  cache = YAML.load_file(TWITTER_CACHE_FILE_NAME)
+  cache = TwitterCache.new()
 
   data = process_data(cache, data)
 
@@ -26,11 +26,11 @@ def process_data(cache, data)
       next
     end
     tweet_id = album['twitter']
-    if !cache.has_key?(tweet_id)
+    tweet = cache.get_tweet(tweet_id)
+    if tweet == nil
       puts "No tweet data for #{tweet_id} (#{album['date']})."
       next
     end
-    tweet = cache[tweet_id]
     if !tweet.has_key?('text')
       puts "No tweet text on #{tweet_id} (#{album['date']})."
       next

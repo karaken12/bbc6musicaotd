@@ -39,17 +39,20 @@ def get_album(twitter_cache, spotify_cache)
   # Search Spotify
   spotify_data = SpotifySearch.get_spotify_data(title, artist, nil)
 
-  # Ask for Spotify confirmation
-  selected_id = nil
-  if spotify_data.has_key?('selected')
-    selected_id = spotify_data['selected']['album_id']
-  end
-  chosen_index = choose_candidates(spotify_data['candidates'], selected_id)
+  spotify_id = nil
+  if spotify_data
+    # Ask for Spotify confirmation
+    selected_id = nil
+    if spotify_data.has_key?('selected')
+      selected_id = spotify_data['selected']['album_id']
+    end
+    chosen_index = choose_candidates(spotify_data['candidates'], selected_id)
 
-  if chosen_index == nil
-    spotify_id = nil
-  else
-    spotify_id = spotify_data['candidates'][chosen_index]['album_id']
+    if chosen_index == nil
+      spotify_id = nil
+    else
+      spotify_id = spotify_data['candidates'][chosen_index]['album_id']
+    end
   end
 
   # (Give the option to update the Artist / Album based on this choice)

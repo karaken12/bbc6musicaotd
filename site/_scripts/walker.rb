@@ -37,8 +37,8 @@ def process_data(cache, data)
     end
 
     response = ask_for_twitter_data(tweet, album)
-    album['artist'] = response['artist']
-    album['title'] = response['title']
+    if response['artist'] then album['artist'] = response['artist'] end
+    if response['title'] then album['title'] = response['title'] end
   end
   return data
 end

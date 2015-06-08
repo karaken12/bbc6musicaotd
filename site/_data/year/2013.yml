@@ -1,8 +1,9 @@
 ---
 - date: 2013-12-06
-  artist: The Mary Chain
+  artist: The Jesus and Mary Chain
   title: 30th Anniversary Vinyl Collection
   twitter: https://twitter.com/BBC6Music/status/408981064359493632
+  spotify-id: 1u3E5QHns6VQb4gzLvJzpA
 - date: 2013-12-05
   artist: Bijou
   title: 'Africa Express Presents: Maison Des Jeunes'
@@ -28,21 +29,26 @@
   twitter: https://twitter.com/BBC6Music/status/406443661224734720
 - date: 2013-11-28
   artist: Stornoway
+  title: You Don't Know Anything
+  notes: Best guess for album title.
   twitter: https://twitter.com/BBC6Music/status/405987476965044224
+  spotify-id: 20nuRd5HpPhmjroNzblnp2
 - date: 2013-11-20
   artist: Sonic Youth
-  title: Dirty Boots
+  title: Goo
   twitter: https://twitter.com/BBC6Music/status/403182301938335744
+  spotify-id: 4G1YVElmzCn3QkVFQyuxkt
 - date: 2013-11-13
   artist: Jake Bugg
   title: Shangri La
   twitter: https://twitter.com/BBC6Music/status/400689347017465857
   spotify-id: 2kl9qhHRgNPQFSeWrliGeR
-- date: 2013-11-12
-  twitter: https://twitter.com/BBC6Music/status/400322958142353408
 - date: 2013-10-15
   artist: Paul McCartney
+  title: NEW
+  notes: Best guess for album title.
   twitter: https://twitter.com/BBC6Music/status/390085439513571328
+  spotify-id: 1zd1DOaqrJq6tgdo74kAIj
 - date: 2013-09-18
   artist: Placebo
   title: Loud Like Love
@@ -50,7 +56,10 @@
   spotify-id: 1I7nurs0QFuIrDPXjdx96L
 - date: 2013-09-16
   artist: MGMT
+  title: MGMT
+  notes: Best guess for album title.
   twitter: https://twitter.com/BBC6Music/status/379613271663202305
+  spotify-id: 0a4MASgg8wxOyUeoOZzuhc
 - date: 2013-09-10
   artist: Manic Street Preachers
   title: Rewind The Film
@@ -61,11 +70,11 @@
   title: AM
   twitter: https://twitter.com/BBC6Music/status/377076246363918336
   spotify-id: 5bU1XKYxHhEwukllT20xtk
-- date: 2013-09-01
-  twitter: https://twitter.com/BBC6Music/status/374266205622005761
 - date: 2013-08-29
-  title: Shadow of Heaven
+  artist: MONEY
+  title: The Shadow of Heaven
   twitter: https://twitter.com/BBC6Music/status/373042851375898624
+  spotify-id: 64AKqBf2QnJCcDbyOxqD3s
 - date: 2013-08-27
   artist: King Krule
   title: 6 Feet Beneath The Moon
@@ -73,7 +82,10 @@
   spotify-id: 6DAL46eCFRxgj624atbOYY
 - date: 2013-08-23
   artist: Blondie
+  title: Parallel Lines
+  notes: Best guess for album title.
   twitter: https://twitter.com/BBC6Music/status/370869865105457152
+  spotify-id: 5wc12ZsmXNIlppTmNFZFLU
 - date: 2013-08-22
   artist: Drenge
   title: Drenge
@@ -99,8 +111,6 @@
   title: Body Music
   twitter: https://twitter.com/BBC6Music/status/361809863489224705
   spotify-id: 7nXdR8vOT55x18KJ4kuE5W
-- date: 2013-07-26
-  twitter: https://twitter.com/BBC6Music/status/360799303779876864
 - date: 2013-07-18
   artist: Daughn Gibson
   title: Me Moan
@@ -108,7 +118,9 @@
   spotify-id: 4qmHbjCEf6v4uOKeabNugL
 - date: 2013-05-23
   artist: Bibio
+  title: Silver Wilkinson
   twitter: https://twitter.com/BBC6Music/status/337540273062166529
+  spotify-id: 635cLXDOf3Kh5WA9c63xm8
 - date: 2013-04-02
   artist: British Sea Power
   twitter: https://twitter.com/BBC6Music/status/319057816516190209
@@ -298,8 +310,6 @@
   twitter: https://twitter.com/BBC6Music/status/300891787508191233
   review: http://www.bbc.co.uk/music/reviews/bq3q
   spotify-id: 0PIR7PK8DMB4pgoxq7F9Ad
-- date: 2013-02-10
-  twitter: https://twitter.com/BBC6Music/status/300530931444367361
 - date: 2013-02-08
   artist: Eels
   title: Wonderful, Glorious

@@ -111,10 +111,12 @@
   artist: Various Artists
   title: 'Movement: BBC Radio 1 Peel Sessions 1977-1979'
   review: http://www.bbc.co.uk/music/reviews/hvpn
+  spotify-id: 4fZRusB5Y7oo2ynPzwU7aa
 - date: 2011-11-28
   artist: The Rolling Stones
   title: 'Some Girls: Deluxe Edition'
   review: http://www.bbc.co.uk/music/reviews/z56m
+  spotify-id: 6FjXxl9VLURGuubdXUn2J3
 - date: 2011-11-25
   artist: Beck
   title: Odelay
@@ -159,8 +161,9 @@
   spotify-id: 6tMrRLV4mPCKOGZxWXF71P
 - date: 2011-11-15
   artist: Aidan Moffat & Bill Wells
-  title: Everything’s Getting Older
+  title: Everything's Getting Older
   review: http://www.bbc.co.uk/music/reviews/dr3q
+  spotify-id: 3GMuRdRY13Ui3jUE1oWG2f
 - date: 2011-11-14
   artist: Snow Patrol
   title: Fallen Empires
@@ -342,7 +345,10 @@
 - date: 2011-09-23
   artist: Nirvana
   title: Nevermind (20th Anniversary Boxset)
+  notes: The Spotify album is not the reviewed version, but it is substantially the
+    same.
   review: http://www.bbc.co.uk/music/reviews/9pj9
+  spotify-id: 2uEf3r9i2bnxwJQsxQ0xQ7
 - date: 2011-09-22
   artist: Lanterns on the Lake
   title: Gracious Tide, Take Me Home
@@ -499,8 +505,8 @@
   review: http://www.bbc.co.uk/music/reviews/89vr
   spotify-id: 6GJCGWfI95aeRsdtVB52vc
 - date: 2011-07-07
-  artist: Drums Between the Bells
-  title: Brian Eno
+  artist: Brian Eno
+  title: Drums Between the Bells
   review: http://www.bbc.co.uk/music/reviews/2rm5
 - date: 2011-07-06
   artist: Benjamin Francis Leftwich
@@ -529,8 +535,9 @@
   spotify-id: 2e4VGZNOF3VkEGjoY697pe
 - date: 2011-06-29
   artist: Marvin Gaye
-  title: What’s Going On – 40th Anniversary Edition
+  title: What's Going On - 40th Anniversary Edition
   review: http://www.bbc.co.uk/music/reviews/pq9p
+  spotify-id: 4gp6F03qAJCvKYoAGSrHVk
 - date: 2011-06-28
   artist: SBTRKT
   title: SBTRKT
@@ -547,9 +554,10 @@
   review: http://www.bbc.co.uk/music/reviews/bqw6
   spotify-id: 1U69hFsxaQxP6fquZmOmNH
 - date: 2011-06-22
-  artist: Cashier No.9
+  artist: Cashier No. 9
   title: To the Death of Fun
   review: http://www.bbc.co.uk/music/reviews/4rm5
+  spotify-id: 0J9a78ydUOAU31IArEFpe0
 - date: 2011-06-21
   artist: Destroyer
   title: Kaputt
@@ -666,6 +674,7 @@
   artist: Bootsy Collins
   title: Tha Funk Capital of the World
   review: http://www.bbc.co.uk/music/reviews/24x2
+  spotify-id: 3Aon3lyhzsHI8uyGghj5QU
 - date: 2011-04-27
   artist: Fleet Foxes
   title: Helplessness Blues

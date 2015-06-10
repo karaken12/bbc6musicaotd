@@ -17,6 +17,7 @@ module Aotd
     def generate(site)
       # Set dir so we save at the top level.
       dir = ''
+      site.data['years'] = site.data['year'].keys.sort!
       site.data['year'].each do |year, data|
         site.pages << Year.new(site, site.source, dir, year, data)
       end

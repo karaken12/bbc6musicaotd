@@ -19,6 +19,9 @@
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        {% for year in site.data.years %}
+          <a class="page-link" href="{{ site.baseurl }}/{{ year }}">{{ year }}</a>
+        {% endfor %}
       </div>
     </nav>
 

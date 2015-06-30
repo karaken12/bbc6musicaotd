@@ -14,7 +14,7 @@ module JekyllBbc6musicaotd
       end
       this_year = '2015'
       this_year_albums = site.data['year'][this_year]
-      site.data['recent'] = this_year_albums.reverse[0,5]
+      site.data['recent'] = this_year_albums.select{|album| album['artist'] && album['title']}.reverse[0,5]
     end
   end
 end

@@ -878,6 +878,7 @@
   artist: Paul and Linda McCartney
   title: Ram
   review: http://www.bbc.co.uk/music/reviews/gdgw
+  spotify-id: 4LPRyrhbUxGn9R6aUOGQxE
 - date: 2012-05-24
   artist: Zulu Winter
   title: Language
@@ -895,8 +896,9 @@
   spotify-id: 5kPFXB2tpMfyMj087GNZCO
 - date: 2012-05-21
   artist: Gaz Coombes
-  title: Gaz Coombes Presents Here Come the Bombs
+  title: Here Come the Bombs
   review: http://www.bbc.co.uk/music/reviews/fxfd
+  spotify-id: 0aTiAjctSHS6CeE19dJ4ab
 - date: 2012-05-18
   artist: Small Faces
   title: From the Beginning – Deluxe Edition
@@ -944,8 +946,9 @@
   spotify-id: 4lxhCEI4ogeAtmhFRKKd1I
 - date: 2012-05-07
   artist: Beastie Boys
-  title: Paul's Boutique 20th Anniversary Edition Remastered
+  title: Paul's Boutique (20th Anniversary Remastered Edition)
   review: http://www.bbc.co.uk/music/reviews/bq3n
+  spotify-id: 1kmyirVya5fRxdjsPFDM05
 - date: 2012-05-04
   artist: My Bloody Valentine
   title: Loveless
@@ -973,8 +976,9 @@
   spotify-id: 6w0mr6REiPftCdkE34l7W4
 - date: 2012-04-27
   artist: T. Rex
-  title: 'Electric Warrior: 40th Anniversary Edition'
+  title: Electric Warrior (Deluxe Edition)
   review: http://www.bbc.co.uk/music/reviews/85x2
+  spotify-id: 6hPt04r4KtO00nwhdGJ8Ox
 - date: 2012-04-26
   artist: Tom Williams & The Boat
   title: Teenage Blood
@@ -1009,6 +1013,7 @@
   artist: The Clash
   title: London Calling - 25th Anniversary Edition
   review: http://www.bbc.co.uk/music/reviews/c3cz
+  spotify-id: 6FCzvataOZh68j8OKzOt9a
 - date: 2012-04-17
   artist: M. Ward
   title: A Wasteland Companion

@@ -506,18 +506,6 @@
   notes: Doesn't seem to be on Spotify, despite the candidates.
   twitter: https://twitter.com/BBC6Music/status/234943548150132736
   review: http://www.bbc.co.uk/music/reviews/85pn
-  spotify:
-    candidates:
-    - artists:
-      - Various Artists
-      name: Freedom Sounds
-      album_id: 19dvwjvOwWV1S5PLn7ASPe
-      type: album
-    - artists:
-      - Various Artists
-      name: 'Freedom Sounds: A Tribute To The Skatalites'
-      album_id: 1v3swjJzmeWOjGDjOeRgdW
-      type: album
 - date: 2012-08-10
   artist: Cheek Mountain Thief
   title: Cheek Mountain Thief
@@ -543,58 +531,6 @@
   title: Bass Culture
   notes: I don't think this is on Spotify.
   review: http://www.bbc.co.uk/music/reviews/8n6m
-  spotify:
-    candidates:
-    - artists:
-      - Various Artists
-      name: UKF Bass Culture 2
-      album_id: 273KQpIxu6XeDhXmmUGbMK
-      type: album
-    - artists:
-      - Various Artists
-      name: UKF Bass Culture 3
-      album_id: 38aqDVcEPRt2Kdn4ZTm9RI
-      type: album
-    - artists:
-      - Various Artists
-      name: 'Jstar & Dr Cat Present: Dub Zealand (Bass Culture Music)'
-      album_id: 4wgrqfvgb0BUlPqp3r2QC7
-      type: compilation
-    - artists:
-      - Various Artists
-      name: Bass Culture - The Best of Bass Music
-      album_id: 0PP1fSa4a0wQXZIKUj0Zho
-      type: album
-    - artists:
-      - Various Artists
-      name: Bass Culture
-      album_id: 4emS0VySqM3dlcvD51TtIH
-      type: single
-    - artists:
-      - Various Artists
-      name: Bass Culture, Vol. 2
-      album_id: 7gXvzdBhTHXHeRfmxIBigg
-      type: compilation
-    - artists:
-      - Various Artists
-      name: Montreal Bass Culture Vol. 1
-      album_id: 15G2iesSL8yMUNQrhvRXYs
-      type: album
-    - artists:
-      - Various Artists
-      name: Bass Culture - Thr Official Compilation
-      album_id: 4iQycvXfv31fOVWI5xPMh8
-      type: compilation
-    - artists:
-      - Various Artists
-      name: Bass Culture - The Official Compilation, Vol. 3
-      album_id: 60hDma5KCMXjlNiZYp4Mc2
-      type: compilation
-    - artists:
-      - Various Artists
-      name: This Is Bass Culture (4 years of Bass Culture records mixed by D'Julz)
-      album_id: 3uGtu2Gt0r9FyftY9OqhKV
-      type: album
 - date: 2012-08-03
   artist: Jimmy Cliff
   title: Rebirth

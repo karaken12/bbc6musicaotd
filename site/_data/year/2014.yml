@@ -51,13 +51,13 @@
   title: New Boots and Panties
   twitter: https://twitter.com/BBC6Music/status/533272945184227328
   spotify-id: 4WSbGsCtpm4socUvJv3VFZ
-- date: 2014-11-12
-  notes: Don't know why there's no album here...
 - date: 2014-11-13
   artist: Hookworms
   title: The Hum
   twitter: https://twitter.com/BBC6Music/status/532913222853328896
   spotify-id: 415oSeCPGqObwNN3rMmyCd
+- date: 2014-11-12
+  notes: Don't know why there's no album here...
 - date: 2014-11-11
   artist: Pink Floyd
   title: The Endless River
@@ -918,6 +918,10 @@
 - date: 2014-02-04
 - date: 2014-02-03
 - date: 2014-01-31
+  artist: The Auteurs
+  title: New Wave
+  twitter: https://twitter.com/BBC6Music/status/429230165441277952
+  spotify-id: 7dJLDJkGND4ovSCRL4r4bk
 - date: 2014-01-30
 - date: 2014-01-29
 - date: 2014-01-28

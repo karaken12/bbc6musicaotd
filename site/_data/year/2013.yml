@@ -27,17 +27,37 @@
   artist: The Kitchen Cinq
   title: Everything But
   twitter: https://twitter.com/BBC6Music/status/406443661224734720
+- date: 2013-11-29
+  artist: Honey Ltd
+  title: The Complete Lhi Recordings
+  twitter: https://twitter.com/BBC6Music/status/406398427761606657
+  spotify-id: 6I6PNu1wiKUNP0JDokeHZE
 - date: 2013-11-28
   artist: Stornoway
   title: You Don't Know Anything
   notes: Best guess for album title.
   twitter: https://twitter.com/BBC6Music/status/405987476965044224
   spotify-id: 20nuRd5HpPhmjroNzblnp2
+- date: 2013-11-21
+  artist: Torres
+  title: Torres
+  twitter: https://twitter.com/BBC6Music/status/403500973827448833
+  spotify-id: 1EbIfYtE6PdK30IKwYBoKl
 - date: 2013-11-20
   artist: Sonic Youth
   title: Goo
   twitter: https://twitter.com/BBC6Music/status/403182301938335744
   spotify-id: 4G1YVElmzCn3QkVFQyuxkt
+- date: 2013-11-19
+  artist: Blood Orange
+  title: Cupid Deluxe
+  twitter: https://twitter.com/BBC6Music/status/402775610147098625
+  spotify-id: 3KIRi1cU8yt3w7xhmiyehM
+- date: 2013-11-14
+  artist: Wooden Shjips
+  title: Back To Land
+  twitter: https://twitter.com/BBC6Music/status/400963861446029313
+  spotify-id: 1VyWvAkunNZTJ0PCUv81dj
 - date: 2013-11-13
   artist: Jake Bugg
   title: Shangri La
@@ -49,6 +69,40 @@
   notes: Best guess for album title.
   twitter: https://twitter.com/BBC6Music/status/390085439513571328
   spotify-id: 1zd1DOaqrJq6tgdo74kAIj
+- date: 2013-10-08
+  artist: Anna Calvi
+  title: One Breath
+  twitter: https://twitter.com/BBC6Music/status/387539927031754753
+  spotify-id: 6KimA7qStxEgeKIEsnKcBV
+- date: 2013-10-04
+  artist: ''
+  title: ''
+  twitter: https://twitter.com/BBC6Music/status/386089199356485632
+- date: 2013-10-02
+  artist: Moby
+  title: Innocents
+  twitter: https://twitter.com/BBC6Music/status/385364954418671618
+  spotify-id: 24z2UXIScSYYhMvrovOuI1
+- date: 2013-09-30
+  artist: HAIM
+  title: Days Are Gone
+  twitter: https://twitter.com/BBC6Music/status/384606618840608769
+  spotify-id: 7CzrzGbCwqT8Y43tvIUPBX
+- date: 2013-09-25
+  artist: Mazzy Star
+  title: Seasons of Your Day
+  twitter: https://twitter.com/BBC6Music/status/382829911074824192
+  spotify-id: 38Eb5LBD8yO5KbMYVUQQZp
+- date: 2013-09-24
+  artist: Cloud Control
+  title: Dream Cave
+  twitter: https://twitter.com/BBC6Music/status/382465164563333121
+  spotify-id: 1faLinmR39ZrEVhvGbkSp3
+- date: 2013-09-23
+  artist: Kings of Leon
+  title: Mechanical Bull
+  twitter: https://twitter.com/BBC6Music/status/382103712841228288
+  spotify-id: 0cRJKK0y1sfZEqWub4dK9v
 - date: 2013-09-18
   artist: Placebo
   title: Loud Like Love
@@ -60,6 +114,11 @@
   notes: Best guess for album title.
   twitter: https://twitter.com/BBC6Music/status/379613271663202305
   spotify-id: 0a4MASgg8wxOyUeoOZzuhc
+- date: 2013-09-11
+  artist: Goldfrapp
+  title: Tales Of Us
+  twitter: https://twitter.com/BBC6Music/status/377754377282260992
+  spotify-id: 4UA08VkNzFtlb9kGxtDtat
 - date: 2013-09-10
   artist: Manic Street Preachers
   title: Rewind The Film
@@ -106,6 +165,24 @@
   title: Right Thoughts, Right Words, Right Action
   twitter: https://twitter.com/BBC6Music/status/369405632689893377
   spotify-id: 4X6YC6PgSMt5s7ARwGpLJ7
+- date: 2013-08-16
+  artist: Various Artists
+  title: 'Greco Roman: We Make Colourful Music Because We Dance In The Dark'
+  twitter: https://twitter.com/BBC6Music/status/368333911589285888
+- date: 2013-08-01
+  artist: ''
+  title: ''
+  twitter: https://twitter.com/BBC6Music/status/362865117441961984
+- date: 2013-07-31
+  artist: Alela Diane
+  title: About Farewell
+  twitter: https://twitter.com/BBC6Music/status/362535600940781568
+  spotify-id: 1MMRMeASSP9ZkdJIM8jmu4
+- date: 2013-07-30
+  artist: Nadine Shah
+  title: Love Your Dum and Mad
+  twitter: https://twitter.com/BBC6Music/status/362173534669242368
+  spotify-id: 2FUAQi3It8usLuj1ngDoGZ
 - date: 2013-07-29
   artist: AlunaGeorge
   title: Body Music
@@ -116,6 +193,11 @@
   title: Me Moan
   twitter: https://twitter.com/BBC6Music/status/357823968671039491
   spotify-id: 4qmHbjCEf6v4uOKeabNugL
+- date: 2013-06-27
+  artist: Melt Yourself Down
+  title: Melt Yourself Down
+  twitter: https://twitter.com/BBC6Music/status/350212340752449536
+  spotify-id: 3rSlPOMTZF8Y17osMduNaa
 - date: 2013-05-23
   artist: Bibio
   title: Silver Wilkinson

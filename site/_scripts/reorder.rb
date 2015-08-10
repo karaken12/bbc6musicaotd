@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 
 require 'yaml'
 
@@ -29,7 +30,7 @@ end
 
 def process_data(data)
   new_data = [] 
-  data.each do |album|
+  data.sort{|a,b| a['date'] <=> b['date']}.each do |album|
     new_album = process_album(album)
     new_data.push(new_album)
   end

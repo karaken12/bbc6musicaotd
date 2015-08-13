@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 
 require 'yaml'
 require_relative '_questions'
@@ -80,7 +81,9 @@ def get_spotify_data(cached, album)
 end
 
 # Bit nasty, but should do the job
-if (ARGV[0])
-  update_file(ARGV[0])
+if ARGV
+  ARGV.each do |file|
+    update_file(file)
+  end
 end
 

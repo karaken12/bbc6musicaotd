@@ -38,7 +38,9 @@ def process_data(data)
 end
 
 # Bit nasty, but should do the job
-if (ARGV[0])
-  update_file(ARGV[0])
+if ARGV
+  ARGV.each do |file|
+    update_file(file)
+  end
 end
 

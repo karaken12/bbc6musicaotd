@@ -1,904 +1,43 @@
 ---
-- date: 2014-11-28
-  notes: Was a special T-shirt day, so maybe no AotD?
-- date: 2014-11-27
-  artist: The Drink
-  title: Company
-  twitter: https://twitter.com/BBC6Music/status/537987008598376449
-  spotify-id: 3HH44JdoWngTM9EGuZq9NW
-- date: 2014-11-26
-  artist: The Velvet Underground
-  title: The Velvet Underground
-  twitter: https://twitter.com/BBC6Music/status/537623999304708096
-  spotify-id: 4kR4Yr84lErTVOaZ0uiULu
-- date: 2014-11-25
-  artist: Benjamin Schoos
-  title: Beau Futur
-  twitter: https://twitter.com/BBC6Music/status/537262561960669184
-  spotify-id: 17cVyno6fIPlKeEp3WYvTD
-- date: 2014-11-24
-  artist: Ariel Pink
-  title: Pom Pom
-  twitter: https://twitter.com/BBC6Music/status/536899305731538945
-  spotify-id: 4UhaqAS8V23KozB3dzLMax
-- date: 2014-11-21
-  artist: Scott Matthews
-  title: Home Part 1
-  twitter: https://twitter.com/BBC6Music/status/535813360156409856
-  spotify-id: 5ucW5jb132Yc5LqT11BTOC
-- date: 2014-11-20
-  artist: Royksopp
-  title: The Inevitable End
-  twitter: https://twitter.com/BBC6Music/status/535450282009051137
-  spotify-id: 7e3jhGjP6eVOHEoomr37fK
-- date: 2014-11-19
-  artist: The Jesus and Mary Chain
-  title: Psychocandy
-  twitter: https://twitter.com/BBC6Music/status/535088499981303808
-  spotify-id: 4NGWe17wxoQvF0an1ps49l
-- date: 2014-11-18
-  artist: Paul Smith & Peter Brewis
-  title: Frozen By Sight
-  twitter: https://twitter.com/BBC6Music/status/534725605057912832
-  spotify-id: 2biBurLrf3PDbQXdBJFBaz
-- date: 2014-11-17
-  artist: TV on The Radio
-  title: Seeds
-  twitter: https://twitter.com/BBC6Music/status/534362884055527424
-  spotify-id: 093xy0P5h7elpQQMiNyQuD
-- date: 2014-11-14
-  artist: Ian Dury
-  title: New Boots and Panties
-  twitter: https://twitter.com/BBC6Music/status/533272945184227328
-  spotify-id: 4WSbGsCtpm4socUvJv3VFZ
-- date: 2014-11-13
-  artist: Hookworms
-  title: The Hum
-  twitter: https://twitter.com/BBC6Music/status/532913222853328896
-  spotify-id: 415oSeCPGqObwNN3rMmyCd
-- date: 2014-11-12
-  notes: Don't know why there's no album here...
-- date: 2014-11-11
-  artist: Pink Floyd
-  title: The Endless River
-  twitter: https://twitter.com/BBC6Music/status/532188851943796736
-  spotify-id: 0fXAlQ9wTG2glNJvZEkBZc
-- date: 2014-11-10
-  artist: Foo Fighters
-  title: Sonic Highways
-  twitter: https://twitter.com/BBC6Music/status/531826954870484992
-  spotify-id: 2qwN15acAl3sm3Idce5vK9
-- date: 2014-11-07
-  artist: Richard Hawley
-  title: Late Night Final
-  twitter: https://twitter.com/BBC6Music/status/530739864527179776
-  spotify-id: 2J5oKyhVdrqTFqBIUaMIr1
-- date: 2014-11-06
-  artist: Wildbirds & Peacedrums
-  title: Rhythm
-  twitter: https://twitter.com/BBC6Music/status/530377093973311490
-  spotify-id: 4YBJtLOXIqn83kQjSXg9wj
-- date: 2014-11-05
-  artist: DELS
-  title: Petals Have Fallen
-  twitter: https://twitter.com/BBC6Music/status/530013722937671680
-  spotify-id: 5PMtPrWNpOad7WJev6FMo9
-- date: 2014-11-04
-  artist: The Flaming Lips
-  title: With A Little Help from My Fwends
-  twitter: https://twitter.com/BBC6Music/status/529652130526011392
-  spotify-id: 4bRWRFoslHqi8e7ypFfExn
-- date: 2014-11-03
-  artist: Neil Young
-  title: Storytone
-  twitter: https://twitter.com/BBC6Music/status/529289732866703360
-  spotify-id: 361dgrFRURo9gwWnSQG6Uu
-- date: 2014-10-31
-  artist: Lily and Madeleine
-  title: Fumes
-  twitter: https://twitter.com/BBC6Music/status/528203388019040256
-  spotify-id: 26eDLgNnUywpdhAvbLw4wc
-- date: 2014-10-30
-  artist: The Twilight Sad
-  title: Nobody Wants To Be Here And Nobody Wants To Leave
-  twitter: https://twitter.com/BBC6Music/status/527840075665928192
-  spotify-id: 41Pqn506XOxhMN29dtg26k
-- date: 2014-10-29
-  artist: Led Zeppelin
-  title: Led Zeppelin IV
-  twitter: https://twitter.com/BBC6Music/status/527477295397998592
-  spotify-id: 5EyIDBAqhnlkAHqvPRwdbX
-- date: 2014-10-28
-  artist: Ultimate Painting
-  title: Ultimate Painting
-  twitter: https://twitter.com/BBC6Music/status/527115963322613760
-  spotify-id: 1EApty6jfl0QKRE07Mqun1
-- date: 2014-10-27
-  artist: Tony Allen
-  title: Film Of Life
-  twitter: https://twitter.com/BBC6Music/status/526752758888947713
-  spotify-id: 5OiUURWMLnRycOmHPUm5Wy
-- date: 2014-10-24
-  artist: Sleater-Kinney
-  title: The Woods
-  twitter: https://twitter.com/BBC6Music/status/525650510406496256
-  spotify-id: 0cQQfoZalvTSHk3ddtl5Pi
-- date: 2014-10-23
-  artist: Various Artists
-  title: 'Master Mix: Red Hot + Arthur Russell'
-  twitter: https://twitter.com/BBC6Music/status/525287771813191680
-  spotify-id: 4YnruQJtGMPgMBLFWMQCNA
-- date: 2014-10-22
-  artist: Baxter Dury
-  title: It's A Pleasure
-  twitter: https://twitter.com/BBC6Music/status/524925669109936129
-  spotify-id: 5hxVaM0tTV8hrqD1HokIUO
-- date: 2014-10-21
-  artist: New Build
-  title: Pour It On
-  twitter: https://twitter.com/BBC6Music/status/524563108724215808
-  spotify-id: 5UmgZN3eGbeSZo91US8sYy
-- date: 2014-10-20
-  artist: Mark Lanegan Band
-  title: Phantom Radio
-  twitter: https://twitter.com/BBC6Music/status/524200325410856960
-  spotify-id: 1GrPlXaE0a12At0oxyUYkV
-- date: 2014-10-17
-  artist: Siouxsie and the Banshees
-  title: Peepshow
-  twitter: https://twitter.com/BBC6Music/status/523114071252430848
-  spotify-id: 70f5hHNiUqVMAnk7ZZeEiJ
-- date: 2014-10-16
-  artist: Lamb
-  title: Backspace Unwind
-  twitter: https://twitter.com/BBC6Music/status/522751580102483968
-  spotify-id: 2aUIV5oucDpSf14bkN7yPr
-- date: 2014-10-15
-  artist: Kindness
-  title: Otherness
-  twitter: https://twitter.com/BBC6Music/status/522389382742167552
-  spotify-id: 0puYCje8tHQOQ6ebl3zszo
-- date: 2014-10-14
-  artist: Philip Selway
-  title: Weatherhouse
-  twitter: https://twitter.com/BBC6Music/status/522026420596637696
-  spotify-id: 75OaxeDARsDueJiA40Cyij
-- date: 2014-10-13
-  artist: Kele
-  title: Trick
-  twitter: https://twitter.com/BBC6Music/status/521663705428557824
-  spotify-id: 42216Q5a89KDkEvYn9n03k
-- date: 2014-10-10
-  artist: Suede
-  title: Dog Man Star
-  twitter: https://twitter.com/BBC6Music/status/520577528390758400
-  spotify-id: 1LgpJjBJIRQhkJ01oZR3Cn
-- date: 2014-10-09
-  artist: Weezer
-  title: Everything Will Be Alright In The End
-  twitter: https://twitter.com/BBC6Music/status/520215161547001856
-  spotify-id: 4SAIsLf2JsS6LU3nTWb7ES
-- date: 2014-10-08
-  artist: The Barr Brothers
-  title: Sleeping Operator
-  twitter: https://twitter.com/BBC6Music/status/519852197476315136
-  spotify-id: 7fjRTWt2AzOiOTOAVupzTq
-- date: 2014-10-07
-  artist: Johnny Marr
-  title: Playland
-  twitter: https://twitter.com/BBC6Music/status/519490907448823809
-  spotify-id: 5CQVzrh6Ww643MWcZd7DIh
-- date: 2014-10-06
-  artist: Caribou
-  title: Our Love
-  twitter: https://twitter.com/BBC6Music/status/519128082603839488
-  spotify-id: 4jLLt8pqzGxWZ8waNX8ylJ
-- date: 2014-10-03
-  artist: Haley Bonar
-  title: Last War
-  twitter: https://twitter.com/BBC6Music/status/518040847620014080
-  spotify-id: 00tpyZkSVSu6hGp3iWp9E6
-- date: 2014-10-02
-  notes: I have no idea.
-- date: 2014-10-01
-  artist: Billy Bragg
-  title: Life's a Riot With Spy vs. Spy
-  twitter: https://twitter.com/BBC6Music/status/517315765884960768
-  spotify-id: 4cnhuroFgFd0B51p20nzn4
-- date: 2014-09-30
-  artist: Prince
-  title: Plectrumelectrum
-  twitter: https://twitter.com/BBC6Music/status/516953850495107072
-  spotify-id: 675uV1x91y53JcI7elQN2b
-- date: 2014-09-29
-  artist: Jamie T
-  title: Carry On The Grudge
-  twitter: https://twitter.com/BBC6Music/status/516590848256245760
-  spotify-id: 3dvHXz1aCtrPvvpIMDJFfs
-- date: 2014-09-26
-  artist: Leonard Cohen
-  title: Popular Problems
-  twitter: https://twitter.com/BBC6Music/status/515502737791143936
-  spotify-id: 1WkGbKUjhOMru7uYl25jJb
-- date: 2014-09-25
-  artist: Perfume Genius
-  title: Too Bright
-  twitter: https://twitter.com/BBC6Music/status/515140511683076096
-  spotify-id: 5qtHbJAK0C1IkacqJBqsa2
-- date: 2014-09-24
-  artist: The Human League
-  title: Reproduction
-  twitter: https://twitter.com/BBC6Music/status/514778423609532416
-  spotify-id: 7tc1nTdBA717D74uJ07VRn
-- date: 2014-09-23
-  artist: alt_J
-  title: This Is All Yours
-  twitter: https://twitter.com/BBC6Music/status/514416475055345664
-  spotify-id: 6TbkWAqqY4nhQnYim61IU8
-- date: 2014-09-22
-  artist: Aphex Twin
-  title: Syro
-  twitter: https://twitter.com/BBC6Music/status/514054095486058496
-  spotify-id: 6oRuinkJdTge4hpTuClEF8
-- date: 2014-09-19
-  artist: Tricky
-  title: Adrian Thaws
-  twitter: https://twitter.com/BBC6Music/status/512966885068275712
-  spotify-id: 7k6uk69iD8MfDmglQgYZzg
-- date: 2014-09-18
-  artist: AVI Buffalo
-  title: At Best Cuckold
-  twitter: https://twitter.com/BBC6Music/status/512604739402747904
-  spotify-id: 0bfdoENsRuAz86QNfSaMOx
-- date: 2014-09-17
-  artist: David Bowie
-  title: Aladdin Sane
-  twitter: https://twitter.com/BBC6Music/status/512242540876423168
-  spotify-id: 0rBsmtPnOGz2IYmAqCrbuy
-- date: 2014-09-16
-  artist: Catfish and the Bottlemen
-  title: The Balcony
-  twitter: https://twitter.com/BBC6Music/status/511879555850977280
-  spotify-id: 5ii2VuwrvjZZcFlmK7yhgc
-- date: 2014-09-15
-  artist: Robert Plant
-  title: Lullaby and The Ceaseless Roar
-  twitter: https://twitter.com/BBC6Music/status/511517950457958403
-- date: 2014-09-12
-  artist: Ryan Adams
-  title: Ryan Adams
-  twitter: https://twitter.com/BBC6Music/status/510334046246014977
-  spotify-id: 69K1Pef7hoy91Q81F6WPey
-- date: 2014-09-11
-  artist: Death From Above 1979
-  title: Physical World
-  twitter: https://twitter.com/BBC6Music/status/510067418992230400
-  spotify-id: 6rjdp3hkfpKCcxJX0moFb9
-- date: 2014-09-10
-  artist: Simian Mobile Disco
-  title: Whorl
-  twitter: https://twitter.com/BBC6Music/status/509705372182261760
-  spotify-id: 0NhEuJfTkfqgNEzABWNPKU
-- date: 2014-09-09
-  artist: Interpol
-  title: El Pintor
-  twitter: https://twitter.com/BBC6Music/status/509343538702979073
-  spotify-id: 22DVAydYXgXK1yxNZffMp9
-- date: 2014-09-08
-  artist: Nirvana
-  title: Unplugged in New York
-  twitter: https://twitter.com/BBC6Music/status/508884913731674112
-  spotify-id: 5pbjLidJuoty9QUOy6X682
-- date: 2014-09-05
-  artist: M.A.Z.E.S
-  title: Wooden Aquarium
-  twitter: https://twitter.com/BBC6Music/status/507893734730924034
-  spotify-id: 3TQE2fU2KcyjCFutQ2dq2i
-- date: 2014-09-04
-  artist: Merchandise
-  title: After The End
-  twitter: https://twitter.com/BBC6Music/status/507532339426385920
-  spotify-id: 3o8f3nCzoLFsuPOHaDhIQc
-- date: 2014-09-03
-  artist: Belle and Sebastian
-  title: The Boy With The Arab Strap
-  twitter: https://twitter.com/BBC6Music/status/507169195994664960
-  spotify-id: 0PnuQg8OK4KoOPrwhgyKRQ
-- date: 2014-09-02
-  artist: Sinkane
-  title: Mean Love
-  twitter: https://twitter.com/BBC6Music/status/506807074513494016
-  spotify-id: 4KDhBCeytmmDyKinDYwbca
-- date: 2014-09-01
-  artist: Ty Segall
-  title: Manipulator
-  twitter: https://twitter.com/BBC6Music/status/506443999662858240
-- date: 2014-08-29
-  artist: Royal Blood
-  title: Royal Blood
-  twitter: https://twitter.com/BBC6Music/status/505357226547347456
-  spotify-id: 0BFzNaeaNv4mahOzwZFGHK
-- date: 2014-08-28
-  artist: Erland & The Carnival
-  title: Closing Time
-  twitter: https://twitter.com/BBC6Music/status/504994052354633728
-  spotify-id: 2uufY02W1xOfiD4gsSfGC5
-- date: 2014-08-27
-  artist: The Housemartins
-  title: London 0 Hull 4
-  twitter: https://twitter.com/BBC6Music/status/504631915522301952
-  spotify-id: 1rle5T6XTmBBFMmlx59jeF
-- date: 2014-08-26
-  artist: Various Artists
-  title: Pay Close Attention
-  twitter: https://twitter.com/BBC6Music/status/504270140033486848
-  spotify-id: 19xt2EkDfNcbAdQzOVUttd
-- date: 2014-08-25
-  artist: J Mascis
-  title: Tied To A Star
-  twitter: https://twitter.com/BBC6Music/status/503906790200053760
-  spotify-id: 2Ks9qv8BHziWoce4cWqUDz
-- date: 2014-08-22
-  artist: The Wytches
-  title: Annabel Dream Reader
-  twitter: https://twitter.com/BBC6Music/status/502819394301755392
-  spotify-id: 6yRRmOn24Yr8ajcWxdjUYQ
-- date: 2014-08-21
-  artist: Trwbador
-  title: Several Wolves
-  twitter: https://twitter.com/BBC6Music/status/502457669547196416
-  spotify-id: 2mpLlyxUfDFl5jYezNythx
-- date: 2014-08-20
-  artist: The Damned
-  title: Machine Gun Etiquette
-  twitter: https://twitter.com/BBC6Music/status/502094904831791104
-  spotify-id: 2wCCXYJUgeiRqyIr3ujbMF
-- date: 2014-08-19
-  artist: Luke Sital Singh
-  title: The Fire Inside
-  twitter: https://twitter.com/BBC6Music/status/501733596915589121
-  spotify-id: 50b5yOziNASYCd79B40iYX
-- date: 2014-08-18
-  artist: Benjamin Booker
-  title: Benjamin Booker
-  twitter: https://twitter.com/BBC6Music/status/501370440292782080
-  spotify-id: 1lHQCme4fW2HcOLMKZ0WOQ
-- date: 2014-08-15
-  artist: Neutral Milk Hotel
-  title: In The Aeroplane
-  twitter: https://twitter.com/BBC6Music/status/500283602039746560
-  spotify-id: 7i6AHMD700GlwhHdFx1CIG
-- date: 2014-08-14
-  artist: James Yorkston
-  title: Cellardyke Recording & Wassailing Soc
-  twitter: https://twitter.com/BBC6Music/status/499921197224972288
-- date: 2014-08-13
-  artist: FaltyDL
-  title: In The Wild
-  twitter: https://twitter.com/BBC6Music/status/499557938802229248
-  spotify-id: 1Bq4OV8fc4DXYugd1dSI2K
-- date: 2014-08-12
-  artist: Grumbling Fur
-  title: Preternaturals
-  twitter: https://twitter.com/BBC6Music/status/499196393022824448
-  spotify-id: 4r4vOlrStKycNPIxekCeDn
-- date: 2014-08-11
-  artist: Childhood
-  title: Lacuna
-  twitter: https://twitter.com/BBC6Music/status/498833363311263744
-  spotify-id: 2g6rmoAkrKKVZIe3pr0YHS
-- date: 2014-08-08
-  artist: Orbital
-  title: Snivilisation
-  twitter: https://twitter.com/BBC6Music/status/497745920101195776
-  spotify-id: 30nRhMqZKuMHDH6CRCCCPz
-- date: 2014-08-07
-  artist: Annie Eve
-  title: Sunday '91
-  twitter: https://twitter.com/BBC6Music/status/497384855748247552
-  spotify-id: 6dgVm9AIsKeCp9fAffOyqc
-- date: 2014-08-06
-  artist: We Are Shining
-  title: Kara
-  twitter: https://twitter.com/BBC6Music/status/497021415888261120
-  spotify-id: 2p2IShxZMPFwF9RMCKKbm7
-- date: 2014-08-05
-  artist: Hyde And Beast
-  title: Keep Moving
-  twitter: https://twitter.com/BBC6Music/status/496659311289196544
-  spotify-id: 44ErjiiG1YiiRFMZQL7De2
-- date: 2014-08-04
-  artist: Spoon
-  title: They Want My Soul
-  twitter: https://twitter.com/BBC6Music/status/496297588392738816
-  spotify-id: 5LOVEXnGFLMChzdUNRWRpB
-- date: 2014-08-01
-  artist: Giorgio Moroder
-  title: E=MC2
-  twitter: https://twitter.com/BBC6Music/status/495210202258743297
-  spotify-id: 0CAO4TC1HPXZfMr1DfBLU0
-- date: 2014-07-31
-  artist: Tom Petty
-  title: Hypnotic Eye
-  twitter: https://twitter.com/BBC6Music/status/494848640171933696
-  spotify-id: 55dSc0Ry199sq95DwnHFFa
-- date: 2014-07-30
-  artist: Lost Midas
-  title: Off The Course
-  twitter: https://twitter.com/BBC6Music/status/494485364678361088
-  spotify-id: 37fEvLJMa7pNDGObverf27
-- date: 2014-07-29
-  artist: John Steel
-  title: Everything’s A Thread
-  twitter: https://twitter.com/BBC6Music/status/494123033372925952
-  spotify-id: 6B2BMqIGoxOtIedJNw4WyV
-- date: 2014-07-28
-  artist: Jenny Lewis
-  title: The Voyager
-  twitter: https://twitter.com/BBC6Music/status/493760658119610369
-  spotify-id: 5sCsfubNchaI9RCpP7K7aB
-- date: 2014-07-25
-  artist: Beastie Boys
-  title: Paul's Boutique
-  twitter: https://twitter.com/BBC6Music/status/492672733801897984
-  spotify-id: 4DfmPm17Nz6a60BlEpGGKU
-- date: 2014-07-24
-  artist: King Creosote
-  title: Scotland With Love
-  twitter: https://twitter.com/BBC6Music/status/492311546354466816
-  spotify-id: 0rXZ7L03XlBerKk7eP7Phw
-- date: 2014-07-23
-  artist: Woman's Hour
-  title: Conversations
-  twitter: https://twitter.com/BBC6Music/status/491948709849354240
-  spotify-id: 3NcENYeNFMgzURYSCkBfjw
-- date: 2014-07-22
-  artist: Alvvays
-  title: Alvvays
-  twitter: https://twitter.com/BBC6Music/status/491586626834157568
-  spotify-id: 28a7IkiQxDoxGpAr8Cy0fP
-- date: 2014-07-21
-- date: 2014-07-18
-  artist: Mogwai
-  title: Come On Die Young
-  twitter: https://twitter.com/BBC6Music/status/490040690404249600
-  spotify-id: 5TcwvxSuB5zntncsdQmtEU
-- date: 2014-07-17
-  artist: Honeyblood
-  title: Honeyblood
-  twitter: https://twitter.com/BBC6Music/status/489676377697038336
-  spotify-id: 6b67Ng1w8SDSsf3yXpNgjO
-- date: 2014-07-16
-  artist: Jungle
-  title: Jungle
-  twitter: https://twitter.com/BBC6Music/status/489412140886155264
-  spotify-id: 6IH6co1QUS7uXoyPDv0rIr
-- date: 2014-07-15
-  artist: Slow Club
-  title: Complete Surrender
-  twitter: https://twitter.com/BBC6Music/status/489050050539298816
-  spotify-id: 7fVx3hAAvTmVtgUaM4gsxZ
-- date: 2014-07-14
-  artist: Morrissey
-  title: World Peace Is None Of Your Business
-  twitter: https://twitter.com/BBC6Music/status/488687421081800704
-- date: 2014-07-11
-  artist: The The
-  title: Soul Mining
-  twitter: https://twitter.com/BBC6Music/status/487599998277005313
-  spotify-id: 0I7bOh7mYGUEyqCFHU9R0A
-- date: 2014-07-10
-  artist: Eugene McGuinness
-  title: Chroma
-  twitter: https://twitter.com/BBC6Music/status/487237755395923968
-  spotify-id: 1mxoK1nitRSfxf3i4gYgEn
-- date: 2014-07-09
-  artist: Braid
-  title: No Coast
-  twitter: https://twitter.com/BBC6Music/status/486876274389159936
-  spotify-id: 0hMmKlbeNkwQqVHuHZdfOS
-- date: 2014-07-08
-- date: 2014-07-07
-  artist: Manic Street Preachers
-  title: Futurology
-  twitter: https://twitter.com/BBC6Music/status/486151826627387392
-  spotify-id: 1lGeS8ejAXYtPzgnSv25ZY
-- date: 2014-07-04
-  artist: Kraftwerk
-  title: Tour de France
-  twitter: https://twitter.com/BBC6Music/status/485063194197913600
-  spotify-id: 6NYyISRJeOlJ1IldQtNvMw
-- date: 2014-07-03
-  artist: Beverly
-  title: Careers
-  twitter: https://twitter.com/BBC6Music/status/484701086125936640
-  spotify-id: 4d4r9uKg7aKhBIlXycnsbq
-- date: 2014-07-02
-  artist: Beth Orton
-  title: Central Reservation
-  twitter: https://twitter.com/BBC6Music/status/484339355713302531
-  spotify-id: 3yIFysHpeQKb1dAuHQICVW
-- date: 2014-07-01
-  title: Shapes:Rectangles
-  type: compilation
-  twitter: https://twitter.com/BBC6Music/status/483976127732785152
-  spotify-id: 38Udw9hJ7hgD4ubvO9E2Xg
-- date: 2014-06-30
-- date: 2014-06-27
-- date: 2014-06-26
-  artist: How To Dress Well
-  title: What IS This Heart?
-  twitter: https://twitter.com/BBC6Music/status/482165018843439104
-  spotify-id: 329XZJQ2x2nRNhly1itL49
-- date: 2014-06-25
-  artist: Prince
-  title: Purple Rain
-  twitter: https://twitter.com/BBC6Music/status/481802289578254336
-  spotify-id: 7nXJ5k4XgRj5OLg9m8V3zc
-- date: 2014-06-24
-  artist: Strand of Oaks
-  title: HEAL
-  twitter: https://twitter.com/BBC6Music/status/481439060687593472
-  spotify-id: 2EdAZFKawR42D2reoNCNgP
-- date: 2014-06-23
-  artist: Klaxons
-  title: Love Frequency
-  twitter: https://twitter.com/BBC6Music/status/481077059851390976
-  spotify-id: 5vDpkP5jfNwjWtzTMAZacl
-- date: 2014-06-20
-  title: C86
-  type: compilation
-  twitter: https://twitter.com/BBC6Music/status/479990415157129216
-  spotify-id: 4lwDUdh06FdHq9ShKQtnba
-- date: 2014-06-19
-  artist: Alexis Taylor
-  title: Await Barbarians
-  twitter: https://twitter.com/BBC6Music/status/479624673769324544
-  spotify-id: 0AbH6TIVK565dzgXtlF8qJ
-- date: 2014-06-18
-  artist: White Lung
-  title: Deep Fantasy
-  twitter: https://twitter.com/BBC6Music/status/479265327273222144
-  spotify-id: 64w2PSTImdSXDfoc7TqARQ
-- date: 2014-06-17
-  artist: Lana Del Rey
-  title: Ultraviolence
-  twitter: https://twitter.com/BBC6Music/status/478903743774470144
-  spotify-id: 3zU6lhWOIaBhgrJQee4s1L
-- date: 2014-06-16
-  artist: Bob Mould
-  title: Beauty and Ruin
-  twitter: https://twitter.com/BBC6Music/status/478540247580819457
-  spotify-id: 1Y4SnhJ0qALAVy2NYm5viY
-- date: 2014-06-13
-  artist: David Byrne
-  title: Rei Momo
-  twitter: https://twitter.com/BBC6Music/status/477453634444480512
-  spotify-id: 2JQU5ZvGycMsa7gITyaGb6
-- date: 2014-06-12
-  artist: Kasabian
-  title: '48:13'
-  twitter: https://twitter.com/BBC6Music/status/477091058812485633
-  spotify-id: 31Ph8c0rL3cK3FBd1JpuPA
-- date: 2014-06-11
-  artist: Kate Tempest
-  title: Everybody Down
-  twitter: https://twitter.com/BBC6Music/status/476727660857790464
-  spotify-id: 7D7AbNgs6SWCiS9iLS0uG1
-- date: 2014-06-10
-  artist: Glass Animals
-  title: Zaba
-  twitter: https://twitter.com/BBC6Music/status/476368622278172672
-  spotify-id: 7jfkffCqKYEJmIgGOIJ9me
-- date: 2014-06-09
-  artist: First Aid Kit
-  title: Stay Gold
-  twitter: https://twitter.com/BBC6Music/status/476004607508770817
-  spotify-id: 6toF7GAattD7gLgqKbY8f9
-- date: 2014-06-06
-  artist: Led Zeppelin
-  title: Led Zeppelin III
-  twitter: https://twitter.com/BBC6Music/status/474916348045582336
-  spotify-id: 6P5QHz4XtxOmS5EuiGIPut
-- date: 2014-06-05
-  artist: James
-  title: La Petite Mort
-  twitter: https://twitter.com/BBC6Music/status/474553462743924736
-  spotify-id: 1m0zaIFvtbs5kb7ZtvWQ0c
-- date: 2014-06-04
-  artist: PAWS
-  title: Youth Culture Forever!
-  twitter: https://twitter.com/BBC6Music/status/474191117563744256
-  spotify-id: 0iuPDHbnYtmR8uLXO51Q4R
-- date: 2014-06-03
-  artist: Jack White
-  title: Lazaretto
-  twitter: https://twitter.com/BBC6Music/status/473718324228927488
-  spotify-id: 75224XX4gZg2PjWeXzRjsa
-- date: 2014-06-02
-  artist: Teleman
-  title: Breakfast
-  twitter: https://twitter.com/BBC6Music/status/473467308237934592
-  spotify-id: 0OaVZJwUqAyLlniMCB5O6K
-- date: 2014-05-30
-  artist: Blondie
-  title: Blondie
-  twitter: https://twitter.com/BBC6Music/status/472379384318660608
-  spotify-id: 54V45InMvJ6uVtRtO6h1Co
-- date: 2014-05-29
-  artist: Neil Young
-  title: A Letter Home
-  twitter: https://twitter.com/BBC6Music/status/472017447995060225
-  spotify-id: 0qeBoQjqVd5L0T93Pf7Vwm
-- date: 2014-05-28
-  artist: Karol Conka
-  title: Batuk Freak
-  twitter: https://twitter.com/BBC6Music/status/471651586520125440
-  spotify-id: 5bbHNmgbJcOaulF0Ir7jS4
-- date: 2014-05-27
-  artist: Echo & The Bunnymen
-  title: Meteorites
-  twitter: https://twitter.com/BBC6Music/status/471292539837100032
-  spotify-id: 4lnmYWGMRC3EciM1rnHKPP
-- date: 2014-05-26
-  artist: Sharon Van Etten
-  title: Are We There
-  twitter: https://twitter.com/BBC6Music/status/470929361332609026
-  spotify-id: 0F1pMhF8Vy74nKkQeLBfrd
-- date: 2014-05-23
-  artist: Gil Scott-Heron
-  title: Pieces Of A Man
-  twitter: https://twitter.com/BBC6Music/status/469842549868617728
-  spotify-id: 3HsWjdL2LBJfgHlDFJthHL
-- date: 2014-05-22
-  artist: Archie Bronson Outfit
-  title: Wild Crush
-  twitter: https://twitter.com/BBC6Music/status/469480512428728320
-  spotify-id: 0JBnYkDfvguzI2ThRteNJT
-- date: 2014-05-21
-  artist: Oasis
-  title: Definitely Maybe
-  notes: Using the Deluxe version, since that's what they played...
-  twitter: https://twitter.com/BBC6Music/status/469118095588851712
-  spotify-id: 3F7qb5AiQdWxuMgSyQ9zyg
-- date: 2014-05-20
-  artist: Mr. Scruff
-  title: Friendly Bacteria
-  twitter: https://twitter.com/BBC6Music/status/468755716623589378
-  spotify-id: 1fQmZk3Fyh76hTRuhYTire
-- date: 2014-05-19
-  artist: Conor Oberst
-  title: Upside Down Mountain
-  twitter: https://twitter.com/BBC6Music/status/468393008954880000
-  spotify-id: 7g42rDRob7LSSKgiaTdBvN
-- date: 2014-05-16
-  artist: Kraftwerk
-  title: Radio-Activity
-  twitter: https://twitter.com/BBC6Music/status/467306158689386496
-  spotify-id: 4nEgdO6tkE2v5LO3mpUEe9
-- date: 2014-05-15
-  artist: Nick Mulvey
-  title: First Mind
-  twitter: https://twitter.com/BBC6Music/status/466943813060419584
-  spotify-id: 5Lr1JRVi5TeuBIogQjGePq
-- date: 2014-05-14
-  artist: Tune Yards
-  title: Nikki Nack
-  twitter: https://twitter.com/BBC6Music/status/466581636839383041
-  spotify-id: 1qfQJDGIBDJ3Wis7ILOXAK
-- date: 2014-05-13
-  artist: Hollie Cook
-  title: Twice
-  twitter: https://twitter.com/BBC6Music/status/466219519930007552
-  spotify-id: 24ovBIao6BIwN6oDD0ylE9
-- date: 2014-05-12
-  artist: Little Dragon
-  title: Nabuma Rubberband
-  twitter: https://twitter.com/BBC6Music/status/465855949547532289
-  spotify-id: 1ADuPKeonWiIfavyC53k0Z
-- date: 2014-05-09
-  artist: Eno Hyde
-  title: Someday World
-  twitter: https://twitter.com/BBC6Music/status/464769209931923457
-  spotify-id: 4kGPUq98NXcQhvdJrqx48D
-- date: 2014-05-08
-  artist: Gruff Rhys
-  title: American Interior
-  twitter: https://twitter.com/BBC6Music/status/464407494241308672
-  spotify-id: 7C3G7ExGXGK49fGT6D8xlZ
-- date: 2014-05-07
-  artist: Lykke Li
-  title: I Never Learn
-  twitter: https://twitter.com/BBC6Music/status/464046042862743552
-  spotify-id: 4fGqfyineAZmulNxgitERh
-- date: 2014-05-06
-  artist: The Black Keys
-  title: Turn Blue
-  twitter: https://twitter.com/BBC6Music/status/463683268886663168
-- date: 2014-05-05
-- date: 2014-05-02
-- date: 2014-05-01
-  artist: Oliver Wilde
-  title: Red Tide Opal In The Loose End Womb
-  twitter: https://twitter.com/BBC6Music/status/461869665950908416
-  spotify-id: 5naF7pRNEIYWvXidA8AUuN
-- date: 2014-04-30
-  artist: Wye Oak
-  title: Shriek
-  twitter: https://twitter.com/BBC6Music/status/461507984305438720
-  spotify-id: 72RPXfpBOVIznuAXe64vao
-- date: 2014-04-29
-  artist: Pixies
-  title: Indie Cindy
-  twitter: https://twitter.com/BBC6Music/status/461104061597884416
-  spotify-id: 2buKtzUMKIsPcusMqnRYTk
-- date: 2014-04-28
-  artist: Damon Albarn
-  title: Everyday Robots
-  twitter: https://twitter.com/BBC6Music/status/460783765502316544
-  spotify-id: 5SzhltQSSi1HUMi5cveZIZ
-- date: 2014-04-25
-- date: 2014-04-24
-  artist: Fear of Men
-  title: Loom
-  twitter: https://twitter.com/BBC6Music/status/459333538333335552
-  spotify-id: 3x92mYdT8qC2Fs2DushNVE
-- date: 2014-04-23
-  artist: Eels
-  title: The Cautionary Tales Of Mark Oliver Everett
-  twitter: https://twitter.com/BBC6Music/status/458970863287939072
-  spotify-id: 7mYX2lhLBsUQYAmW08cSi9
-- date: 2014-04-22
-  artist: Stereolab
-  title: Mars Audiac Quintet
-  twitter: https://twitter.com/BBC6Music/status/458608945159225344
-  spotify-id: 1eVdt7oZ90mHnh3XovcXot
-- date: 2014-04-21
-  artist: Kelis
-  title: Food
-  twitter: https://twitter.com/BBC6Music/status/458245901937831936
-  spotify-id: 7rOLlR197BcHUxYOfvi1BC
-- date: 2014-04-18
-  artist: Nas
-  title: Illmatic
-  twitter: https://twitter.com/BBC6Music/status/457160482055786496
-  spotify-id: 3kEtdS2pH6hKcMU9Wioob1
-- date: 2014-04-17
-  artist: Ben Watt
-  title: Hendra
-  twitter: https://twitter.com/BBC6Music/status/456796881016725504
-  spotify-id: 2ywpY80U7kv9Kr6HuPATiW
-- date: 2014-04-16
-  artist: LCD Soundsystem
-  title: The Long Goodbye
-  twitter: https://twitter.com/BBC6Music/status/456434919627948032
-  spotify-id: 1J60iwLlrXqJokziB4h19U
-- date: 2014-04-15
-- date: 2014-04-14
-  artist: The Afghan Whigs
-  title: Do To The Beast
-  twitter: https://twitter.com/BBC6Music/status/455709570430955520
-  spotify-id: 0YMmnCTfj5uLSeXy7ShvVf
-- date: 2014-04-11
-- date: 2014-04-10
-  artist: Todd Terje
-  title: It's Album Time
-  twitter: https://twitter.com/BBC6Music/status/454259546228543488
-  spotify-id: 4pefQ21iSk8hdnxw3WSB5Y
-- date: 2014-04-09
-  artist: SOHN
-  title: Tremors
-  twitter: https://twitter.com/BBC6Music/status/453897431760248832
-  spotify-id: 6xGF4UA9pQweZI5yUBFlRq
-- date: 2014-04-08
-  artist: Protomartyr
-  title: Under Color Of Official Right
-  twitter: https://twitter.com/BBC6Music/status/453534527512915969
-  spotify-id: 5Z8CuI6sEzVjwGFsdNEuea
-- date: 2014-04-07
-- date: 2014-04-04
-  artist: Therapy
-  title: Troublegum
-  twitter: https://twitter.com/BBC6Music/status/452085128123383808
-  spotify-id: 4z3ZBMZyLD5ONDDLapihtz
-- date: 2014-04-03
-  artist: Lucius
-  title: Wildewoman
-  twitter: https://twitter.com/BBC6Music/status/451722507398422530
-  spotify-id: 5EdOpCVH5biQ10VkwQeMek
-- date: 2014-04-02
-  artist: Cloud Nothings
-  title: Here And Nowhere Else
-  twitter: https://twitter.com/BBC6Music/status/451360625382658048
-  spotify-id: 0hLNDK6qqmScdwxU7kvnXn
-- date: 2014-04-01
-  artist: Future Islands
-  title: Singles
-  twitter: https://twitter.com/BBC6Music/status/450997853989912576
-  spotify-id: 1dKh4z5Aayt8FFDWjO5FDh
-- date: 2014-03-31
-  artist: Kaiser Chiefs
-  title: Education, Education, Education
-  twitter: https://twitter.com/BBC6Music/status/450636249431568384
-  spotify-id: 4Tj1BbmWboz5OstQsmXDSt
-- date: 2014-03-28
-  artist: Squarepusher
-  title: Hello Everything
-  twitter: https://twitter.com/BBC6Music/status/449566895125975040
-  spotify-id: 7wZuW9tw66vgchGn7DNb1n
-- date: 2014-03-27
-- date: 2014-03-26
-  artist: Liars
-  title: Mess
-  twitter: https://twitter.com/BBC6Music/status/448797299855360000
-  spotify-id: 7EQaaJIxTx4XGyrFbnBvtx
-- date: 2014-03-25
-- date: 2014-03-24
-  artist: Foster The People
-  title: Supermodel
-  twitter: https://twitter.com/BBC6Music/status/448020059295084544
-  spotify-id: 22cFcAQkydpTzeSKQZEKv0
-- date: 2014-03-21
-  artist: Lambchop
-  title: Nixon
-  twitter: https://twitter.com/BBC6Music/status/447027686909943808
-- date: 2014-03-20
-  artist: Black Lips
-  title: Underneath The Rainbow
-  spotify-id: 4kE1w1zgP6Ag6Ojbuxzk7l
-- date: 2014-03-19
-- date: 2014-03-18
-- date: 2014-03-17
-- date: 2014-03-14
-  artist: Iggy Pop
-  title: Lust For Life
-  twitter: https://twitter.com/BBC6Music/status/444408298167885826
-  spotify-id: 7ynKEunH8LSit4TR3foMVC
-- date: 2014-03-13
-  artist: Mutual Benefit
-  title: Love's Crushing Diamond
-  twitter: https://twitter.com/BBC6Music/status/444085955763662848
-  spotify-id: 7bdiB9i8o2je2kaPylQ3IF
-- date: 2014-03-12
-  artist: Metronomy
-  title: Love Letters
-  twitter: https://twitter.com/BBC6Music/status/443724080416821248
-  spotify-id: 1YPlEB0kZ4SOyT2kBLgINR
-- date: 2014-03-11
-- date: 2014-03-10
-  artist: Elbow
-  title: The Take Off And Landing Of Everything
-  twitter: https://twitter.com/BBC6Music/status/443041824945766400
-  spotify-id: 2BQejnIGjuFugsT71hhOG3
-- date: 2014-03-07
-- date: 2014-03-06
-- date: 2014-03-05
-- date: 2014-03-04
-- date: 2014-03-03
-- date: 2014-02-28
-- date: 2014-02-27
-  artist: St. Vincent
-  title: St. Vincent
-  spotify-id: 2PbvQ5ALJj6uXgz5X3ghro
-- date: 2014-02-26
-- date: 2014-02-25
-- date: 2014-02-24
-- date: 2014-02-21
-- date: 2014-02-20
-  title: And Now Our Lives Are Complete
-  type: compilation
-  twitter: https://twitter.com/BBC6Music/status/436422169909018624
-- date: 2014-02-19
-  artist: Quilt
-  title: Held In Splendor
-  twitter: https://twitter.com/BBC6Music/status/436118955938168832
-  spotify-id: 4OjXG2t5Wu0RUw5KEV8C9f
-- date: 2014-02-18
-- date: 2014-02-17
-- date: 2014-02-14
-  artist: The Smiths
-  title: The Smiths
-  spotify-id: 6cI1XoZsOhkyrCwtuI70CN
+- date: 2014-01-13
+  artist: Stephen Malkmus & The Jicks
+  title: Wig Out At Jagbags
+  twitter: https://twitter.com/BBC6Music/status/422706030061973506
+  spotify-id: 4WtvCN3c82fMAR6dkeoeR0
+- date: 2014-01-14
+- date: 2014-01-15
+  artist: East India Youth
+  title: Total Strife Forever
+  twitter: https://twitter.com/BBC6Music/status/423376696184557569
+  spotify-id: 0S466XEmkMM7oFcVgo1zMR
+- date: 2014-01-16
+- date: 2014-01-17
+- date: 2014-01-20
+  artist: Warpaint
+  title: Warpaint
+  twitter: https://twitter.com/BBC6Music/status/425243254670376960
+  spotify-id: 09dQDtKaIuTaQvVHjFhEV4
+- date: 2014-01-21
+- date: 2014-01-22
+- date: 2014-01-23
+- date: 2014-01-24
+- date: 2014-01-27
+- date: 2014-01-28
+- date: 2014-01-29
+- date: 2014-01-30
+- date: 2014-01-31
+  artist: The Auteurs
+  title: New Wave
+  twitter: https://twitter.com/BBC6Music/status/429230165441277952
+  spotify-id: 7dJLDJkGND4ovSCRL4r4bk
+- date: 2014-02-03
+- date: 2014-02-04
+- date: 2014-02-05
+- date: 2014-02-06
+- date: 2014-02-07
+- date: 2014-02-10
+- date: 2014-02-11
+- date: 2014-02-12
 - date: 2014-02-13
   artist: Eagulls
   title: Eagulls
@@ -909,42 +48,903 @@
   title: Cheatahs
   twitter: https://twitter.com/BBC6Music/status/433939947037286400
   spotify-id: 4nN2IBkjL8WVvz1T599LvL
-- date: 2014-02-12
-- date: 2014-02-11
-- date: 2014-02-10
-- date: 2014-02-07
-- date: 2014-02-06
-- date: 2014-02-05
-- date: 2014-02-04
-- date: 2014-02-03
-- date: 2014-01-31
-  artist: The Auteurs
-  title: New Wave
-  twitter: https://twitter.com/BBC6Music/status/429230165441277952
-  spotify-id: 7dJLDJkGND4ovSCRL4r4bk
-- date: 2014-01-30
-- date: 2014-01-29
-- date: 2014-01-28
-- date: 2014-01-27
-- date: 2014-01-24
-- date: 2014-01-23
-- date: 2014-01-22
-- date: 2014-01-21
-- date: 2014-01-20
-  artist: Warpaint
-  title: Warpaint
-  twitter: https://twitter.com/BBC6Music/status/425243254670376960
-  spotify-id: 09dQDtKaIuTaQvVHjFhEV4
-- date: 2014-01-17
-- date: 2014-01-16
-- date: 2014-01-15
-  artist: East India Youth
-  title: Total Strife Forever
-  twitter: https://twitter.com/BBC6Music/status/423376696184557569
-  spotify-id: 0S466XEmkMM7oFcVgo1zMR
-- date: 2014-01-14
-- date: 2014-01-13
-  artist: Stephen Malkmus & The Jicks
-  title: Wig Out At Jagbags
-  twitter: https://twitter.com/BBC6Music/status/422706030061973506
-  spotify-id: 4WtvCN3c82fMAR6dkeoeR0
+- date: 2014-02-14
+  artist: The Smiths
+  title: The Smiths
+  spotify-id: 6cI1XoZsOhkyrCwtuI70CN
+- date: 2014-02-17
+- date: 2014-02-18
+- date: 2014-02-19
+  artist: Quilt
+  title: Held In Splendor
+  twitter: https://twitter.com/BBC6Music/status/436118955938168832
+  spotify-id: 4OjXG2t5Wu0RUw5KEV8C9f
+- date: 2014-02-20
+  title: And Now Our Lives Are Complete
+  type: compilation
+  twitter: https://twitter.com/BBC6Music/status/436422169909018624
+- date: 2014-02-21
+- date: 2014-02-24
+- date: 2014-02-25
+- date: 2014-02-26
+- date: 2014-02-27
+  artist: St. Vincent
+  title: St. Vincent
+  spotify-id: 2PbvQ5ALJj6uXgz5X3ghro
+- date: 2014-02-28
+- date: 2014-03-03
+- date: 2014-03-04
+- date: 2014-03-05
+- date: 2014-03-06
+- date: 2014-03-07
+- date: 2014-03-10
+  artist: Elbow
+  title: The Take Off And Landing Of Everything
+  twitter: https://twitter.com/BBC6Music/status/443041824945766400
+  spotify-id: 2BQejnIGjuFugsT71hhOG3
+- date: 2014-03-11
+- date: 2014-03-12
+  artist: Metronomy
+  title: Love Letters
+  twitter: https://twitter.com/BBC6Music/status/443724080416821248
+  spotify-id: 1YPlEB0kZ4SOyT2kBLgINR
+- date: 2014-03-13
+  artist: Mutual Benefit
+  title: Love's Crushing Diamond
+  twitter: https://twitter.com/BBC6Music/status/444085955763662848
+  spotify-id: 7bdiB9i8o2je2kaPylQ3IF
+- date: 2014-03-14
+  artist: Iggy Pop
+  title: Lust For Life
+  twitter: https://twitter.com/BBC6Music/status/444408298167885826
+  spotify-id: 7ynKEunH8LSit4TR3foMVC
+- date: 2014-03-17
+- date: 2014-03-18
+- date: 2014-03-19
+- date: 2014-03-20
+  artist: Black Lips
+  title: Underneath The Rainbow
+  spotify-id: 4kE1w1zgP6Ag6Ojbuxzk7l
+- date: 2014-03-21
+  artist: Lambchop
+  title: Nixon
+  twitter: https://twitter.com/BBC6Music/status/447027686909943808
+- date: 2014-03-24
+  artist: Foster The People
+  title: Supermodel
+  twitter: https://twitter.com/BBC6Music/status/448020059295084544
+  spotify-id: 22cFcAQkydpTzeSKQZEKv0
+- date: 2014-03-25
+- date: 2014-03-26
+  artist: Liars
+  title: Mess
+  twitter: https://twitter.com/BBC6Music/status/448797299855360000
+  spotify-id: 7EQaaJIxTx4XGyrFbnBvtx
+- date: 2014-03-27
+- date: 2014-03-28
+  artist: Squarepusher
+  title: Hello Everything
+  twitter: https://twitter.com/BBC6Music/status/449566895125975040
+  spotify-id: 7wZuW9tw66vgchGn7DNb1n
+- date: 2014-03-31
+  artist: Kaiser Chiefs
+  title: Education, Education, Education
+  twitter: https://twitter.com/BBC6Music/status/450636249431568384
+  spotify-id: 4Tj1BbmWboz5OstQsmXDSt
+- date: 2014-04-01
+  artist: Future Islands
+  title: Singles
+  twitter: https://twitter.com/BBC6Music/status/450997853989912576
+  spotify-id: 1dKh4z5Aayt8FFDWjO5FDh
+- date: 2014-04-02
+  artist: Cloud Nothings
+  title: Here And Nowhere Else
+  twitter: https://twitter.com/BBC6Music/status/451360625382658048
+  spotify-id: 0hLNDK6qqmScdwxU7kvnXn
+- date: 2014-04-03
+  artist: Lucius
+  title: Wildewoman
+  twitter: https://twitter.com/BBC6Music/status/451722507398422530
+  spotify-id: 5EdOpCVH5biQ10VkwQeMek
+- date: 2014-04-04
+  artist: Therapy
+  title: Troublegum
+  twitter: https://twitter.com/BBC6Music/status/452085128123383808
+  spotify-id: 4z3ZBMZyLD5ONDDLapihtz
+- date: 2014-04-07
+- date: 2014-04-08
+  artist: Protomartyr
+  title: Under Color Of Official Right
+  twitter: https://twitter.com/BBC6Music/status/453534527512915969
+  spotify-id: 5Z8CuI6sEzVjwGFsdNEuea
+- date: 2014-04-09
+  artist: SOHN
+  title: Tremors
+  twitter: https://twitter.com/BBC6Music/status/453897431760248832
+  spotify-id: 6xGF4UA9pQweZI5yUBFlRq
+- date: 2014-04-10
+  artist: Todd Terje
+  title: It's Album Time
+  twitter: https://twitter.com/BBC6Music/status/454259546228543488
+  spotify-id: 4pefQ21iSk8hdnxw3WSB5Y
+- date: 2014-04-11
+- date: 2014-04-14
+  artist: The Afghan Whigs
+  title: Do To The Beast
+  twitter: https://twitter.com/BBC6Music/status/455709570430955520
+  spotify-id: 0YMmnCTfj5uLSeXy7ShvVf
+- date: 2014-04-15
+- date: 2014-04-16
+  artist: LCD Soundsystem
+  title: The Long Goodbye
+  twitter: https://twitter.com/BBC6Music/status/456434919627948032
+  spotify-id: 1J60iwLlrXqJokziB4h19U
+- date: 2014-04-17
+  artist: Ben Watt
+  title: Hendra
+  twitter: https://twitter.com/BBC6Music/status/456796881016725504
+  spotify-id: 2ywpY80U7kv9Kr6HuPATiW
+- date: 2014-04-18
+  artist: Nas
+  title: Illmatic
+  twitter: https://twitter.com/BBC6Music/status/457160482055786496
+  spotify-id: 3kEtdS2pH6hKcMU9Wioob1
+- date: 2014-04-21
+  artist: Kelis
+  title: Food
+  twitter: https://twitter.com/BBC6Music/status/458245901937831936
+  spotify-id: 7rOLlR197BcHUxYOfvi1BC
+- date: 2014-04-22
+  artist: Stereolab
+  title: Mars Audiac Quintet
+  twitter: https://twitter.com/BBC6Music/status/458608945159225344
+  spotify-id: 1eVdt7oZ90mHnh3XovcXot
+- date: 2014-04-23
+  artist: Eels
+  title: The Cautionary Tales Of Mark Oliver Everett
+  twitter: https://twitter.com/BBC6Music/status/458970863287939072
+  spotify-id: 7mYX2lhLBsUQYAmW08cSi9
+- date: 2014-04-24
+  artist: Fear of Men
+  title: Loom
+  twitter: https://twitter.com/BBC6Music/status/459333538333335552
+  spotify-id: 3x92mYdT8qC2Fs2DushNVE
+- date: 2014-04-25
+- date: 2014-04-28
+  artist: Damon Albarn
+  title: Everyday Robots
+  twitter: https://twitter.com/BBC6Music/status/460783765502316544
+  spotify-id: 5SzhltQSSi1HUMi5cveZIZ
+- date: 2014-04-29
+  artist: Pixies
+  title: Indie Cindy
+  twitter: https://twitter.com/BBC6Music/status/461104061597884416
+  spotify-id: 2buKtzUMKIsPcusMqnRYTk
+- date: 2014-04-30
+  artist: Wye Oak
+  title: Shriek
+  twitter: https://twitter.com/BBC6Music/status/461507984305438720
+  spotify-id: 72RPXfpBOVIznuAXe64vao
+- date: 2014-05-01
+  artist: Oliver Wilde
+  title: Red Tide Opal In The Loose End Womb
+  twitter: https://twitter.com/BBC6Music/status/461869665950908416
+  spotify-id: 5naF7pRNEIYWvXidA8AUuN
+- date: 2014-05-02
+- date: 2014-05-05
+- date: 2014-05-06
+  artist: The Black Keys
+  title: Turn Blue
+  twitter: https://twitter.com/BBC6Music/status/463683268886663168
+- date: 2014-05-07
+  artist: Lykke Li
+  title: I Never Learn
+  twitter: https://twitter.com/BBC6Music/status/464046042862743552
+  spotify-id: 4fGqfyineAZmulNxgitERh
+- date: 2014-05-08
+  artist: Gruff Rhys
+  title: American Interior
+  twitter: https://twitter.com/BBC6Music/status/464407494241308672
+  spotify-id: 7C3G7ExGXGK49fGT6D8xlZ
+- date: 2014-05-09
+  artist: Eno Hyde
+  title: Someday World
+  twitter: https://twitter.com/BBC6Music/status/464769209931923457
+  spotify-id: 4kGPUq98NXcQhvdJrqx48D
+- date: 2014-05-12
+  artist: Little Dragon
+  title: Nabuma Rubberband
+  twitter: https://twitter.com/BBC6Music/status/465855949547532289
+  spotify-id: 1ADuPKeonWiIfavyC53k0Z
+- date: 2014-05-13
+  artist: Hollie Cook
+  title: Twice
+  twitter: https://twitter.com/BBC6Music/status/466219519930007552
+  spotify-id: 24ovBIao6BIwN6oDD0ylE9
+- date: 2014-05-14
+  artist: Tune Yards
+  title: Nikki Nack
+  twitter: https://twitter.com/BBC6Music/status/466581636839383041
+  spotify-id: 1qfQJDGIBDJ3Wis7ILOXAK
+- date: 2014-05-15
+  artist: Nick Mulvey
+  title: First Mind
+  twitter: https://twitter.com/BBC6Music/status/466943813060419584
+  spotify-id: 5Lr1JRVi5TeuBIogQjGePq
+- date: 2014-05-16
+  artist: Kraftwerk
+  title: Radio-Activity
+  twitter: https://twitter.com/BBC6Music/status/467306158689386496
+  spotify-id: 4nEgdO6tkE2v5LO3mpUEe9
+- date: 2014-05-19
+  artist: Conor Oberst
+  title: Upside Down Mountain
+  twitter: https://twitter.com/BBC6Music/status/468393008954880000
+  spotify-id: 7g42rDRob7LSSKgiaTdBvN
+- date: 2014-05-20
+  artist: Mr. Scruff
+  title: Friendly Bacteria
+  twitter: https://twitter.com/BBC6Music/status/468755716623589378
+  spotify-id: 1fQmZk3Fyh76hTRuhYTire
+- date: 2014-05-21
+  artist: Oasis
+  title: Definitely Maybe
+  notes: Using the Deluxe version, since that's what they played...
+  twitter: https://twitter.com/BBC6Music/status/469118095588851712
+  spotify-id: 3F7qb5AiQdWxuMgSyQ9zyg
+- date: 2014-05-22
+  artist: Archie Bronson Outfit
+  title: Wild Crush
+  twitter: https://twitter.com/BBC6Music/status/469480512428728320
+  spotify-id: 0JBnYkDfvguzI2ThRteNJT
+- date: 2014-05-23
+  artist: Gil Scott-Heron
+  title: Pieces Of A Man
+  twitter: https://twitter.com/BBC6Music/status/469842549868617728
+  spotify-id: 3HsWjdL2LBJfgHlDFJthHL
+- date: 2014-05-26
+  artist: Sharon Van Etten
+  title: Are We There
+  twitter: https://twitter.com/BBC6Music/status/470929361332609026
+  spotify-id: 0F1pMhF8Vy74nKkQeLBfrd
+- date: 2014-05-27
+  artist: Echo & The Bunnymen
+  title: Meteorites
+  twitter: https://twitter.com/BBC6Music/status/471292539837100032
+  spotify-id: 4lnmYWGMRC3EciM1rnHKPP
+- date: 2014-05-28
+  artist: Karol Conka
+  title: Batuk Freak
+  twitter: https://twitter.com/BBC6Music/status/471651586520125440
+  spotify-id: 5bbHNmgbJcOaulF0Ir7jS4
+- date: 2014-05-29
+  artist: Neil Young
+  title: A Letter Home
+  twitter: https://twitter.com/BBC6Music/status/472017447995060225
+  spotify-id: 0qeBoQjqVd5L0T93Pf7Vwm
+- date: 2014-05-30
+  artist: Blondie
+  title: Blondie
+  twitter: https://twitter.com/BBC6Music/status/472379384318660608
+  spotify-id: 54V45InMvJ6uVtRtO6h1Co
+- date: 2014-06-02
+  artist: Teleman
+  title: Breakfast
+  twitter: https://twitter.com/BBC6Music/status/473467308237934592
+  spotify-id: 0OaVZJwUqAyLlniMCB5O6K
+- date: 2014-06-03
+  artist: Jack White
+  title: Lazaretto
+  twitter: https://twitter.com/BBC6Music/status/473718324228927488
+  spotify-id: 75224XX4gZg2PjWeXzRjsa
+- date: 2014-06-04
+  artist: PAWS
+  title: Youth Culture Forever!
+  twitter: https://twitter.com/BBC6Music/status/474191117563744256
+  spotify-id: 0iuPDHbnYtmR8uLXO51Q4R
+- date: 2014-06-05
+  artist: James
+  title: La Petite Mort
+  twitter: https://twitter.com/BBC6Music/status/474553462743924736
+  spotify-id: 1m0zaIFvtbs5kb7ZtvWQ0c
+- date: 2014-06-06
+  artist: Led Zeppelin
+  title: Led Zeppelin III
+  twitter: https://twitter.com/BBC6Music/status/474916348045582336
+  spotify-id: 6P5QHz4XtxOmS5EuiGIPut
+- date: 2014-06-09
+  artist: First Aid Kit
+  title: Stay Gold
+  twitter: https://twitter.com/BBC6Music/status/476004607508770817
+  spotify-id: 6toF7GAattD7gLgqKbY8f9
+- date: 2014-06-10
+  artist: Glass Animals
+  title: Zaba
+  twitter: https://twitter.com/BBC6Music/status/476368622278172672
+  spotify-id: 7jfkffCqKYEJmIgGOIJ9me
+- date: 2014-06-11
+  artist: Kate Tempest
+  title: Everybody Down
+  twitter: https://twitter.com/BBC6Music/status/476727660857790464
+  spotify-id: 7D7AbNgs6SWCiS9iLS0uG1
+- date: 2014-06-12
+  artist: Kasabian
+  title: '48:13'
+  twitter: https://twitter.com/BBC6Music/status/477091058812485633
+  spotify-id: 31Ph8c0rL3cK3FBd1JpuPA
+- date: 2014-06-13
+  artist: David Byrne
+  title: Rei Momo
+  twitter: https://twitter.com/BBC6Music/status/477453634444480512
+  spotify-id: 2JQU5ZvGycMsa7gITyaGb6
+- date: 2014-06-16
+  artist: Bob Mould
+  title: Beauty and Ruin
+  twitter: https://twitter.com/BBC6Music/status/478540247580819457
+  spotify-id: 1Y4SnhJ0qALAVy2NYm5viY
+- date: 2014-06-17
+  artist: Lana Del Rey
+  title: Ultraviolence
+  twitter: https://twitter.com/BBC6Music/status/478903743774470144
+  spotify-id: 3zU6lhWOIaBhgrJQee4s1L
+- date: 2014-06-18
+  artist: White Lung
+  title: Deep Fantasy
+  twitter: https://twitter.com/BBC6Music/status/479265327273222144
+  spotify-id: 64w2PSTImdSXDfoc7TqARQ
+- date: 2014-06-19
+  artist: Alexis Taylor
+  title: Await Barbarians
+  twitter: https://twitter.com/BBC6Music/status/479624673769324544
+  spotify-id: 0AbH6TIVK565dzgXtlF8qJ
+- date: 2014-06-20
+  title: C86
+  type: compilation
+  twitter: https://twitter.com/BBC6Music/status/479990415157129216
+  spotify-id: 4lwDUdh06FdHq9ShKQtnba
+- date: 2014-06-23
+  artist: Klaxons
+  title: Love Frequency
+  twitter: https://twitter.com/BBC6Music/status/481077059851390976
+  spotify-id: 5vDpkP5jfNwjWtzTMAZacl
+- date: 2014-06-24
+  artist: Strand of Oaks
+  title: HEAL
+  twitter: https://twitter.com/BBC6Music/status/481439060687593472
+  spotify-id: 2EdAZFKawR42D2reoNCNgP
+- date: 2014-06-25
+  artist: Prince
+  title: Purple Rain
+  twitter: https://twitter.com/BBC6Music/status/481802289578254336
+  spotify-id: 7nXJ5k4XgRj5OLg9m8V3zc
+- date: 2014-06-26
+  artist: How To Dress Well
+  title: What IS This Heart?
+  twitter: https://twitter.com/BBC6Music/status/482165018843439104
+  spotify-id: 329XZJQ2x2nRNhly1itL49
+- date: 2014-06-27
+- date: 2014-06-30
+- date: 2014-07-01
+  title: Shapes:Rectangles
+  type: compilation
+  twitter: https://twitter.com/BBC6Music/status/483976127732785152
+  spotify-id: 38Udw9hJ7hgD4ubvO9E2Xg
+- date: 2014-07-02
+  artist: Beth Orton
+  title: Central Reservation
+  twitter: https://twitter.com/BBC6Music/status/484339355713302531
+  spotify-id: 3yIFysHpeQKb1dAuHQICVW
+- date: 2014-07-03
+  artist: Beverly
+  title: Careers
+  twitter: https://twitter.com/BBC6Music/status/484701086125936640
+  spotify-id: 4d4r9uKg7aKhBIlXycnsbq
+- date: 2014-07-04
+  artist: Kraftwerk
+  title: Tour de France
+  twitter: https://twitter.com/BBC6Music/status/485063194197913600
+  spotify-id: 6NYyISRJeOlJ1IldQtNvMw
+- date: 2014-07-07
+  artist: Manic Street Preachers
+  title: Futurology
+  twitter: https://twitter.com/BBC6Music/status/486151826627387392
+  spotify-id: 1lGeS8ejAXYtPzgnSv25ZY
+- date: 2014-07-08
+- date: 2014-07-09
+  artist: Braid
+  title: No Coast
+  twitter: https://twitter.com/BBC6Music/status/486876274389159936
+  spotify-id: 0hMmKlbeNkwQqVHuHZdfOS
+- date: 2014-07-10
+  artist: Eugene McGuinness
+  title: Chroma
+  twitter: https://twitter.com/BBC6Music/status/487237755395923968
+  spotify-id: 1mxoK1nitRSfxf3i4gYgEn
+- date: 2014-07-11
+  artist: The The
+  title: Soul Mining
+  twitter: https://twitter.com/BBC6Music/status/487599998277005313
+  spotify-id: 0I7bOh7mYGUEyqCFHU9R0A
+- date: 2014-07-14
+  artist: Morrissey
+  title: World Peace Is None Of Your Business
+  twitter: https://twitter.com/BBC6Music/status/488687421081800704
+- date: 2014-07-15
+  artist: Slow Club
+  title: Complete Surrender
+  twitter: https://twitter.com/BBC6Music/status/489050050539298816
+  spotify-id: 7fVx3hAAvTmVtgUaM4gsxZ
+- date: 2014-07-16
+  artist: Jungle
+  title: Jungle
+  twitter: https://twitter.com/BBC6Music/status/489412140886155264
+  spotify-id: 6IH6co1QUS7uXoyPDv0rIr
+- date: 2014-07-17
+  artist: Honeyblood
+  title: Honeyblood
+  twitter: https://twitter.com/BBC6Music/status/489676377697038336
+  spotify-id: 6b67Ng1w8SDSsf3yXpNgjO
+- date: 2014-07-18
+  artist: Mogwai
+  title: Come On Die Young
+  twitter: https://twitter.com/BBC6Music/status/490040690404249600
+  spotify-id: 5TcwvxSuB5zntncsdQmtEU
+- date: 2014-07-21
+- date: 2014-07-22
+  artist: Alvvays
+  title: Alvvays
+  twitter: https://twitter.com/BBC6Music/status/491586626834157568
+  spotify-id: 28a7IkiQxDoxGpAr8Cy0fP
+- date: 2014-07-23
+  artist: Woman's Hour
+  title: Conversations
+  twitter: https://twitter.com/BBC6Music/status/491948709849354240
+  spotify-id: 3NcENYeNFMgzURYSCkBfjw
+- date: 2014-07-24
+  artist: King Creosote
+  title: Scotland With Love
+  twitter: https://twitter.com/BBC6Music/status/492311546354466816
+  spotify-id: 0rXZ7L03XlBerKk7eP7Phw
+- date: 2014-07-25
+  artist: Beastie Boys
+  title: Paul's Boutique
+  twitter: https://twitter.com/BBC6Music/status/492672733801897984
+  spotify-id: 4DfmPm17Nz6a60BlEpGGKU
+- date: 2014-07-28
+  artist: Jenny Lewis
+  title: The Voyager
+  twitter: https://twitter.com/BBC6Music/status/493760658119610369
+  spotify-id: 5sCsfubNchaI9RCpP7K7aB
+- date: 2014-07-29
+  artist: John Steel
+  title: Everything’s A Thread
+  twitter: https://twitter.com/BBC6Music/status/494123033372925952
+  spotify-id: 6B2BMqIGoxOtIedJNw4WyV
+- date: 2014-07-30
+  artist: Lost Midas
+  title: Off The Course
+  twitter: https://twitter.com/BBC6Music/status/494485364678361088
+  spotify-id: 37fEvLJMa7pNDGObverf27
+- date: 2014-07-31
+  artist: Tom Petty
+  title: Hypnotic Eye
+  twitter: https://twitter.com/BBC6Music/status/494848640171933696
+  spotify-id: 55dSc0Ry199sq95DwnHFFa
+- date: 2014-08-01
+  artist: Giorgio Moroder
+  title: E=MC2
+  twitter: https://twitter.com/BBC6Music/status/495210202258743297
+  spotify-id: 0CAO4TC1HPXZfMr1DfBLU0
+- date: 2014-08-04
+  artist: Spoon
+  title: They Want My Soul
+  twitter: https://twitter.com/BBC6Music/status/496297588392738816
+  spotify-id: 5LOVEXnGFLMChzdUNRWRpB
+- date: 2014-08-05
+  artist: Hyde And Beast
+  title: Keep Moving
+  twitter: https://twitter.com/BBC6Music/status/496659311289196544
+  spotify-id: 44ErjiiG1YiiRFMZQL7De2
+- date: 2014-08-06
+  artist: We Are Shining
+  title: Kara
+  twitter: https://twitter.com/BBC6Music/status/497021415888261120
+  spotify-id: 2p2IShxZMPFwF9RMCKKbm7
+- date: 2014-08-07
+  artist: Annie Eve
+  title: Sunday '91
+  twitter: https://twitter.com/BBC6Music/status/497384855748247552
+  spotify-id: 6dgVm9AIsKeCp9fAffOyqc
+- date: 2014-08-08
+  artist: Orbital
+  title: Snivilisation
+  twitter: https://twitter.com/BBC6Music/status/497745920101195776
+  spotify-id: 30nRhMqZKuMHDH6CRCCCPz
+- date: 2014-08-11
+  artist: Childhood
+  title: Lacuna
+  twitter: https://twitter.com/BBC6Music/status/498833363311263744
+  spotify-id: 2g6rmoAkrKKVZIe3pr0YHS
+- date: 2014-08-12
+  artist: Grumbling Fur
+  title: Preternaturals
+  twitter: https://twitter.com/BBC6Music/status/499196393022824448
+  spotify-id: 4r4vOlrStKycNPIxekCeDn
+- date: 2014-08-13
+  artist: FaltyDL
+  title: In The Wild
+  twitter: https://twitter.com/BBC6Music/status/499557938802229248
+  spotify-id: 1Bq4OV8fc4DXYugd1dSI2K
+- date: 2014-08-14
+  artist: James Yorkston
+  title: Cellardyke Recording & Wassailing Soc
+  twitter: https://twitter.com/BBC6Music/status/499921197224972288
+- date: 2014-08-15
+  artist: Neutral Milk Hotel
+  title: In The Aeroplane
+  twitter: https://twitter.com/BBC6Music/status/500283602039746560
+  spotify-id: 7i6AHMD700GlwhHdFx1CIG
+- date: 2014-08-18
+  artist: Benjamin Booker
+  title: Benjamin Booker
+  twitter: https://twitter.com/BBC6Music/status/501370440292782080
+  spotify-id: 1lHQCme4fW2HcOLMKZ0WOQ
+- date: 2014-08-19
+  artist: Luke Sital Singh
+  title: The Fire Inside
+  twitter: https://twitter.com/BBC6Music/status/501733596915589121
+  spotify-id: 50b5yOziNASYCd79B40iYX
+- date: 2014-08-20
+  artist: The Damned
+  title: Machine Gun Etiquette
+  twitter: https://twitter.com/BBC6Music/status/502094904831791104
+  spotify-id: 2wCCXYJUgeiRqyIr3ujbMF
+- date: 2014-08-21
+  artist: Trwbador
+  title: Several Wolves
+  twitter: https://twitter.com/BBC6Music/status/502457669547196416
+  spotify-id: 2mpLlyxUfDFl5jYezNythx
+- date: 2014-08-22
+  artist: The Wytches
+  title: Annabel Dream Reader
+  twitter: https://twitter.com/BBC6Music/status/502819394301755392
+  spotify-id: 6yRRmOn24Yr8ajcWxdjUYQ
+- date: 2014-08-25
+  artist: J Mascis
+  title: Tied To A Star
+  twitter: https://twitter.com/BBC6Music/status/503906790200053760
+  spotify-id: 2Ks9qv8BHziWoce4cWqUDz
+- date: 2014-08-26
+  artist: Various Artists
+  title: Pay Close Attention
+  twitter: https://twitter.com/BBC6Music/status/504270140033486848
+  spotify-id: 19xt2EkDfNcbAdQzOVUttd
+- date: 2014-08-27
+  artist: The Housemartins
+  title: London 0 Hull 4
+  twitter: https://twitter.com/BBC6Music/status/504631915522301952
+  spotify-id: 1rle5T6XTmBBFMmlx59jeF
+- date: 2014-08-28
+  artist: Erland & The Carnival
+  title: Closing Time
+  twitter: https://twitter.com/BBC6Music/status/504994052354633728
+  spotify-id: 2uufY02W1xOfiD4gsSfGC5
+- date: 2014-08-29
+  artist: Royal Blood
+  title: Royal Blood
+  twitter: https://twitter.com/BBC6Music/status/505357226547347456
+  spotify-id: 0BFzNaeaNv4mahOzwZFGHK
+- date: 2014-09-01
+  artist: Ty Segall
+  title: Manipulator
+  twitter: https://twitter.com/BBC6Music/status/506443999662858240
+- date: 2014-09-02
+  artist: Sinkane
+  title: Mean Love
+  twitter: https://twitter.com/BBC6Music/status/506807074513494016
+  spotify-id: 4KDhBCeytmmDyKinDYwbca
+- date: 2014-09-03
+  artist: Belle and Sebastian
+  title: The Boy With The Arab Strap
+  twitter: https://twitter.com/BBC6Music/status/507169195994664960
+  spotify-id: 0PnuQg8OK4KoOPrwhgyKRQ
+- date: 2014-09-04
+  artist: Merchandise
+  title: After The End
+  twitter: https://twitter.com/BBC6Music/status/507532339426385920
+  spotify-id: 3o8f3nCzoLFsuPOHaDhIQc
+- date: 2014-09-05
+  artist: M.A.Z.E.S
+  title: Wooden Aquarium
+  twitter: https://twitter.com/BBC6Music/status/507893734730924034
+  spotify-id: 3TQE2fU2KcyjCFutQ2dq2i
+- date: 2014-09-08
+  artist: Nirvana
+  title: Unplugged in New York
+  twitter: https://twitter.com/BBC6Music/status/508884913731674112
+  spotify-id: 5pbjLidJuoty9QUOy6X682
+- date: 2014-09-09
+  artist: Interpol
+  title: El Pintor
+  twitter: https://twitter.com/BBC6Music/status/509343538702979073
+  spotify-id: 22DVAydYXgXK1yxNZffMp9
+- date: 2014-09-10
+  artist: Simian Mobile Disco
+  title: Whorl
+  twitter: https://twitter.com/BBC6Music/status/509705372182261760
+  spotify-id: 0NhEuJfTkfqgNEzABWNPKU
+- date: 2014-09-11
+  artist: Death From Above 1979
+  title: Physical World
+  twitter: https://twitter.com/BBC6Music/status/510067418992230400
+  spotify-id: 6rjdp3hkfpKCcxJX0moFb9
+- date: 2014-09-12
+  artist: Ryan Adams
+  title: Ryan Adams
+  twitter: https://twitter.com/BBC6Music/status/510334046246014977
+  spotify-id: 69K1Pef7hoy91Q81F6WPey
+- date: 2014-09-15
+  artist: Robert Plant
+  title: Lullaby and The Ceaseless Roar
+  twitter: https://twitter.com/BBC6Music/status/511517950457958403
+- date: 2014-09-16
+  artist: Catfish and the Bottlemen
+  title: The Balcony
+  twitter: https://twitter.com/BBC6Music/status/511879555850977280
+  spotify-id: 5ii2VuwrvjZZcFlmK7yhgc
+- date: 2014-09-17
+  artist: David Bowie
+  title: Aladdin Sane
+  twitter: https://twitter.com/BBC6Music/status/512242540876423168
+  spotify-id: 0rBsmtPnOGz2IYmAqCrbuy
+- date: 2014-09-18
+  artist: AVI Buffalo
+  title: At Best Cuckold
+  twitter: https://twitter.com/BBC6Music/status/512604739402747904
+  spotify-id: 0bfdoENsRuAz86QNfSaMOx
+- date: 2014-09-19
+  artist: Tricky
+  title: Adrian Thaws
+  twitter: https://twitter.com/BBC6Music/status/512966885068275712
+  spotify-id: 7k6uk69iD8MfDmglQgYZzg
+- date: 2014-09-22
+  artist: Aphex Twin
+  title: Syro
+  twitter: https://twitter.com/BBC6Music/status/514054095486058496
+  spotify-id: 6oRuinkJdTge4hpTuClEF8
+- date: 2014-09-23
+  artist: alt_J
+  title: This Is All Yours
+  twitter: https://twitter.com/BBC6Music/status/514416475055345664
+  spotify-id: 6TbkWAqqY4nhQnYim61IU8
+- date: 2014-09-24
+  artist: The Human League
+  title: Reproduction
+  twitter: https://twitter.com/BBC6Music/status/514778423609532416
+  spotify-id: 7tc1nTdBA717D74uJ07VRn
+- date: 2014-09-25
+  artist: Perfume Genius
+  title: Too Bright
+  twitter: https://twitter.com/BBC6Music/status/515140511683076096
+  spotify-id: 5qtHbJAK0C1IkacqJBqsa2
+- date: 2014-09-26
+  artist: Leonard Cohen
+  title: Popular Problems
+  twitter: https://twitter.com/BBC6Music/status/515502737791143936
+  spotify-id: 1WkGbKUjhOMru7uYl25jJb
+- date: 2014-09-29
+  artist: Jamie T
+  title: Carry On The Grudge
+  twitter: https://twitter.com/BBC6Music/status/516590848256245760
+  spotify-id: 3dvHXz1aCtrPvvpIMDJFfs
+- date: 2014-09-30
+  artist: Prince
+  title: Plectrumelectrum
+  twitter: https://twitter.com/BBC6Music/status/516953850495107072
+  spotify-id: 675uV1x91y53JcI7elQN2b
+- date: 2014-10-01
+  artist: Billy Bragg
+  title: Life's a Riot With Spy vs. Spy
+  twitter: https://twitter.com/BBC6Music/status/517315765884960768
+  spotify-id: 4cnhuroFgFd0B51p20nzn4
+- date: 2014-10-02
+  notes: I have no idea.
+- date: 2014-10-03
+  artist: Haley Bonar
+  title: Last War
+  twitter: https://twitter.com/BBC6Music/status/518040847620014080
+  spotify-id: 00tpyZkSVSu6hGp3iWp9E6
+- date: 2014-10-06
+  artist: Caribou
+  title: Our Love
+  twitter: https://twitter.com/BBC6Music/status/519128082603839488
+  spotify-id: 4jLLt8pqzGxWZ8waNX8ylJ
+- date: 2014-10-07
+  artist: Johnny Marr
+  title: Playland
+  twitter: https://twitter.com/BBC6Music/status/519490907448823809
+  spotify-id: 5CQVzrh6Ww643MWcZd7DIh
+- date: 2014-10-08
+  artist: The Barr Brothers
+  title: Sleeping Operator
+  twitter: https://twitter.com/BBC6Music/status/519852197476315136
+  spotify-id: 7fjRTWt2AzOiOTOAVupzTq
+- date: 2014-10-09
+  artist: Weezer
+  title: Everything Will Be Alright In The End
+  twitter: https://twitter.com/BBC6Music/status/520215161547001856
+  spotify-id: 4SAIsLf2JsS6LU3nTWb7ES
+- date: 2014-10-10
+  artist: Suede
+  title: Dog Man Star
+  twitter: https://twitter.com/BBC6Music/status/520577528390758400
+  spotify-id: 1LgpJjBJIRQhkJ01oZR3Cn
+- date: 2014-10-13
+  artist: Kele
+  title: Trick
+  twitter: https://twitter.com/BBC6Music/status/521663705428557824
+  spotify-id: 42216Q5a89KDkEvYn9n03k
+- date: 2014-10-14
+  artist: Philip Selway
+  title: Weatherhouse
+  twitter: https://twitter.com/BBC6Music/status/522026420596637696
+  spotify-id: 75OaxeDARsDueJiA40Cyij
+- date: 2014-10-15
+  artist: Kindness
+  title: Otherness
+  twitter: https://twitter.com/BBC6Music/status/522389382742167552
+  spotify-id: 0puYCje8tHQOQ6ebl3zszo
+- date: 2014-10-16
+  artist: Lamb
+  title: Backspace Unwind
+  twitter: https://twitter.com/BBC6Music/status/522751580102483968
+  spotify-id: 2aUIV5oucDpSf14bkN7yPr
+- date: 2014-10-17
+  artist: Siouxsie and the Banshees
+  title: Peepshow
+  twitter: https://twitter.com/BBC6Music/status/523114071252430848
+  spotify-id: 70f5hHNiUqVMAnk7ZZeEiJ
+- date: 2014-10-20
+  artist: Mark Lanegan Band
+  title: Phantom Radio
+  twitter: https://twitter.com/BBC6Music/status/524200325410856960
+  spotify-id: 1GrPlXaE0a12At0oxyUYkV
+- date: 2014-10-21
+  artist: New Build
+  title: Pour It On
+  twitter: https://twitter.com/BBC6Music/status/524563108724215808
+  spotify-id: 5UmgZN3eGbeSZo91US8sYy
+- date: 2014-10-22
+  artist: Baxter Dury
+  title: It's A Pleasure
+  twitter: https://twitter.com/BBC6Music/status/524925669109936129
+  spotify-id: 5hxVaM0tTV8hrqD1HokIUO
+- date: 2014-10-23
+  artist: Various Artists
+  title: 'Master Mix: Red Hot + Arthur Russell'
+  twitter: https://twitter.com/BBC6Music/status/525287771813191680
+  spotify-id: 4YnruQJtGMPgMBLFWMQCNA
+- date: 2014-10-24
+  artist: Sleater-Kinney
+  title: The Woods
+  twitter: https://twitter.com/BBC6Music/status/525650510406496256
+  spotify-id: 0cQQfoZalvTSHk3ddtl5Pi
+- date: 2014-10-27
+  artist: Tony Allen
+  title: Film Of Life
+  twitter: https://twitter.com/BBC6Music/status/526752758888947713
+  spotify-id: 5OiUURWMLnRycOmHPUm5Wy
+- date: 2014-10-28
+  artist: Ultimate Painting
+  title: Ultimate Painting
+  twitter: https://twitter.com/BBC6Music/status/527115963322613760
+  spotify-id: 1EApty6jfl0QKRE07Mqun1
+- date: 2014-10-29
+  artist: Led Zeppelin
+  title: Led Zeppelin IV
+  twitter: https://twitter.com/BBC6Music/status/527477295397998592
+  spotify-id: 5EyIDBAqhnlkAHqvPRwdbX
+- date: 2014-10-30
+  artist: The Twilight Sad
+  title: Nobody Wants To Be Here And Nobody Wants To Leave
+  twitter: https://twitter.com/BBC6Music/status/527840075665928192
+  spotify-id: 41Pqn506XOxhMN29dtg26k
+- date: 2014-10-31
+  artist: Lily and Madeleine
+  title: Fumes
+  twitter: https://twitter.com/BBC6Music/status/528203388019040256
+  spotify-id: 26eDLgNnUywpdhAvbLw4wc
+- date: 2014-11-03
+  artist: Neil Young
+  title: Storytone
+  twitter: https://twitter.com/BBC6Music/status/529289732866703360
+  spotify-id: 361dgrFRURo9gwWnSQG6Uu
+- date: 2014-11-04
+  artist: The Flaming Lips
+  title: With A Little Help from My Fwends
+  twitter: https://twitter.com/BBC6Music/status/529652130526011392
+  spotify-id: 4bRWRFoslHqi8e7ypFfExn
+- date: 2014-11-05
+  artist: DELS
+  title: Petals Have Fallen
+  twitter: https://twitter.com/BBC6Music/status/530013722937671680
+  spotify-id: 5PMtPrWNpOad7WJev6FMo9
+- date: 2014-11-06
+  artist: Wildbirds & Peacedrums
+  title: Rhythm
+  twitter: https://twitter.com/BBC6Music/status/530377093973311490
+  spotify-id: 4YBJtLOXIqn83kQjSXg9wj
+- date: 2014-11-07
+  artist: Richard Hawley
+  title: Late Night Final
+  twitter: https://twitter.com/BBC6Music/status/530739864527179776
+  spotify-id: 2J5oKyhVdrqTFqBIUaMIr1
+- date: 2014-11-10
+  artist: Foo Fighters
+  title: Sonic Highways
+  twitter: https://twitter.com/BBC6Music/status/531826954870484992
+  spotify-id: 2qwN15acAl3sm3Idce5vK9
+- date: 2014-11-11
+  artist: Pink Floyd
+  title: The Endless River
+  twitter: https://twitter.com/BBC6Music/status/532188851943796736
+  spotify-id: 0fXAlQ9wTG2glNJvZEkBZc
+- date: 2014-11-12
+  notes: Don't know why there's no album here...
+- date: 2014-11-13
+  artist: Hookworms
+  title: The Hum
+  twitter: https://twitter.com/BBC6Music/status/532913222853328896
+  spotify-id: 415oSeCPGqObwNN3rMmyCd
+- date: 2014-11-14
+  artist: Ian Dury
+  title: New Boots and Panties
+  twitter: https://twitter.com/BBC6Music/status/533272945184227328
+  spotify-id: 4WSbGsCtpm4socUvJv3VFZ
+- date: 2014-11-17
+  artist: TV on The Radio
+  title: Seeds
+  twitter: https://twitter.com/BBC6Music/status/534362884055527424
+  spotify-id: 093xy0P5h7elpQQMiNyQuD
+- date: 2014-11-18
+  artist: Paul Smith & Peter Brewis
+  title: Frozen By Sight
+  twitter: https://twitter.com/BBC6Music/status/534725605057912832
+  spotify-id: 2biBurLrf3PDbQXdBJFBaz
+- date: 2014-11-19
+  artist: The Jesus and Mary Chain
+  title: Psychocandy
+  twitter: https://twitter.com/BBC6Music/status/535088499981303808
+  spotify-id: 4NGWe17wxoQvF0an1ps49l
+- date: 2014-11-20
+  artist: Royksopp
+  title: The Inevitable End
+  twitter: https://twitter.com/BBC6Music/status/535450282009051137
+  spotify-id: 7e3jhGjP6eVOHEoomr37fK
+- date: 2014-11-21
+  artist: Scott Matthews
+  title: Home Part 1
+  twitter: https://twitter.com/BBC6Music/status/535813360156409856
+  spotify-id: 5ucW5jb132Yc5LqT11BTOC
+- date: 2014-11-24
+  artist: Ariel Pink
+  title: Pom Pom
+  twitter: https://twitter.com/BBC6Music/status/536899305731538945
+  spotify-id: 4UhaqAS8V23KozB3dzLMax
+- date: 2014-11-25
+  artist: Benjamin Schoos
+  title: Beau Futur
+  twitter: https://twitter.com/BBC6Music/status/537262561960669184
+  spotify-id: 17cVyno6fIPlKeEp3WYvTD
+- date: 2014-11-26
+  artist: The Velvet Underground
+  title: The Velvet Underground
+  twitter: https://twitter.com/BBC6Music/status/537623999304708096
+  spotify-id: 4kR4Yr84lErTVOaZ0uiULu
+- date: 2014-11-27
+  artist: The Drink
+  title: Company
+  twitter: https://twitter.com/BBC6Music/status/537987008598376449
+  spotify-id: 3HH44JdoWngTM9EGuZq9NW
+- date: 2014-11-28
+  notes: Was a special T-shirt day, so maybe no AotD?

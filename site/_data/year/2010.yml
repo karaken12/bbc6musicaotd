@@ -1,386 +1,263 @@
 ---
-- date: 2010-12-31
-  artist: Radiohead
-  title: Kid A
-  review: http://www.bbc.co.uk/music/reviews/jmf9
-  spotify-id: 6J6nlVu4JMveJz0YM9zDgL
-- date: 2010-12-29
-  artist: The Sundays
-  title: Reading, Writing and Arithmetic
-  review: http://www.bbc.co.uk/music/reviews/nmxm
-  spotify-id: 6CmJJCI3lOn5XVZ68hP9kY
-- date: 2010-12-28
-  artist: The Specials
-  title: More Specials
-  review: http://www.bbc.co.uk/music/reviews/nj54
-  spotify-id: 2tuJjz5UCaULQuyB3FUpgL
-- date: 2010-12-27
-  artist: Led Zeppelin
-  title: Led Zeppelin III
-  review: http://www.bbc.co.uk/music/reviews/m34z
-  spotify-id: 6P5QHz4XtxOmS5EuiGIPut
-- date: 2010-12-24
+- date: 2010-05-20
+  artist: Tracey Thorn
+  title: Love and Its Opposite
+  review: http://www.bbc.co.uk/music/reviews/d8zb
+  spotify-id: 2GNtKT25KT2YPjdB9G9Qzc
+- date: 2010-05-21
+  artist: The Black Keys
+  title: Brothers
+  review: http://www.bbc.co.uk/music/reviews/cbpn
+  spotify-id: 0glJnyA8SbcP5G2vtPDMNB
+- date: 2010-05-24
+  artist: Crystal Castles
+  title: Crystal Castles (II)
+  review: http://www.bbc.co.uk/music/reviews/qw3q
+  spotify-id: 7g0VARP23qVijZeTE1dioJ
+- date: 2010-05-25
+  artist: Villagers
+  title: Becoming a Jackal
+  review: http://www.bbc.co.uk/music/reviews/qbpn
+  spotify-id: 7EyWXp328BMbLg5WIqAWvN
+- date: 2010-05-26
+  artist: Jamie Lidell
+  title: Compass
+  review: http://www.bbc.co.uk/music/reviews/b5hf
+  spotify-id: 67ULjNAh94nqpzKMxiwpIR
+- date: 2010-05-27
+  artist: Karen Elson
+  title: The Ghost Who Walks
+  review: http://www.bbc.co.uk/music/reviews/fvgw
+  spotify-id: 5VyPKrrpiLVwcvBAtQnbm2
+- date: 2010-05-28
+  artist: The Cure
+  title: Disintegration – Deluxe Edition
+  review: http://www.bbc.co.uk/music/reviews/jqrj
+  spotify-id: 0H6TddUF2M63ZSHGvhk5yy
+- date: 2010-05-31
+  artist: The Divine Comedy
+  title: Bang Goes the Knighthood
+  review: http://www.bbc.co.uk/music/reviews/dz9p
+  spotify-id: 4pFkI7o1FTl2wWon60zrog
+- date: 2010-06-01
+  artist: Tom Robinson Band
+  title: Power in the Darkness
+  review: http://www.bbc.co.uk/music/reviews/pw3q
+  spotify-id: 4GsXsrZGoT6PO5pkFkON2M
+- date: 2010-06-02
+  artist: Operator Please
+  title: Gloves
+  review: http://www.bbc.co.uk/music/reviews/9gd3
+  spotify-id: 63z1td1ibX8I7FpZiROuxx
+- date: 2010-06-03
+  artist: Stornoway
+  title: Beachcomber’s Windowsill
+  review: http://www.bbc.co.uk/music/reviews/4xq4
+  spotify-id: 2F87Q7vtospAvXEupDXlr8
+- date: 2010-06-04
+  artist: Teenage Fanclub
+  title: Shadows
+  review: http://www.bbc.co.uk/music/reviews/dgd3
+  spotify-id: 2lo4ObO63iscUuLfkC9fGh
+- date: 2010-06-07
+  artist: The Drums
+  title: The Drums
+  review: http://www.bbc.co.uk/music/reviews/9z9p
+  spotify-id: 1i4xPiWkjLZ5L3MdvAr5oB
+- date: 2010-06-08
+  artist: Johnny Flynn
+  title: Been Listening
+  review: http://www.bbc.co.uk/music/reviews/9fx2
+  spotify-id: 2PC8TEPZeErfDayYkdRD4t
+- date: 2010-06-09
+  artist: The Chemical Brothers
+  title: Further
+  review: http://www.bbc.co.uk/music/reviews/6d28
+  spotify-id: 5EOAvD6xmE1g9XV49wFzNG
+- date: 2010-06-10
+  artist: Wintersleep
+  title: New Inheritors
+  review: http://www.bbc.co.uk/music/reviews/v5hf
+  spotify-id: 6QFJjGNtWFfkHrIPtUughW
+- date: 2010-06-11
+  artist: Mansun
+  title: Attack of the Grey Lantern - Collectors Edition
+  review: http://www.bbc.co.uk/music/reviews/brb6
+  spotify-id: 2ME2rcyb8BaB7q7gxKl9Z2
+- date: 2010-06-14
+  artist: Devo
+  title: Something for Everybody
+  review: http://www.bbc.co.uk/music/reviews/zhwx
+  spotify-id: 4y8hWlVgKfFZaBb4iVYyNE
+- date: 2010-06-15
+  artist: We Are Scientists
+  title: Barbara
+  review: http://www.bbc.co.uk/music/reviews/xd28
+  spotify-id: 5tcQn0CKtVeJUJfO5JnTTG
+- date: 2010-06-16
+  artist: Ed Harcourt
+  title: Lustre
+  review: http://www.bbc.co.uk/music/reviews/ggd3
+  spotify-id: 0W0GejEvO3z9N3eTnwUW2C
+- date: 2010-06-28
+  artist: The Flaming Lips
+  title: The Dark Side of the Moon
+  review: http://www.bbc.co.uk/music/reviews/rwm5
+- date: 2010-06-29
+  artist: The School
+  title: Loveless Unbeliever
+  review: http://www.bbc.co.uk/music/reviews/x5zb
+  spotify-id: 5SQuAdRyQeA1I1rVQ2T6no
+- date: 2010-06-30
+  artist: Richard James
+  title: We Went Riding
+  review: http://www.bbc.co.uk/music/reviews/j928
+  spotify-id: 0ogWKNNGx1N6zjA1ONPbaQ
+- date: 2010-07-01
+  artist: Wild Nothing
+  title: Gemini
+  review: http://www.bbc.co.uk/music/reviews/88zb
+  spotify-id: 2UoAYpQzSNLuW47goFJE5x
+- date: 2010-07-02
+  artist: Zero 7
+  title: Record
+  review: http://www.bbc.co.uk/music/reviews/h928
+  spotify-id: 3NvOTv5VTqhCz2qG6yjQra
+- date: 2010-07-05
+  artist: Big Boi
+  title: 'Sir Lucious Left Foot: The Son of Chico Dusty'
+  review: http://www.bbc.co.uk/music/reviews/p4fd
+  spotify-id: 4nrS4Gp8CKSXTWtgbPQRlf
+- date: 2010-07-06
+  artist: I Am Kloot
+  title: Sky at Night
+  review: http://www.bbc.co.uk/music/reviews/nzd3
+  spotify-id: 11pEIXpKyv3Hr66erfPTiJ
+- date: 2010-07-07
+  artist: Mystery Jets
+  title: Serotonin
+  review: http://www.bbc.co.uk/music/reviews/m4fd
+  spotify-id: 5XfJClADp5MDTwOhbEOG0Q
+- date: 2010-07-08
+  artist: Cherry Ghost
+  title: Beneath This Burning Shoreline
+  review: http://www.bbc.co.uk/music/reviews/d8gw
+  spotify-id: 5VgpT3fXD0ijNjBarQIaym
+- date: 2010-07-09
+  artist: Various Artists
+  title: A Complete Introduction to Chess
+  review: http://www.bbc.co.uk/music/reviews/2jx2
+  spotify-id: 7hPlKsSeUcWkEIeFgEaPdH
+- date: 2010-07-12
+  artist: Danger Mouse and Sparklehorse
+  title: Dark Night of the Soul
+  review: http://www.bbc.co.uk/music/reviews/qb3q
+  spotify-id: 0DmKQGWmKXQ3zmjTIQQzK1
+- date: 2010-07-13
+  artist: RPA & The United Nations Of Sound
+  title: The United Nations of Sound
+  review: http://www.bbc.co.uk/music/reviews/z2cg
+  spotify-id: 7B3sG0RovU2QHHyjyn8Y2n
+- date: 2010-07-14
+  artist: School of Seven Bells
+  title: Disconnect From Desire
+  review: http://www.bbc.co.uk/music/reviews/rx5c
+  spotify-id: 7wFHvDM5rRIeUX0fwzW6xM
+- date: 2010-07-15
+  artist: The Coral
+  title: Butterfly House
+  review: http://www.bbc.co.uk/music/reviews/g2cg
+  spotify-id: 3lOVRXc3vrcz0gkAsW24rO
+- date: 2010-07-16
+  artist: R.E.M.
+  title: Fables of the Reconstruction
+  review: http://www.bbc.co.uk/music/reviews/46q4
+  spotify-id: 26vUt4edIwqnvkaTzHqkv3
+- date: 2010-07-19
+  artist: Bombay Bicycle Club
+  title: Flaws
+  review: http://www.bbc.co.uk/music/reviews/9g6m
+  spotify-id: 2S2GkAuWtEWFuLdmITV0ev
+- date: 2010-07-20
+  artist: Tired Pony
+  title: The Place We Ran From
+  review: http://www.bbc.co.uk/music/reviews/wzd3
+  spotify-id: 18kvmWCqq4SND4qu4zpc5F
+- date: 2010-07-21
+  artist: M.I.A.
+  title: "/\\/\\/\\Y/\\"
+  review: http://www.bbc.co.uk/music/reviews/2cb6
+  spotify-id: 6IH1d0LM9ITTPY1BTSXolc
+- date: 2010-07-22
+  artist: Tender Trap
+  title: Dansette Dansette
+  review: http://www.bbc.co.uk/music/reviews/cqhf
+  spotify-id: 6L9mlIo7JGaIyaA9IgPkac
+- date: 2010-07-23
+  artist: The Dandy Warhols
+  title: 'Best of the Capitol Years: 1995-2007'
+  review: http://www.bbc.co.uk/music/reviews/qdnv
+  spotify-id: 78PXyT7slQzmO1tSO92Z8X
+- date: 2010-07-28
+  artist: Tom Jones
+  title: Praise & Blame
+  review: http://www.bbc.co.uk/music/reviews/jrwx
+  spotify-id: 4umz0CyTmGFHxqoNWatke5
+- date: 2010-07-29
+  artist: Buzzcocks
+  title: Another Music in a Different Kitchen
+  review: http://www.bbc.co.uk/music/reviews/zcb6
+  spotify-id: 2aRegyyQLgcJowtbRXzeBF
+- date: 2010-07-30
+  artist: Elliott Smith
+  title: XO
+  review: http://www.bbc.co.uk/music/reviews/jzd3
+  spotify-id: 6FOUdn1ZEuJkgfcTt1fQnz
+- date: 2010-08-02
   artist: Arcade Fire
   title: The Suburbs
   review: http://www.bbc.co.uk/music/reviews/nm4z
   spotify-id: 0SH1MyyVD3y8KIBhJo6t9o
-- date: 2010-12-03
-  artist: Orange Juice
-  title: Coals to Newcastle
-  review: http://www.bbc.co.uk/music/reviews/rx4z
-  spotify-id: 6wzUhXKbSoMk5Mo4fRHCQa
-- date: 2010-12-02
-  artist: Bob Dylan
-  title: The Original Mono Recordings / The Best of the Original Mono Recordings
-  review: http://www.bbc.co.uk/music/reviews/hpcg
-- date: 2010-12-01
-  artist: Jimi Hendrix
-  title: West Coast Seattle Boy – The Jimi Hendrix Anthology
-  type: compilation
-  review: http://www.bbc.co.uk/music/reviews/949p
-  spotify-id: 6c0U1VcL3Bom0g6HTpUa1i
-- date: 2010-11-30
-  artist: Sandy Denny
-  title: Sandy Denny
-  notes: Despite candidates, not on Spotify.
-  review: http://www.bbc.co.uk/music/reviews/z3rj
-- date: 2010-11-29
-  artist: David Bowie
-  title: 'Station to Station: Super Deluxe Edition'
-  notes: Not quite the Super Deluxe...
-  review: http://www.bbc.co.uk/music/reviews/5c9p
-  spotify-id: 359mtWK6URMr2CXK7orSZl
-- date: 2010-11-26
-  artist: Portishead
-  title: Dummy
-  review: http://www.bbc.co.uk/music/reviews/j6vh
-  spotify-id: 3gxOtUSRzweDWBKlpj7cG6
-- date: 2010-11-26
-  artist: Kanye West
-  title: My Beautiful Dark Twisted Fantasy
-  review: http://www.bbc.co.uk/music/reviews/jngw
-  spotify-id: 6LBiuhK7PZKjVXyMfPxPoh
-- date: 2010-11-25
-  artist: Twin Shadow
-  title: Forget
-  review: http://www.bbc.co.uk/music/reviews/x2zb
-  spotify-id: 6uCdsaOGhUNJwjgGnDFIZ4
-- date: 2010-11-24
-  artist: Heaven 17
-  title: 'Penthouse and Pavement: Collectors Edition'
-  notes: Not quite the same edition.
-  review: http://www.bbc.co.uk/music/reviews/wngw
-  spotify-id: 0wE4fqyYSqgQq2oPUE4urx
-- date: 2010-11-23
-  artist: Girls
-  title: Broken Dreams Club
-  review: http://www.bbc.co.uk/music/reviews/pvwx
-  spotify-id: 19cCqTEBJK2SzJdBv5vfU8
-- date: 2010-11-22
-  artist: Jenny and Johnny
-  title: I’m Having Fun Now
-  review: http://www.bbc.co.uk/music/reviews/rf28
-  spotify-id: 3Tma0D5vBup8Y0vldEyHuW
-- date: 2010-11-19
-  artist: The Jam
-  title: 'Sound Affects: Deluxe Edition'
-  review: http://www.bbc.co.uk/music/reviews/bpcg
-  spotify-id: 22fr5eq3nh5n7MS69kN2wx
-- date: 2010-11-18
-  artist: The Greenhornes
-  title: "****"
-  notes: The title is correct, and the candidates are not.
-  review: http://www.bbc.co.uk/music/reviews/35fd
-- date: 2010-11-17
-  artist: The Seal Cub Clubbing Club
-  title: Royal Variety
-  review: http://www.bbc.co.uk/music/reviews/m8b6
-  spotify-id: 2UO1s336vq5grHEGYOxY91
-- date: 2010-11-16
-  artist: Brian Eno
-  title: Small Craft on a Milk Sea
-  review: http://www.bbc.co.uk/music/reviews/93rj
-  spotify-id: 47e7SP8MtzYKK8Lm3gEK2i
-- date: 2010-11-15
-  artist: Bruce Springsteen
-  title: The Promise
-  review: http://www.bbc.co.uk/music/reviews/38b6
-  spotify-id: 7oR8aZ4ECropTmxPydooZ9
-- date: 2010-11-12
-  artist: Suede
-  title: The Best Of
-  review: http://www.bbc.co.uk/music/reviews/6mhf
-- date: 2010-11-11
-  artist: The Concretes
-  title: WYWH
-  review: http://www.bbc.co.uk/music/reviews/5vwx
-  spotify-id: 73AYF8VkLD1LkYfjNxeOla
-- date: 2010-11-10
-  artist: N*E*R*D
-  title: Nothing
-  review: http://www.bbc.co.uk/music/reviews/m2zb
-  spotify-id: 1X0xHl0SAiB5oor05jk2K7
-- date: 2010-11-09
-  artist: Haight-Ashbury
-  title: Here in the Golden Rays
-  review: http://www.bbc.co.uk/music/reviews/d6vh
-  spotify-id: 0LgBWn84XoBjvtf7xwnrYK
-- date: 2010-11-08
-  artist: Cee Lo Green
-  title: The Lady Killer
-  review: http://www.bbc.co.uk/music/reviews/jbnv
-  spotify-id: 3MnOoZGbCDAjLf8jOImSbg
-- date: 2010-11-05
-  artist: Bob Dylan
-  title: 'The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9)'
-  review: http://www.bbc.co.uk/music/reviews/db28
-  spotify-id: 2XPh6gonHl6tBC4VATPlwp
-- date: 2010-11-04
-  artist: Warpaint
-  title: The Fool
-  review: http://www.bbc.co.uk/music/reviews/grd3
-  spotify-id: 6MZr5Vj7pOEGpy3kJD3Dbm
-- date: 2010-11-03
-  artist: Giant Sand
-  title: Blurry Blue Mountain
-  review: http://www.bbc.co.uk/music/reviews/gvb6
-  spotify-id: 700Qh8aOtUh5tvXQcrKxPp
-- date: 2010-11-02
-  artist: Broken Records
-  title: Let Me Come Home
-  review: http://www.bbc.co.uk/music/reviews/hnzb
-  spotify-id: 4x4uYmRnWrafh3L9PKa8BY
-- date: 2010-11-01
-  artist: Elliott Smith
-  title: An Introduction To…
-  type: compilation
-  review: http://www.bbc.co.uk/music/reviews/dwnv
-  spotify-id: 4zaxY4AVRAOayq65r366PB
-- date: 2010-10-29
-  artist: Kurt Wagner & Cortney Tidwell present KORT
-  title: Invariable Heartache
-  review: http://www.bbc.co.uk/music/reviews/jvb6
-  spotify-id: 0GLxhn22dl5jgFrS4xz7hE
-- date: 2010-10-28
-  artist: Bryan Ferry
-  title: Olympia
-  review: http://www.bbc.co.uk/music/reviews/v3cg
-  spotify-id: 6fAdwaAfxFEc8hUInXT8NS
-- date: 2010-10-27
-  artist: Sufjan Stevens
-  title: The Age of Adz
-  review: http://www.bbc.co.uk/music/reviews/8d5c
-  spotify-id: 5U7GN7wM8nZKYeeOoYhPjC
-- date: 2010-10-26
+- date: 2010-08-03
+  artist: The Zombies
+  title: Odessey & Oracle- 40th Anniversary Edition
+  notes: This is not on Spotify (this album is not the similarly titled live recording).
+    Included the original instead.
+  review: http://www.bbc.co.uk/music/reviews/d8p2
+  spotify-id: 7K6JtyaSSVr7HidQsCHun0
+- date: 2010-08-04
   artist: Various Artists
-  title: 'Come and Get It: The Best of Apple Records'
-  review: http://www.bbc.co.uk/music/reviews/dgpn
-  spotify-id: 4wRLp6PHkfF90XMT0Ye8LF
-- date: 2010-10-25
-  artist: Elvis Costello
-  title: National Ransom
-  review: http://www.bbc.co.uk/music/reviews/hqgw
-  spotify-id: 58caN6thOAz1a1YjmQkAql
-- date: 2010-10-22
-  artist: Dexys Midnight Runners
-  title: 'Searching For the Young Soul Rebels: 30th Anniversary Special Edition'
-  review: http://www.bbc.co.uk/music/reviews/n9q4
-- date: 2010-10-21
-  artist: Où est le swimming pool
-  title: The Golden Year
-  review: http://www.bbc.co.uk/music/reviews/9rd3
-  spotify-id: 6olL38Z55HMvQTVf6SPKvT
-- date: 2010-10-20
-  artist: Groove Armada
-  title: White Light
-  review: http://www.bbc.co.uk/music/reviews/3b28
-  spotify-id: 1fdvWcji1NsAK4qqQ3e3F9
-- date: 2010-10-19
-  artist: The Phantom Band
-  title: The Wants
-  review: http://www.bbc.co.uk/music/reviews/mzx2
-  spotify-id: 7LCc3nXwC2bX2RGAWWqczN
-- date: 2010-10-18
-  artist: Kings of Leon
-  title: Come Around Sundown
-  review: http://www.bbc.co.uk/music/reviews/c68r
-  spotify-id: 5aojoZawgTlFYISig8cagJ
-- date: 2010-10-15
-  artist: Soundgarden
-  title: Telephantasm
-  review: http://www.bbc.co.uk/music/reviews/vc9p
-  spotify-id: 4Ut4g1YBsA9IbKkkMG26mu
-- date: 2010-10-14
-  artist: The Walkmen
-  title: Lisbon
-  review: http://www.bbc.co.uk/music/reviews/4xvh
-  spotify-id: 2SANWiIfRjINTnppxwa5kx
-- date: 2010-10-13
-  artist: Paul Smith
-  title: Margins
-  review: http://www.bbc.co.uk/music/reviews/nfm5
-  spotify-id: 7KDnlFtOL9GnFUo6eEG90X
-- date: 2010-10-12
-  artist: The Bees
-  title: Every Step’s a Yes
-  review: http://www.bbc.co.uk/music/reviews/v68r
-  spotify-id: 0jhddsZPvnKVUINDckQ0DS
-- date: 2010-10-11
-  artist: Belle and Sebastian
-  title: Belle and Sebastian Write About Love
-  review: http://www.bbc.co.uk/music/reviews/rxvh
-  spotify-id: 1dlWXOJNfwsUZQvqEl6tVX
-- date: 2010-10-09
-  artist: John Lennon
-  title: Imagine
-  review: http://www.bbc.co.uk/music/reviews/dhd3
-  spotify-id: 0xzaemKucrJpYhyl7TltAk
-- date: 2010-10-08
-  artist: Deerhunter
-  title: Halcyon Digest
-  review: http://www.bbc.co.uk/music/reviews/b3cg
-  spotify-id: 1HUMjB15ARg96KIypcGzYY
-- date: 2010-10-07
-  artist: Badly Drawn Boy
-  title: 'It’s What I’m Thinking Part One: Photographing Snowflakes'
-  review: http://www.bbc.co.uk/music/reviews/zd5c
-  spotify-id: 1xRXDEEl8anD9zIceSOay1
-- date: 2010-10-06
-  artist: Clinic
-  title: Bubblegum
-  review: http://www.bbc.co.uk/music/reviews/9xvh
-  spotify-id: 6pkLzOFna32WhbGz8pMvmq
-- date: 2010-10-05
-  artist: Carl Barât
-  title: Carl Barât
-  review: http://www.bbc.co.uk/music/reviews/d3cg
-  spotify-id: 3ToeNgdCdMcUL16R3ktiPr
-- date: 2010-10-04
-  artist: Janis Joplin
-  title: Pearl
-  review: http://www.bbc.co.uk/music/reviews/h5xm
-  spotify-id: 3j7nicLAWXM0Fb08q9XGyf
-- date: 2010-09-30
-  artist: Ben Folds
-  title: Lonely Avenue
-  review: http://www.bbc.co.uk/music/reviews/4h6m
-  spotify-id: 2B8xDhlnLu42Aaeri5Z9Mi
-- date: 2010-09-29
-  artist: Various Artists
-  title: Sugar Hill Rap Classics
-  review: http://www.bbc.co.uk/music/reviews/vrd3
-  spotify-id: 7wYLXvQufPZ9AGEtUbpt0v
-- date: 2010-09-28
-  artist: Edwyn Collins
-  title: Losing Sleep
-  review: http://www.bbc.co.uk/music/reviews/p3cg
-  spotify-id: 1cbuGWMubS1CMj9kfdcaQj
-- date: 2010-09-27
-  artist: Tricky
-  title: Mixed Race
-  review: http://www.bbc.co.uk/music/reviews/rr9p
-  spotify-id: 5zR67hm7Zo7K5OvKe0M077
-- date: 2010-09-24
-  artist: Led Zeppelin
-  title: Led Zeppelin IV
-  review: http://www.bbc.co.uk/music/reviews/zpzf
-  spotify-id: 5EyIDBAqhnlkAHqvPRwdbX
-- date: 2010-09-23
-  artist: Weezer
-  title: Hurley
-  review: http://www.bbc.co.uk/music/reviews/fwnv
-  spotify-id: 1vhQIBznzVjSCQw26WlMsB
-- date: 2010-09-22
-  artist: Maximum Balloon
-  title: Maximum Balloon
-  review: http://www.bbc.co.uk/music/reviews/pw28
-  spotify-id: 7CaahxxDJvDGIPgLLA24CO
-- date: 2010-09-21
-  artist: Interpol
-  title: Interpol
-  review: http://www.bbc.co.uk/music/reviews/234z
-  spotify-id: 0I02Kj725UCpgDFwpBn10a
-- date: 2010-09-20
-  artist: Manic Street Preachers
-  title: Postcards From a Young Man
-  review: http://www.bbc.co.uk/music/reviews/vvfd
-  spotify-id: 7mNTY4A3gkXUHocclm5bn1
-- date: 2010-09-17
-  artist: The Jimi Hendrix Experience
-  title: Electric Ladyland
-  review: http://www.bbc.co.uk/music/reviews/h2f9
-  spotify-id: 5z090LQztiqh13wYspQvKQ
-- date: 2010-09-16
-  artist: Grinderman
-  title: Grinderman 2
-  review: http://www.bbc.co.uk/music/reviews/g4b6
-  spotify-id: 13v92RQAMAswi6KpZPWTuY
-- date: 2010-09-15
-  artist: Röyksopp
-  title: Senior
-  review: http://www.bbc.co.uk/music/reviews/z8j9
-  spotify-id: 7HGkGcVrfaXwe0pYSElCCE
-- date: 2010-09-14
-  artist: Brandon Flowers
-  title: Flamingo
-  review: http://www.bbc.co.uk/music/reviews/nw28
-  spotify-id: 6wp2diTN8cYauyNRRN7Opy
-- date: 2010-09-13
-  artist: Underworld
-  title: Barking
-  review: http://www.bbc.co.uk/music/reviews/fhd3
-  spotify-id: 3rSLs2SPsXo7THtlvKoklg
-- date: 2010-09-10
-  artist: Robert Plant
-  title: Band of Joy
-  review: http://www.bbc.co.uk/music/reviews/3x8r
-  spotify-id: 23LF1MFKTSuwYU8k1wfGAy
-- date: 2010-09-09
-  artist: James
-  title: The Morning After
-  review: http://www.bbc.co.uk/music/reviews/h5gw
-  spotify-id: 1Y8zGhTdf2ckC56MmK5zEj
-- date: 2010-09-07
-  artist: Pull in Emergency
-  title: Pull in Emergency
-  review: http://www.bbc.co.uk/music/reviews/bhd3
-  spotify-id: 2K92rTAMbJlhAtewBckYbe
-- date: 2010-08-25
-  artist: Dylan LeBlanc
-  title: Paupers Field
-  review: http://www.bbc.co.uk/music/reviews/6vfd
-  spotify-id: 5qfvn5bKvuUUcfUScmVSEz
-- date: 2010-08-24
-  artist: Freelance Whales
-  title: Weathervanes
-  review: http://www.bbc.co.uk/music/reviews/x4b6
-  spotify-id: 4XYtSHEBqUnYbxJ5q3pCze
-- date: 2010-08-23
-  artist: "!!!"
-  title: Strange Weather, Isn't It?
-  review: http://www.bbc.co.uk/music/reviews/mhd3
-  spotify-id: 78JnHuvPEtWdp6dfcUkYeA
-- date: 2010-08-20
-  artist: Prince & The New Power Generation
-  title: Diamonds and Pearls
-  type: compilation
-  review: http://www.bbc.co.uk/music/reviews/gx8r
-  spotify-id: 6dRctIZQKuZCSSoR6QBBv9
-- date: 2010-08-19
-  artist: Isobel Campbell & Mark Lanegan
-  title: Hawk
-  review: http://www.bbc.co.uk/music/reviews/6nhf
-  spotify-id: 0cSyiBaPRl6MG4lMuKYL97
-- date: 2010-08-18
-  artist: T. Rex
-  title: Electric Warrior
-  review: http://www.bbc.co.uk/music/reviews/5wmq
-  spotify-id: 2wnq5e000z2hT7qS2F8jZ5
-- date: 2010-08-17
-  artist: Klaxons
-  title: Surfing the Void
-  review: http://www.bbc.co.uk/music/reviews/9mcg
-  spotify-id: 4fhLcylFVQWOWcPh2om5yD
+  title: Hobbyism
+  review: http://www.bbc.co.uk/music/reviews/3nhf
+- date: 2010-08-05
+  artist: Best Coast
+  title: Crazy for You
+  review: http://www.bbc.co.uk/music/reviews/58j9
+  spotify-id: 08pjnN20Bqij0HBDlElunP
+- date: 2010-08-06
+  artist: Throwing Muses
+  title: The Real Ramona
+  review: http://www.bbc.co.uk/music/reviews/qqhf
+  spotify-id: 5g52sH6fashPtboffeqjlZ
+- date: 2010-08-09
+  artist: Sleigh Bells
+  title: Treats
+  review: http://www.bbc.co.uk/music/reviews/5nrj
+  spotify-id: 7l5Y3f2amyv1acMfZZQfa2
+- date: 2010-08-10
+  artist: Caitlin Rose
+  title: Own Side Now
+  review: http://www.bbc.co.uk/music/reviews/934z
+  spotify-id: 1hlZpjvdEWJICnPfbWuDvT
+- date: 2010-08-11
+  artist: The Smashing Pumpkins
+  title: Siamese Dream
+  review: http://www.bbc.co.uk/music/reviews/dmcg
+  spotify-id: 2Qs2SpclDToB087fLolhCN
+- date: 2010-08-12
+  artist: The Burns Unit
+  title: Side Show
+  review: http://www.bbc.co.uk/music/reviews/62rj
 - date: 2010-08-13
   artist: Dexys Midnight Runners
   title: Searching For The Young Soul Rebels
@@ -391,262 +268,385 @@
   title: King of the Beach
   review: http://www.bbc.co.uk/music/reviews/54b6
   spotify-id: 39ve9pwi7p3kOYKNkRKcSs
-- date: 2010-08-12
-  artist: The Burns Unit
-  title: Side Show
-  review: http://www.bbc.co.uk/music/reviews/62rj
-- date: 2010-08-11
-  artist: The Smashing Pumpkins
-  title: Siamese Dream
-  review: http://www.bbc.co.uk/music/reviews/dmcg
-  spotify-id: 2Qs2SpclDToB087fLolhCN
-- date: 2010-08-10
-  artist: Caitlin Rose
-  title: Own Side Now
-  review: http://www.bbc.co.uk/music/reviews/934z
-  spotify-id: 1hlZpjvdEWJICnPfbWuDvT
-- date: 2010-08-09
-  artist: Sleigh Bells
-  title: Treats
-  review: http://www.bbc.co.uk/music/reviews/5nrj
-  spotify-id: 7l5Y3f2amyv1acMfZZQfa2
-- date: 2010-08-06
-  artist: Throwing Muses
-  title: The Real Ramona
-  review: http://www.bbc.co.uk/music/reviews/qqhf
-  spotify-id: 5g52sH6fashPtboffeqjlZ
-- date: 2010-08-05
-  artist: Best Coast
-  title: Crazy for You
-  review: http://www.bbc.co.uk/music/reviews/58j9
-  spotify-id: 08pjnN20Bqij0HBDlElunP
-- date: 2010-08-04
+- date: 2010-08-17
+  artist: Klaxons
+  title: Surfing the Void
+  review: http://www.bbc.co.uk/music/reviews/9mcg
+  spotify-id: 4fhLcylFVQWOWcPh2om5yD
+- date: 2010-08-18
+  artist: T. Rex
+  title: Electric Warrior
+  review: http://www.bbc.co.uk/music/reviews/5wmq
+  spotify-id: 2wnq5e000z2hT7qS2F8jZ5
+- date: 2010-08-19
+  artist: Isobel Campbell & Mark Lanegan
+  title: Hawk
+  review: http://www.bbc.co.uk/music/reviews/6nhf
+  spotify-id: 0cSyiBaPRl6MG4lMuKYL97
+- date: 2010-08-20
+  artist: Prince & The New Power Generation
+  title: Diamonds and Pearls
+  type: compilation
+  review: http://www.bbc.co.uk/music/reviews/gx8r
+  spotify-id: 6dRctIZQKuZCSSoR6QBBv9
+- date: 2010-08-23
+  artist: "!!!"
+  title: Strange Weather, Isn't It?
+  review: http://www.bbc.co.uk/music/reviews/mhd3
+  spotify-id: 78JnHuvPEtWdp6dfcUkYeA
+- date: 2010-08-24
+  artist: Freelance Whales
+  title: Weathervanes
+  review: http://www.bbc.co.uk/music/reviews/x4b6
+  spotify-id: 4XYtSHEBqUnYbxJ5q3pCze
+- date: 2010-08-25
+  artist: Dylan LeBlanc
+  title: Paupers Field
+  review: http://www.bbc.co.uk/music/reviews/6vfd
+  spotify-id: 5qfvn5bKvuUUcfUScmVSEz
+- date: 2010-09-07
+  artist: Pull in Emergency
+  title: Pull in Emergency
+  review: http://www.bbc.co.uk/music/reviews/bhd3
+  spotify-id: 2K92rTAMbJlhAtewBckYbe
+- date: 2010-09-09
+  artist: James
+  title: The Morning After
+  review: http://www.bbc.co.uk/music/reviews/h5gw
+  spotify-id: 1Y8zGhTdf2ckC56MmK5zEj
+- date: 2010-09-10
+  artist: Robert Plant
+  title: Band of Joy
+  review: http://www.bbc.co.uk/music/reviews/3x8r
+  spotify-id: 23LF1MFKTSuwYU8k1wfGAy
+- date: 2010-09-13
+  artist: Underworld
+  title: Barking
+  review: http://www.bbc.co.uk/music/reviews/fhd3
+  spotify-id: 3rSLs2SPsXo7THtlvKoklg
+- date: 2010-09-14
+  artist: Brandon Flowers
+  title: Flamingo
+  review: http://www.bbc.co.uk/music/reviews/nw28
+  spotify-id: 6wp2diTN8cYauyNRRN7Opy
+- date: 2010-09-15
+  artist: Röyksopp
+  title: Senior
+  review: http://www.bbc.co.uk/music/reviews/z8j9
+  spotify-id: 7HGkGcVrfaXwe0pYSElCCE
+- date: 2010-09-16
+  artist: Grinderman
+  title: Grinderman 2
+  review: http://www.bbc.co.uk/music/reviews/g4b6
+  spotify-id: 13v92RQAMAswi6KpZPWTuY
+- date: 2010-09-17
+  artist: The Jimi Hendrix Experience
+  title: Electric Ladyland
+  review: http://www.bbc.co.uk/music/reviews/h2f9
+  spotify-id: 5z090LQztiqh13wYspQvKQ
+- date: 2010-09-20
+  artist: Manic Street Preachers
+  title: Postcards From a Young Man
+  review: http://www.bbc.co.uk/music/reviews/vvfd
+  spotify-id: 7mNTY4A3gkXUHocclm5bn1
+- date: 2010-09-21
+  artist: Interpol
+  title: Interpol
+  review: http://www.bbc.co.uk/music/reviews/234z
+  spotify-id: 0I02Kj725UCpgDFwpBn10a
+- date: 2010-09-22
+  artist: Maximum Balloon
+  title: Maximum Balloon
+  review: http://www.bbc.co.uk/music/reviews/pw28
+  spotify-id: 7CaahxxDJvDGIPgLLA24CO
+- date: 2010-09-23
+  artist: Weezer
+  title: Hurley
+  review: http://www.bbc.co.uk/music/reviews/fwnv
+  spotify-id: 1vhQIBznzVjSCQw26WlMsB
+- date: 2010-09-24
+  artist: Led Zeppelin
+  title: Led Zeppelin IV
+  review: http://www.bbc.co.uk/music/reviews/zpzf
+  spotify-id: 5EyIDBAqhnlkAHqvPRwdbX
+- date: 2010-09-27
+  artist: Tricky
+  title: Mixed Race
+  review: http://www.bbc.co.uk/music/reviews/rr9p
+  spotify-id: 5zR67hm7Zo7K5OvKe0M077
+- date: 2010-09-28
+  artist: Edwyn Collins
+  title: Losing Sleep
+  review: http://www.bbc.co.uk/music/reviews/p3cg
+  spotify-id: 1cbuGWMubS1CMj9kfdcaQj
+- date: 2010-09-29
   artist: Various Artists
-  title: Hobbyism
-  review: http://www.bbc.co.uk/music/reviews/3nhf
-- date: 2010-08-03
-  artist: The Zombies
-  title: Odessey & Oracle- 40th Anniversary Edition
-  notes: This is not on Spotify (this album is not the similarly titled live recording).
-    Included the original instead.
-  review: http://www.bbc.co.uk/music/reviews/d8p2
-  spotify-id: 7K6JtyaSSVr7HidQsCHun0
-- date: 2010-08-02
+  title: Sugar Hill Rap Classics
+  review: http://www.bbc.co.uk/music/reviews/vrd3
+  spotify-id: 7wYLXvQufPZ9AGEtUbpt0v
+- date: 2010-09-30
+  artist: Ben Folds
+  title: Lonely Avenue
+  review: http://www.bbc.co.uk/music/reviews/4h6m
+  spotify-id: 2B8xDhlnLu42Aaeri5Z9Mi
+- date: 2010-10-04
+  artist: Janis Joplin
+  title: Pearl
+  review: http://www.bbc.co.uk/music/reviews/h5xm
+  spotify-id: 3j7nicLAWXM0Fb08q9XGyf
+- date: 2010-10-05
+  artist: Carl Barât
+  title: Carl Barât
+  review: http://www.bbc.co.uk/music/reviews/d3cg
+  spotify-id: 3ToeNgdCdMcUL16R3ktiPr
+- date: 2010-10-06
+  artist: Clinic
+  title: Bubblegum
+  review: http://www.bbc.co.uk/music/reviews/9xvh
+  spotify-id: 6pkLzOFna32WhbGz8pMvmq
+- date: 2010-10-07
+  artist: Badly Drawn Boy
+  title: 'It’s What I’m Thinking Part One: Photographing Snowflakes'
+  review: http://www.bbc.co.uk/music/reviews/zd5c
+  spotify-id: 1xRXDEEl8anD9zIceSOay1
+- date: 2010-10-08
+  artist: Deerhunter
+  title: Halcyon Digest
+  review: http://www.bbc.co.uk/music/reviews/b3cg
+  spotify-id: 1HUMjB15ARg96KIypcGzYY
+- date: 2010-10-09
+  artist: John Lennon
+  title: Imagine
+  review: http://www.bbc.co.uk/music/reviews/dhd3
+  spotify-id: 0xzaemKucrJpYhyl7TltAk
+- date: 2010-10-11
+  artist: Belle and Sebastian
+  title: Belle and Sebastian Write About Love
+  review: http://www.bbc.co.uk/music/reviews/rxvh
+  spotify-id: 1dlWXOJNfwsUZQvqEl6tVX
+- date: 2010-10-12
+  artist: The Bees
+  title: Every Step’s a Yes
+  review: http://www.bbc.co.uk/music/reviews/v68r
+  spotify-id: 0jhddsZPvnKVUINDckQ0DS
+- date: 2010-10-13
+  artist: Paul Smith
+  title: Margins
+  review: http://www.bbc.co.uk/music/reviews/nfm5
+  spotify-id: 7KDnlFtOL9GnFUo6eEG90X
+- date: 2010-10-14
+  artist: The Walkmen
+  title: Lisbon
+  review: http://www.bbc.co.uk/music/reviews/4xvh
+  spotify-id: 2SANWiIfRjINTnppxwa5kx
+- date: 2010-10-15
+  artist: Soundgarden
+  title: Telephantasm
+  review: http://www.bbc.co.uk/music/reviews/vc9p
+  spotify-id: 4Ut4g1YBsA9IbKkkMG26mu
+- date: 2010-10-18
+  artist: Kings of Leon
+  title: Come Around Sundown
+  review: http://www.bbc.co.uk/music/reviews/c68r
+  spotify-id: 5aojoZawgTlFYISig8cagJ
+- date: 2010-10-19
+  artist: The Phantom Band
+  title: The Wants
+  review: http://www.bbc.co.uk/music/reviews/mzx2
+  spotify-id: 7LCc3nXwC2bX2RGAWWqczN
+- date: 2010-10-20
+  artist: Groove Armada
+  title: White Light
+  review: http://www.bbc.co.uk/music/reviews/3b28
+  spotify-id: 1fdvWcji1NsAK4qqQ3e3F9
+- date: 2010-10-21
+  artist: Où est le swimming pool
+  title: The Golden Year
+  review: http://www.bbc.co.uk/music/reviews/9rd3
+  spotify-id: 6olL38Z55HMvQTVf6SPKvT
+- date: 2010-10-22
+  artist: Dexys Midnight Runners
+  title: 'Searching For the Young Soul Rebels: 30th Anniversary Special Edition'
+  review: http://www.bbc.co.uk/music/reviews/n9q4
+- date: 2010-10-25
+  artist: Elvis Costello
+  title: National Ransom
+  review: http://www.bbc.co.uk/music/reviews/hqgw
+  spotify-id: 58caN6thOAz1a1YjmQkAql
+- date: 2010-10-26
+  artist: Various Artists
+  title: 'Come and Get It: The Best of Apple Records'
+  review: http://www.bbc.co.uk/music/reviews/dgpn
+  spotify-id: 4wRLp6PHkfF90XMT0Ye8LF
+- date: 2010-10-27
+  artist: Sufjan Stevens
+  title: The Age of Adz
+  review: http://www.bbc.co.uk/music/reviews/8d5c
+  spotify-id: 5U7GN7wM8nZKYeeOoYhPjC
+- date: 2010-10-28
+  artist: Bryan Ferry
+  title: Olympia
+  review: http://www.bbc.co.uk/music/reviews/v3cg
+  spotify-id: 6fAdwaAfxFEc8hUInXT8NS
+- date: 2010-10-29
+  artist: Kurt Wagner & Cortney Tidwell present KORT
+  title: Invariable Heartache
+  review: http://www.bbc.co.uk/music/reviews/jvb6
+  spotify-id: 0GLxhn22dl5jgFrS4xz7hE
+- date: 2010-11-01
+  artist: Elliott Smith
+  title: An Introduction To…
+  type: compilation
+  review: http://www.bbc.co.uk/music/reviews/dwnv
+  spotify-id: 4zaxY4AVRAOayq65r366PB
+- date: 2010-11-02
+  artist: Broken Records
+  title: Let Me Come Home
+  review: http://www.bbc.co.uk/music/reviews/hnzb
+  spotify-id: 4x4uYmRnWrafh3L9PKa8BY
+- date: 2010-11-03
+  artist: Giant Sand
+  title: Blurry Blue Mountain
+  review: http://www.bbc.co.uk/music/reviews/gvb6
+  spotify-id: 700Qh8aOtUh5tvXQcrKxPp
+- date: 2010-11-04
+  artist: Warpaint
+  title: The Fool
+  review: http://www.bbc.co.uk/music/reviews/grd3
+  spotify-id: 6MZr5Vj7pOEGpy3kJD3Dbm
+- date: 2010-11-05
+  artist: Bob Dylan
+  title: 'The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9)'
+  review: http://www.bbc.co.uk/music/reviews/db28
+  spotify-id: 2XPh6gonHl6tBC4VATPlwp
+- date: 2010-11-08
+  artist: Cee Lo Green
+  title: The Lady Killer
+  review: http://www.bbc.co.uk/music/reviews/jbnv
+  spotify-id: 3MnOoZGbCDAjLf8jOImSbg
+- date: 2010-11-09
+  artist: Haight-Ashbury
+  title: Here in the Golden Rays
+  review: http://www.bbc.co.uk/music/reviews/d6vh
+  spotify-id: 0LgBWn84XoBjvtf7xwnrYK
+- date: 2010-11-10
+  artist: N*E*R*D
+  title: Nothing
+  review: http://www.bbc.co.uk/music/reviews/m2zb
+  spotify-id: 1X0xHl0SAiB5oor05jk2K7
+- date: 2010-11-11
+  artist: The Concretes
+  title: WYWH
+  review: http://www.bbc.co.uk/music/reviews/5vwx
+  spotify-id: 73AYF8VkLD1LkYfjNxeOla
+- date: 2010-11-12
+  artist: Suede
+  title: The Best Of
+  review: http://www.bbc.co.uk/music/reviews/6mhf
+- date: 2010-11-15
+  artist: Bruce Springsteen
+  title: The Promise
+  review: http://www.bbc.co.uk/music/reviews/38b6
+  spotify-id: 7oR8aZ4ECropTmxPydooZ9
+- date: 2010-11-16
+  artist: Brian Eno
+  title: Small Craft on a Milk Sea
+  review: http://www.bbc.co.uk/music/reviews/93rj
+  spotify-id: 47e7SP8MtzYKK8Lm3gEK2i
+- date: 2010-11-17
+  artist: The Seal Cub Clubbing Club
+  title: Royal Variety
+  review: http://www.bbc.co.uk/music/reviews/m8b6
+  spotify-id: 2UO1s336vq5grHEGYOxY91
+- date: 2010-11-18
+  artist: The Greenhornes
+  title: "****"
+  notes: The title is correct, and the candidates are not.
+  review: http://www.bbc.co.uk/music/reviews/35fd
+- date: 2010-11-19
+  artist: The Jam
+  title: 'Sound Affects: Deluxe Edition'
+  review: http://www.bbc.co.uk/music/reviews/bpcg
+  spotify-id: 22fr5eq3nh5n7MS69kN2wx
+- date: 2010-11-22
+  artist: Jenny and Johnny
+  title: I’m Having Fun Now
+  review: http://www.bbc.co.uk/music/reviews/rf28
+  spotify-id: 3Tma0D5vBup8Y0vldEyHuW
+- date: 2010-11-23
+  artist: Girls
+  title: Broken Dreams Club
+  review: http://www.bbc.co.uk/music/reviews/pvwx
+  spotify-id: 19cCqTEBJK2SzJdBv5vfU8
+- date: 2010-11-24
+  artist: Heaven 17
+  title: 'Penthouse and Pavement: Collectors Edition'
+  notes: Not quite the same edition.
+  review: http://www.bbc.co.uk/music/reviews/wngw
+  spotify-id: 0wE4fqyYSqgQq2oPUE4urx
+- date: 2010-11-25
+  artist: Twin Shadow
+  title: Forget
+  review: http://www.bbc.co.uk/music/reviews/x2zb
+  spotify-id: 6uCdsaOGhUNJwjgGnDFIZ4
+- date: 2010-11-26
+  artist: Portishead
+  title: Dummy
+  review: http://www.bbc.co.uk/music/reviews/j6vh
+  spotify-id: 3gxOtUSRzweDWBKlpj7cG6
+- date: 2010-11-26
+  artist: Kanye West
+  title: My Beautiful Dark Twisted Fantasy
+  review: http://www.bbc.co.uk/music/reviews/jngw
+  spotify-id: 6LBiuhK7PZKjVXyMfPxPoh
+- date: 2010-11-29
+  artist: David Bowie
+  title: 'Station to Station: Super Deluxe Edition'
+  notes: Not quite the Super Deluxe...
+  review: http://www.bbc.co.uk/music/reviews/5c9p
+  spotify-id: 359mtWK6URMr2CXK7orSZl
+- date: 2010-11-30
+  artist: Sandy Denny
+  title: Sandy Denny
+  notes: Despite candidates, not on Spotify.
+  review: http://www.bbc.co.uk/music/reviews/z3rj
+- date: 2010-12-01
+  artist: Jimi Hendrix
+  title: West Coast Seattle Boy – The Jimi Hendrix Anthology
+  type: compilation
+  review: http://www.bbc.co.uk/music/reviews/949p
+  spotify-id: 6c0U1VcL3Bom0g6HTpUa1i
+- date: 2010-12-02
+  artist: Bob Dylan
+  title: The Original Mono Recordings / The Best of the Original Mono Recordings
+  review: http://www.bbc.co.uk/music/reviews/hpcg
+- date: 2010-12-03
+  artist: Orange Juice
+  title: Coals to Newcastle
+  review: http://www.bbc.co.uk/music/reviews/rx4z
+  spotify-id: 6wzUhXKbSoMk5Mo4fRHCQa
+- date: 2010-12-24
   artist: Arcade Fire
   title: The Suburbs
   review: http://www.bbc.co.uk/music/reviews/nm4z
   spotify-id: 0SH1MyyVD3y8KIBhJo6t9o
-- date: 2010-07-30
-  artist: Elliott Smith
-  title: XO
-  review: http://www.bbc.co.uk/music/reviews/jzd3
-  spotify-id: 6FOUdn1ZEuJkgfcTt1fQnz
-- date: 2010-07-29
-  artist: Buzzcocks
-  title: Another Music in a Different Kitchen
-  review: http://www.bbc.co.uk/music/reviews/zcb6
-  spotify-id: 2aRegyyQLgcJowtbRXzeBF
-- date: 2010-07-28
-  artist: Tom Jones
-  title: Praise & Blame
-  review: http://www.bbc.co.uk/music/reviews/jrwx
-  spotify-id: 4umz0CyTmGFHxqoNWatke5
-- date: 2010-07-23
-  artist: The Dandy Warhols
-  title: 'Best of the Capitol Years: 1995-2007'
-  review: http://www.bbc.co.uk/music/reviews/qdnv
-  spotify-id: 78PXyT7slQzmO1tSO92Z8X
-- date: 2010-07-22
-  artist: Tender Trap
-  title: Dansette Dansette
-  review: http://www.bbc.co.uk/music/reviews/cqhf
-  spotify-id: 6L9mlIo7JGaIyaA9IgPkac
-- date: 2010-07-21
-  artist: M.I.A.
-  title: "/\\/\\/\\Y/\\"
-  review: http://www.bbc.co.uk/music/reviews/2cb6
-  spotify-id: 6IH1d0LM9ITTPY1BTSXolc
-- date: 2010-07-20
-  artist: Tired Pony
-  title: The Place We Ran From
-  review: http://www.bbc.co.uk/music/reviews/wzd3
-  spotify-id: 18kvmWCqq4SND4qu4zpc5F
-- date: 2010-07-19
-  artist: Bombay Bicycle Club
-  title: Flaws
-  review: http://www.bbc.co.uk/music/reviews/9g6m
-  spotify-id: 2S2GkAuWtEWFuLdmITV0ev
-- date: 2010-07-16
-  artist: R.E.M.
-  title: Fables of the Reconstruction
-  review: http://www.bbc.co.uk/music/reviews/46q4
-  spotify-id: 26vUt4edIwqnvkaTzHqkv3
-- date: 2010-07-15
-  artist: The Coral
-  title: Butterfly House
-  review: http://www.bbc.co.uk/music/reviews/g2cg
-  spotify-id: 3lOVRXc3vrcz0gkAsW24rO
-- date: 2010-07-14
-  artist: School of Seven Bells
-  title: Disconnect From Desire
-  review: http://www.bbc.co.uk/music/reviews/rx5c
-  spotify-id: 7wFHvDM5rRIeUX0fwzW6xM
-- date: 2010-07-13
-  artist: RPA & The United Nations Of Sound
-  title: The United Nations of Sound
-  review: http://www.bbc.co.uk/music/reviews/z2cg
-  spotify-id: 7B3sG0RovU2QHHyjyn8Y2n
-- date: 2010-07-12
-  artist: Danger Mouse and Sparklehorse
-  title: Dark Night of the Soul
-  review: http://www.bbc.co.uk/music/reviews/qb3q
-  spotify-id: 0DmKQGWmKXQ3zmjTIQQzK1
-- date: 2010-07-09
-  artist: Various Artists
-  title: A Complete Introduction to Chess
-  review: http://www.bbc.co.uk/music/reviews/2jx2
-  spotify-id: 7hPlKsSeUcWkEIeFgEaPdH
-- date: 2010-07-08
-  artist: Cherry Ghost
-  title: Beneath This Burning Shoreline
-  review: http://www.bbc.co.uk/music/reviews/d8gw
-  spotify-id: 5VgpT3fXD0ijNjBarQIaym
-- date: 2010-07-07
-  artist: Mystery Jets
-  title: Serotonin
-  review: http://www.bbc.co.uk/music/reviews/m4fd
-  spotify-id: 5XfJClADp5MDTwOhbEOG0Q
-- date: 2010-07-06
-  artist: I Am Kloot
-  title: Sky at Night
-  review: http://www.bbc.co.uk/music/reviews/nzd3
-  spotify-id: 11pEIXpKyv3Hr66erfPTiJ
-- date: 2010-07-05
-  artist: Big Boi
-  title: 'Sir Lucious Left Foot: The Son of Chico Dusty'
-  review: http://www.bbc.co.uk/music/reviews/p4fd
-  spotify-id: 4nrS4Gp8CKSXTWtgbPQRlf
-- date: 2010-07-02
-  artist: Zero 7
-  title: Record
-  review: http://www.bbc.co.uk/music/reviews/h928
-  spotify-id: 3NvOTv5VTqhCz2qG6yjQra
-- date: 2010-07-01
-  artist: Wild Nothing
-  title: Gemini
-  review: http://www.bbc.co.uk/music/reviews/88zb
-  spotify-id: 2UoAYpQzSNLuW47goFJE5x
-- date: 2010-06-30
-  artist: Richard James
-  title: We Went Riding
-  review: http://www.bbc.co.uk/music/reviews/j928
-  spotify-id: 0ogWKNNGx1N6zjA1ONPbaQ
-- date: 2010-06-29
-  artist: The School
-  title: Loveless Unbeliever
-  review: http://www.bbc.co.uk/music/reviews/x5zb
-  spotify-id: 5SQuAdRyQeA1I1rVQ2T6no
-- date: 2010-06-28
-  artist: The Flaming Lips
-  title: The Dark Side of the Moon
-  review: http://www.bbc.co.uk/music/reviews/rwm5
-- date: 2010-06-16
-  artist: Ed Harcourt
-  title: Lustre
-  review: http://www.bbc.co.uk/music/reviews/ggd3
-  spotify-id: 0W0GejEvO3z9N3eTnwUW2C
-- date: 2010-06-15
-  artist: We Are Scientists
-  title: Barbara
-  review: http://www.bbc.co.uk/music/reviews/xd28
-  spotify-id: 5tcQn0CKtVeJUJfO5JnTTG
-- date: 2010-06-14
-  artist: Devo
-  title: Something for Everybody
-  review: http://www.bbc.co.uk/music/reviews/zhwx
-  spotify-id: 4y8hWlVgKfFZaBb4iVYyNE
-- date: 2010-06-11
-  artist: Mansun
-  title: Attack of the Grey Lantern - Collectors Edition
-  review: http://www.bbc.co.uk/music/reviews/brb6
-  spotify-id: 2ME2rcyb8BaB7q7gxKl9Z2
-- date: 2010-06-10
-  artist: Wintersleep
-  title: New Inheritors
-  review: http://www.bbc.co.uk/music/reviews/v5hf
-  spotify-id: 6QFJjGNtWFfkHrIPtUughW
-- date: 2010-06-09
-  artist: The Chemical Brothers
-  title: Further
-  review: http://www.bbc.co.uk/music/reviews/6d28
-  spotify-id: 5EOAvD6xmE1g9XV49wFzNG
-- date: 2010-06-08
-  artist: Johnny Flynn
-  title: Been Listening
-  review: http://www.bbc.co.uk/music/reviews/9fx2
-  spotify-id: 2PC8TEPZeErfDayYkdRD4t
-- date: 2010-06-07
-  artist: The Drums
-  title: The Drums
-  review: http://www.bbc.co.uk/music/reviews/9z9p
-  spotify-id: 1i4xPiWkjLZ5L3MdvAr5oB
-- date: 2010-06-04
-  artist: Teenage Fanclub
-  title: Shadows
-  review: http://www.bbc.co.uk/music/reviews/dgd3
-  spotify-id: 2lo4ObO63iscUuLfkC9fGh
-- date: 2010-06-03
-  artist: Stornoway
-  title: Beachcomber’s Windowsill
-  review: http://www.bbc.co.uk/music/reviews/4xq4
-  spotify-id: 2F87Q7vtospAvXEupDXlr8
-- date: 2010-06-02
-  artist: Operator Please
-  title: Gloves
-  review: http://www.bbc.co.uk/music/reviews/9gd3
-  spotify-id: 63z1td1ibX8I7FpZiROuxx
-- date: 2010-06-01
-  artist: Tom Robinson Band
-  title: Power in the Darkness
-  review: http://www.bbc.co.uk/music/reviews/pw3q
-  spotify-id: 4GsXsrZGoT6PO5pkFkON2M
-- date: 2010-05-31
-  artist: The Divine Comedy
-  title: Bang Goes the Knighthood
-  review: http://www.bbc.co.uk/music/reviews/dz9p
-  spotify-id: 4pFkI7o1FTl2wWon60zrog
-- date: 2010-05-28
-  artist: The Cure
-  title: Disintegration – Deluxe Edition
-  review: http://www.bbc.co.uk/music/reviews/jqrj
-  spotify-id: 0H6TddUF2M63ZSHGvhk5yy
-- date: 2010-05-27
-  artist: Karen Elson
-  title: The Ghost Who Walks
-  review: http://www.bbc.co.uk/music/reviews/fvgw
-  spotify-id: 5VyPKrrpiLVwcvBAtQnbm2
-- date: 2010-05-26
-  artist: Jamie Lidell
-  title: Compass
-  review: http://www.bbc.co.uk/music/reviews/b5hf
-  spotify-id: 67ULjNAh94nqpzKMxiwpIR
-- date: 2010-05-25
-  artist: Villagers
-  title: Becoming a Jackal
-  review: http://www.bbc.co.uk/music/reviews/qbpn
-  spotify-id: 7EyWXp328BMbLg5WIqAWvN
-- date: 2010-05-24
-  artist: Crystal Castles
-  title: Crystal Castles (II)
-  review: http://www.bbc.co.uk/music/reviews/qw3q
-  spotify-id: 7g0VARP23qVijZeTE1dioJ
-- date: 2010-05-21
-  artist: The Black Keys
-  title: Brothers
-  review: http://www.bbc.co.uk/music/reviews/cbpn
-  spotify-id: 0glJnyA8SbcP5G2vtPDMNB
-- date: 2010-05-20
-  artist: Tracey Thorn
-  title: Love and Its Opposite
-  review: http://www.bbc.co.uk/music/reviews/d8zb
-  spotify-id: 2GNtKT25KT2YPjdB9G9Qzc
+- date: 2010-12-27
+  artist: Led Zeppelin
+  title: Led Zeppelin III
+  review: http://www.bbc.co.uk/music/reviews/m34z
+  spotify-id: 6P5QHz4XtxOmS5EuiGIPut
+- date: 2010-12-28
+  artist: The Specials
+  title: More Specials
+  review: http://www.bbc.co.uk/music/reviews/nj54
+  spotify-id: 2tuJjz5UCaULQuyB3FUpgL
+- date: 2010-12-29
+  artist: The Sundays
+  title: Reading, Writing and Arithmetic
+  review: http://www.bbc.co.uk/music/reviews/nmxm
+  spotify-id: 6CmJJCI3lOn5XVZ68hP9kY
+- date: 2010-12-31
+  artist: Radiohead
+  title: Kid A
+  review: http://www.bbc.co.uk/music/reviews/jmf9
+  spotify-id: 6J6nlVu4JMveJz0YM9zDgL

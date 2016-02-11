@@ -449,6 +449,7 @@
   artist: The Fall
   title: Sub-Lingual Tablet
   twitter: https://twitter.com/BBC6Music/status/598853094219325440
+  spotify-id: 1dWLfarBN2nhQXkzfl4DXB
 - date: 2015-05-15
   artist: Marvin Gaye
   title: 1961-1965
@@ -821,6 +822,7 @@
   artist: The Beatles
   title: Sgt. Pepper's Lonely Hearts Club Band
   twitter: https://twitter.com/BBC6Music/status/636806863296831488
+  spotify-id: 1PULmKbHeOqlkIwcDMNwD4
 - date: 2015-08-28
   artist: Roxy Music
   title: Roxy Music
@@ -1146,3 +1148,145 @@
   twitter: https://twitter.com/BBC6Music/status/669895967215362048
 - date: 2015-11-27
   notes: This was T-shirt day / all-request Friday, so I don't think there was one.
+- date: 2015-11-30
+  artist: jennylee
+  title: right on!
+  twitter: https://twitter.com/BBC6Music/status/671344987666259968
+  spotify-id: 011h71h7y7Via9wSsfZtQA
+- date: 2015-12-01
+  artist: Goldfrapp
+  title: Supernature
+  twitter: https://twitter.com/BBC6Music/status/671683319529144320
+  spotify-id: 43WbXaKNV9VScuX5YnwWkE
+- date: 2015-12-02
+  artist: Elastica
+  title: Elastica
+  twitter: https://twitter.com/BBC6Music/status/672030090235158532
+  facebook: https://www.facebook.com/BBCRadio6Music/posts/1101943606496515
+  spotify-id: 2Eu3dJJYgcbzrhp0zyRBZz
+- date: 2015-12-03
+  artist: Arcade Fire
+  title: Funeral
+  twitter: https://twitter.com/BBC6Music/status/672434176805748736
+  spotify-id: 0530hyl3GtZKWPebWVMZkK
+- date: 2015-12-04
+  artist: Sleaford Mods
+  title: Key Markets
+  notes: This is Iggy Pop's 6 Music Recommends Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/672795717191270400
+  spotify-id: 5v5XTM8IhfQUzKgaarEpPK
+- date: 2015-12-05
+  artist: Drenge
+  title: Undertow
+  notes: Shaun Keaveny's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/673056747561467904
+  spotify-id: 7eyAZD1dlFAJKkxGtofRST
+- date: 2015-12-06
+  artist: Colleen
+  title: Captain Of None
+  notes: Gideon Coe's choice for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/673421392885342208
+  spotify-id: 3eiRo1DsYQ8OCD5PUy5LH3
+- date: 2015-12-07
+  artist: Roisin Murphy
+  title: Hairless Toys
+  notes: This is Nemone's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/673781513838682112
+  spotify-id: 4FcK8q5oQnZZZCWkW8BlBS
+- date: 2015-12-08
+  artist: Kamasi Washington
+  title: The Epic
+  notes: Gilles Peterson's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/674143895618367489
+  spotify-id: 2j2q2ySuVk43eHB8wI5XQj
+- date: 2015-12-09
+  artist: This Is The Kit
+  title: Bashed Out
+  notes: Guy Garvey's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/674506285534937088
+  spotify-id: 6mNf6jxeTcRNi6uQLisaXS
+- date: 2015-12-10
+  artist: Kendrick Lamar
+  title: To Pimp A Butterfly
+  notes: Mary Anne Hobbs' pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/674868679054503937
+  spotify-id: 5uP9oyMK5lpzbB7K6UeT3X
+- date: 2015-12-11
+  artist: Lance Ferguson
+  title: Black Feeling 3
+  notes: Craig Charles' pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/675247442510675968
+  spotify-id: 7KN4NyQhgnkvWECvthEKiN
+- date: 2015-12-12
+  artist: FFS
+  title: FFS
+  notes: Katie Puckrik's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/675590966703742977
+  spotify-id: 2gmPBZbnTks7hb22sG3mka
+- date: 2015-12-13
+  artist: The Charlatans
+  title: Modern Nature
+  notes: Chris Hawkins' pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/675955899391864832
+  spotify-id: 092DzkT8yzq5nhlpd1uKqt
+- date: 2015-12-14
+  artist: Tame Impala
+  title: Currents
+  notes: Mark Radcliffe's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/676418638212169728
+  spotify-id: 0rxKf57PZvWEoU8v3m5W2q
+- date: 2015-12-15
+  artist: Max Richter
+  title: Sleep
+  notes: Jarvis Cocker's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/676680633507119104
+  spotify-id: 0NRiFdiO6WfhUnHiev18x3
+- date: 2015-12-16
+  artist: Trembling Bells
+  title: The Sovereign Self
+  notes: Stuart Maconie's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/677043023000154112
+  spotify-id: 1QnBm1IDlPveEiWEPhBVU1
+- date: 2015-12-17
+  artist: Bachar Mar-Khalifé
+  title: Ya Balad
+  notes: Cerys Matthews' pick for Album of the Year.
+  sources:
+    facebook: https://www.facebook.com/BBCRadio6Music/posts/1109460679078141
+  spotify-id: 3QX9xAnk6MOHx38PcHYz1e
+- date: 2015-12-18
+  artist: Royal Headache
+  title: High
+  notes: Steve Lamacq's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/677771557524004864
+  spotify-id: 7LpcVaM4s3aEvbCSI5u7Xa
+- date: 2015-12-19
+  artist: Unknown Mortal Orchestra
+  title: Multi Love
+  notes: Don Letts' pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/678130197070090241
+  spotify-id: 587Clxxo1i5flgjvS52bEC
+- date: 2015-12-21
+  artist: Girl Band
+  title: Holding Hands With Jamie
+  notes: Tom Ravenscroft's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/678857462980603904
+  spotify-id: 3rVfXtGiIeKX1nkHXhiN1D
+- date: 2015-12-22
+  artist: Roots Manuva
+  title: Bleeds
+  notes: Tom Robinson's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/679217842500145153
+  spotify-id: 2ckG3GCP44lx0tGu0E3LWz
+- date: 2015-12-23
+  artist: Slaves
+  title: Are You Satisfied?
+  notes: Liz Kershaw's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/679579723115057152
+  spotify-id: 3Fb5mZyJn0HcP2RUtPVMXZ
+- date: 2015-12-24
+  artist: The Milk
+  title: Favourite Worry
+  notes: Huey Morgan's pick for Album of the Year.
+  twitter: https://twitter.com/BBC6Music/status/680043561132359680
+  spotify-id: 30x03O0rU15NEpZqwRqtKd

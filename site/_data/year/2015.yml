@@ -1175,6 +1175,11 @@
   notes: This is Iggy Pop's 6 Music Recommends Album of the Year.
   twitter: https://twitter.com/BBC6Music/status/672795717191270400
   spotify-id: 5v5XTM8IhfQUzKgaarEpPK
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/672700226285780992
+    - https://twitter.com/BBC6Music/status/672795717191270400
+    - https://twitter.com/BBC6Music/status/672874031222235136
 - date: 2015-12-05
   artist: Drenge
   title: Undertow
@@ -1193,24 +1198,41 @@
   notes: This is Nemone's pick for Album of the Year.
   twitter: https://twitter.com/BBC6Music/status/673781513838682112
   spotify-id: 4FcK8q5oQnZZZCWkW8BlBS
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/673781513838682112
+    - https://twitter.com/BBC6Music/status/673787425500610560
 - date: 2015-12-08
   artist: Kamasi Washington
   title: The Epic
   notes: Gilles Peterson's pick for Album of the Year.
   twitter: https://twitter.com/BBC6Music/status/674143895618367489
   spotify-id: 2j2q2ySuVk43eHB8wI5XQj
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/674143895618367489
+    - https://twitter.com/BBC6Music/status/674244332724031488
 - date: 2015-12-09
   artist: This Is The Kit
   title: Bashed Out
   notes: Guy Garvey's pick for Album of the Year.
   twitter: https://twitter.com/BBC6Music/status/674506285534937088
   spotify-id: 6mNf6jxeTcRNi6uQLisaXS
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/674506285534937088
+    - https://twitter.com/BBC6Music/status/674607110462681088
 - date: 2015-12-10
   artist: Kendrick Lamar
   title: To Pimp A Butterfly
   notes: Mary Anne Hobbs' pick for Album of the Year.
   twitter: https://twitter.com/BBC6Music/status/674868679054503937
   spotify-id: 5uP9oyMK5lpzbB7K6UeT3X
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/674868679054503937
+    - https://twitter.com/BBC6Music/status/674874408314490880
+    - https://twitter.com/BBC6Music/status/674969580037607424
 - date: 2015-12-11
   artist: Lance Ferguson
   title: Black Feeling 3
@@ -1235,25 +1257,38 @@
   notes: Mark Radcliffe's pick for Album of the Year.
   twitter: https://twitter.com/BBC6Music/status/676418638212169728
   spotify-id: 0rxKf57PZvWEoU8v3m5W2q
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/676318239933267968
+    - https://twitter.com/BBC6Music/status/676418638212169728
 - date: 2015-12-15
   artist: Max Richter
   title: Sleep
   notes: Jarvis Cocker's pick for Album of the Year.
   twitter: https://twitter.com/BBC6Music/status/676680633507119104
   spotify-id: 0NRiFdiO6WfhUnHiev18x3
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/676680633507119104
+    - https://twitter.com/BBC6Music/status/676781693022392320
 - date: 2015-12-16
   artist: Trembling Bells
   title: The Sovereign Self
   notes: Stuart Maconie's pick for Album of the Year.
   twitter: https://twitter.com/BBC6Music/status/677043023000154112
   spotify-id: 1QnBm1IDlPveEiWEPhBVU1
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/677043023000154112
+    - https://twitter.com/BBC6Music/status/677103366011551744
+    - https://twitter.com/BBC6Music/status/677143656256700416
 - date: 2015-12-17
   artist: Bachar Mar-Khalifé
   title: Ya Balad
   notes: Cerys Matthews' pick for Album of the Year.
+  spotify-id: 3QX9xAnk6MOHx38PcHYz1e
   sources:
     facebook: https://www.facebook.com/BBCRadio6Music/posts/1109460679078141
-  spotify-id: 3QX9xAnk6MOHx38PcHYz1e
 - date: 2015-12-18
   artist: Royal Headache
   title: High
@@ -1272,6 +1307,10 @@
   notes: Tom Ravenscroft's pick for Album of the Year.
   twitter: https://twitter.com/BBC6Music/status/678857462980603904
   spotify-id: 3rVfXtGiIeKX1nkHXhiN1D
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/678857462980603904
+    - https://twitter.com/BBC6Music/status/678860086006038529
 - date: 2015-12-22
   artist: Roots Manuva
   title: Bleeds

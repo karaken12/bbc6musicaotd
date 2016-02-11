@@ -1,0 +1,250 @@
+---
+- date: 2016-01-08
+  artist: David Bowie
+  title: BlackStar
+  twitter: https://twitter.com/BBC6Music/status/685381567078903808
+  spotify-id: 2w1YJXWMIco6EBf0CovvVN
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/685479344555307008
+    - https://twitter.com/BBC6Music/status/685437333383036932
+    - https://twitter.com/BBC6Music/status/685381567078903808
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1122288847795324:0
+- date: 2016-01-12
+  artist: Baaba Maal
+  title: The Traveller
+  twitter: https://twitter.com/BBC6Music/status/686927618931843072
+  spotify-id: 5w1D0fuhRXzYPkyhe8oBAe
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/686927618931843072
+    - https://twitter.com/BBC6Music/status/686888190507134976
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1124508934239982:0
+- date: 2016-01-13
+  artist: Mystery Jets
+  title: Curve Of The Earth
+  twitter: https://twitter.com/BBC6Music/status/687291292221575170
+  spotify-id: 0EER8DymHX54h2CZAwd6CD
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/687291292221575170
+    - https://twitter.com/BBC6Music/status/687272679343308804
+    - https://twitter.com/BBC6Music/status/687249688622444544
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1125017414189134:0
+    - https://www.facebook.com/BBCRadio6Music/posts/1125241477500061:0
+- date: 2016-01-14
+  artist: Rollins Band
+  title: Weight
+  sources:
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1125535254137350:0
+- date: 2016-01-15
+  artist: Daughter
+  title: Not To Disappear
+  twitter: https://twitter.com/BBC6Music/status/687974826087165952
+  spotify-id: 0ojaCwRiJ63YX6ucXASFdU
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/687974826087165952
+    - https://twitter.com/BBC6Music/status/687920677186367488
+    - https://twitter.com/BBC6Music/status/688015572068642816
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1126063874084488:0
+- date: 2016-01-18
+  artist: Badly Drawn Boy
+  title: The Hour of Bewilderbeast
+  twitter: https://twitter.com/BBC6Music/status/689103091426299905
+  spotify-id: 7qdi1B4jqHEA5NvV34haRP
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/689103091426299905
+    - https://twitter.com/BBC6Music/status/689062401661079553
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1127737210583821:0
+- date: 2016-01-19
+  artist: Tricky
+  title: Skilled Mechanics
+  twitter: https://twitter.com/BBC6Music/status/689464212809211905
+  spotify-id: 5zY9nW69jd4vfaT9VecNe9
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/689464212809211905
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1128271533863722:0
+- date: 2016-01-20
+  artist: Aidan Knight
+  title: Each Other
+  twitter: https://twitter.com/BBC6Music/status/689828663332847616
+  spotify-id: 2IE7225Xbaijmvso3Wepeb
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/689828663332847616
+    - https://twitter.com/BBC6Music/status/689789918973943809
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1128791397145069:0
+- date: 2016-01-21
+  artist: Suede
+  title: Night Thoughts
+  twitter: https://twitter.com/BBC6Music/status/690189488614707200
+  spotify-id: 5cyFF9f6VhtSXIr3GZ88sD
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/690189488614707200
+    - https://twitter.com/BBC6Music/status/690148760937172993
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1129349893755886:0
+- date: 2016-01-22
+  artist: Savages
+  title: Adore Life
+  twitter: https://twitter.com/BBC6Music/status/690510034833399809
+  spotify-id: 6c3UkztmOmW2GtunSNN3NZ
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/690510034833399809
+    - https://twitter.com/BBC6Music/status/690552483056324609
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1129852633705612:0
+- date: 2016-01-25
+  artist: Fat White Family
+  title: Songs for Our Mothers
+  twitter: https://twitter.com/BBC6Music/status/691639840413216768
+  spotify-id: 7jMNBKH5wRMxqXj6bMAdmy
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/691639840413216768
+    - https://twitter.com/BBC6Music/status/691598039664959488
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1131574840200058:0
+- date: 2016-01-26
+  artist: NZCA LINES
+  title: Infinite Summer
+  twitter: https://twitter.com/BBC6Music/status/692001447915950080
+  spotify-id: 12i6W6eJ2UHVL696SvfSh6
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/692001447915950080
+    - https://twitter.com/BBC6Music/status/691961623267954689
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1132119216812287:0
+- date: 2016-01-27
+  artist: Belle & Sebastian
+  title: If You're Feeling Sinister
+  twitter: https://twitter.com/BBC6Music/status/692364059086295040
+  spotify-id: 4usPTyIIgnAZ9eiItfEYSK
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/692364059086295040
+    - https://twitter.com/BBC6Music/status/692323493636108288
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1132693236754885:0
+- date: 2016-01-28
+  artist: MONEY
+  title: Suicide Songs
+  twitter: https://twitter.com/BBC6Music/status/692727319811735552
+  spotify-id: 7AKNatiRrOwg0Aud0e7XJd
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/692727319811735552
+    - https://twitter.com/BBC6Music/status/692630915110027268
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1133272196696989:0
+- date: 2016-01-29
+  artist: Bloc Party
+  title: Hymns
+  twitter: https://twitter.com/BBC6Music/status/692993643205005312
+  spotify-id: 6AeBPtepkxtQOXc4gCVzKP
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/692993643205005312
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1133908753300000:0
+- date: 2016-02-01
+  artist: Emma Pollock
+  title: In Search of Harperfield
+  twitter: https://twitter.com/BBC6Music/status/694081225942790144
+  spotify-id: 1cBJGe2GEkGlFb4NbKLHJ4
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/694081225942790144
+    - https://twitter.com/BBC6Music/status/694136023480168449
+    - https://twitter.com/BBC6Music/status/694176095550181380
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1135644319793110:0
+- date: 2016-02-02
+  artist: The Crookes
+  title: Lucky Ones
+  spotify-id: 5XvPL1fDqTZHaIasI587Yh
+  sources:
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1136183606405848:0
+- date: 2016-02-03
+  artist: Shoegaze
+  title: Still In A Dream
+  twitter: https://twitter.com/BBC6Music/status/694860375393734656
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/694860375393734656
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1136716986352510:0
+- date: 2016-02-04
+  artist: Saul Williams
+  title: MartyrLoserKing
+  twitter: https://twitter.com/BBC6Music/status/695274331702759425
+  spotify-id: 5jwuv75IwrzTrqoNccSR7k
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/695274331702759425
+    - https://twitter.com/BBC6Music/status/695222496728104960
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1137232969634245:0
+- date: 2016-02-05
+  artist: Field Music
+  title: Commontime
+  twitter: https://twitter.com/BBC6Music/status/695625633225953282
+  spotify-id: 0mxhhfdpk5nSSHOhPx4Woe
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/695625633225953282
+    - https://twitter.com/BBC6Music/status/695585141981364225
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1137776399579902:0
+- date: 2016-02-08
+  artist: Night Beats
+  title: Who Sold My Generaton
+  twitter: https://twitter.com/BBC6Music/status/696712220445642753
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/696712220445642753
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1139523126071896:0
+- date: 2016-02-09
+  artist: The Cult
+  title: Hidden City
+  spotify-id: 6CFCy8mVwxrBPAHZe8GUNV
+  sources:
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1140114659346076:0
+- date: 2016-02-10
+  artist: Telegram
+  title: Operator
+  twitter: https://twitter.com/BBC6Music/status/697437305439719424
+  spotify-id: 5XsfmHyHLJNxKPcrrFN0aa
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/697437305439719424
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1140646402626235:0
+- date: 2016-02-11
+  artist: DIIV
+  title: Is The Is Are
+  twitter: https://twitter.com/BBC6Music/status/697759416112803840
+  spotify-id: 5PPPABn2aZ0jRuHPMONwSR
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/697759416112803840
+    - https://twitter.com/BBC6Music/status/697800357343326208
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1141197329237809:0

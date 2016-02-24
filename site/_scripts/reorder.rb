@@ -14,7 +14,7 @@ end
 
 def process_album(album)
   new_album = {}
-  keys = ['date','artist','title','type','notes','twitter','tweet','review','spotify-id', 'spotify']
+  keys = ['date','artist','title','type','notes','twitter','tweet','review','spotify-id', 'spotify', 'sources']
   keys.each do |key|
     if album[key]
       new_album[key] = album[key]

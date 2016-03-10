@@ -9,8 +9,9 @@ def update_file(file_name)
   data = YAML.load_file(file_name)
   twitter_cache = TwitterCache.new()
   spotify_cache = SpotifyCache.new()
+  facebook_cache = nil
 
-  data = process_data(twitter_cache, spotify_cache, data)
+  data = process_data(twitter_cache, facebook_cache, spotify_cache, data)
 
   file = File.open(file_name, 'w')
   file.puts data.to_yaml
@@ -20,7 +21,62 @@ def update_file(file_name)
   spotify_cache.write()
 end
 
-def get_album(twitter_cache, spotify_cache)
+def get_facebook_album(facebook_cache, spotify_cache)
+  puts "==="
+  # Ask for URL
+  print "Enter Facebook URL: "
+  facebook_url = STDIN.gets.chomp
+  if facebook_url == '' then return nil end
+
+  # TODO: get Facebook data
+  facebook_post = nil
+
+  # Ask for Artist / Album
+  artist_album_data = ask_for_facebook_data(facebook_post, {'artist'=>'', 'title'=>'', 'date'=>''})
+  artist = artist_album_data['artist']
+  title = artist_album_data['title']
+  date = artist_album_data['date']
+
+  # Search Spotify
+  spotify_data = SpotifySearch.get_spotify_data(title, artist, nil)
+
+  spotify_id = nil
+  if spotify_data
+    # Ask for Spotify confirmation
+    selected_id = nil
+    if spotify_data.has_key?('selected')
+      selected_id = spotify_data['selected']['album_id']
+    end
+    chosen_index = choose_candidates(spotify_data['candidates'], selected_id)
+
+    if chosen_index == nil
+      spotify_id = nil
+    else
+      spotify_id = spotify_data['candidates'][chosen_index]['album_id']
+    end
+  end
+
+  # (Give the option to update the Artist / Album based on this choice)
+  if spotify_id != nil
+    spotify_album = spotify_cache.get_album(spotify_id)
+    artist_album_data = ask_for_facebook_data(facebook_post, artist_album_data)
+    artist = artist_album_data['artist']
+    title = artist_album_data['title']
+  end
+
+  # Construct album object
+  album = {'artist' => artist, 'title' => title}
+  album['sources'] = {}
+  album['sources']['facebook'] = [facebook_url]
+  album['date'] = Date.parse(date)
+  if spotify_id
+    album['spotify-id'] = spotify_id
+  end
+
+  return album
+end
+
+def get_twitter_album(twitter_cache, spotify_cache)
   puts "==="
   # Ask for Twitter URL
   print "Enter Tweet URL: "
@@ -65,21 +121,20 @@ def get_album(twitter_cache, spotify_cache)
 
   # Construct album object
   album = {'artist' => artist, 'title' => title}
-  album['twitter'] = tweet_id
+  album['sources'] = {}
+  album['sources']['twitter'] = [tweet_id]
   album['date'] = Date.parse(tweet['created'])
   if spotify_id
     album['spotify-id'] = spotify_id
-  else
-    album['spotify'] = spotify_data
   end
 
   return album
 end
 
-def process_data(twitter_cache, spotify_cache, data)
+def process_data(twitter_cache, facebook_cache, spotify_cache, data)
   new_data = data
   while true
-    album = get_album(twitter_cache, spotify_cache)
+    album = get_facebook_album(twitter_cache, spotify_cache)
     if album == nil then break end
     new_data.push(album)
   end

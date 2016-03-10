@@ -15,6 +15,28 @@ def ask_for_twitter_data(tweet, album)
   return return_data
 end
 
+def ask_for_facebook_data(facebook_post, album)
+  return_data = {'artist' => album['artist'], 'title' => album['title'], 'date' => album['date']}
+  #puts "Facebook: #{facebook_post['text']}"
+  puts "Facebook: NOT IMPLEMENTED!"
+  print "Enter date (#{album['date']}): "
+  date = STDIN.gets.chomp
+  if date != ''
+    return_data['date'] = date
+  end
+  print "Enter artist (#{album['artist']}): "
+  artist = STDIN.gets.chomp
+  if artist != ''
+    return_data['artist'] = artist
+  end
+  print "Enter title (#{album['title']}): "
+  title = STDIN.gets.chomp
+  if title != ''
+    return_data['title'] = title
+  end
+  return return_data
+end
+
 def choose_candidates(candidates, selected_id)
   puts "#{candidates.size} candidates:"
   default = ""

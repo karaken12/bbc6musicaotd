@@ -1,24 +1,16 @@
 
 def ask_for_twitter_data(tweet, album)
-  return_data = {'artist' => album['artist'], 'title' => album['title']}
   puts "Twitter: #{tweet['text']}"
-  print "Enter artist (#{album['artist']}): "
-  artist = STDIN.gets.chomp
-  if artist != ''
-    return_data['artist'] = artist
-  end
-  print "Enter title (#{album['title']}): "
-  title = STDIN.gets.chomp
-  if title != ''
-    return_data['title'] = title
-  end
-  return return_data
+  return ask_for_album_data(album)
 end
 
 def ask_for_facebook_data(facebook_post, album)
-  return_data = {'artist' => album['artist'], 'title' => album['title'], 'date' => album['date']}
-  #puts "Facebook: #{facebook_post['text']}"
   puts "Facebook: NOT IMPLEMENTED!"
+  return ask_for_album_data(album)
+end
+
+def ask_for_album_data(album)
+  return_data = {'artist' => album['artist'], 'title' => album['title'], 'date' => album['date']}
   print "Enter date (#{album['date']}): "
   date = STDIN.gets.chomp
   if date != ''

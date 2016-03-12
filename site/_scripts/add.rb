@@ -3,6 +3,7 @@ require 'yaml'
 require_relative 'TwitterCache'
 require_relative 'SpotifyCache'
 require_relative 'SpotifySearch'
+require_relative 'AlbumData'
 require_relative '_questions'
 
 def update_file(file_name)
@@ -30,13 +31,13 @@ def get_facebook_album(facebook_cache, spotify_cache)
 
   # TODO: get Facebook data
   facebook_post = nil
-  artist_album_data = {'artist'=>'', 'title'=>'', 'date'=>''}
+  artist_album_data = AlbumData.new('','','')
 
   # Ask for Artist / Album
   artist_album_data = ask_for_facebook_data(facebook_post, artist_album_data)
 
   # Search Spotify
-  spotify_data = SpotifySearch.get_spotify_data(artist_album_data['title'], artist_album_data['artist'], nil)
+  spotify_data = SpotifySearch.get_spotify_data(artist_album_data.title, artist_album_data.artist, nil)
 
   spotify_id = nil
   if spotify_data
@@ -62,9 +63,9 @@ def get_facebook_album(facebook_cache, spotify_cache)
 
   # Construct album object
   album = {}
-  album['artist'] = artist_album_data['artist']
-  album['title'] = artist_album_data['title']
-  album['date'] = Date.parse(artist_album_data['date'])
+  album['artist'] = artist_album_data.artist
+  album['title'] = artist_album_data.title
+  album['date'] = Date.parse(artist_album_data.date)
   if spotify_id
     album['spotify-id'] = spotify_id
   end
@@ -84,14 +85,14 @@ def get_twitter_album(twitter_cache, spotify_cache)
   # Get Twitter data
   tweet = twitter_cache.get_tweet(tweet_id)
   if tweet == nil then return nil end
-  artist_album_data = {'artist'=>'', 'title'=>'', 'date'=>''}
-  artist_album_data['date'] = Date.parse(tweet['created']).to_s()
+  artist_album_data = AlbumData.new('','','')
+  artist_album_data.date = Date.parse(tweet['created']).to_s()
 
   # Ask for Artist / Album
   artist_album_data = ask_for_twitter_data(tweet, artist_album_data)
 
   # Search Spotify
-  spotify_data = SpotifySearch.get_spotify_data(artist_album_data['title'], artist_album_data['artist'], nil)
+  spotify_data = SpotifySearch.get_spotify_data(artist_album_data.title, artist_album_data.artist, nil)
 
   spotify_id = nil
   if spotify_data
@@ -117,9 +118,9 @@ def get_twitter_album(twitter_cache, spotify_cache)
 
   # Construct album object
   album = {}
-  album['artist'] = artist_album_data['artist']
-  album['title'] = artist_album_data['title']
-  album['date'] = Date.parse(artist_album_data['date'])
+  album['artist'] = artist_album_data.artist
+  album['title'] = artist_album_data.title
+  album['date'] = Date.parse(artist_album_data.date)
   if spotify_id
     album['spotify-id'] = spotify_id
   end

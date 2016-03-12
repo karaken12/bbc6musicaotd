@@ -10,23 +10,22 @@ def ask_for_facebook_data(facebook_post, album)
 end
 
 def ask_for_album_data(album)
-  return_data = {'artist' => album['artist'], 'title' => album['title'], 'date' => album['date']}
-  print "Enter date (#{album['date']}): "
+  print "Enter date (#{album.date}): "
   date = STDIN.gets.chomp
   if date != ''
-    return_data['date'] = date
+    album.date = date
   end
-  print "Enter artist (#{album['artist']}): "
+  print "Enter artist (#{album.artist}): "
   artist = STDIN.gets.chomp
   if artist != ''
-    return_data['artist'] = artist
+    album.artist = artist
   end
-  print "Enter title (#{album['title']}): "
+  print "Enter title (#{album.title}): "
   title = STDIN.gets.chomp
   if title != ''
-    return_data['title'] = title
+    album.title = title
   end
-  return return_data
+  return album
 end
 
 def choose_candidates(candidates, selected_id)

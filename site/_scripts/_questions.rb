@@ -1,15 +1,6 @@
 
-def ask_for_twitter_data(tweet, album)
-  puts "Twitter: #{tweet['text']}"
-  return ask_for_album_data(album)
-end
-
-def ask_for_facebook_data(facebook_post, album)
-  puts "Facebook: NOT IMPLEMENTED!"
-  return ask_for_album_data(album)
-end
-
-def ask_for_album_data(album)
+def ask_for_album_data(text, album)
+  puts text
   print "Enter date (#{album.date}): "
   date = STDIN.gets.chomp
   if date != ''

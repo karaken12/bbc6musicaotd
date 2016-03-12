@@ -28,13 +28,15 @@ def get_facebook_album(facebook_cache, spotify_cache)
   print "Enter Facebook URL: "
   facebook_url = STDIN.gets.chomp
   if facebook_url == '' then return nil end
+  artist_album_data = AlbumData.new('','','')
 
   # TODO: get Facebook data
   facebook_post = nil
-  artist_album_data = AlbumData.new('','','')
+  text = "Facebook: NOT IMPLEMENTED!"
+  sources = {'facebook' => [facebook_url]}
 
   # Ask for Artist / Album
-  artist_album_data = ask_for_facebook_data(facebook_post, artist_album_data)
+  artist_album_data = ask_for_album_data(text, artist_album_data)
 
   # Search Spotify
   spotify_data = SpotifySearch.get_spotify_data(artist_album_data.title, artist_album_data.artist, nil)
@@ -58,7 +60,7 @@ def get_facebook_album(facebook_cache, spotify_cache)
   # (Give the option to update the Artist / Album based on this choice)
   if spotify_id != nil
     spotify_album = spotify_cache.get_album(spotify_id)
-    artist_album_data = ask_for_facebook_data(facebook_post, artist_album_data)
+    artist_album_data = ask_for_album_data(text, artist_album_data)
   end
 
   # Construct album object
@@ -69,8 +71,7 @@ def get_facebook_album(facebook_cache, spotify_cache)
   if spotify_id
     album['spotify-id'] = spotify_id
   end
-  album['sources'] = {}
-  album['sources']['facebook'] = [facebook_url]
+  album['sources'] = sources
 
   return album
 end
@@ -81,15 +82,17 @@ def get_twitter_album(twitter_cache, spotify_cache)
   print "Enter Tweet URL: "
   tweet_id = STDIN.gets.chomp
   if tweet_id == '' then return nil end
+  artist_album_data = AlbumData.new('','','')
 
   # Get Twitter data
   tweet = twitter_cache.get_tweet(tweet_id)
   if tweet == nil then return nil end
-  artist_album_data = AlbumData.new('','','')
+  text = "Twitter: #{tweet['text']}"
   artist_album_data.date = Date.parse(tweet['created']).to_s()
+  sources = {'twitter' => [tweet_id]}
 
   # Ask for Artist / Album
-  artist_album_data = ask_for_twitter_data(tweet, artist_album_data)
+  artist_album_data = ask_for_album_data(text, artist_album_data)
 
   # Search Spotify
   spotify_data = SpotifySearch.get_spotify_data(artist_album_data.title, artist_album_data.artist, nil)
@@ -113,7 +116,7 @@ def get_twitter_album(twitter_cache, spotify_cache)
   # (Give the option to update the Artist / Album based on this choice)
   if spotify_id != nil
     spotify_album = spotify_cache.get_album(spotify_id)
-    artist_album_data = ask_for_twitter_data(tweet, artist_album_data)
+    artist_album_data = ask_for_album_data(text, artist_album_data)
   end
 
   # Construct album object
@@ -124,8 +127,7 @@ def get_twitter_album(twitter_cache, spotify_cache)
   if spotify_id
     album['spotify-id'] = spotify_id
   end
-  album['sources'] = {}
-  album['sources']['twitter'] = [tweet_id]
+  album['sources'] = sources
 
   return album
 end

@@ -78,6 +78,24 @@ def get_album(twitter_cache, spotify_cache)
     artist_album_data = ask_for_album_data(text, artist_album_data)
   end
 
+  puts "Any additional URLs?"
+  while true
+    print "Enter URL: "
+    addurl = STDIN.gets.chomp
+    if addurl == '' then break end
+
+    if addurl.start_with?('https://twitter.com/') then
+      if !sources.has_key?('twitter') then sources['twitter'] = [] end
+      sources['twitter'].push(addurl)
+    elsif addurl.start_with?('https://www.facebook.com/') then
+      if !sources.has_key?('facebook') then sources['facebook'] = [] end
+      sources['facebook'].push(addurl)
+    else
+      # Unknown source
+      puts 'Unknown URL!'
+    end
+  end
+
   # Construct album object
   album = {}
   album['artist'] = artist_album_data.artist

@@ -2,867 +2,1214 @@
 - date: 2011-01-03
   artist: The Smiths
   title: Rank
-  review: http://www.bbc.co.uk/music/reviews/qc6m
   spotify-id: 06Ey2y54V4aGjP5EsovA2O
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/qc6m
 - date: 2011-01-04
   artist: Thin Lizzy
   title: Live and Dangerous
-  review: http://www.bbc.co.uk/music/reviews/5rx2
   spotify-id: 35hIIMcm8BTJ8Jr5K2Ky7T
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5rx2
 - date: 2011-01-05
   artist: Nirvana
   title: MTV Unplugged In New York
-  review: http://www.bbc.co.uk/music/reviews/8wvr
   spotify-id: 5pbjLidJuoty9QUOy6X682
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8wvr
 - date: 2011-01-06
   artist: Talking Heads
   title: Stop Making Sense
-  review: http://www.bbc.co.uk/music/reviews/n4d3
   spotify-id: 6dzfDCvCXlD1uTTIWlCBvq
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/n4d3
 - date: 2011-01-07
   artist: The Who
   title: Live At Leeds
   notes: Not the right version on Spotify, but close enough.
-  review: http://www.bbc.co.uk/music/reviews/j3gb
   spotify-id: 1jVqTEHG1Fq8xZKcTnNAL7
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/j3gb
 - date: 2011-01-10
   artist: British Sea Power
   title: Valhalla Dancehall
-  review: http://www.bbc.co.uk/music/reviews/ff28
   spotify-id: 30v7ves6lmxqFRRonwRWTr
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/ff28
 - date: 2011-01-11
   artist: Wire
   title: Red Barked Tree
-  review: http://www.bbc.co.uk/music/reviews/8z3q
   spotify-id: 3Tm6OMfXk7PffAEt4NAkmX
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8z3q
 - date: 2011-01-12
   artist: Portishead
   title: Dummy
-  review: http://www.bbc.co.uk/music/reviews/j6vh
   spotify-id: 3gxOtUSRzweDWBKlpj7cG6
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/j6vh
 - date: 2011-01-13
   artist: We Are the Lilies
   title: We Are the Lilies
-  review: http://www.bbc.co.uk/music/reviews/z98r
   spotify-id: 5Ki93Ii4fjZqvhzRPWbQg8
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/z98r
 - date: 2011-01-14
   artist: Dinosaur Jr.
   title: Where You Been
-  review: http://www.bbc.co.uk/music/reviews/g64z
   spotify-id: 1qeu2eJJWAn1cLSW0EOZij
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/g64z
 - date: 2011-01-17
   artist: White Lies
   title: Ritual
-  review: http://www.bbc.co.uk/music/reviews/d5b6
   spotify-id: 26Bm3PBTkGz1eIMzXsfc6g
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/d5b6
 - date: 2011-01-18
   artist: Anna Calvi
   title: Anna Calvi
-  review: http://www.bbc.co.uk/music/reviews/jjm5
   spotify-id: 6gpJMSVighuTtIrnOjyyA4
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/jjm5
 - date: 2011-01-19
   artist: Sly & The Family Stone
   title: Stand!
-  review: http://www.bbc.co.uk/music/reviews/63dp
   spotify-id: 7iwS1r6JHYJe9xpPjzmWqD
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/63dp
 - date: 2011-01-20
   artist: Fujiya & Miyagi
   title: Ventriloquizzing
-  review: http://www.bbc.co.uk/music/reviews/jxcg
   spotify-id: 47B3PVZsfrCnjkBSAnZh9P
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/jxcg
 - date: 2011-01-21
   artist: Pearl Jam
   title: Live on Ten Legs
-  review: http://www.bbc.co.uk/music/reviews/z3hf
   spotify-id: 4X1CI0bG4i76THqJcE0LHM
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/z3hf
 - date: 2011-01-24
   artist: Adele
   title: '21'
-  review: http://www.bbc.co.uk/music/reviews/fnj9
   spotify-id: 7n3QJc7TBOxXtlYh4Ssll8
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/fnj9
 - date: 2011-01-25
   artist: Cold War Kids
   title: Mine Is Yours
-  review: http://www.bbc.co.uk/music/reviews/w5b6
   spotify-id: 4SdAc9qAJooCunpIzM1g41
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/w5b6
 - date: 2011-01-26
   artist: Gang of Four
   title: Content
-  review: http://www.bbc.co.uk/music/reviews/mj28
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/mj28
 - date: 2011-01-27
   artist: Joan as Police Woman
   title: The Deep Field
-  review: http://www.bbc.co.uk/music/reviews/nw5c
   spotify-id: 25ah6JPCqGO4zotYWt2YFA
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/nw5c
 - date: 2011-01-28
   artist: The Joy Formidable
   title: The Big Roar
-  review: http://www.bbc.co.uk/music/reviews/3j28
   spotify-id: 2R45MnKwqMVAuqQ6UvNwet
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/3j28
 - date: 2011-01-31
   artist: Chapel Club
   title: Palace
-  review: http://www.bbc.co.uk/music/reviews/frx2
   spotify-id: 482fQUFOF82a3UaXdBnAxi
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/frx2
 - date: 2011-02-01
   artist: The Go! Team
   title: Rolling Blackouts
-  review: http://www.bbc.co.uk/music/reviews/n64z
   spotify-id: 2tAi4C6aMcFJhbBjygJrUL
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/n64z
 - date: 2011-02-02
   artist: Jonny
   title: Jonny
-  review: http://www.bbc.co.uk/music/reviews/5dvh
   spotify-id: 74AphSSm0qaxDwr8DmWSh3
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5dvh
 - date: 2011-02-03
   artist: The Decemberists
   title: The King Is Dead
-  review: http://www.bbc.co.uk/music/reviews/8j28
   spotify-id: 26LEx6Am147roKPkvkmln2
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8j28
 - date: 2011-02-04
   artist: Funeral Party
   title: The Golden Age of Knowhere
-  review: http://www.bbc.co.uk/music/reviews/pbq4
   spotify-id: 4eGygSaV3TqJ4B2tFFAwTP
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pbq4
 - date: 2011-02-07
   artist: The Streets
   title: Computers and Blues
-  review: http://www.bbc.co.uk/music/reviews/z8wx
   spotify-id: 25ngUlBEwEk6ABTtwZk90B
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/z8wx
 - date: 2011-02-08
   artist: James Blake
   title: James Blake
-  review: http://www.bbc.co.uk/music/reviews/dhpn
   spotify-id: 10ezzZAhOon51wDVhXgB77
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dhpn
 - date: 2011-02-09
   artist: PJ Harvey
   title: Let England Shake
-  review: http://www.bbc.co.uk/music/reviews/bgm5
   spotify-id: 7f1aXd7Gd5H9IqFu36zw6m
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bgm5
 - date: 2011-02-10
   artist: The Phoenix Foundation
   title: Buffalo
-  review: http://www.bbc.co.uk/music/reviews/8hpn
   spotify-id: 4bVvDkw27F0YMWJeacMluQ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8hpn
 - date: 2011-02-11
   artist: Echo & The Bunnymen
   title: 'Ocean Rain: Collector''s Edition'
   notes: Not the right version.
-  review: http://www.bbc.co.uk/music/reviews/dg4h
   spotify-id: 3V4j1tMdQqpq8nwW02UOiW
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dg4h
 - date: 2011-02-21
   artist: Radiohead
   title: King Of Limbs
-  twitter: https://twitter.com/BBC6Music/status/39649585429221376
   spotify-id: 6CeulIpMN8ZxqlMk5Gn3S3
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/39649585429221376
 - date: 2011-04-06
   artist: Foo Fighters
   title: Wasting Light
-  twitter: https://twitter.com/BBC6Music/status/55255319101706240
   spotify-id: 5lnQLEUiVDkLbFJHXHQu9m
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/55255319101706240
 - date: 2011-04-20
   artist: tUnE-YaRdS
   title: w h o k i l l
-  review: http://www.bbc.co.uk/music/reviews/pqwx
   spotify-id: 7rBLvpL7ZWi1YCSXSLUZKF
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pqwx
 - date: 2011-04-21
   artist: Guillemots
   title: Walk the River
-  review: http://www.bbc.co.uk/music/reviews/84x2
   spotify-id: 0ut1klYHe2qtMTQZvNR9YL
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/84x2
 - date: 2011-04-22
   artist: Massive Attack
   title: Blue Lines
-  review: http://www.bbc.co.uk/music/reviews/zgnv
   spotify-id: 5mAPk4qeNqVLtNydaWbWlf
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/zgnv
 - date: 2011-04-25
   artist: Fight Like Apes
   title: The Body of Christ and the Legs of Tina Turner
-  review: http://www.bbc.co.uk/music/reviews/xmj9
   spotify-id: 49aZAbf7b1lj12HgjLNyMQ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xmj9
 - date: 2011-04-26
   artist: Alessi's Ark
   title: Time Travel
-  review: http://www.bbc.co.uk/music/reviews/cb8r
   spotify-id: 7GVd2ykY7WPGAO2njGsvR4
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/cb8r
 - date: 2011-04-27
   artist: Fleet Foxes
   title: Helplessness Blues
-  review: http://www.bbc.co.uk/music/reviews/659p
   spotify-id: 7nQR8pfT9dkYjdcYTDZziS
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/659p
 - date: 2011-04-28
   artist: Bootsy Collins
   title: Tha Funk Capital of the World
-  review: http://www.bbc.co.uk/music/reviews/24x2
   spotify-id: 3Aon3lyhzsHI8uyGghj5QU
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/24x2
 - date: 2011-04-29
   artist: Morrissey
   title: Very Best Of
-  review: http://www.bbc.co.uk/music/reviews/x8d3
   spotify-id: 5yfboJoZVJBgJ7CKLLMxu9
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/x8d3
 - date: 2011-05-02
   artist: Beastie Boys
   title: Hot Sauce Committee Part Two
-  review: http://www.bbc.co.uk/music/reviews/dqwx
   spotify-id: 1vQYbqslni0jVfvaVK2lvx
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dqwx
 - date: 2011-05-03
   artist: The Airborne Toxic Event
   title: All at Once
-  review: http://www.bbc.co.uk/music/reviews/2z28
   spotify-id: 1bemr8XMvSNT7PwCydcoCr
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2z28
 - date: 2011-05-04
   artist: Love Inks
   title: E.S.P.
-  review: http://www.bbc.co.uk/music/reviews/d8d3
   spotify-id: 4Mar1e1WNxupTJ8C4F5WJl
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/d8d3
 - date: 2011-05-05
   artist: Dels
   title: Gob
-  review: http://www.bbc.co.uk/music/reviews/bnb6
   spotify-id: 1ysUagB22uWDOSfSJf73OD
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bnb6
 - date: 2011-05-06
   artist: Robert Johnson
   title: King of the Delta Blues Singers
-  review: http://www.bbc.co.uk/music/reviews/pcpn
   spotify-id: 2IWaNq5o4tG1w6yxve5BMU
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pcpn
 - date: 2011-05-09
   artist: Wild Beasts
   title: Smother
-  review: http://www.bbc.co.uk/music/reviews/2hm5
   spotify-id: 052mYLfLyJmIk0eQ0FL100
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2hm5
 - date: 2011-05-10
   artist: Okkervil River
   title: I Am Very Far
-  review: http://www.bbc.co.uk/music/reviews/d59p
   spotify-id: 2p6LtNqgheV6FebQ458YbN
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/d59p
 - date: 2011-05-11
   artist: The Wailers
   title: Catch a Fire
   notes: The remastered version, but still has the album versions.
-  review: http://www.bbc.co.uk/music/reviews/vvp2
   spotify-id: 7p4Qq5bIRmSJPK2OjZ1jUi
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/vvp2
 - date: 2011-05-12
   artist: Miles Kane
   title: Colour of the Trap
-  review: http://www.bbc.co.uk/music/reviews/nz28
   spotify-id: 671vYDTGlzYQfsibwLHxNB
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/nz28
 - date: 2011-05-13
   artist: Manchester Orchestra
   title: Simple Math
-  review: http://www.bbc.co.uk/music/reviews/zmj9
   spotify-id: 56Bi6PRYQ2JDGGLntLjoMI
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/zmj9
 - date: 2011-05-16
   artist: Friendly Fires
   title: Pala
-  review: http://www.bbc.co.uk/music/reviews/4dcg
   spotify-id: 6tdnM75IB2ZcSI1dZc0rJK
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4dcg
 - date: 2011-05-17
   artist: Danger Mouse and Daniele Luppi
   title: Rome
-  review: http://www.bbc.co.uk/music/reviews/j59p
   spotify-id: 2nBo5nFoszkjuY0bxv1y0A
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/j59p
 - date: 2011-06-09
   artist: Hollie Cook
   title: Hollie Cook
-  review: http://www.bbc.co.uk/music/reviews/v59p
   spotify-id: 1maKK0LZS4kKqJmrDPMMU5
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/v59p
 - date: 2011-06-10
   artist: The Kinks
   title: Kinda Kinks
   notes: Should be the original, not the deluxe, but there we go.
-  review: http://www.bbc.co.uk/music/reviews/p6rj
   spotify-id: 4bczs0Dyfq0I4WpqobSgOP
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/p6rj
 - date: 2011-06-13
   artist: Paul Simon
   title: So Beautiful or So What
-  review: http://www.bbc.co.uk/music/reviews/v8d3
   spotify-id: 437FhC4jXaUMkQ6ladgXke
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/v8d3
 - date: 2011-06-14
   artist: Frank Turner
   title: England Keep My Bones
-  review: http://www.bbc.co.uk/music/reviews/66rj
   spotify-id: 5JlBShGtLEgVd1FFjUnzKY
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/66rj
 - date: 2011-06-15
   artist: Scala & Kolacny Brothers
   title: Scala & Kolacny Brothers
-  review: http://www.bbc.co.uk/music/reviews/586m
   spotify-id: 4ErZs8fOfbsRsqlcKuCOC3
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/586m
 - date: 2011-06-16
   artist: Emmy the Great
   title: Virtue
-  review: http://www.bbc.co.uk/music/reviews/48d3
   spotify-id: 127jsCoyIUgB4q579eQXMx
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/48d3
 - date: 2011-06-17
   artist: Paul McCartney
   title: McCartney
-  review: http://www.bbc.co.uk/music/reviews/8vx2
   spotify-id: 7c0MBOaYZcLAmbrmW42Sjf
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8vx2
 - date: 2011-06-20
   artist: Bon Iver
   title: Bon Iver
-  review: http://www.bbc.co.uk/music/reviews/nvx2
   spotify-id: 7pTARJYCVO49nFXB1Mo5re
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/nvx2
 - date: 2011-06-21
   artist: Destroyer
   title: Kaputt
-  review: http://www.bbc.co.uk/music/reviews/r4x2
   spotify-id: 4XuDhEQRnieTnCbeUu9GoR
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/r4x2
 - date: 2011-06-22
   artist: Cashier No. 9
   title: To the Death of Fun
-  review: http://www.bbc.co.uk/music/reviews/4rm5
   spotify-id: 0J9a78ydUOAU31IArEFpe0
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4rm5
 - date: 2011-06-23
   artist: U2
   title: Achtung Baby
-  review: http://www.bbc.co.uk/music/reviews/bqw6
   spotify-id: 1U69hFsxaQxP6fquZmOmNH
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bqw6
 - date: 2011-06-27
   artist: Foster the People
   title: Torches
-  review: http://www.bbc.co.uk/music/reviews/gdrj
   spotify-id: 7Kmmw7Z5D2UD5MVwdm10sT
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/gdrj
 - date: 2011-06-28
   artist: SBTRKT
   title: SBTRKT
-  review: http://www.bbc.co.uk/music/reviews/84pn
   spotify-id: 5fP2kgfePJZF4nB1XqC1i8
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/84pn
 - date: 2011-06-29
   artist: Marvin Gaye
   title: What's Going On - 40th Anniversary Edition
-  review: http://www.bbc.co.uk/music/reviews/pq9p
   spotify-id: 4gp6F03qAJCvKYoAGSrHVk
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pq9p
 - date: 2011-06-30
   artist: Shabazz Palaces
   title: Black Up
-  review: http://www.bbc.co.uk/music/reviews/dpgw
   spotify-id: 2e4VGZNOF3VkEGjoY697pe
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dpgw
 - date: 2011-07-01
   artist: The Doors
   title: The Doors
-  review: http://www.bbc.co.uk/music/reviews/xnwx
   spotify-id: 1jWmEhn3ggaL6isoyLfwBn
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xnwx
 - date: 2011-07-04
   artist: Various Artists
   title: Rave On Buddy Holly
-  review: http://www.bbc.co.uk/music/reviews/j3j9
   spotify-id: 3l8cCPJXuc1OlTXm8ILXCb
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/j3j9
 - date: 2011-07-05
   artist: Blondie
   title: Panic of Girls
-  review: http://www.bbc.co.uk/music/reviews/4j5c
   spotify-id: 15JRVgOjaPkmYZfzbk06rd
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4j5c
 - date: 2011-07-06
   artist: Benjamin Francis Leftwich
   title: Last Smoke Before the Snowstorm
-  review: http://www.bbc.co.uk/music/reviews/nc3q
   spotify-id: 6X4lsAafU2WXiThVoO9kF4
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/nc3q
 - date: 2011-07-07
   artist: Brian Eno
   title: Drums Between the Bells
-  review: http://www.bbc.co.uk/music/reviews/2rm5
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2rm5
 - date: 2011-07-25
   artist: Amy Winehouse
   title: Back To Black
-  review: http://www.bbc.co.uk/music/reviews/89vr
   spotify-id: 6GJCGWfI95aeRsdtVB52vc
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/89vr
 - date: 2011-07-26
   artist: Rufus Wainwright
   title: House of Rufus
-  review: http://www.bbc.co.uk/music/reviews/rmfd
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/rmfd
 - date: 2011-07-27
   artist: Steve Mason & Dennis Bovell
   title: Ghosts Outside
-  review: http://www.bbc.co.uk/music/reviews/vxzb
   spotify-id: 2IIqast9DT0d9ZrTFrU1HH
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/vxzb
 - date: 2011-07-29
   artist: New Order
   title: Technique
-  review: http://www.bbc.co.uk/music/reviews/nxbd
   spotify-id: 0c5z5Upw96TWQrZz86V7uD
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/nxbd
 - date: 2011-07-29
   artist: Little Dragon
   title: Ritual Union
-  review: http://www.bbc.co.uk/music/reviews/jq9p
   spotify-id: 1BQVdofe7ROnSoaiC9418p
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/jq9p
 - date: 2011-08-01
   artist: Fountains of Wayne
   title: Sky Full of Holes
-  review: http://www.bbc.co.uk/music/reviews/xf8r
   spotify-id: 7Lu5CH9digLHNHdUkmPJ5R
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xf8r
 - date: 2011-08-02
   artist: The Flaming Lips
   title: The Soft Bulletin
-  review: http://www.bbc.co.uk/music/reviews/9w5c
   spotify-id: 0Gpcuci4CMpKHvZPM34KWg
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/9w5c
 - date: 2011-08-03
   artist: Oh Minnows
   title: For Shadows
-  review: http://www.bbc.co.uk/music/reviews/pbvh
   spotify-id: 7ehp4SbnSKMaSzTdHzET5K
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pbvh
 - date: 2011-08-04
   artist: Tricky
   title: Maxinquaye
-  review: http://www.bbc.co.uk/music/reviews/zq9p
   spotify-id: 7Hj7jLvac1sBCDnvP6qBYd
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/zq9p
 - date: 2011-08-05
   artist: James
   title: Laid
-  review: http://www.bbc.co.uk/music/reviews/hq9p
   spotify-id: 4OiaczLX4A9BtdaBUyVLxO
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/hq9p
 - date: 2011-08-08
   artist: Crystal Fighters
   title: Star of Love
-  review: http://www.bbc.co.uk/music/reviews/2gpn
   spotify-id: 1AQHtyT6hCekKYlGRwOZqz
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2gpn
 - date: 2011-08-09
   artist: Buzzcocks
   title: Love Bites
-  review: http://www.bbc.co.uk/music/reviews/cqp2
   spotify-id: 1WkdgDeAbzdpMPwNtPQAGY
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/cqp2
 - date: 2011-08-10
   artist: Jeff Buckley
   title: Grace
-  review: http://www.bbc.co.uk/music/reviews/jc3q
   spotify-id: 05kFTS7QT3D9Ltb8fvFogN
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/jc3q
 - date: 2011-08-11
   artist: Prince
   title: Parade
-  review: http://www.bbc.co.uk/music/reviews/frm5
   spotify-id: 54DjkEN3wdCQgfCTZ9WjdB
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/frm5
 - date: 2011-08-12
   artist: The Velvet Underground
   title: The Velvet Underground & Nico (Deluxe Edition)
-  review: http://www.bbc.co.uk/music/reviews/fq4h
   spotify-id: 2chKnQaYokqcp2KIf63XYD
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/fq4h
 - date: 2011-08-15
   artist: Various Artists
   title: Johnny Boy Would Love This… A Tribute to John Martyn
-  review: http://www.bbc.co.uk/music/reviews/grm5
   spotify-id: 2FMxWoZ0AVzFzbQzmdBIQY
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/grm5
 - date: 2011-08-16
   artist: Orbital
   title: Orbital
-  twitter: https://twitter.com/BBC6Music/status/103429556001701888
-  review: http://www.bbc.co.uk/music/reviews/dfwx
   spotify-id: 4xlGmLv1KsyhEKqPK7gmPK
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/103429556001701888
+    review:
+    - http://www.bbc.co.uk/music/reviews/dfwx
 - date: 2011-08-17
   artist: Lemonheads
   title: It's A Shame About Ray
-  review: http://www.bbc.co.uk/music/reviews/q9rg
   spotify-id: 6pFFRqFbkh3XDBBuiFZqye
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/q9rg
 - date: 2011-08-18
   artist: Joni Mitchell
   title: Court and Spark
-  review: http://www.bbc.co.uk/music/reviews/fznv
   spotify-id: 2akjxkzFolkeV72Yyv5KrM
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/fznv
 - date: 2011-08-19
   artist: Various Artists
   title: 12”/80s Alternative
-  review: http://www.bbc.co.uk/music/reviews/9j5c
   spotify-id: 2LRhfhrE9mJlx5kGn3Y3iR
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/9j5c
 - date: 2011-08-22
   artist: Stephen Malkmus and the Jicks
   title: Mirror Traffic
-  review: http://www.bbc.co.uk/music/reviews/2xzb
   spotify-id: 70Uadd9utYUJYl4NXeo2MO
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2xzb
 - date: 2011-08-30
   artist: The Specials
   title: The Specials
-  twitter: https://twitter.com/BBC6Music/status/108484176373743616
   spotify-id: 3slMWt0RziAAsTyKO0v98W
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/108484176373743616
 - date: 2011-09-12
   artist: Laura Marling
   title: A Creature I Don’t Know
-  review: http://www.bbc.co.uk/music/reviews/4r28
   spotify-id: 6l9AdRG0yVneRu5PNbAvRZ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4r28
 - date: 2011-09-13
   artist: Slow Club
   title: Paradise
-  review: http://www.bbc.co.uk/music/reviews/xmb6
   spotify-id: 3EMfhZXmhhhRvBff1Vq6hj
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xmb6
 - date: 2011-09-14
   artist: Girls
   title: Father, Son, Holy Ghost
-  review: http://www.bbc.co.uk/music/reviews/b9rj
   spotify-id: 04dq5QgXHC87eUTdi9LECt
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/b9rj
 - date: 2011-09-15
   artist: Howling Bells
   title: The Loudest Engine
-  review: http://www.bbc.co.uk/music/reviews/n56m
   spotify-id: 4qFvubv18Y6B5Hi4h2aApc
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/n56m
 - date: 2011-09-16
   artist: Patti Smith
   title: Outside Society
-  review: http://www.bbc.co.uk/music/reviews/bbvh
   spotify-id: 00tuL4qPxBs3w8S1BaG3Zv
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bbvh
 - date: 2011-09-19
   artist: Kasabian
   title: Velociraptor!
-  review: http://www.bbc.co.uk/music/reviews/vcm5
   spotify-id: 6lox5NV29L4QQmLuAvBXuP
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/vcm5
 - date: 2011-09-20
   artist: The Duke Spirit
   title: Bruiser
-  review: http://www.bbc.co.uk/music/reviews/vhnv
   spotify-id: 1MZ16mRIUJRx4C4NCJqmp1
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/vhnv
 - date: 2011-09-21
   artist: Throwing Muses
   title: Anthology
-  review: http://www.bbc.co.uk/music/reviews/hc3q
   spotify-id: 6HFpzsqAAZu9FmmDyhCKhh
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/hc3q
 - date: 2011-09-22
   artist: Lanterns on the Lake
   title: Gracious Tide, Take Me Home
-  review: http://www.bbc.co.uk/music/reviews/pn9p
   spotify-id: 2NAM14KEneeKrv7LMSMqZf
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pn9p
 - date: 2011-09-23
   artist: Nirvana
   title: Nevermind (20th Anniversary Boxset)
   notes: The Spotify album is not the reviewed version, but it is substantially the
     same.
-  review: http://www.bbc.co.uk/music/reviews/9pj9
   spotify-id: 2uEf3r9i2bnxwJQsxQ0xQ7
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/9pj9
 - date: 2011-09-26
   artist: Brett Anderson
   title: Black Rainbows
-  review: http://www.bbc.co.uk/music/reviews/czq4
   spotify-id: 4q59NbOcqpkbZa2xaUhTJw
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/czq4
 - date: 2011-09-27
   artist: The Smiths
   title: The Queen Is Dead
-  review: http://www.bbc.co.uk/music/reviews/nwvr
   spotify-id: 5Y0p2XCgRRIjna91aQE8q7
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/nwvr
 - date: 2011-09-28
   artist: Roots Manuva
   title: 4everevolution
-  review: http://www.bbc.co.uk/music/reviews/38x2
   spotify-id: 361t10A6kXAIbLFKtB3jGP
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/38x2
 - date: 2011-09-29
   artist: Wilco
   title: The Whole Love
-  review: http://www.bbc.co.uk/music/reviews/fxgw
   spotify-id: 6w4AIyT2CNFbR1RGbL0rTg
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/fxgw
 - date: 2011-09-30
   artist: Pink Floyd
   title: The Dark Side of the Moon (Immersion Edition)
-  review: http://www.bbc.co.uk/music/reviews/b3fd
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/b3fd
 - date: 2011-10-03
   artist: DJ Shadow
   title: The Less You Know, the Better
-  review: http://www.bbc.co.uk/music/reviews/g6zb
   spotify-id: 2GeU8lwouOy2H6fWJHy2rK
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/g6zb
 - date: 2011-10-04
   artist: Feist
   title: Metals
-  review: http://www.bbc.co.uk/music/reviews/z9rj
   spotify-id: 3vxiBAlJUDqePZboDhd3I5
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/z9rj
 - date: 2011-10-05
   artist: Ben Howard
   title: Every Kingdom
-  review: http://www.bbc.co.uk/music/reviews/9mb6
   spotify-id: 2MxcbOGFi99D9JACvj74AH
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/9mb6
 - date: 2011-10-06
   artist: Dum Dum Girls
   title: Only in Dreams
-  review: http://www.bbc.co.uk/music/reviews/92wx
   spotify-id: 1mqVc5fDWogOs3gI1UWjHl
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/92wx
 - date: 2011-10-07
   artist: The Jesus And Mary Chain
   title: Psychocandy
-  review: http://www.bbc.co.uk/music/reviews/xh25
   spotify-id: 4NGWe17wxoQvF0an1ps49l
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xh25
 - date: 2011-10-10
   artist: Björk
   title: Biophilia
-  review: http://www.bbc.co.uk/music/reviews/5zq4
   spotify-id: 1V8ULtQDp4UcmNGzs2t8Qq
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5zq4
 - date: 2011-10-11
   artist: Noel Gallagher’s High Flying Birds
   title: Noel Gallagher’s High Flying Birds
-  review: http://www.bbc.co.uk/music/reviews/zxgw
   spotify-id: 273aUxEFkxnRu1rD8DQmR5
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/zxgw
 - date: 2011-10-12
   artist: Ryan Adams
   title: Ashes & Fire
-  review: http://www.bbc.co.uk/music/reviews/fmb6
   spotify-id: 1w2aDtXIq2HjpZQOt8JaRa
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/fmb6
 - date: 2011-10-13
   artist: Peter Gabriel
   title: New Blood
-  review: http://www.bbc.co.uk/music/reviews/jpj9
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/jpj9
 - date: 2011-10-14
   artist: Ben Folds
   title: 'The Best Imitation of Myself: A Retrospective'
-  review: http://www.bbc.co.uk/music/reviews/qzq4
   spotify-id: 1h4LqT4SV5pTlyW6eonP4S
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/qzq4
 - date: 2011-10-17
   artist: Radiohead
   title: TKOL RMX 1234567
-  review: http://www.bbc.co.uk/music/reviews/2r28
   spotify-id: 3ufFjbaWeMYzuuilEPCNqp
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2r28
 - date: 2011-10-18
   artist: Real Estate
   title: Days
-  review: http://www.bbc.co.uk/music/reviews/956m
   spotify-id: 2atm9XvDoORbpwCz3xIRWO
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/956m
 - date: 2011-10-19
   artist: Jane’s Addiction
   title: The Great Escape Artist
-  review: http://www.bbc.co.uk/music/reviews/643q
   spotify-id: 0mqzGqI1ZDOWkr7we7Uard
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/643q
 - date: 2011-10-20
   artist: M83
   title: Hurry Up, We’re Dreaming
-  review: http://www.bbc.co.uk/music/reviews/vwcg
   spotify-id: 5lZrn6dy53gXNatTjgiIoi
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/vwcg
 - date: 2011-10-21
   artist: Ash
   title: The Best Of
-  review: http://www.bbc.co.uk/music/reviews/8b4z
   spotify-id: 5BFwMp5Uzs15Zasy5YOqib
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8b4z
 - date: 2011-10-24
   artist: Coldplay
   title: Mylo Xyloto
-  review: http://www.bbc.co.uk/music/reviews/98x2
   spotify-id: 2R7iJz5uaHjLEVnMkloO18
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/98x2
 - date: 2011-10-25
   artist: Tom Waits
   title: Bad as Me
-  review: http://www.bbc.co.uk/music/reviews/hpj9
   spotify-id: 22TNnSog7pAVPnhkYCYKZj
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/hpj9
 - date: 2011-10-26
   artist: Justice
   title: Audio, Video, Disco
-  review: http://www.bbc.co.uk/music/reviews/w8x2
   spotify-id: 1XWz4cZ6Q6YW3pOni2b49m
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/w8x2
 - date: 2011-10-27
   artist: Magazine
   title: No Thyself
-  review: http://www.bbc.co.uk/music/reviews/nfvh
   spotify-id: 7gSaGcEZ2fMdGGOxdytXvo
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/nfvh
 - date: 2011-10-28
   artist: The Allman Brothers Band
   title: Eat a Peach
-  review: http://www.bbc.co.uk/music/reviews/g2wx
   spotify-id: 6SbmZ6QPXZ7HqpNlte2tzC
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/g2wx
 - date: 2011-10-31
   artist: Florence + The Machine
   title: Ceremonials
-  review: http://www.bbc.co.uk/music/reviews/qwcg
   spotify-id: 3gmm8Sd93oyjTWug7Ci0Fd
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/qwcg
 - date: 2011-11-01
   artist: Strange Boys
   title: Live Music
-  review: http://www.bbc.co.uk/music/reviews/wvpn
   spotify-id: 02b4Matiww4tIE0jReEzIH
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/wvpn
 - date: 2011-11-02
   artist: Manic Street Preachers
   title: National Treasures – The Complete Singles
-  review: http://www.bbc.co.uk/music/reviews/b56m
   spotify-id: 5RzsAbxVgoqXk6y0MRczVW
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/b56m
 - date: 2011-11-03
   artist: Summer Camp
   title: Welcome to Condale
-  review: http://www.bbc.co.uk/music/reviews/6hnv
   spotify-id: 6reSuPMGnoUMxfOJpzpevc
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/6hnv
 - date: 2011-11-04
   artist: The Beach Boys
   title: The SMiLE Sessions
-  review: http://www.bbc.co.uk/music/reviews/4xgw
   spotify-id: 5SKIMMI6ilJTGOLd69Q9aM
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4xgw
 - date: 2011-11-07
   artist: DRC Music
   title: Kinshasa One Two
-  review: http://www.bbc.co.uk/music/reviews/xj8r
   spotify-id: 2AVcwS9J4gB5XIagaSkzTm
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xj8r
 - date: 2011-11-08
   artist: Cass McCombs
   title: Humor Risk
-  review: http://www.bbc.co.uk/music/reviews/86zb
   spotify-id: 2PXbrkhoBPQoKmeqtb3Dcb
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/86zb
 - date: 2011-11-09
   artist: David Bowie
   title: Hunky Dory
-  review: http://www.bbc.co.uk/music/reviews/5jqv
   spotify-id: 0vypdDHTQsoVmVu8OgXEly
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5jqv
 - date: 2011-11-10
   artist: Laura Veirs
   title: Tumble Bee
-  review: http://www.bbc.co.uk/music/reviews/2wcg
   spotify-id: 3hRRv2oGYl2qOn4NmGxmV1
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2wcg
 - date: 2011-11-11
   artist: The White Stripes
   title: White Blood Cells
-  review: http://www.bbc.co.uk/music/reviews/f59x
   spotify-id: 7rIhZOxiuEieQylkZt50TN
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/f59x
 - date: 2011-11-14
   artist: Snow Patrol
   title: Fallen Empires
-  review: http://www.bbc.co.uk/music/reviews/jcm5
   spotify-id: 35izIIezmP2AzFuPnp4dss
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/jcm5
 - date: 2011-11-15
   artist: Atlas Sound
   title: Parallax
-  review: http://www.bbc.co.uk/music/reviews/f8x2
   spotify-id: 6tMrRLV4mPCKOGZxWXF71P
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/f8x2
 - date: 2011-11-15
   artist: Aidan Moffat & Bill Wells
   title: Everything's Getting Older
-  review: http://www.bbc.co.uk/music/reviews/dr3q
   spotify-id: 3GMuRdRY13Ui3jUE1oWG2f
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dr3q
 - date: 2011-11-16
   artist: Liz Green
   title: O, Devotion!
-  review: http://www.bbc.co.uk/music/reviews/8pj9
   spotify-id: 5jarnOMpeqHt9rNcuvVtDm
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8pj9
 - date: 2011-11-17
   artist: The Dø
   title: Both Ways Open Jaws
-  review: http://www.bbc.co.uk/music/reviews/9g5c
   spotify-id: 2vnY6fSV9FVu8xuo3at2M6
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/9g5c
 - date: 2011-11-18
   artist: R.E.M.
   title: Part Lies, Part Heart, Part Truth, Part Garbage, 1982-2011
   type: compilation
-  review: http://www.bbc.co.uk/music/reviews/9zq4
   spotify-id: 4xpa61vQwmHPkX774qOZH9
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/9zq4
 - date: 2011-11-21
   artist: Kate Bush
   title: 50 Words for Snow
-  review: http://www.bbc.co.uk/music/reviews/pwcg
   spotify-id: 1VAB3Xn92dPKPWzocgQqkh
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pwcg
 - date: 2011-11-23
   artist: The Fall
   title: Ersatz G.B.
-  review: http://www.bbc.co.uk/music/reviews/6b4z
   spotify-id: 4fgNq8a7rBVUxPc3LEQrqv
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/6b4z
 - date: 2011-11-24
   artist: Queen
   title: Sheer Heart Attack
   notes: Not the remaster, but it's what's on Spotify.
-  review: http://www.bbc.co.uk/music/reviews/xxhj
   spotify-id: 2mEAmmRoZrvhBh1Vic03fZ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xxhj
 - date: 2011-11-25
   artist: Beck
   title: Odelay
-  review: http://www.bbc.co.uk/music/reviews/6wcz
   spotify-id: 3PpTsdpZmaLUh6RvViu9G7
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/6wcz
 - date: 2011-11-28
   artist: The Rolling Stones
   title: 'Some Girls: Deluxe Edition'
-  review: http://www.bbc.co.uk/music/reviews/z56m
   spotify-id: 6FjXxl9VLURGuubdXUn2J3
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/z56m
 - date: 2011-11-29
   artist: Various Artists
   title: 'Movement: BBC Radio 1 Peel Sessions 1977-1979'
-  review: http://www.bbc.co.uk/music/reviews/hvpn
   spotify-id: 4fZRusB5Y7oo2ynPzwU7aa
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/hvpn
 - date: 2011-11-30
   artist: The Smashing Pumpkins
   title: Gish
-  review: http://www.bbc.co.uk/music/reviews/wj8r
   spotify-id: 0FoOJucC8temyTUBpbapWC
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/wj8r
 - date: 2011-12-01
   artist: Paul Simon
   title: Songwriter
-  review: http://www.bbc.co.uk/music/reviews/pr28
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pr28
 - date: 2011-12-02
   artist: Emmy the Great and Tim Wheeler
   title: This Is Christmas
-  review: http://www.bbc.co.uk/music/reviews/ghnv
   spotify-id: 283i5NsuzD9qWQQfGGJwPU
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/ghnv
 - date: 2011-12-05
   artist: Amy Winehouse
   title: 'Lioness: Hidden Treasures'
-  review: http://www.bbc.co.uk/music/reviews/zr28
   spotify-id: 73PlXoFghNyfp59MSTFq9G
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/zr28
 - date: 2011-12-06
   artist: The Black Keys
   title: El Camino
-  review: http://www.bbc.co.uk/music/reviews/p6zb
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/p6zb
 - date: 2011-12-07
   artist: Gorillaz
   title: The Singles Collection 2001-2011
-  review: http://www.bbc.co.uk/music/reviews/pdhf
   spotify-id: 5cyCeFPqDXC6R9rvx6TO1w
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pdhf
 - date: 2011-12-08
   artist: The Roots
   title: undun
-  review: http://www.bbc.co.uk/music/reviews/5n9p
   spotify-id: 0cwlEeMEkvdoiPNJxlzHtI
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5n9p
 - date: 2011-12-09
   artist: The Cure
   title: Bestival Live 2011
-  review: http://www.bbc.co.uk/music/reviews/bfvh
   spotify-id: 06PZTi7nIOTzxdNhL0lnMS
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bfvh
 - date: 2011-12-12
   artist: Gil Scott-Heron & Jamie xx
   title: We're New Here
-  review: http://www.bbc.co.uk/music/reviews/v46m
   spotify-id: 3tjP8SLyGerhquO9eMOlWy
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/v46m
 - date: 2011-12-13
   artist: The Horrors
   title: Skying
-  review: http://www.bbc.co.uk/music/reviews/dq9p
   spotify-id: 18cFNLZWL59L9P0dtZw8xY
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dq9p
 - date: 2011-12-14
   artist: Girls
   title: Father, Son, Holy Ghost
-  review: http://www.bbc.co.uk/music/reviews/b9rj
   spotify-id: 04dq5QgXHC87eUTdi9LECt
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/b9rj
 - date: 2011-12-16
   artist: James Blake
   title: James Blake
-  review: http://www.bbc.co.uk/music/reviews/dhpn
   spotify-id: 10ezzZAhOon51wDVhXgB77
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dhpn
 - date: 2011-12-19
   artist: Lykke Li
   title: Wounded Rhymes
-  review: http://www.bbc.co.uk/music/reviews/8cx2
   spotify-id: 43uf0nTu6b5ReBCoQkLtsF
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8cx2
 - date: 2011-12-20
   artist: Radiohead
   title: The King of Limbs
-  review: http://www.bbc.co.uk/music/reviews/wd4z
   spotify-id: 6CeulIpMN8ZxqlMk5Gn3S3
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/wd4z
 - date: 2011-12-21
   artist: Anna Calvi
   title: Anna Calvi
-  review: http://www.bbc.co.uk/music/reviews/jjm5
   spotify-id: 6gpJMSVighuTtIrnOjyyA4
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/jjm5
 - date: 2011-12-22
   artist: Foster the People
   title: Torches
-  review: http://www.bbc.co.uk/music/reviews/gdrj
   spotify-id: 7Kmmw7Z5D2UD5MVwdm10sT
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/gdrj
 - date: 2011-12-23
   artist: Metronomy
   title: The English Riviera
-  review: http://www.bbc.co.uk/music/reviews/r46m
   spotify-id: 5yJS8oNKYDsDAy06z4QCIi
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/r46m
 - date: 2011-12-26
   artist: Bon Iver
   title: Bon Iver
-  review: http://www.bbc.co.uk/music/reviews/nvx2
   spotify-id: 7pTARJYCVO49nFXB1Mo5re
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/nvx2
 - date: 2011-12-27
   artist: Elbow
   title: Build a Rocket Boys!
-  review: http://www.bbc.co.uk/music/reviews/cb5c
   spotify-id: 2L6XXDKEv3xrx5ssFC6Pj6
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/cb5c
 - date: 2011-12-28
   artist: SBTRKT
   title: SBTRKT
-  review: http://www.bbc.co.uk/music/reviews/84pn
   spotify-id: 5fP2kgfePJZF4nB1XqC1i8
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/84pn
 - date: 2011-12-29
   artist: Laura Marling
   title: A Creature I Don’t Know
-  review: http://www.bbc.co.uk/music/reviews/4r28
   spotify-id: 6l9AdRG0yVneRu5PNbAvRZ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4r28
 - date: 2011-12-30
   artist: PJ Harvey
   title: Let England Shake
-  review: http://www.bbc.co.uk/music/reviews/bgm5
   spotify-id: 7f1aXd7Gd5H9IqFu36zw6m
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bgm5

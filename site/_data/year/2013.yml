@@ -2,503 +2,732 @@
 - date: 2013-01-14
   artist: Everything Everything
   title: Arc
-  twitter: https://twitter.com/BBC6Music/status/290741328994791425
-  review: http://www.bbc.co.uk/music/reviews/4gcg
   spotify-id: 54rCSZQzGYQtllqSdIJ1M7
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/290741328994791425
+    review:
+    - http://www.bbc.co.uk/music/reviews/4gcg
 - date: 2013-01-15
   artist: Villagers
   title: "{Awayland}"
-  twitter: https://twitter.com/BBC6Music/status/291092421184462848
-  review: http://www.bbc.co.uk/music/reviews/cjrj
   spotify-id: 4fD1uoU05A4d9A7sb2YcCr
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/291092421184462848
+    review:
+    - http://www.bbc.co.uk/music/reviews/cjrj
 - date: 2013-01-16
   artist: Christopher Owens
   title: Lysandre
-  twitter: https://twitter.com/BBC6Music/status/291469363163303937
-  review: http://www.bbc.co.uk/music/reviews/hbzb
   spotify-id: 79pZVE4kIdBwRwP27Fw1yJ
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/291469363163303937
+    review:
+    - http://www.bbc.co.uk/music/reviews/hbzb
 - date: 2013-01-17
   artist: Talk Talk
   title: Natural Order
-  review: http://www.bbc.co.uk/music/reviews/92x2
   spotify-id: 76ZOmdq69NGwSxlVyc7peJ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/92x2
 - date: 2013-01-18
   artist: Dutch Uncles
   title: Out of Touch in the Wild
-  review: http://www.bbc.co.uk/music/reviews/f6b6
   spotify-id: 1QmxjQ0c2TQpWQ5qeaW4Ev
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/f6b6
 - date: 2013-01-21
   artist: I Am Kloot
   title: Let It All In
-  review: http://www.bbc.co.uk/music/reviews/jp9p
   spotify-id: 3b3XTPwYmlyEWvvg8amWWR
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/jp9p
 - date: 2013-01-22
   artist: Wave Machines
   title: Pollen
-  twitter: https://twitter.com/BBC6Music/status/293634583428210688
-  review: http://www.bbc.co.uk/music/reviews/m4q4
   spotify-id: 4C0tcx42GntvztT3HJr95e
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/293634583428210688
+    review:
+    - http://www.bbc.co.uk/music/reviews/m4q4
 - date: 2013-01-23
   artist: Unknown Mortal Orchestra
   title: II
-  twitter: https://twitter.com/BBC6Music/status/293999790704951296
-  review: http://www.bbc.co.uk/music/reviews/4bzb
   spotify-id: 41C5iULlHU9sMYiekI75Pn
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/293999790704951296
+    review:
+    - http://www.bbc.co.uk/music/reviews/4bzb
 - date: 2013-01-24
   artist: Toro y Moi
   title: Anything in Return
-  twitter: https://twitter.com/BBC6Music/status/294366954595172352
-  review: http://www.bbc.co.uk/music/reviews/x828
   spotify-id: 6WUioz2k9ARaHrh7dYpNoF
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/294366954595172352
+    review:
+    - http://www.bbc.co.uk/music/reviews/x828
 - date: 2013-01-25
   artist: Supergrass
   title: I Should Coco
-  twitter: https://twitter.com/BBC6Music/status/294720984169189376
-  review: http://www.bbc.co.uk/music/reviews/wn9x
   spotify-id: 3YfIjaJEWqiSbKPguS9Bxd
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/294720984169189376
+    review:
+    - http://www.bbc.co.uk/music/reviews/wn9x
 - date: 2013-01-28
   artist: Local Natives
   title: Hummingbird
-  twitter: https://twitter.com/BBC6Music/status/295809235986546689
-  review: http://www.bbc.co.uk/music/reviews/bm6m
   spotify-id: 1vONbFftSl3PkZs5ayRJ4B
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/295809235986546689
+    review:
+    - http://www.bbc.co.uk/music/reviews/bm6m
 - date: 2013-01-29
   artist: Delphic
   title: Collections
-  twitter: https://twitter.com/BBC6Music/status/296171694312271872
-  review: http://www.bbc.co.uk/music/reviews/pc5c
   spotify-id: 5B4BvA4qzrKxBZGoojZohQ
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/296171694312271872
+    review:
+    - http://www.bbc.co.uk/music/reviews/pc5c
 - date: 2013-01-30
   artist: Foxygen
   title: We Are the 21st Century Ambassadors of Peace & Magic
-  twitter: https://twitter.com/BBC6Music/status/296535564059041792
-  review: http://www.bbc.co.uk/music/reviews/j3d3
   spotify-id: 1iQNqvcWTFwfUYnsGgMYBw
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/296535564059041792
+    review:
+    - http://www.bbc.co.uk/music/reviews/j3d3
 - date: 2013-01-31
   artist: Adam Green & Binki Shapiro
   title: Adam Green & Binki Shapiro
-  twitter: https://twitter.com/BBC6Music/status/296903813871316993
-  review: http://www.bbc.co.uk/music/reviews/x4q4
   spotify-id: 4LhC0kVPC2xnUESi1L0cRM
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/296903813871316993
+    review:
+    - http://www.bbc.co.uk/music/reviews/x4q4
 - date: 2013-02-04
   artist: My Bloody Valentine
   title: m b v
-  twitter: https://twitter.com/BBC6Music/status/298378355391217665
-  review: http://www.bbc.co.uk/music/reviews/fq3q
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/298378355391217665
+    review:
+    - http://www.bbc.co.uk/music/reviews/fq3q
 - date: 2013-02-05
   artist: Various Artists
   title: Reason to Believe – The Songs of Tim Hardin
-  twitter: https://twitter.com/BBC6Music/status/298708887283056641
-  review: http://www.bbc.co.uk/music/reviews/2gcg
   spotify-id: 08Nez59HdgQNV5Lh5Qo8vr
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/298708887283056641
+    review:
+    - http://www.bbc.co.uk/music/reviews/2gcg
 - date: 2013-02-06
   artist: FIDLAR
   title: FIDLAR
-  twitter: https://twitter.com/BBC6Music/status/299070740643315712
-  review: http://www.bbc.co.uk/music/reviews/4wgw
   spotify-id: 3rAgFYzYX5BjeyuzhltxfA
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/299070740643315712
+    review:
+    - http://www.bbc.co.uk/music/reviews/4wgw
 - date: 2013-02-07
   artist: Night Beds
   title: Country Sleep
-  twitter: https://twitter.com/BBC6Music/status/299450640080445441
-  review: http://www.bbc.co.uk/music/reviews/8fhf
   spotify-id: 0g1M5RuzXzcn2NPleWsRoy
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/299450640080445441
+    review:
+    - http://www.bbc.co.uk/music/reviews/8fhf
 - date: 2013-02-08
   artist: Eels
   title: Wonderful, Glorious
-  twitter: https://twitter.com/BBC6Music/status/299805907477475329
-  review: http://www.bbc.co.uk/music/reviews/95m5
   spotify-id: 0g6HBzK01pW8msQOXwQ1kq
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/299805907477475329
+    review:
+    - http://www.bbc.co.uk/music/reviews/95m5
 - date: 2013-02-11
   artist: Foals
   title: Holy Fire
-  twitter: https://twitter.com/BBC6Music/status/300891787508191233
-  review: http://www.bbc.co.uk/music/reviews/bq3q
   spotify-id: 0PIR7PK8DMB4pgoxq7F9Ad
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/300891787508191233
+    review:
+    - http://www.bbc.co.uk/music/reviews/bq3q
 - date: 2013-02-12
   artist: Jim James
   title: Regions of Light and Sound of God
-  twitter: https://twitter.com/BBC6Music/status/301250686727884801
-  review: http://www.bbc.co.uk/music/reviews/6vnv
   spotify-id: 4x05RwSTXnyfKSDuHD1SzO
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/301250686727884801
+    review:
+    - http://www.bbc.co.uk/music/reviews/6vnv
 - date: 2013-02-13
   artist: Veronica Falls
   title: Waiting for Something to Happen
-  twitter: https://twitter.com/BBC6Music/status/301607204627300352
-  review: http://www.bbc.co.uk/music/reviews/mr8r
   spotify-id: 1Wj5YHBkXA37PhMCcUT9OZ
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/301607204627300352
+    review:
+    - http://www.bbc.co.uk/music/reviews/mr8r
 - date: 2013-02-14
   artist: Love
   title: Forever Changes
-  twitter: https://twitter.com/BBC6Music/status/301970944900100096
-  review: http://www.bbc.co.uk/music/reviews/hj8c
   spotify-id: 6myt0Ez6hGJIPQeZKgY8um
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/301970944900100096
+    review:
+    - http://www.bbc.co.uk/music/reviews/hj8c
 - date: 2013-02-15
   artist: Darwin Deez
   title: Songs for Imaginative People
-  twitter: https://twitter.com/BBC6Music/status/302332726583894016
-  review: http://www.bbc.co.uk/music/reviews/3hvh
   spotify-id: 7pr9EAeSlWv5LPdWpC2dJs
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/302332726583894016
+    review:
+    - http://www.bbc.co.uk/music/reviews/3hvh
 - date: 2013-02-18
   artist: Atoms for Peace
   title: Amok
-  review: http://www.bbc.co.uk/music/reviews/cxwx
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/cxwx
 - date: 2013-02-19
   artist: Nick Cave & The Bad Seeds
   title: Push the Sky Away
-  twitter: https://twitter.com/BBC6Music/status/303793687731769344
-  review: http://www.bbc.co.uk/music/reviews/dc5c
   spotify-id: 7DGzeERtReCHCG0k9mABXv
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/303793687731769344
+    review:
+    - http://www.bbc.co.uk/music/reviews/dc5c
 - date: 2013-02-20
   artist: Jamie Lidell
   title: Jamie Lidell
-  twitter: https://twitter.com/BBC6Music/status/304155929463619585
-  review: http://www.bbc.co.uk/music/reviews/nfhf
   spotify-id: 4j1AWJyMnOoA8CYjrfAhDe
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/304155929463619585
+    review:
+    - http://www.bbc.co.uk/music/reviews/nfhf
 - date: 2013-02-21
   artist: Flume
   title: Flume
-  twitter: https://twitter.com/BBC6Music/status/304520460316581888
-  review: http://www.bbc.co.uk/music/reviews/b5m5
   spotify-id: 21m7s6qWpksbj6l08OM7Pu
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/304520460316581888
+    review:
+    - http://www.bbc.co.uk/music/reviews/b5m5
 - date: 2013-02-22
   artist: Julian Cope
   title: Saint Julian
-  twitter: https://twitter.com/BBC6Music/status/304873922816516096
-  review: http://www.bbc.co.uk/music/reviews/hm6m
   spotify-id: 0cWXdCck9lEusGVYb5wpfa
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/304873922816516096
+    review:
+    - http://www.bbc.co.uk/music/reviews/hm6m
 - date: 2013-02-25
   artist: Johnny Marr
   title: The Messenger
-  twitter: https://twitter.com/BBC6Music/status/305964185873944576
-  review: http://www.bbc.co.uk/music/reviews/wvnv
   spotify-id: 3ZFz6QOM8bF9yjNm5NTjWr
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/305964185873944576
+    review:
+    - http://www.bbc.co.uk/music/reviews/wvnv
 - date: 2013-02-26
   artist: Palma Violets
   title: '180'
-  twitter: https://twitter.com/BBC6Music/status/306327496264134656
-  review: http://www.bbc.co.uk/music/reviews/z2x2
   spotify-id: 7pRlHTBSENFfpnfNpPllpv
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/306327496264134656
+    review:
+    - http://www.bbc.co.uk/music/reviews/z2x2
 - date: 2013-02-27
   artist: Various Artists
   title: 'Son of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys'
-  twitter: https://twitter.com/BBC6Music/status/306698755363717120
-  review: http://www.bbc.co.uk/music/reviews/v3d3
   spotify-id: 1uU1qkM6WRnwLGIDYVYKP4
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/306698755363717120
+    review:
+    - http://www.bbc.co.uk/music/reviews/v3d3
 - date: 2013-02-28
   artist: Alice Russell
   title: To Dust
-  twitter: https://twitter.com/BBC6Music/status/307050779565514752
-  review: http://www.bbc.co.uk/music/reviews/g5m5
   spotify-id: 4letdZv5LglegGc9Oo4aSg
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/307050779565514752
+    review:
+    - http://www.bbc.co.uk/music/reviews/g5m5
 - date: 2013-03-01
   artist: Iggy & The Stooges
   title: Raw Power (Legacy Edition)
-  twitter: https://twitter.com/BBC6Music/status/307407503753355264
-  review: http://www.bbc.co.uk/music/reviews/zbpn
   spotify-id: 6vHqopioDuXtXTDoJhQZls
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/307407503753355264
+    review:
+    - http://www.bbc.co.uk/music/reviews/zbpn
 - date: 2013-03-04
   artist: Jimi Hendrix
   title: People, Hell and Angels
-  review: http://www.bbc.co.uk/music/reviews/mdfd
   spotify-id: 4TKeFuhHHiBhRddgUfZEvf
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/mdfd
 - date: 2013-03-05
   artist: Laura Mvula
   title: Sing to the Moon
-  twitter: https://twitter.com/BBC6Music/status/308860460306939904
-  review: http://www.bbc.co.uk/music/reviews/fc5c
   spotify-id: 6sWQlfb6ju6jG0z4oFPgVn
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/308860460306939904
+    review:
+    - http://www.bbc.co.uk/music/reviews/fc5c
 - date: 2013-03-06
   artist: Robyn Hitchcock
   title: Love From London
-  twitter: https://twitter.com/BBC6Music/status/309225647006445568
-  review: http://www.bbc.co.uk/music/reviews/cnpn
   spotify-id: 2cX61w29qF6rHVUtZNi065
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/309225647006445568
+    review:
+    - http://www.bbc.co.uk/music/reviews/cnpn
 - date: 2013-03-07
   artist: Caitlin Rose
   title: The Stand-In
-  twitter: https://twitter.com/BBC6Music/status/309575551683817472
-  review: http://www.bbc.co.uk/music/reviews/gq3q
   spotify-id: 4v76KfOgDLLbN9EfMwwQ8M
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/309575551683817472
+    review:
+    - http://www.bbc.co.uk/music/reviews/gq3q
 - date: 2013-03-08
   artist: The White Stripes
   title: Elephant
-  twitter: https://twitter.com/BBC6Music/status/309933436238442496
-  review: http://www.bbc.co.uk/music/reviews/qfxm
   spotify-id: 0rRNLpdA8nA8Sm8Fk490b9
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/309933436238442496
+    review:
+    - http://www.bbc.co.uk/music/reviews/qfxm
 - date: 2013-03-11
   artist: David Bowie
   title: The Next Day
-  twitter: https://twitter.com/BBC6Music/status/311028037674225664
-  review: http://www.bbc.co.uk/music/reviews/rnpn
   spotify-id: 2agWNCZl5Ts9W05mij8EPh
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/311028037674225664
+    review:
+    - http://www.bbc.co.uk/music/reviews/rnpn
 - date: 2013-03-12
   artist: Various Artists
   title: 'Sound City: Real to Reel'
-  twitter: https://twitter.com/BBC6Music/status/311393366841630720
-  review: http://www.bbc.co.uk/music/reviews/cq3q
   spotify-id: 066mZjq57UkWDAM7A6PWce
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/311393366841630720
+    review:
+    - http://www.bbc.co.uk/music/reviews/cq3q
 - date: 2013-03-13
   artist: Devendra Banhart
   title: Mala
-  twitter: https://twitter.com/BBC6Music/status/311755998559875073
-  review: http://www.bbc.co.uk/music/reviews/vnpn
   spotify-id: 1Z69PSnbIBojgF9NBJbKca
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/311755998559875073
+    review:
+    - http://www.bbc.co.uk/music/reviews/vnpn
 - date: 2013-03-14
   artist: John Grant
   title: Pale Green Ghosts
-  twitter: https://twitter.com/BBC6Music/status/312114384388378624
-  review: http://www.bbc.co.uk/music/reviews/v2x2
   spotify-id: 2dfTV7CktUEBkZCHiB7VQB
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/312114384388378624
+    review:
+    - http://www.bbc.co.uk/music/reviews/v2x2
 - date: 2013-03-15
   artist: Spinal Tap
   title: This Is Spinal Tap
-  twitter: https://twitter.com/BBC6Music/status/312469827589640192
-  review: http://www.bbc.co.uk/music/reviews/fr8r
   spotify-id: 6S5mWLewzhLaAPmgDsnLlM
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/312469827589640192
+    review:
+    - http://www.bbc.co.uk/music/reviews/fr8r
 - date: 2013-03-18
   artist: Suede
   title: Bloodsports
-  twitter: https://twitter.com/BBC6Music/status/313558640709730305
-  review: http://www.bbc.co.uk/music/reviews/82x2
   spotify-id: 0KxFgCRvWpee2Dd7D7kRyM
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/313558640709730305
+    review:
+    - http://www.bbc.co.uk/music/reviews/82x2
 - date: 2013-03-19
   artist: Steve Mason
   title: Monkey Minds in the Devil’s Time
-  twitter: https://twitter.com/BBC6Music/status/313926899787255808
-  review: http://www.bbc.co.uk/music/reviews/r828
   spotify-id: 0OlY7CuPMVW3qrga41Td0M
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/313926899787255808
+    review:
+    - http://www.bbc.co.uk/music/reviews/r828
 - date: 2013-03-20
   artist: Daughter
   title: If You Leave
-  twitter: https://twitter.com/BBC6Music/status/314289844937449473
-  review: http://www.bbc.co.uk/music/reviews/jr8r
   spotify-id: 6E76aabodIl5DW5BTEZPHG
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/314289844937449473
+    review:
+    - http://www.bbc.co.uk/music/reviews/jr8r
 - date: 2013-03-21
   artist: Billy Bragg
   title: Tooth & Nail
-  twitter: https://twitter.com/BBC6Music/status/314655505937207296
-  review: http://www.bbc.co.uk/music/reviews/djrj
   spotify-id: 4fhwu8o6R5d92EpYv7JKkl
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/314655505937207296
+    review:
+    - http://www.bbc.co.uk/music/reviews/djrj
 - date: 2013-03-26
   artist: The Strokes
   title: Comedown Machine
-  review: http://www.bbc.co.uk/music/reviews/4q3q
   spotify-id: 6Gh67utfCyDodVQj2AFLoJ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4q3q
 - date: 2013-03-27
   artist: Peace
   title: In Love
-  review: http://www.bbc.co.uk/music/reviews/52x2
   spotify-id: 2WF9WYqw0z4xs4hJi5eSmU
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/52x2
 - date: 2013-03-28
   artist: Edwyn Collins
   title: Understated
-  review: http://www.bbc.co.uk/music/reviews/3xwx
   spotify-id: 16NFF1JvgU0TJm2ZZRUQLd
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/3xwx
 - date: 2013-04-02
   artist: British Sea Power
-  twitter: https://twitter.com/BBC6Music/status/319057816516190209
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/319057816516190209
 - date: 2013-05-23
   artist: Bibio
   title: Silver Wilkinson
-  twitter: https://twitter.com/BBC6Music/status/337540273062166529
   spotify-id: 635cLXDOf3Kh5WA9c63xm8
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/337540273062166529
 - date: 2013-06-27
   artist: Melt Yourself Down
   title: Melt Yourself Down
-  twitter: https://twitter.com/BBC6Music/status/350212340752449536
   spotify-id: 3rSlPOMTZF8Y17osMduNaa
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/350212340752449536
 - date: 2013-07-18
   artist: Daughn Gibson
   title: Me Moan
-  twitter: https://twitter.com/BBC6Music/status/357823968671039491
   spotify-id: 4qmHbjCEf6v4uOKeabNugL
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/357823968671039491
 - date: 2013-07-29
   artist: AlunaGeorge
   title: Body Music
-  twitter: https://twitter.com/BBC6Music/status/361809863489224705
   spotify-id: 7nXdR8vOT55x18KJ4kuE5W
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/361809863489224705
 - date: 2013-07-30
   artist: Nadine Shah
   title: Love Your Dum and Mad
-  twitter: https://twitter.com/BBC6Music/status/362173534669242368
   spotify-id: 2FUAQi3It8usLuj1ngDoGZ
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/362173534669242368
 - date: 2013-07-31
   artist: Alela Diane
   title: About Farewell
-  twitter: https://twitter.com/BBC6Music/status/362535600940781568
   spotify-id: 1MMRMeASSP9ZkdJIM8jmu4
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/362535600940781568
 - date: 2013-08-01
   artist: ''
   title: ''
-  twitter: https://twitter.com/BBC6Music/status/362865117441961984
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/362865117441961984
 - date: 2013-08-16
   artist: Various Artists
   title: 'Greco Roman: We Make Colourful Music Because We Dance In The Dark'
-  twitter: https://twitter.com/BBC6Music/status/368333911589285888
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/368333911589285888
 - date: 2013-08-19
   artist: Franz Ferdinand
   title: Right Thoughts, Right Words, Right Action
-  twitter: https://twitter.com/BBC6Music/status/369405632689893377
   spotify-id: 4X6YC6PgSMt5s7ARwGpLJ7
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/369405632689893377
 - date: 2013-08-20
   artist: Laura Veirs
   title: Warp and Weft
-  twitter: https://twitter.com/BBC6Music/status/369781288506363904
   spotify-id: 3mnRV6xwaO9vMJeeeI2QyJ
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/369781288506363904
 - date: 2013-08-21
   artist: Tired Pony
   title: The Ghost of the Mountain
-  twitter: https://twitter.com/BBC6Music/status/370190298443309056
   spotify-id: 5DmYFslVfXMxPt4XoQBNUi
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/370190298443309056
 - date: 2013-08-22
   artist: Drenge
   title: Drenge
-  twitter: https://twitter.com/BBC6Music/status/370507165842149376
   spotify-id: 6UAC7m5tmCeBYTbo4yZinf
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/370507165842149376
 - date: 2013-08-23
   artist: Blondie
   title: Parallel Lines
   notes: Best guess for album title.
-  twitter: https://twitter.com/BBC6Music/status/370869865105457152
   spotify-id: 5wc12ZsmXNIlppTmNFZFLU
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/370869865105457152
 - date: 2013-08-27
   artist: King Krule
   title: 6 Feet Beneath The Moon
-  twitter: https://twitter.com/BBC6Music/status/372319352239816704
   spotify-id: 6DAL46eCFRxgj624atbOYY
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/372319352239816704
 - date: 2013-08-29
   artist: MONEY
   title: The Shadow of Heaven
-  twitter: https://twitter.com/BBC6Music/status/373042851375898624
   spotify-id: 64AKqBf2QnJCcDbyOxqD3s
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/373042851375898624
 - date: 2013-09-09
   artist: Arctic Monkeys
   title: AM
-  twitter: https://twitter.com/BBC6Music/status/377076246363918336
   spotify-id: 5bU1XKYxHhEwukllT20xtk
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/377076246363918336
 - date: 2013-09-10
   artist: Manic Street Preachers
   title: Rewind The Film
-  twitter: https://twitter.com/BBC6Music/status/377422140040945665
   spotify-id: 2BnILbb4wJR2qp9qZbSUDr
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/377422140040945665
 - date: 2013-09-11
   artist: Goldfrapp
   title: Tales Of Us
-  twitter: https://twitter.com/BBC6Music/status/377754377282260992
   spotify-id: 4UA08VkNzFtlb9kGxtDtat
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/377754377282260992
 - date: 2013-09-16
   artist: MGMT
   title: MGMT
   notes: Best guess for album title.
-  twitter: https://twitter.com/BBC6Music/status/379613271663202305
   spotify-id: 0a4MASgg8wxOyUeoOZzuhc
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/379613271663202305
 - date: 2013-09-18
   artist: Placebo
   title: Loud Like Love
-  twitter: https://twitter.com/BBC6Music/status/380367734996873216
   spotify-id: 1I7nurs0QFuIrDPXjdx96L
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/380367734996873216
 - date: 2013-09-23
   artist: Kings of Leon
   title: Mechanical Bull
-  twitter: https://twitter.com/BBC6Music/status/382103712841228288
   spotify-id: 0cRJKK0y1sfZEqWub4dK9v
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/382103712841228288
 - date: 2013-09-24
   artist: Cloud Control
   title: Dream Cave
-  twitter: https://twitter.com/BBC6Music/status/382465164563333121
   spotify-id: 1faLinmR39ZrEVhvGbkSp3
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/382465164563333121
 - date: 2013-09-25
   artist: Mazzy Star
   title: Seasons of Your Day
-  twitter: https://twitter.com/BBC6Music/status/382829911074824192
   spotify-id: 38Eb5LBD8yO5KbMYVUQQZp
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/382829911074824192
 - date: 2013-09-30
   artist: HAIM
   title: Days Are Gone
-  twitter: https://twitter.com/BBC6Music/status/384606618840608769
   spotify-id: 7CzrzGbCwqT8Y43tvIUPBX
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/384606618840608769
 - date: 2013-10-02
   artist: Moby
   title: Innocents
-  twitter: https://twitter.com/BBC6Music/status/385364954418671618
   spotify-id: 24z2UXIScSYYhMvrovOuI1
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/385364954418671618
 - date: 2013-10-04
   artist: ''
   title: ''
-  twitter: https://twitter.com/BBC6Music/status/386089199356485632
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/386089199356485632
 - date: 2013-10-08
   artist: Anna Calvi
   title: One Breath
-  twitter: https://twitter.com/BBC6Music/status/387539927031754753
   spotify-id: 6KimA7qStxEgeKIEsnKcBV
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/387539927031754753
 - date: 2013-10-15
   artist: Paul McCartney
   title: NEW
   notes: Best guess for album title.
-  twitter: https://twitter.com/BBC6Music/status/390085439513571328
   spotify-id: 1zd1DOaqrJq6tgdo74kAIj
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/390085439513571328
 - date: 2013-11-13
   artist: Jake Bugg
   title: Shangri La
-  twitter: https://twitter.com/BBC6Music/status/400689347017465857
   spotify-id: 2kl9qhHRgNPQFSeWrliGeR
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/400689347017465857
 - date: 2013-11-14
   artist: Wooden Shjips
   title: Back To Land
-  twitter: https://twitter.com/BBC6Music/status/400963861446029313
   spotify-id: 1VyWvAkunNZTJ0PCUv81dj
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/400963861446029313
 - date: 2013-11-19
   artist: Blood Orange
   title: Cupid Deluxe
-  twitter: https://twitter.com/BBC6Music/status/402775610147098625
   spotify-id: 3KIRi1cU8yt3w7xhmiyehM
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/402775610147098625
 - date: 2013-11-20
   artist: Sonic Youth
   title: Goo
-  twitter: https://twitter.com/BBC6Music/status/403182301938335744
   spotify-id: 4G1YVElmzCn3QkVFQyuxkt
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/403182301938335744
 - date: 2013-11-21
   artist: Torres
   title: Torres
-  twitter: https://twitter.com/BBC6Music/status/403500973827448833
   spotify-id: 1EbIfYtE6PdK30IKwYBoKl
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/403500973827448833
 - date: 2013-11-28
   artist: Stornoway
   title: You Don't Know Anything
   notes: Best guess for album title.
-  twitter: https://twitter.com/BBC6Music/status/405987476965044224
   spotify-id: 20nuRd5HpPhmjroNzblnp2
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/405987476965044224
 - date: 2013-11-29
   artist: The Kitchen Cinq
   title: Everything But
-  twitter: https://twitter.com/BBC6Music/status/406443661224734720
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/406443661224734720
 - date: 2013-11-29
   artist: Honey Ltd
   title: The Complete Lhi Recordings
-  twitter: https://twitter.com/BBC6Music/status/406398427761606657
   spotify-id: 6I6PNu1wiKUNP0JDokeHZE
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/406398427761606657
 - date: 2013-12-02
   artist: Toy
   title: Join The Dots
-  twitter: https://twitter.com/BBC6Music/status/407485932078497792
   spotify-id: 3GJDHI5RGFxWTCrCFvyFEh
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/407485932078497792
 - date: 2013-12-03
   artist: Lizzo
   title: Lizzobangers
-  twitter: https://twitter.com/BBC6Music/status/407893128247406592
   spotify-id: 32UJ8XJogn6T8JSENLETMS
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/407893128247406592
 - date: 2013-12-04
   artist: Velvet Underground
   title: White Light / White Heat (45th Anniversary)
-  twitter: https://twitter.com/BBC6Music/status/408255596077400064
   spotify-id: 3YtP68puTTAor9lfHiSUr6
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/408255596077400064
 - date: 2013-12-05
   artist: Bijou
   title: 'Africa Express Presents: Maison Des Jeunes'
-  twitter: https://twitter.com/BBC6Music/status/408618216475213824
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/408618216475213824
 - date: 2013-12-06
   artist: The Jesus and Mary Chain
   title: 30th Anniversary Vinyl Collection
-  twitter: https://twitter.com/BBC6Music/status/408981064359493632
   spotify-id: 1u3E5QHns6VQb4gzLvJzpA
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/408981064359493632

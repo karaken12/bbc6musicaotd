@@ -2,1281 +2,1856 @@
 - date: 2012-01-02
   artist: David Bowie
   title: 'Ziggy Stardust and the Spiders From Mars: The Motion Picture'
-  review: http://www.bbc.co.uk/music/reviews/c9mq
   spotify-id: 44jkgfcuBri1LuAsdLRlbt
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/c9mq
 - date: 2012-01-03
   artist: David Bowie
   title: Station to Station
   notes: Not the Super-Deluxe edition, but the reviewer prefers the Special Edition
     anyway.
-  review: http://www.bbc.co.uk/music/reviews/5c9p
   spotify-id: 359mtWK6URMr2CXK7orSZl
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5c9p
 - date: 2012-01-04
   artist: David Bowie
   title: Low
-  review: http://www.bbc.co.uk/music/reviews/qgn8
   spotify-id: 0Oqi3Mm316FRX5H9mHjF0b
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/qgn8
 - date: 2012-01-05
   artist: David Bowie
   title: Let’s Dance
-  review: http://www.bbc.co.uk/music/reviews/3mwx
   spotify-id: 37KYBt1Lzn4eJ4KoCFZcnR
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/3mwx
 - date: 2012-01-06
   artist: David Bowie
   title: Black Tie White Noise
-  review: http://www.bbc.co.uk/music/reviews/m29p
   spotify-id: 1yFItZkb7DBAkQ5RB8OJv9
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/m29p
 - date: 2012-01-09
   artist: The Maccabees
   title: Given to the Wild
-  review: http://www.bbc.co.uk/music/reviews/w6gw
   spotify-id: 2Z19PSCz8Yf2OsT3ZKRobn
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/w6gw
 - date: 2012-01-10
   artist: Teenage Fanclub
   title: Bandwagonesque
-  review: http://www.bbc.co.uk/music/reviews/3nd3
   spotify-id: 6hpUr55OFFQKC7KmrwyWSJ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/3nd3
 - date: 2012-01-11
   artist: Milagres
   title: Glowing Mouth
-  review: http://www.bbc.co.uk/music/reviews/dpfd
   spotify-id: 0G6XHt4NzT3DFlDVo4oGZl
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dpfd
 - date: 2012-01-12
   artist: Laura Gibson
   title: La Grande
-  review: http://www.bbc.co.uk/music/reviews/63b6
   spotify-id: 2fEHtmouO3P73Dj0xoXuQk
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/63b6
 - date: 2012-01-13
   artist: Ian Dury
   title: New Boots and Panties!!
-  review: http://www.bbc.co.uk/music/reviews/mq6m
   spotify-id: 4WSbGsCtpm4socUvJv3VFZ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/mq6m
 - date: 2012-01-16
   artist: Guided by Voices
   title: Let’s Go Eat the Factory
-  review: http://www.bbc.co.uk/music/reviews/cg8r
   spotify-id: 2sANsDCvDB4enlosq9KI90
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/cg8r
 - date: 2012-01-17
   artist: Howler
   title: America Give Up
-  review: http://www.bbc.co.uk/music/reviews/wxj9
   spotify-id: 1YPOC8uC8KUG0jspZm6kQ2
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/wxj9
 - date: 2012-01-18
   artist: The Big Pink
   title: Future This
-  review: http://www.bbc.co.uk/music/reviews/9xj9
   spotify-id: 4wdt1FIzAhCTRdTtr8kjZK
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/9xj9
 - date: 2012-01-19
   artist: Kathleen Edwards
   title: Voyageur
-  review: http://www.bbc.co.uk/music/reviews/j9hf
   spotify-id: 69kzvq9exYSPaWp5bRjui3
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/j9hf
 - date: 2012-01-23
   artist: Fránçois & the Atlas Mountains
   title: E Volo Love
-  review: http://www.bbc.co.uk/music/reviews/hjvh
   spotify-id: 1FJxGliLO4tEyqK8NEhD5q
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/hjvh
 - date: 2012-01-24
   artist: Nada Surf
   title: The Stars Are Indifferent To Astronomy
-  review: http://www.bbc.co.uk/music/reviews/n4m5
   spotify-id: 1CFDAolez0ObsplEGqbzTI
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/n4m5
 - date: 2012-01-25
   artist: Pulled Apart By Horses
   title: Tough Love
-  review: http://www.bbc.co.uk/music/reviews/dmwx
   spotify-id: 27bBOgbImN6ocUFr86FANh
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dmwx
 - date: 2012-01-26
   artist: First Aid Kit
   title: The Lion’s Roar
-  review: http://www.bbc.co.uk/music/reviews/629p
   spotify-id: 6Z3MfMebUucj95zrHMrbyV
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/629p
 - date: 2012-01-27
   artist: The Doors
   title: L.A. Woman – 40th Anniversary Edition
-  review: http://www.bbc.co.uk/music/reviews/8hq4
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8hq4
 - date: 2012-01-30
   artist: Leonard Cohen
   title: Old Ideas
-  review: http://www.bbc.co.uk/music/reviews/xq6m
   spotify-id: 0waLDJlCfXkXIwFGdBZ6UK
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xq6m
 - date: 2012-01-31
   artist: Lana Del Rey
   title: Born to Die
-  review: http://www.bbc.co.uk/music/reviews/qrnv
   spotify-id: 6nwVplrq1uGwJ2o5VL44l5
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/qrnv
 - date: 2012-02-01
   artist: The 2 Bears
   title: Be Strong
-  review: http://www.bbc.co.uk/music/reviews/5rnv
   spotify-id: 0DSCXv8rx9jJgdqZnJ2LH9
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5rnv
 - date: 2012-02-02
   artist: Django Django
   title: Django Django
-  review: http://www.bbc.co.uk/music/reviews/bpfd
   spotify-id: 3pqPOPqLgIwLaE4ZuVhYlg
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bpfd
 - date: 2012-02-06
   artist: Air
   title: Le Voyage Dans La Lune
-  review: http://www.bbc.co.uk/music/reviews/g6gw
   spotify-id: 5wSWhq54GZv15t0542vDDj
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/g6gw
 - date: 2012-02-07
   artist: Beth Jeans Houghton & The Hooves of Destiny
   title: Yours Truly, Cellophane Nose
-  review: http://www.bbc.co.uk/music/reviews/x8pn
   spotify-id: 76cqxSkZfIzWruL72ebkLe
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/x8pn
 - date: 2012-02-08
   artist: Mark Lanegan Band
   title: Blues Funeral
-  review: http://www.bbc.co.uk/music/reviews/4f4z
   spotify-id: 0SvgSZT9yW6ocN88GtZwVG
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4f4z
 - date: 2012-02-09
   artist: Various Artists
   title: 'Chimes of Freedom: The Songs of Bob Dylan'
-  review: http://www.bbc.co.uk/music/reviews/gxj9
   spotify-id: 7n6OTzqfqzeMUSVSaTODT0
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/gxj9
 - date: 2012-02-10
   artist: Goldfrapp
   title: The Singles
-  review: http://www.bbc.co.uk/music/reviews/8g8r
   spotify-id: 1N95u2l5f9zbzBug4hXWt2
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8g8r
 - date: 2012-02-13
   artist: Field Music
   title: Plumb
-  review: http://www.bbc.co.uk/music/reviews/p8pn
   spotify-id: 3qLqk9pgpQF7NMluq2UtMy
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/p8pn
 - date: 2012-02-14
   artist: James Levy and The Blood Red Rose
   title: Pray to Be Free
-  review: http://www.bbc.co.uk/music/reviews/xv3q
   spotify-id: 7iULPbn7LmOpkl2aVX1338
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xv3q
 - date: 2012-02-15
   artist: Speech Debelle
   title: Freedom of Speech
-  review: http://www.bbc.co.uk/music/reviews/x5x2
   spotify-id: 7FMF2WAARHj7iAw9e8Hb1X
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/x5x2
 - date: 2012-02-16
   artist: Sharon Van Etten
   title: Tramp
-  review: http://www.bbc.co.uk/music/reviews/vjvh
   spotify-id: 7bYAuBOpWMA1F61cbXrKfM
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/vjvh
 - date: 2012-02-17
   artist: Simple Minds
   title: X5
   type: compilation
-  review: http://www.bbc.co.uk/music/reviews/68pn
   spotify-id: 5Stnhgsxl2ERxmMJFBqLmX
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/68pn
 - date: 2012-02-20
   artist: Sleigh Bells
   title: Reign of Terror
-  review: http://www.bbc.co.uk/music/reviews/8bcg
   spotify-id: 1QJsT9ZXcBp9fWpx4cAMIz
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8bcg
 - date: 2012-02-21
   artist: Tindersticks
   title: The Something Rain
-  review: http://www.bbc.co.uk/music/reviews/4wrj
   spotify-id: 7LtfzHE5BFQnMbnNFPhfxm
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4wrj
 - date: 2012-02-22
   artist: Blur
   title: Blur
-  twitter: https://twitter.com/BBC6Music/status/172278445752066049
-  review: http://www.bbc.co.uk/music/reviews/43gb
   spotify-id: 3VyHgnHE4cp7YuU7skzuJ2
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/172278445752066049
+    review:
+    - http://www.bbc.co.uk/music/reviews/43gb
 - date: 2012-02-23
   artist: Lambchop
   title: Mr M
-  review: http://www.bbc.co.uk/music/reviews/vbcg
   spotify-id: 6UbGt2QV4NF7f2zrdTUcWp
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/vbcg
 - date: 2012-02-24
   artist: Azari & III
   title: Azari & III
-  review: http://www.bbc.co.uk/music/reviews/xbvh
   spotify-id: 7vd55snhAOrAXNsqxBqX1T
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xbvh
 - date: 2012-02-27
   artist: School of Seven Bells
   title: Ghostory
-  review: http://www.bbc.co.uk/music/reviews/cdzb
   spotify-id: 6aGPObVNLwjzjXr7G9KV2I
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/cdzb
 - date: 2012-02-28
   artist: Perfume Genius
   title: Put Your Back N 2 It
-  review: http://www.bbc.co.uk/music/reviews/mc28
   spotify-id: 62sWqx1h4AjtVWtcs25AkE
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/mc28
 - date: 2012-02-29
   artist: Hooray for Earth
   title: True Loves
-  review: http://www.bbc.co.uk/music/reviews/95x2
   spotify-id: 405Qw2K0QaD0Fw1kc00Qcq
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/95x2
 - date: 2012-03-01
   artist: The Ting Tings
   title: Sounds From Nowheresville
-  review: http://www.bbc.co.uk/music/reviews/xc28
   spotify-id: 0QIejPRoiPns3DiaJER8sD
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xc28
 - date: 2012-03-02
   artist: Pink Floyd
   title: The Wall (Experience Edition)
   notes: I'm not sure it's exactly the same as the Experience Edition, but the track
     list seems to be the same.
-  review: http://www.bbc.co.uk/music/reviews/rxj9
   spotify-id: 33p78EyTp6esCBodi24Pzx
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/rxj9
 - date: 2012-03-05
   artist: Bruce Springsteen
   title: Wrecking Ball
-  review: http://www.bbc.co.uk/music/reviews/94m5
   spotify-id: 75kN1qUWvE10QcnpE6nEsM
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/94m5
 - date: 2012-03-06
   artist: Sinéad O’Connor
   title: How About I Be Me (And You Be You)?
-  review: http://www.bbc.co.uk/music/reviews/d4m5
   spotify-id: 3H3e7pdkpIwRIgG7if0fDx
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/d4m5
 - date: 2012-03-07
   artist: We Are Augustines
   title: Rise Ye Sunken Ships
-  review: http://www.bbc.co.uk/music/reviews/2jvh
   spotify-id: 0i080JQAcvU3RZTX1LkD9E
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2jvh
 - date: 2012-03-08
   artist: LCD Soundsystem
   title: LCD Soundsystem
-  review: http://www.bbc.co.uk/music/reviews/mqjw
   spotify-id: 6aSk2vxoY3xtz7cXKuY9EL
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/mqjw
 - date: 2012-03-09
   artist: The Magnetic Fields
   title: Love at the Bottom of the Sea
-  review: http://www.bbc.co.uk/music/reviews/h3b6
   spotify-id: 4HUH2wzM1yfhgbujGpn0YJ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/h3b6
 - date: 2012-03-26
   artist: Rocket Juice and The Moon
   title: Rocket Juice and The Moon
-  review: http://www.bbc.co.uk/music/reviews/xf4z
   spotify-id: 2Gejp5iiU13gYmisUBfkr7
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xf4z
 - date: 2012-03-27
   artist: Gemma Hayes
   title: Let It Break
-  review: http://www.bbc.co.uk/music/reviews/2dzb
   spotify-id: 0sk6qEwcml0rIBbOpQOkQJ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2dzb
 - date: 2012-03-28
   artist: Gary Numan/Tubeway Army
   title: Replicas Redux
-  review: http://www.bbc.co.uk/music/reviews/z6gb
   spotify-id: 1ZTKKrWwhE0prrfe3AudHz
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/z6gb
 - date: 2012-03-29
   artist: Dr. John
   title: Locked Down
-  review: http://www.bbc.co.uk/music/reviews/8pfd
   spotify-id: 2HhSjSa5X3TQSIkS4CpFyu
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8pfd
 - date: 2012-03-30
   artist: Morrissey
   title: Viva Hate
-  review: http://www.bbc.co.uk/music/reviews/6jvh
   spotify-id: 6t4LdKTNWIOr2PZIB8tiZF
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/6jvh
 - date: 2012-04-02
   artist: Orbital
   title: Wonky
-  review: http://www.bbc.co.uk/music/reviews/nxj9
   spotify-id: 4INKaafecsV0LeBSwvVLaG
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/nxj9
 - date: 2012-04-03
   artist: Graham Coxon
   title: A+E
-  review: http://www.bbc.co.uk/music/reviews/z5x2
   spotify-id: 2iGomdp6w6tnZ7rVStHCEJ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/z5x2
 - date: 2012-04-04
   artist: Quantic and Alice Russell with the Combo Bárbaro
   title: Look Around the Corner
-  review: http://www.bbc.co.uk/music/reviews/6f4z
   spotify-id: 4tnOiym4nIPeqY76LJgBjp
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/6f4z
 - date: 2012-04-05
   artist: The Futureheads
   title: Rant
-  review: http://www.bbc.co.uk/music/reviews/r5x2
   spotify-id: 3SNQJmds1xHYyCP3ms5zFq
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/r5x2
 - date: 2012-04-06
   artist: The Chemical Brothers
   title: Dig Your Own Hole
-  review: http://www.bbc.co.uk/music/reviews/bh28
   spotify-id: 0FjHy5dCyVROqDUl6f2VTK
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bh28
 - date: 2012-04-09
   artist: Alabama Shakes
   title: Boys & Girls
-  review: http://www.bbc.co.uk/music/reviews/829p
   spotify-id: 0YcQyzstsSbcnLCk4h7AUh
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/829p
 - date: 2012-04-10
   artist: De La Soul`s Plug 1 & Plug 2 Present First Serve
   title: First Serve
-  review: http://www.bbc.co.uk/music/reviews/r8pn
   spotify-id: 5dyXxPhluk0Mhoj9rYshEZ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/r8pn
 - date: 2012-04-11
   artist: The Verve
   title: Urban Hymns
-  review: http://www.bbc.co.uk/music/reviews/vqvh
   spotify-id: 2okCg9scHue9GNELoB8U9g
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/vqvh
 - date: 2012-04-12
   artist: The Jeffrey Lee Pierce Sessions Project
   title: The Journey Is Long
-  review: http://www.bbc.co.uk/music/reviews/4q6m
   spotify-id: 5YwlySjmsa8GqtE3d7lFOE
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4q6m
 - date: 2012-04-13
   artist: Dr. Feelgood
   title: All Through the City (With Wilko 1974-1977)
-  review: http://www.bbc.co.uk/music/reviews/c5x2
   spotify-id: 3YRU9YiYddczbFeIzAlyeB
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/c5x2
 - date: 2012-04-16
   artist: Spiritualized
   title: Sweet Heart Sweet Light
-  review: http://www.bbc.co.uk/music/reviews/xdzb
   spotify-id: 6MeFRUVi9kWj7O8kTsYSaf
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xdzb
 - date: 2012-04-17
   artist: M. Ward
   title: A Wasteland Companion
-  review: http://www.bbc.co.uk/music/reviews/3xj9
   spotify-id: 2G0TLuxIXVOHfS2Enfi7be
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/3xj9
 - date: 2012-04-18
   artist: The Clash
   title: London Calling - 25th Anniversary Edition
-  review: http://www.bbc.co.uk/music/reviews/c3cz
   spotify-id: 6FCzvataOZh68j8OKzOt9a
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/c3cz
 - date: 2012-04-19
   artist: THEESatisfaction
   title: awE naturalE
-  review: http://www.bbc.co.uk/music/reviews/xwrj
   spotify-id: 6SPrMPSTjUl8nUYCFR7eiZ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xwrj
 - date: 2012-04-20
   artist: Florence + The Machine
   title: 'MTV Unplugged: Florence + The Machine'
-  review: http://www.bbc.co.uk/music/reviews/mpfd
   spotify-id: 11JHRCPKllt4DDiaaBi3Kl
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/mpfd
 - date: 2012-04-23
   artist: Jack White
   title: Blunderbuss
-  review: http://www.bbc.co.uk/music/reviews/5q6m
   spotify-id: 5Khz5tP9sdilu9YwlX8AE3
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5q6m
 - date: 2012-04-24
   artist: Santigold
   title: Master of My Make-Believe
-  review: http://www.bbc.co.uk/music/reviews/wbcg
   spotify-id: 69jrxUSjHoEu6PeBMq3273
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/wbcg
 - date: 2012-04-25
   artist: Rufus Wainwright
   title: Out of the Game
-  review: http://www.bbc.co.uk/music/reviews/9wrj
   spotify-id: 1ASBTJsGYgxfPZiTgWTXqp
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/9wrj
 - date: 2012-04-26
   artist: Tom Williams & The Boat
   title: Teenage Blood
-  review: http://www.bbc.co.uk/music/reviews/529p
   spotify-id: 2FbV5wc2T51cIGZta9rOBF
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/529p
 - date: 2012-04-27
   artist: T. Rex
   title: Electric Warrior (Deluxe Edition)
-  review: http://www.bbc.co.uk/music/reviews/85x2
   spotify-id: 6hPt04r4KtO00nwhdGJ8Ox
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/85x2
 - date: 2012-04-30
   artist: Mystery Jets
   title: Radlands
-  review: http://www.bbc.co.uk/music/reviews/bbcg
   spotify-id: 6w0mr6REiPftCdkE34l7W4
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bbcg
 - date: 2012-05-01
   artist: Devin
   title: Romancing
-  review: http://www.bbc.co.uk/music/reviews/2n6m
   spotify-id: 4XzggfarI3kSUhV14RDO0P
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2n6m
 - date: 2012-05-02
   artist: Poliça
   title: Give You the Ghost
-  review: http://www.bbc.co.uk/music/reviews/hrnv
   spotify-id: 0UrDDTOre9XuD3xJHTFEJg
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/hrnv
 - date: 2012-05-03
   artist: Sweet Billy Pilgrim
   title: Crown and Treaty
-  review: http://www.bbc.co.uk/music/reviews/33b6
   spotify-id: 5gGxkxFEk2gMlJu3HMgLxE
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/33b6
 - date: 2012-05-04
   artist: My Bloody Valentine
   title: Loveless
-  review: http://www.bbc.co.uk/music/reviews/q2dp
   spotify-id: 20YQiWvyD8Yi7Xge7ukVrm
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/q2dp
 - date: 2012-05-07
   artist: Beastie Boys
   title: Paul's Boutique (20th Anniversary Remastered Edition)
-  review: http://www.bbc.co.uk/music/reviews/bq3n
   spotify-id: 1kmyirVya5fRxdjsPFDM05
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bq3n
 - date: 2012-05-08
   artist: The Cribs
   title: In the Belly of the Brazen Bull
-  review: http://www.bbc.co.uk/music/reviews/4cnv
   spotify-id: 4lxhCEI4ogeAtmhFRKKd1I
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4cnv
 - date: 2012-05-09
   artist: Damon Albarn
   title: Dr Dee
-  review: http://www.bbc.co.uk/music/reviews/x3wx
   spotify-id: 5kYYzRPUu3X8R544wihphw
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/x3wx
 - date: 2012-05-10
   artist: Various Cruelties
   title: Various Cruelties
-  review: http://www.bbc.co.uk/music/reviews/wwrj
   spotify-id: 6d9hWnzYJ16bHABVlLwqod
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/wwrj
 - date: 2012-05-11
   artist: Richard Hawley
   title: Standing at the Sky’s Edge
-  review: http://www.bbc.co.uk/music/reviews/xxj9
   spotify-id: 6xp40ZHvGtOB65FQx9ahT1
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xxj9
 - date: 2012-05-14
   artist: Garbage
   title: Not Your Kind of People
-  review: http://www.bbc.co.uk/music/reviews/gwhf
   spotify-id: 0pill0ipM4omfPE27jubin
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/gwhf
 - date: 2012-05-15
   artist: Beach House
   title: Bloom
-  review: http://www.bbc.co.uk/music/reviews/8cnv
   spotify-id: 3o8PXwaEbXtQMt4DgBNH2L
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8cnv
 - date: 2012-05-16
   artist: Cornershop
   title: Urban Turban – The Singhles Club
-  review: http://www.bbc.co.uk/music/reviews/fdgw
   spotify-id: 1C3H92nLPUNBgzYe7a7ttp
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/fdgw
 - date: 2012-05-17
   artist: Best Coast
   title: The Only Place
-  review: http://www.bbc.co.uk/music/reviews/pm9p
   spotify-id: 6aIRKVkzUq4RnyDdiqyQAN
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/pm9p
 - date: 2012-05-18
   artist: Small Faces
   title: From the Beginning – Deluxe Edition
-  review: http://www.bbc.co.uk/music/reviews/bdgw
   spotify-id: 271BmmcNClDA0BHCz8pXPJ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bdgw
 - date: 2012-05-21
   artist: Gaz Coombes
   title: Here Come the Bombs
-  review: http://www.bbc.co.uk/music/reviews/fxfd
   spotify-id: 0aTiAjctSHS6CeE19dJ4ab
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/fxfd
 - date: 2012-05-22
   artist: Paul Buchanan
   title: Mid Air
-  review: http://www.bbc.co.uk/music/reviews/62d3
   spotify-id: 5kPFXB2tpMfyMj087GNZCO
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/62d3
 - date: 2012-05-23
   artist: Saint Etienne
   title: Words and Music by Saint Etienne
-  review: http://www.bbc.co.uk/music/reviews/hfcg
   spotify-id: 3y67WA4j4WG0vTKA9OTPqA
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/hfcg
 - date: 2012-05-24
   artist: Zulu Winter
   title: Language
-  review: http://www.bbc.co.uk/music/reviews/2vm5
   spotify-id: 2PO9jUeGG2vZWDbUwFFJcz
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/2vm5
 - date: 2012-05-25
   artist: Paul and Linda McCartney
   title: Ram
-  review: http://www.bbc.co.uk/music/reviews/gdgw
   spotify-id: 4LPRyrhbUxGn9R6aUOGQxE
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/gdgw
 - date: 2012-05-28
   artist: Public Image Ltd
   title: This is PiL
-  review: http://www.bbc.co.uk/music/reviews/8gvh
   spotify-id: 1BSjA1ZvQ72BWIxZPHuXCw
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8gvh
 - date: 2012-05-29
   artist: Regina Spektor
   title: What We Saw From the Cheap Seats
-  review: http://www.bbc.co.uk/music/reviews/wm9p
   spotify-id: 3Etyu2JmgiQTQztLz6RxDX
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/wm9p
 - date: 2012-05-30
   artist: Sigur Rós
   title: Valtari
-  review: http://www.bbc.co.uk/music/reviews/4z8r
   spotify-id: 6VNojrhJBdLkfA1vzwqyNr
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4z8r
 - date: 2012-05-31
   artist: Alt-J
   title: An Awesome Wave
-  review: http://www.bbc.co.uk/music/reviews/mvm5
   spotify-id: 7HOzvP7Ta2lLueojdlJtdZ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/mvm5
 - date: 2012-06-01
   artist: Sugar
   title: Copper Blue
-  review: http://www.bbc.co.uk/music/reviews/z9zb
   spotify-id: 4haSyDMB9N6R9BHBO6flMe
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/z9zb
 - date: 2012-06-04
   artist: Ladyhawke
   title: Anxiety
-  review: http://www.bbc.co.uk/music/reviews/65pn
   spotify-id: 5brOjBblbgAlfAD1lrHlp8
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/65pn
 - date: 2012-06-05
   artist: Dexys
   title: One Day I’m Going to Soar
-  review: http://www.bbc.co.uk/music/reviews/5z8r
   spotify-id: 2g7CqCHV0BEbWa2FgnTGWN
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5z8r
 - date: 2012-06-06
   artist: Friends
   title: Manifest!
-  review: http://www.bbc.co.uk/music/reviews/p428
   spotify-id: 6gWXYkCZZnWz0YfYDb6DkA
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/p428
 - date: 2012-06-07
   artist: Patti Smith
   title: Banga
-  review: http://www.bbc.co.uk/music/reviews/wn6m
   spotify-id: 67epO9J9KoY8KSFA4xC4kA
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/wn6m
 - date: 2012-06-08
   artist: The Human League
   title: Dare / Fascination
-  review: http://www.bbc.co.uk/music/reviews/xvm5
   spotify-id: 410corLJsB6WHRWedbo4wg
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/xvm5
 - date: 2012-06-11
   artist: The Clash
   title: The Clash
-  review: http://www.bbc.co.uk/music/reviews/92f9
   spotify-id: 49kzgMsxHU5CTeb2XmFHjo
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/92f9
 - date: 2012-06-12
   artist: Maxïmo Park
   title: The National Health
-  review: http://www.bbc.co.uk/music/reviews/683q
   spotify-id: 7LVFOhQPKtbZMKJ2SQ7MSN
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/683q
 - date: 2012-06-13
   artist: Hot Chip
   title: In Our Heads
-  review: http://www.bbc.co.uk/music/reviews/3rq4
   spotify-id: 0y3NABiBZ3rN1Hrj1Xql5i
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/3rq4
 - date: 2012-06-14
   artist: Bobby Womack
   title: The Bravest Man in the Universe
-  review: http://www.bbc.co.uk/music/reviews/g3wx
   spotify-id: 7tJ3tERlaIjX7ZjcsbHGcc
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/g3wx
 - date: 2012-06-15
   artist: The Walkmen
   title: Heaven
-  review: http://www.bbc.co.uk/music/reviews/vgvh
   spotify-id: 6qJloKiQ7pfSLRLvzMxwtq
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/vgvh
 - date: 2012-06-18
   artist: Totally Enormous Extinct Dinosaurs
   title: Trouble
-  review: http://www.bbc.co.uk/music/reviews/8brj
   spotify-id: 1srFzlchwSOzxO8n99tJxP
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8brj
 - date: 2012-06-19
   artist: Mary Epworth
   title: Dream Life
-  review: http://www.bbc.co.uk/music/reviews/ph5c
   spotify-id: 1RdNw75SwPgSDcbcbShvVR
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/ph5c
 - date: 2012-06-20
   artist: The Invisible
   title: Rispah
-  review: http://www.bbc.co.uk/music/reviews/dqx2
   spotify-id: 6pneU09Bt0eswptfgiOfeD
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/dqx2
 - date: 2012-06-21
   artist: The Smashing Pumpkins
   title: Oceania
-  twitter: https://twitter.com/BBC6Music/status/215711162963214336
-  review: http://www.bbc.co.uk/music/reviews/jn6m
   spotify-id: 3QqIpBZ7rQ9cBUwy6p0rIn
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/215711162963214336
+    review:
+    - http://www.bbc.co.uk/music/reviews/jn6m
 - date: 2012-06-22
   artist: Various Artists
   title: 'The Old Grey Whistle Test: Live'
   type: compilation
-  twitter: https://twitter.com/BBC6Music/status/216079196085174272
-  review: http://www.bbc.co.uk/music/reviews/fqx2
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/216079196085174272
+    review:
+    - http://www.bbc.co.uk/music/reviews/fqx2
 - date: 2012-06-24
-  twitter: https://twitter.com/BBC6Music/status/216974029305815043
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/216974029305815043
 - date: 2012-06-25
   artist: The Flaming Lips
   title: Heady Fwends
-  twitter: https://twitter.com/BBC6Music/status/217256712393068544
-  review: http://www.bbc.co.uk/music/reviews/xh5c
   spotify-id: 1orDlrec998UjoLhIX2b09
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/217256712393068544
+    review:
+    - http://www.bbc.co.uk/music/reviews/xh5c
 - date: 2012-06-26
   artist: Jesca Hoop
   title: The House That Jack Built
-  twitter: https://twitter.com/BBC6Music/status/217518831701209088
-  review: http://www.bbc.co.uk/music/reviews/3z8r
   spotify-id: 2onagB46u8d5pIKjQZpB0q
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/217518831701209088
+    review:
+    - http://www.bbc.co.uk/music/reviews/3z8r
 - date: 2012-06-27
   artist: El-P
   title: Cancer4Cure
-  twitter: https://twitter.com/BBC6Music/status/217891776298627073
-  review: http://www.bbc.co.uk/music/reviews/cgvh
   spotify-id: 5S4niwg5II4itHpnT2oojK
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/217891776298627073
+    review:
+    - http://www.bbc.co.uk/music/reviews/cgvh
 - date: 2012-06-28
   artist: Metric
   title: Synthetica
-  twitter: https://twitter.com/BBC6Music/status/218345798298120192
-  review: http://www.bbc.co.uk/music/reviews/nfcg
   spotify-id: 6kCydCXVYWRebP594HP3XH
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/218345798298120192
+    review:
+    - http://www.bbc.co.uk/music/reviews/nfcg
 - date: 2012-06-29
   artist: The Beat
   title: I Just Can't Stop It
-  twitter: https://twitter.com/BBC6Music/status/218645840061923328
-  review: http://www.bbc.co.uk/music/reviews/pz8r
   spotify-id: 4loqJOnMNURLM7LEpZ57cu
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/218645840061923328
+    review:
+    - http://www.bbc.co.uk/music/reviews/pz8r
 - date: 2012-07-02
   artist: The Stone Roses
   title: Second Coming
-  review: http://www.bbc.co.uk/music/reviews/38p2
   spotify-id: 6cCshTDWi2wp5eluBlCfrv
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/38p2
 - date: 2012-07-03
   artist: Fiona Apple
   title: The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords
     Will Serve You More Than Ropes Will Ever Do
-  twitter: https://twitter.com/BBC6Music/status/220161115148128257
-  review: http://www.bbc.co.uk/music/reviews/j2d3
   spotify-id: 6B5favhKTShFTjRLsKIUfa
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/220161115148128257
+    review:
+    - http://www.bbc.co.uk/music/reviews/j2d3
 - date: 2012-07-04
   artist: My Tiger My Timing
   title: Celeste
-  twitter: https://twitter.com/BBC6Music/status/220450774302457856
-  review: http://www.bbc.co.uk/music/reviews/86j9
   spotify-id: 3hsG0eOuMD7NDjkXxtikNC
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/220450774302457856
+    review:
+    - http://www.bbc.co.uk/music/reviews/86j9
 - date: 2012-07-05
   artist: Gemma Ray
   title: Island Fire
-  twitter: https://twitter.com/BBC6Music/status/220790686335774720
-  review: http://www.bbc.co.uk/music/reviews/fpb6
   spotify-id: 1W9xayC1avevtH6ht9otr8
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/220790686335774720
+    review:
+    - http://www.bbc.co.uk/music/reviews/fpb6
 - date: 2012-07-06
   artist: Tom Paley's Old-Time Moonshine Revue
   title: Roll On, Roll On
-  twitter: https://twitter.com/BBC6Music/status/221182970545963008
-  review: http://www.bbc.co.uk/music/reviews/q9zb
   spotify-id: 1RfNbOmrKrIzr1pTjKIyZE
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/221182970545963008
+    review:
+    - http://www.bbc.co.uk/music/reviews/q9zb
 - date: 2012-07-09
   artist: The Crookes
   title: Hold Fast
-  twitter: https://twitter.com/BBC6Music/status/222218655600099329
-  review: http://www.bbc.co.uk/music/reviews/jvm5
   spotify-id: 45ZocvIqjtKmw5t36KEpxE
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/222218655600099329
+    review:
+    - http://www.bbc.co.uk/music/reviews/jvm5
 - date: 2012-07-10
   artist: Dirty Projectors
   title: Swing Lo Magellan
-  twitter: https://twitter.com/BBC6Music/status/222595964727345153
-  review: http://www.bbc.co.uk/music/reviews/n9zb
   spotify-id: 1WhF5ZiI5V5laq2nGLoF99
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/222595964727345153
+    review:
+    - http://www.bbc.co.uk/music/reviews/n9zb
 - date: 2012-07-11
   artist: Lianne La Havas
   title: Is Your Love Big Enough?
-  twitter: https://twitter.com/BBC6Music/status/223016898135199744
-  review: http://www.bbc.co.uk/music/reviews/29zb
   spotify-id: 5DpQnQQTsUjVLeQoC4TeoG
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/223016898135199744
+    review:
+    - http://www.bbc.co.uk/music/reviews/29zb
 - date: 2012-07-12
   artist: Talking Heads
   title: Remain in Light
-  twitter: https://twitter.com/BBC6Music/status/223321726057054208
-  review: http://www.bbc.co.uk/music/reviews/bcnv
   spotify-id: 3AQgdwMNCiN7awXch5fAaG
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/223321726057054208
+    review:
+    - http://www.bbc.co.uk/music/reviews/bcnv
 - date: 2012-07-13
   artist: Elbow
   title: Leaders of the Free World
-  twitter: https://twitter.com/BBC6Music/status/223776949166813184
-  review: http://www.bbc.co.uk/music/reviews/gj25
   spotify-id: 0CAQayblqPcPvwAHZlB77r
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/223776949166813184
+    review:
+    - http://www.bbc.co.uk/music/reviews/gj25
 - date: 2012-07-16
   artist: The Rolling Stones
   title: The Rolling Stones
-  twitter: https://twitter.com/BBC6Music/status/224767759282741248
-  review: http://www.bbc.co.uk/music/reviews/3whf
   spotify-id: 7Kln3VdaLUYVIFpqe7AuNA
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/224767759282741248
+    review:
+    - http://www.bbc.co.uk/music/reviews/3whf
 - date: 2012-07-17
   artist: The Rolling Stones
   title: Beggars Banquet
-  twitter: https://twitter.com/BBC6Music/status/225185878853685248
-  review: http://www.bbc.co.uk/music/reviews/jpzf
   spotify-id: 5WZFtmADuJUZPtt0NER0Qi
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/225185878853685248
+    review:
+    - http://www.bbc.co.uk/music/reviews/jpzf
 - date: 2012-07-18
   artist: The Rolling Stones
   title: Let It Bleed
-  twitter: https://twitter.com/BBC6Music/status/225495444678131712
-  review: http://www.bbc.co.uk/music/reviews/6hmq
   spotify-id: 0c78nsgqX6VfniSNWIxwoD
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/225495444678131712
+    review:
+    - http://www.bbc.co.uk/music/reviews/6hmq
 - date: 2012-07-19
   artist: The Rolling Stones
   title: Sticky Fingers
-  review: http://www.bbc.co.uk/music/reviews/4pzf
   spotify-id: 3i3imP9g6gCc6VzeeyduXZ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/4pzf
 - date: 2012-07-20
   artist: The Rolling Stones
   title: Exile On Main Street
-  twitter: https://twitter.com/BBC6Music/status/226217495206457344
-  review: http://www.bbc.co.uk/music/reviews/w2f9
   spotify-id: 5T5FSDZHbXIQlwihGwXn3X
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/226217495206457344
+    review:
+    - http://www.bbc.co.uk/music/reviews/w2f9
 - date: 2012-07-23
   artist: Nas
   title: Life Is Good
-  twitter: https://twitter.com/BBC6Music/status/227312815759835136
-  review: http://www.bbc.co.uk/music/reviews/39zb
   spotify-id: 4tpG2K3nqcrFNGBikX3dc0
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/227312815759835136
+    review:
+    - http://www.bbc.co.uk/music/reviews/39zb
 - date: 2012-07-24
   artist: Passion Pit
   title: Gossamer
-  twitter: https://twitter.com/BBC6Music/status/227775651095126016
-  review: http://www.bbc.co.uk/music/reviews/fh5c
   spotify-id: 14JU5SskmcyckE5I8PY6lv
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/227775651095126016
+    review:
+    - http://www.bbc.co.uk/music/reviews/fh5c
 - date: 2012-07-25
   artist: Lætitia Sadier
   title: Silencio
-  twitter: https://twitter.com/BBC6Music/status/228022623588712448
-  review: http://www.bbc.co.uk/music/reviews/zvm5
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/228022623588712448
+    review:
+    - http://www.bbc.co.uk/music/reviews/zvm5
 - date: 2012-07-26
   artist: Family of the Year
   title: Loma Vista
-  twitter: https://twitter.com/BBC6Music/status/228401794567528450
-  review: http://www.bbc.co.uk/music/reviews/gcnv
   spotify-id: 2LvT1elRnPz26leTMjapwN
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/228401794567528450
+    review:
+    - http://www.bbc.co.uk/music/reviews/gcnv
 - date: 2012-07-27
   artist: Guns N' Roses
   title: Appetite for Destruction
-  twitter: https://twitter.com/BBC6Music/status/228752841269993472
-  review: http://www.bbc.co.uk/music/reviews/8xjw
   spotify-id: 3I9Z1nDCL4E0cP62flcbI5
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/228752841269993472
+    review:
+    - http://www.bbc.co.uk/music/reviews/8xjw
 - date: 2012-07-30
   artist: Blur
   title: '21: The Box'
-  twitter: https://twitter.com/BBC6Music/status/229844066035187714
-  review: http://www.bbc.co.uk/music/reviews/82d3
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/229844066035187714
+    review:
+    - http://www.bbc.co.uk/music/reviews/82d3
 - date: 2012-07-31
   artist: Frank Ocean
   title: channel ORANGE
-  review: http://www.bbc.co.uk/music/reviews/h5pn
   spotify-id: 623Ef2ZEB3Njklix4PC0Rs
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/h5pn
 - date: 2012-08-01
   artist: Purity Ring
   title: Shrines
-  review: http://www.bbc.co.uk/music/reviews/jh5c
   spotify-id: 7ppypgQppMf3mkRbZxYIFM
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/jh5c
 - date: 2012-08-02
   artist: Nick Cave and the Bad Seeds
   title: Abattoir Blues / The Lyre of Orpheus
-  twitter: https://twitter.com/BBC6Music/status/230931001520570368
-  review: http://www.bbc.co.uk/music/reviews/qn8r
   spotify-id: 7pr4eZjcBv6WQ1eeACmo8u
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/230931001520570368
+    review:
+    - http://www.bbc.co.uk/music/reviews/qn8r
 - date: 2012-08-03
   artist: Jimmy Cliff
   title: Rebirth
-  twitter: https://twitter.com/BBC6Music/status/231291573982359552
-  review: http://www.bbc.co.uk/music/reviews/5pb6
   spotify-id: 6O9MuNShJuPIsm2MMlTB5M
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/231291573982359552
+    review:
+    - http://www.bbc.co.uk/music/reviews/5pb6
 - date: 2012-08-06
   artist: Various Artists
   title: Bass Culture
   notes: I don't think this is on Spotify.
-  review: http://www.bbc.co.uk/music/reviews/8n6m
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/8n6m
 - date: 2012-08-07
   artist: Eugene McGuinness
   title: The Invitation to the Voyage
-  review: http://www.bbc.co.uk/music/reviews/r83q
   spotify-id: 3T63IXH2c7XR1ghfi2eDXY
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/r83q
 - date: 2012-08-08
   artist: Antony and the Johnsons
   title: Cut the World
-  review: http://www.bbc.co.uk/music/reviews/5n6m
   spotify-id: 1GJklKtIyIrACN5CflBh5r
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/5n6m
 - date: 2012-08-09
   artist: Opossom
   title: Electric Hawaii
-  review: http://www.bbc.co.uk/music/reviews/fgvh
   spotify-id: 5ZHnvgu1XthB8kEJbrd2gy
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/fgvh
 - date: 2012-08-10
   artist: Cheek Mountain Thief
   title: Cheek Mountain Thief
-  review: http://www.bbc.co.uk/music/reviews/r428
   spotify-id: 1tSiZ4mSKR9XsNUTovcBxZ
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/r428
 - date: 2012-08-13
   artist: Various Artists
   title: Freedom Sounds
   type: compilation
   notes: Doesn't seem to be on Spotify, despite the candidates.
-  twitter: https://twitter.com/BBC6Music/status/234943548150132736
-  review: http://www.bbc.co.uk/music/reviews/85pn
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/234943548150132736
+    review:
+    - http://www.bbc.co.uk/music/reviews/85pn
 - date: 2012-08-14
   artist: James Yorkston
   title: I Was A Cat From A Book
-  twitter: https://twitter.com/BBC6Music/status/235295086462791680
-  review: http://www.bbc.co.uk/music/reviews/jz8r
   spotify-id: 1EJEOTJmhOg1O4b22Ce0Mo
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/235295086462791680
+    review:
+    - http://www.bbc.co.uk/music/reviews/jz8r
 - date: 2012-08-15
   artist: Ride
   title: 'Going Blank Again: 20th Anniversary Edition'
   notes: This is not the 20th edition!
-  twitter: https://twitter.com/BBC6Music/status/235620660003627008
-  review: http://www.bbc.co.uk/music/reviews/zh5c
   spotify-id: 4vNofuDN5jhFx1HATG1Xhk
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/235620660003627008
+    review:
+    - http://www.bbc.co.uk/music/reviews/zh5c
 - date: 2012-08-16
   artist: Various Artists
   title: 'Just Tell Me That You Want Me: A Tribute to Fleetwood Mac'
   type: compilation
-  twitter: https://twitter.com/BBC6Music/status/235997154966130688
-  review: http://www.bbc.co.uk/music/reviews/nm9p
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/235997154966130688
+    review:
+    - http://www.bbc.co.uk/music/reviews/nm9p
 - date: 2012-08-17
   artist: The Kinks
   title: The Kinks at the BBC
-  twitter: https://twitter.com/BBC6Music/status/236354919463006208
-  review: http://www.bbc.co.uk/music/reviews/ggvh
   spotify-id: 0K8nQfG2lGnj2RMU5YIULJ
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/236354919463006208
+    review:
+    - http://www.bbc.co.uk/music/reviews/ggvh
 - date: 2012-08-20
   artist: Bloc Party
   title: Four
-  twitter: https://twitter.com/BBC6Music/status/237442085060476929
-  review: http://www.bbc.co.uk/music/reviews/5qx2
   spotify-id: 4uzMLnAMOzMGIOcrAgsWfr
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/237442085060476929
+    review:
+    - http://www.bbc.co.uk/music/reviews/5qx2
 - date: 2012-08-21
   artist: Jessie Ware
   title: Devotion
-  twitter: https://twitter.com/BBC6Music/status/237802620859863040
-  review: http://www.bbc.co.uk/music/reviews/wwhf
   spotify-id: 7nxjemFXgk7MH9ZeTulRNb
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/237802620859863040
+    review:
+    - http://www.bbc.co.uk/music/reviews/wwhf
 - date: 2012-08-22
   artist: Yeasayer
   title: Fragrant World
-  twitter: https://twitter.com/BBC6Music/status/238165367376191488
-  review: http://www.bbc.co.uk/music/reviews/99zb
   spotify-id: 2Rpe295ggUdm2D9eMRgz8S
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/238165367376191488
+    review:
+    - http://www.bbc.co.uk/music/reviews/99zb
 - date: 2012-08-23
   artist: Stealing Sheep
   title: Into the Diamond Sun
-  twitter: https://twitter.com/BBC6Music/status/238525725345456128
-  review: http://www.bbc.co.uk/music/reviews/v83q
   spotify-id: 4kxfsCIQy2r6802ZmdGOC0
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/238525725345456128
+    review:
+    - http://www.bbc.co.uk/music/reviews/v83q
 - date: 2012-08-24
   artist: The Congos
   title: Heart of the Congos
-  twitter: https://twitter.com/BBC6Music/status/238885996589113344
-  review: http://www.bbc.co.uk/music/reviews/fbhf
   spotify-id: 26x3WJbkWOjqKZKxMYS6if
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/238885996589113344
+    review:
+    - http://www.bbc.co.uk/music/reviews/fbhf
 - date: 2012-08-27
   artist: Of Monsters and Men
   title: My Head Is an Animal
-  review: http://www.bbc.co.uk/music/reviews/rh8r
   spotify-id: 4p9dVvZDaZliSjTCbFRhJy
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/rh8r
 - date: 2012-08-28
   artist: Euros Childs
   title: Summer Special
-  twitter: https://twitter.com/BBC6Music/status/240340303805050880
-  review: http://www.bbc.co.uk/music/reviews/4r5c
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/240340303805050880
+    review:
+    - http://www.bbc.co.uk/music/reviews/4r5c
 - date: 2012-08-29
   artist: The Vaccines
   title: Come of Age
-  twitter: https://twitter.com/BBC6Music/status/240700998035845120
-  review: http://www.bbc.co.uk/music/reviews/326m
   spotify-id: 3shNHl9ysbHfVBuLEuVPzX
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/240700998035845120
+    review:
+    - http://www.bbc.co.uk/music/reviews/326m
 - date: 2012-08-30
   artist: The Orb
   title: The Orbserver in the Star House
-  twitter: https://twitter.com/BBC6Music/status/241082019759661056
-  review: http://www.bbc.co.uk/music/reviews/rzvh
   spotify-id: 7dgFSMSFuRZMktPGVLDX40
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/241082019759661056
+    review:
+    - http://www.bbc.co.uk/music/reviews/rzvh
 - date: 2012-08-31
   artist: Pulp
   title: His 'n' Hers
-  twitter: https://twitter.com/BBC6Music/status/241460682636271616
-  review: http://www.bbc.co.uk/music/reviews/ch8r
   spotify-id: 4YhFzXoRDlowowzzNnNnP5
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/241460682636271616
+    review:
+    - http://www.bbc.co.uk/music/reviews/ch8r
 - date: 2012-09-03
   artist: Animal Collective
   title: Centipede Hz.
-  twitter: https://twitter.com/BBC6Music/status/242529249121161216
-  review: http://www.bbc.co.uk/music/reviews/54nv
   spotify-id: 2psl2d5HvtI9zEkiP6rl5J
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/242529249121161216
+    review:
+    - http://www.bbc.co.uk/music/reviews/54nv
 - date: 2012-09-04
   artist: Cat Power
   title: Sun
-  twitter: https://twitter.com/BBC6Music/status/242881363156545537
-  review: http://www.bbc.co.uk/music/reviews/mnx2
   spotify-id: 2JQgZJD5VKJkBMHBCkGQO0
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/242881363156545537
+    review:
+    - http://www.bbc.co.uk/music/reviews/mnx2
 - date: 2012-09-05
   artist: Two Door Cinema Club
   title: Beacon
-  twitter: https://twitter.com/BBC6Music/status/243255521623289856
-  review: http://www.bbc.co.uk/music/reviews/4cq4
   spotify-id: 6CPwf8Yo8a4cgBDVeShL5C
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/243255521623289856
+    review:
+    - http://www.bbc.co.uk/music/reviews/4cq4
 - date: 2012-09-06
   artist: iamamiwhoami
   title: kin
-  twitter: https://twitter.com/BBC6Music/status/243643785798619136
-  review: http://www.bbc.co.uk/music/reviews/b6fd
   spotify-id: 4zvurcEdNNGMeg9kSjNOBT
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/243643785798619136
+    review:
+    - http://www.bbc.co.uk/music/reviews/b6fd
 - date: 2012-09-07
   artist: Tori Amos
   title: Little Earthquakes
-  twitter: https://twitter.com/BBC6Music/status/243972175382581248
-  review: http://www.bbc.co.uk/music/reviews/zfrj
   spotify-id: 4xbivyNgO8FTIfxnzBtr5j
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/243972175382581248
+    review:
+    - http://www.bbc.co.uk/music/reviews/zfrj
 - date: 2012-09-10
   artist: The xx
   title: Coexist
-  twitter: https://twitter.com/BBC6Music/status/245143484443533312
-  review: http://www.bbc.co.uk/music/reviews/9xb6
   spotify-id: 2cRMVS71c49Pf5SnIlJX3U
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/245143484443533312
+    review:
+    - http://www.bbc.co.uk/music/reviews/9xb6
 - date: 2012-09-11
   artist: Bob Dylan
   title: Tempest
-  twitter: https://twitter.com/BBC6Music/status/245423735354580992
-  review: http://www.bbc.co.uk/music/reviews/gdj9
   spotify-id: 3LnS0XKSzd2TFoagESGUw3
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/245423735354580992
+    review:
+    - http://www.bbc.co.uk/music/reviews/gdj9
 - date: 2012-09-12
   artist: David Byrne and St Vincent
   title: Love This Giant
-  twitter: https://twitter.com/BBC6Music/status/245783733679058944
-  review: http://www.bbc.co.uk/music/reviews/639p
   spotify-id: 4oRaFi044yhwH77gUXbH5I
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/245783733679058944
+    review:
+    - http://www.bbc.co.uk/music/reviews/639p
 - date: 2012-09-13
   artist: TOY
   title: TOY
-  twitter: https://twitter.com/BBC6Music/status/246138312111296512
-  review: http://www.bbc.co.uk/music/reviews/3qpn
   spotify-id: 1XQbMqf2Lzqo6rIfJmauLH
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/246138312111296512
+    review:
+    - http://www.bbc.co.uk/music/reviews/3qpn
 - date: 2012-09-14
   artist: New Order
   title: Power, Corruption & Lies
-  review: http://www.bbc.co.uk/music/reviews/bpwx
   spotify-id: 6qcqaO5QSn2T13BlumueKk
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bpwx
 - date: 2012-09-17
   artist: Grizzly Bear
   title: Shields
-  twitter: https://twitter.com/BBC6Music/status/247579753090011136
-  review: http://www.bbc.co.uk/music/reviews/zbhf
   spotify-id: 57LAEzKL94ZHwbIkUWYCDY
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/247579753090011136
+    review:
+    - http://www.bbc.co.uk/music/reviews/zbhf
 - date: 2012-09-18
   artist: Ben Folds Five
   title: The Sound of the Life of the Mind
-  twitter: https://twitter.com/BBC6Music/status/247958393145409537
-  review: http://www.bbc.co.uk/music/reviews/m4nv
   spotify-id: 2cnCGnbfYGMznteR1l350e
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/247958393145409537
+    review:
+    - http://www.bbc.co.uk/music/reviews/m4nv
 - date: 2012-09-19
   artist: Mumford & Sons
   title: Babel
-  review: http://www.bbc.co.uk/music/reviews/w26m
   spotify-id: 0wQOzO44QldOoDo2nIty0X
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/w26m
 - date: 2012-09-20
   artist: Dinosaur Jr.
   title: I Bet on Sky
-  twitter: https://twitter.com/BBC6Music/status/248688868633743360
-  review: http://www.bbc.co.uk/music/reviews/hwzb
   spotify-id: 24svEZbRU74QfHv1VAziWi
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/248688868633743360
+    review:
+    - http://www.bbc.co.uk/music/reviews/hwzb
 - date: 2012-09-21
   artist: Fatboy Slim
   title: Better Living Through Chemistry
-  twitter: https://twitter.com/BBC6Music/status/249057185395527680
-  review: http://www.bbc.co.uk/music/reviews/wmd3
   spotify-id: 1UuXxohFdBe53FTv780i2Z
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/249057185395527680
+    review:
+    - http://www.bbc.co.uk/music/reviews/wmd3
 - date: 2012-09-24
   artist: Band of Horses
   title: Mirage Rock
-  twitter: https://twitter.com/BBC6Music/status/250134551068807168
-  review: http://www.bbc.co.uk/music/reviews/4zvh
   spotify-id: 5XGwgWYQQK8tHwoNuLMCP9
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/250134551068807168
+    review:
+    - http://www.bbc.co.uk/music/reviews/4zvh
 - date: 2012-09-25
   artist: Sex Pistols
   title: 'Never Mind the Bollocks, Here’s the Sex Pistols: Deluxe Edition'
   notes: This is not the reviewed version, it contains some other stuff.
-  twitter: https://twitter.com/BBC6Music/status/250494817178644480
-  review: http://www.bbc.co.uk/music/reviews/r9gw
   spotify-id: 4gQJr7j7ArIAJzcrbndGwS
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/250494817178644480
+    review:
+    - http://www.bbc.co.uk/music/reviews/r9gw
 - date: 2012-09-26
   artist: Lucy Rose
   title: Like I Used To
-  twitter: https://twitter.com/BBC6Music/status/250845026534424579
-  review: http://www.bbc.co.uk/music/reviews/ncq4
   spotify-id: 2WYwG9H90bEhcHdyeUdA3h
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/250845026534424579
+    review:
+    - http://www.bbc.co.uk/music/reviews/ncq4
 - date: 2012-09-27
   artist: Green Day
   title: "¡Uno!"
-  twitter: https://twitter.com/BBC6Music/status/251216737327017984
-  review: http://www.bbc.co.uk/music/reviews/2r5c
   spotify-id: 6AFJIZmd1zWQDBBwHyeo9w
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/251216737327017984
+    review:
+    - http://www.bbc.co.uk/music/reviews/2r5c
 - date: 2012-09-28
   artist: DJ Shadow
   title: 'Reconstructed: The Best of DJ Shadow'
-  twitter: https://twitter.com/BBC6Music/status/251592150154899456
-  review: http://www.bbc.co.uk/music/reviews/dqpn
   spotify-id: 0DZgZ6HEzG4qXA8B6UGl0v
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/251592150154899456
+    review:
+    - http://www.bbc.co.uk/music/reviews/dqpn
 - date: 2012-10-01
   artist: Muse
   title: The 2nd Law
-  twitter: https://twitter.com/BBC6Music/status/252654277305180161
-  review: http://www.bbc.co.uk/music/reviews/953q
   spotify-id: 3KuXEGcqLcnEYWnn3OEGy0
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/252654277305180161
+    review:
+    - http://www.bbc.co.uk/music/reviews/953q
 - date: 2012-10-02
   artist: Beth Orton
   title: Sugaring Season
-  twitter: https://twitter.com/BBC6Music/status/253023077397573633
-  review: http://www.bbc.co.uk/music/reviews/g39p
   spotify-id: 5iGGHaRS9W9FJCnEdWGjfF
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/253023077397573633
+    review:
+    - http://www.bbc.co.uk/music/reviews/g39p
 - date: 2012-10-03
   artist: Tame Impala
   title: Lonerism
-  twitter: https://twitter.com/BBC6Music/status/253393673985855488
-  review: http://www.bbc.co.uk/music/reviews/h6fd
   spotify-id: 76vY9yohh4kVwSKkyKbyEQ
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/253393673985855488
+    review:
+    - http://www.bbc.co.uk/music/reviews/h6fd
 - date: 2012-10-04
   artist: Tim Burgess
   title: Oh No I Love You
-  twitter: https://twitter.com/BBC6Music/status/253761711482490880
-  review: http://www.bbc.co.uk/music/reviews/bnx2
   spotify-id: 7e0m7PqqCrKpL7QR2Vfm88
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/253761711482490880
+    review:
+    - http://www.bbc.co.uk/music/reviews/bnx2
 - date: 2012-10-05
   artist: Longpigs
   title: The Sun Is Often Out
-  twitter: https://twitter.com/BBC6Music/status/254120451482202112
-  review: http://www.bbc.co.uk/music/reviews/pcq4
   spotify-id: 1QQKv2Y9uONbj8Dw6GUMB6
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/254120451482202112
+    review:
+    - http://www.bbc.co.uk/music/reviews/pcq4
 - date: 2012-10-08
   artist: Bob Mould
   title: Silver Age
-  twitter: https://twitter.com/BBC6Music/status/255208714213138433
-  review: http://www.bbc.co.uk/music/reviews/pr5c
   spotify-id: 581s8LfKuzV634Akl7lNPz
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/255208714213138433
+    review:
+    - http://www.bbc.co.uk/music/reviews/pr5c
 - date: 2012-10-09
   artist: Flying Lotus
   title: Until the Quiet Comes
-  twitter: https://twitter.com/BBC6Music/status/255574644604686336
-  review: http://www.bbc.co.uk/music/reviews/h9gw
   spotify-id: 40aG9ahuLnAv96yoFG75Uy
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/255574644604686336
+    review:
+    - http://www.bbc.co.uk/music/reviews/h9gw
 - date: 2012-10-10
   artist: The Jon Spencer Blues Explosion
   title: Meat + Bone
-  twitter: https://twitter.com/BBC6Music/status/255927591217819649
-  review: http://www.bbc.co.uk/music/reviews/gpwx
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/255927591217819649
+    review:
+    - http://www.bbc.co.uk/music/reviews/gpwx
 - date: 2012-10-11
   artist: John Cale
   title: Shifty Adventures in Nookie Wood
-  twitter: https://twitter.com/BBC6Music/status/256295932335902721
-  review: http://www.bbc.co.uk/music/reviews/bqpn
   spotify-id: 6xzqLW3MaJlFWWtT9uXJYh
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/256295932335902721
+    review:
+    - http://www.bbc.co.uk/music/reviews/bqpn
 - date: 2012-10-12
   artist: R.E.M.
   title: Document
-  twitter: https://twitter.com/BBC6Music/status/256658844342681600
-  review: http://www.bbc.co.uk/music/reviews/3z25
   spotify-id: 2y1UeJQy95zVxN8Y6IjUck
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/256658844342681600
+    review:
+    - http://www.bbc.co.uk/music/reviews/3z25
 - date: 2012-10-15
   artist: Bat for Lashes
   title: The Haunted Man
-  twitter: https://twitter.com/BBC6Music/status/257747383230799872
-  review: http://www.bbc.co.uk/music/reviews/r6fd
   spotify-id: 6rg92rv1hTB5fDfm85cWgq
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/257747383230799872
+    review:
+    - http://www.bbc.co.uk/music/reviews/r6fd
 - date: 2012-10-16
   artist: Jake Bugg
   title: Jake Bugg
-  twitter: https://twitter.com/BBC6Music/status/258099769912725504
-  review: http://www.bbc.co.uk/music/reviews/zpwx
   spotify-id: 4asvshPH5nL0mjjMCE9mzi
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/258099769912725504
+    review:
+    - http://www.bbc.co.uk/music/reviews/zpwx
 - date: 2012-10-17
   artist: Jason Lytle
   title: Dept. of Disappearance
-  twitter: https://twitter.com/BBC6Music/status/258470101689446400
-  review: http://www.bbc.co.uk/music/reviews/c6fd
   spotify-id: 2lwLgnDTYSFSdGVdJpJPkt
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/258470101689446400
+    review:
+    - http://www.bbc.co.uk/music/reviews/c6fd
 - date: 2012-10-18
   artist: Martha Wainwright
   title: Come Home to Mama
-  twitter: https://twitter.com/BBC6Music/status/258820494483140608
-  review: http://www.bbc.co.uk/music/reviews/46fd
   spotify-id: 0lhN2tVqKWIxWk0x4lTpFE
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/258820494483140608
+    review:
+    - http://www.bbc.co.uk/music/reviews/46fd
 - date: 2012-10-19
   artist: The Who
   title: Who's Next
-  twitter: https://twitter.com/BBC6Music/status/259176316035821568
-  review: http://www.bbc.co.uk/music/reviews/98zf
   spotify-id: 3ipneUq3vZhmTXOFZMoHkf
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/259176316035821568
+    review:
+    - http://www.bbc.co.uk/music/reviews/98zf
 - date: 2012-10-22
   artist: The Jim Jones Revue
   title: The Savage Heart
-  twitter: https://twitter.com/BBC6Music/status/260279389932113921
-  review: http://www.bbc.co.uk/music/reviews/f8m5
   spotify-id: 2RKAHsegdOBRBngRUMxmMk
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/260279389932113921
+    review:
+    - http://www.bbc.co.uk/music/reviews/f8m5
 - date: 2012-10-23
   artist: Paul Banks
   title: Banks
-  twitter: https://twitter.com/BBC6Music/status/260646329318010880
-  review: http://www.bbc.co.uk/music/reviews/f53q
   spotify-id: 5AXP2zfIyBQifia7ELGZbK
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/260646329318010880
+    review:
+    - http://www.bbc.co.uk/music/reviews/f53q
 - date: 2012-10-24
   artist: Little Comets
   title: Life Is Elsewhere
-  twitter: https://twitter.com/BBC6Music/status/261006816580886529
-  review: http://www.bbc.co.uk/music/reviews/gqpn
   spotify-id: 2ldS4LeCSq54YsyQCjjI05
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/261006816580886529
+    review:
+    - http://www.bbc.co.uk/music/reviews/gqpn
 - date: 2012-10-25
   artist: Patrick Wolf
   title: Sundark and Riverlight
-  twitter: https://twitter.com/BBC6Music/status/261371401074769920
-  review: http://www.bbc.co.uk/music/reviews/2frj
   spotify-id: 2flDVPf3Zo7igod40wQNlk
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/261371401074769920
+    review:
+    - http://www.bbc.co.uk/music/reviews/2frj
 - date: 2012-10-26
   artist: Peter Gabriel
   title: So - 25th Anniversary Edition
-  twitter: https://twitter.com/BBC6Music/status/261724346077286400
-  review: http://www.bbc.co.uk/music/reviews/2bhf
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/261724346077286400
+    review:
+    - http://www.bbc.co.uk/music/reviews/2bhf
 - date: 2012-10-29
   artist: The Velvet Underground
   title: The Velvet Underground & Nico - 45th Anniversary Edition
-  twitter: https://twitter.com/BBC6Music/status/262835434281922560
-  review: http://www.bbc.co.uk/music/reviews/h26m
   spotify-id: 3o7MFtKiZazZfZnW7dqwHA
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/262835434281922560
+    review:
+    - http://www.bbc.co.uk/music/reviews/h26m
 - date: 2012-10-30
   artist: Stumbleine
   title: Spiderwebbed
-  twitter: https://twitter.com/BBC6Music/status/263206992263380992
-  review: http://www.bbc.co.uk/music/reviews/3frj
   spotify-id: 0ZEFSgCh53RANf2qL4p0WM
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/263206992263380992
+    review:
+    - http://www.bbc.co.uk/music/reviews/3frj
 - date: 2012-10-31
   artist: Neil Young & Crazy Horse
   title: Psychedelic Pill
-  twitter: https://twitter.com/BBC6Music/status/263558819098017794
-  review: http://www.bbc.co.uk/music/reviews/wr5c
   spotify-id: 3WN75H6NactRxv3MbSXxxT
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/263558819098017794
+    review:
+    - http://www.bbc.co.uk/music/reviews/wr5c
 - date: 2012-11-01
   artist: Dark Horses
   title: Black Music
-  twitter: https://twitter.com/BBC6Music/status/263921781541330944
-  review: http://www.bbc.co.uk/music/reviews/4md3
   spotify-id: 3z9rx11hGYFgNVPPqaBjSa
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/263921781541330944
+    review:
+    - http://www.bbc.co.uk/music/reviews/4md3
 - date: 2012-11-02
   artist: Cody ChesnuTT
   title: Landing on a Hundred
-  twitter: https://twitter.com/BBC6Music/status/264283266884984832
-  review: http://www.bbc.co.uk/music/reviews/9r5c
   spotify-id: 45Mk7SLfzqvkwKzxjgE3FH
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/264283266884984832
+    review:
+    - http://www.bbc.co.uk/music/reviews/9r5c
 - date: 2012-11-05
   artist: Melody's Echo Chamber
   title: Melody's Echo Chamber
-  twitter: https://twitter.com/BBC6Music/status/265366057848549376
-  review: http://www.bbc.co.uk/music/reviews/29gw
   spotify-id: 6bEUO42UQwqUae2ptjd7XT
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/265366057848549376
+    review:
+    - http://www.bbc.co.uk/music/reviews/29gw
 - date: 2012-11-06
   artist: Stars
   title: The North
-  twitter: https://twitter.com/BBC6Music/status/265729861660844032
-  review: http://www.bbc.co.uk/music/reviews/n6fd
   spotify-id: 1GMmclvqwG4fShXkN8m1mq
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/265729861660844032
+    review:
+    - http://www.bbc.co.uk/music/reviews/n6fd
 - date: 2012-11-07
   artist: Manic Street Preachers
   title: 'Generation Terrorists: 20th Anniversary Edition'
   notes: Called something different on Spotify, but is the same track list.
-  twitter: https://twitter.com/BBC6Music/status/266100645453516800
-  review: http://www.bbc.co.uk/music/reviews/dg4z
   spotify-id: 5XV63qDoIC1z2Tb0EIMVua
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/266100645453516800
+    review:
+    - http://www.bbc.co.uk/music/reviews/dg4z
 - date: 2012-11-08
   artist: Saint Etienne
   title: Casino Classics
-  review: http://www.bbc.co.uk/music/reviews/839p
   spotify-id: 6sibpwX4lMvHorJADje8DL
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/839p
 - date: 2012-11-09
   artist: Stubborn Heart
   title: Stubborn Heart
-  review: http://www.bbc.co.uk/music/reviews/qxb6
   spotify-id: 6Mvwt8iq0W1yGYL7utALKs
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/qxb6
 - date: 2012-11-12
   artist: The Rolling Stones
   title: Grrr!
-  review: http://www.bbc.co.uk/music/reviews/mdj9
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/mdj9
 - date: 2012-11-13
   artist: Amy Winehouse
   title: Amy Winehouse at the BBC
   notes: 'title: Live at the BBC'
-  twitter: https://twitter.com/BBC6Music/status/268285725143887872
-  review: http://www.bbc.co.uk/music/reviews/zv28
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/268285725143887872
+    review:
+    - http://www.bbc.co.uk/music/reviews/zv28
 - date: 2012-11-14
   artist: The Stranglers
   title: Black and White
-  twitter: https://twitter.com/BBC6Music/status/268628423063265280
-  review: http://www.bbc.co.uk/music/reviews/5pwx
   spotify-id: 5PfI1x0Rub41UUeLEksUCU
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/268628423063265280
+    review:
+    - http://www.bbc.co.uk/music/reviews/5pwx
 - date: 2012-11-15
   artist: Soundgarden
   title: King Animal
-  twitter: https://twitter.com/BBC6Music/status/268999778124316672
-  review: http://www.bbc.co.uk/music/reviews/pwzb
   spotify-id: 778drgCX8lz11ePbeJ0hRm
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/268999778124316672
+    review:
+    - http://www.bbc.co.uk/music/reviews/pwzb
 - date: 2012-11-16
   artist: Crystal Castles
   title: "(III)"
   notes: 'title: Crystal Castles (III)'
-  twitter: https://twitter.com/BBC6Music/status/269364892216201216
-  review: http://www.bbc.co.uk/music/reviews/39gw
   spotify-id: 5Sb7q6PS9VSG7N8kUpJv1D
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/269364892216201216
+    review:
+    - http://www.bbc.co.uk/music/reviews/39gw
 - date: 2012-11-19
   artist: Led Zeppelin
   title: Celebration Day
-  twitter: https://twitter.com/BBC6Music/status/270437600572084224
-  review: http://www.bbc.co.uk/music/reviews/pdj9
   spotify-id: 0kTe1sQd9yhDsdG2Zth7X6
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/270437600572084224
+    review:
+    - http://www.bbc.co.uk/music/reviews/pdj9
 - date: 2012-11-20
   artist: The Staves
   title: Dead & Born & Grown
-  twitter: https://twitter.com/BBC6Music/status/270805453791977474
-  review: http://www.bbc.co.uk/music/reviews/526m
   spotify-id: 7pyw8r3PT2mK3GIEsmQlCI
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/270805453791977474
+    review:
+    - http://www.bbc.co.uk/music/reviews/526m
 - date: 2012-11-21
   artist: OMD
   title: Architecture and Morality
   notes: 'artist: Orchestral Manoeuvres in the Dark'
-  twitter: https://twitter.com/BBC6Music/status/271175134600101889
-  review: http://www.bbc.co.uk/music/reviews/nb8c
   spotify-id: 6bR98XzGnklTORDvZ7Oc2i
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/271175134600101889
+    review:
+    - http://www.bbc.co.uk/music/reviews/nb8c
 - date: 2012-11-22
   artist: Björk
   title: Bastards
-  twitter: https://twitter.com/BBC6Music/status/271532956793860096
-  review: http://www.bbc.co.uk/music/reviews/z4nv
   spotify-id: 6PoJf3wAiIgIE7GMmfdAH4
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/271532956793860096
+    review:
+    - http://www.bbc.co.uk/music/reviews/z4nv
 - date: 2012-11-23
   artist: Massive Attack
   title: Blue Lines
-  twitter: https://twitter.com/BBC6Music/status/271897547394658304
-  review: http://www.bbc.co.uk/music/reviews/zgnv
   spotify-id: 5mAPk4qeNqVLtNydaWbWlf
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/271897547394658304
+    review:
+    - http://www.bbc.co.uk/music/reviews/zgnv
 - date: 2012-11-26
   artist: Rage Against The Machine
   title: Rage Against The Machine - XX
-  twitter: https://twitter.com/BBC6Music/status/272980413515976704
-  review: http://www.bbc.co.uk/music/reviews/bfrj
   spotify-id: 4Io5vWtmV1rFj4yirKb4y4
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/272980413515976704
+    review:
+    - http://www.bbc.co.uk/music/reviews/bfrj
 - date: 2012-11-27
   artist: The Blue Nile
   title: A Walk Across the Rooftops
   notes: 'Listed as A Walk Across the Rooftops: Collector’s Edition'
-  twitter: https://twitter.com/BBC6Music/status/273351134519906304
-  review: http://www.bbc.co.uk/music/reviews/xdj9
   spotify-id: 3C5ZFqod6LmVtevN4guxXU
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/273351134519906304
+    review:
+    - http://www.bbc.co.uk/music/reviews/xdj9
 - date: 2012-11-28
   artist: Martin Rossiter
   title: The Defenestration of St. Martin
-  twitter: https://twitter.com/BBC6Music/status/273702860523446272
-  review: http://www.bbc.co.uk/music/reviews/9wzb
   spotify-id: 19NYUz14i6CghvekcTrgvf
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/273702860523446272
+    review:
+    - http://www.bbc.co.uk/music/reviews/9wzb
 - date: 2012-11-29
   artist: Specials
   title: More Specials
-  twitter: https://twitter.com/BBC6Music/status/274065635661713408
-  review: http://www.bbc.co.uk/music/reviews/nj54
   spotify-id: 2tuJjz5UCaULQuyB3FUpgL
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/274065635661713408
+    review:
+    - http://www.bbc.co.uk/music/reviews/nj54
 - date: 2012-11-30
   artist: Chad Valley
   title: Young Hunger
-  twitter: https://twitter.com/BBC6Music/status/274434881667350528
-  review: http://www.bbc.co.uk/music/reviews/9frj
   spotify-id: 6rHAMmqNj0g4nFZqj6acPh
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/274434881667350528
+    review:
+    - http://www.bbc.co.uk/music/reviews/9frj
 - date: 2012-12-03
   artist: Interpol
   title: 'Turn On The Bright Lights: Tenth Anniversary Edition'
-  twitter: https://twitter.com/BBC6Music/status/275520486673362945
-  review: http://www.bbc.co.uk/music/reviews/r4nv
   spotify-id: 3lCp61EBzBxoPQlhAMFrFB
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/275520486673362945
+    review:
+    - http://www.bbc.co.uk/music/reviews/r4nv
 - date: 2012-12-04
   artist: T. Rex
   title: 'The Slider: 40th Anniversary Box Set'
   notes: Not the 40th anniversary set, but close enough.
-  twitter: https://twitter.com/BBC6Music/status/275885162594697216
-  review: http://www.bbc.co.uk/music/reviews/226m
   spotify-id: 24QRkhZ3ZYMdtcLn8AFkar
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/275885162594697216
+    review:
+    - http://www.bbc.co.uk/music/reviews/226m
 - date: 2012-12-05
   artist: Tracey Thorn
   title: Tinsel and Lights
-  twitter: https://twitter.com/BBC6Music/status/276256822380335104
-  review: http://www.bbc.co.uk/music/reviews/zh8r
   spotify-id: 0cFIrHKVHZEEWqI8w4tcAs
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/276256822380335104
+    review:
+    - http://www.bbc.co.uk/music/reviews/zh8r
 - date: 2012-12-06
   artist: The Jam
   title: 'The Gift: Deluxe Edition'
-  twitter: https://twitter.com/BBC6Music/status/276605118529540096
-  review: http://www.bbc.co.uk/music/reviews/v8m5
   spotify-id: 5tCafNFnLdK5orQH5Y9FFP
+  sources:
+    twitter:
+    - https://twitter.com/BBC6Music/status/276605118529540096
+    review:
+    - http://www.bbc.co.uk/music/reviews/v8m5
 - date: 2012-12-07
   artist: Various Artists
   title: Christmas Rules
-  review: http://www.bbc.co.uk/music/reviews/bbhf
   spotify-id: 7a9xlXxD82eQGXaExYrChG
+  sources:
+    review:
+    - http://www.bbc.co.uk/music/reviews/bbhf

@@ -2,19 +2,17 @@
 - date: 2016-01-08
   artist: David Bowie
   title: BlackStar
-  twitter: https://twitter.com/BBC6Music/status/685381567078903808
   spotify-id: 2w1YJXWMIco6EBf0CovvVN
   sources:
     twitter:
+    - https://twitter.com/BBC6Music/status/685381567078903808
     - https://twitter.com/BBC6Music/status/685479344555307008
     - https://twitter.com/BBC6Music/status/685437333383036932
-    - https://twitter.com/BBC6Music/status/685381567078903808
     facebook:
     - https://www.facebook.com/BBCRadio6Music/posts/1122288847795324:0
 - date: 2016-01-12
   artist: Baaba Maal
   title: The Traveller
-  twitter: https://twitter.com/BBC6Music/status/686927618931843072
   spotify-id: 5w1D0fuhRXzYPkyhe8oBAe
   sources:
     twitter:
@@ -25,7 +23,6 @@
 - date: 2016-01-13
   artist: Mystery Jets
   title: Curve Of The Earth
-  twitter: https://twitter.com/BBC6Music/status/687291292221575170
   spotify-id: 0EER8DymHX54h2CZAwd6CD
   sources:
     twitter:
@@ -44,7 +41,6 @@
 - date: 2016-01-15
   artist: Daughter
   title: Not To Disappear
-  twitter: https://twitter.com/BBC6Music/status/687974826087165952
   spotify-id: 0ojaCwRiJ63YX6ucXASFdU
   sources:
     twitter:
@@ -56,7 +52,6 @@
 - date: 2016-01-18
   artist: Badly Drawn Boy
   title: The Hour of Bewilderbeast
-  twitter: https://twitter.com/BBC6Music/status/689103091426299905
   spotify-id: 7qdi1B4jqHEA5NvV34haRP
   sources:
     twitter:
@@ -67,7 +62,6 @@
 - date: 2016-01-19
   artist: Tricky
   title: Skilled Mechanics
-  twitter: https://twitter.com/BBC6Music/status/689464212809211905
   spotify-id: 5zY9nW69jd4vfaT9VecNe9
   sources:
     twitter:
@@ -77,7 +71,6 @@
 - date: 2016-01-20
   artist: Aidan Knight
   title: Each Other
-  twitter: https://twitter.com/BBC6Music/status/689828663332847616
   spotify-id: 2IE7225Xbaijmvso3Wepeb
   sources:
     twitter:
@@ -88,7 +81,6 @@
 - date: 2016-01-21
   artist: Suede
   title: Night Thoughts
-  twitter: https://twitter.com/BBC6Music/status/690189488614707200
   spotify-id: 5cyFF9f6VhtSXIr3GZ88sD
   sources:
     twitter:
@@ -99,7 +91,6 @@
 - date: 2016-01-22
   artist: Savages
   title: Adore Life
-  twitter: https://twitter.com/BBC6Music/status/690510034833399809
   spotify-id: 6c3UkztmOmW2GtunSNN3NZ
   sources:
     twitter:
@@ -110,7 +101,6 @@
 - date: 2016-01-25
   artist: Fat White Family
   title: Songs for Our Mothers
-  twitter: https://twitter.com/BBC6Music/status/691639840413216768
   spotify-id: 7jMNBKH5wRMxqXj6bMAdmy
   sources:
     twitter:
@@ -121,7 +111,6 @@
 - date: 2016-01-26
   artist: NZCA LINES
   title: Infinite Summer
-  twitter: https://twitter.com/BBC6Music/status/692001447915950080
   spotify-id: 12i6W6eJ2UHVL696SvfSh6
   sources:
     twitter:
@@ -132,7 +121,6 @@
 - date: 2016-01-27
   artist: Belle & Sebastian
   title: If You're Feeling Sinister
-  twitter: https://twitter.com/BBC6Music/status/692364059086295040
   spotify-id: 4usPTyIIgnAZ9eiItfEYSK
   sources:
     twitter:
@@ -143,7 +131,6 @@
 - date: 2016-01-28
   artist: MONEY
   title: Suicide Songs
-  twitter: https://twitter.com/BBC6Music/status/692727319811735552
   spotify-id: 7AKNatiRrOwg0Aud0e7XJd
   sources:
     twitter:
@@ -154,7 +141,6 @@
 - date: 2016-01-29
   artist: Bloc Party
   title: Hymns
-  twitter: https://twitter.com/BBC6Music/status/692993643205005312
   spotify-id: 6AeBPtepkxtQOXc4gCVzKP
   sources:
     twitter:
@@ -164,7 +150,6 @@
 - date: 2016-02-01
   artist: Emma Pollock
   title: In Search of Harperfield
-  twitter: https://twitter.com/BBC6Music/status/694081225942790144
   spotify-id: 1cBJGe2GEkGlFb4NbKLHJ4
   sources:
     twitter:
@@ -183,7 +168,6 @@
 - date: 2016-02-03
   artist: Shoegaze
   title: Still In A Dream
-  twitter: https://twitter.com/BBC6Music/status/694860375393734656
   sources:
     twitter:
     - https://twitter.com/BBC6Music/status/694860375393734656
@@ -192,7 +176,6 @@
 - date: 2016-02-04
   artist: Saul Williams
   title: MartyrLoserKing
-  twitter: https://twitter.com/BBC6Music/status/695274331702759425
   spotify-id: 5jwuv75IwrzTrqoNccSR7k
   sources:
     twitter:
@@ -203,7 +186,6 @@
 - date: 2016-02-05
   artist: Field Music
   title: Commontime
-  twitter: https://twitter.com/BBC6Music/status/695625633225953282
   spotify-id: 0mxhhfdpk5nSSHOhPx4Woe
   sources:
     twitter:
@@ -214,7 +196,6 @@
 - date: 2016-02-08
   artist: Night Beats
   title: Who Sold My Generaton
-  twitter: https://twitter.com/BBC6Music/status/696712220445642753
   sources:
     twitter:
     - https://twitter.com/BBC6Music/status/696712220445642753
@@ -230,7 +211,6 @@
 - date: 2016-02-10
   artist: Telegram
   title: Operator
-  twitter: https://twitter.com/BBC6Music/status/697437305439719424
   spotify-id: 5XsfmHyHLJNxKPcrrFN0aa
   sources:
     twitter:
@@ -240,7 +220,6 @@
 - date: 2016-02-11
   artist: DIIV
   title: Is The Is Are
-  twitter: https://twitter.com/BBC6Music/status/697759416112803840
   spotify-id: 5PPPABn2aZ0jRuHPMONwSR
   sources:
     twitter:
@@ -251,7 +230,6 @@
 - date: 2016-02-12
   artist: Roni Size and Reprazent
   title: New Forms
-  twitter: https://twitter.com/BBC6Music/status/698125568299134976
   spotify-id: 2wa0kOg4mJ94Iw17Gcv4IL
   sources:
     twitter:
@@ -262,18 +240,16 @@
 - date: 2016-02-16
   artist: Sunflower Bean
   title: Human Ceremony
-  twitter: https://twitter.com/BBC6Music/status/699615512733597696
   spotify-id: 1U10OwoZb4IXJqfE0oG0xD
   sources:
-    facebook:
-    - https://www.facebook.com/BBCRadio6Music/posts/1144064425617766:0
     twitter:
     - https://twitter.com/BBC6Music/status/699615512733597696
     - https://twitter.com/BBC6Music/status/699647020802404352
+    facebook:
+    - https://www.facebook.com/BBCRadio6Music/posts/1144064425617766:0
 - date: 2016-02-17
   artist: The Wave Pictures
   title: A Season In Hull
-  twitter: https://twitter.com/BBC6Music/status/699932602120196096
   sources:
     twitter:
     - https://twitter.com/BBC6Music/status/699932602120196096
@@ -283,7 +259,6 @@
 - date: 2016-02-18
   artist: Mavis Staples
   title: Livin' On A High Note
-  twitter: https://twitter.com/BBC6Music/status/700336357256859648
   spotify-id: 4lvagLkQiGD8Q1Z84IicvM
   sources:
     twitter:
@@ -293,7 +268,6 @@
 - date: 2016-02-19
   artist: Animal Collective
   title: Painting With
-  twitter: https://twitter.com/BBC6Music/status/700699238456500224
   spotify-id: 04EajKw866bzJn3EW8HOdQ
   sources:
     twitter:

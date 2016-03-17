@@ -12,7 +12,7 @@ module JekyllBbc6musicaotd
           album['week'] = monday(album['date'])
         end
       end
-      this_year = '2015'
+      this_year = '2016'
       this_year_albums = site.data['year'][this_year]
       site.data['recent'] = this_year_albums.select{|album| album['artist'] && album['title']}.reverse[0,5]
     end

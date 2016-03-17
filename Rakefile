@@ -1,4 +1,4 @@
-years = [2009,2010,2011,2012,2013,2014,2015]
+years = [2009,2010,2011,2012,2013,2014,2015,2016]
 
 # Default task: all years, then jekyll.
 task :default => years.map{|year| "year#{year}"} + [:build]
@@ -31,7 +31,7 @@ task :add => [:addint, :build]
 
 task :addint do
   Dir.chdir('site') do
-    file = "_data/year/2015.yml"
+    file = "_data/year/2016.yml"
     ruby "_scripts/add.rb #{file}"
     ruby "_scripts/reorder.rb #{file}"
   end

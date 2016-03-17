@@ -13,11 +13,14 @@
   {% if album.spotify and album.spotify.album_id %}
     <a href="https://open.spotify.com/album/{{album.spotify.album_id}}" target="_blank">Listen on Spotify</a>
   {% endif %}
-  {% if album.review %}
-    <a href="{{ album.review }}" target="_blank">Review</a>
+  {% if album.sources.review %}
+    <a href="{{ album.sources.review[0] }}" target="_blank">Review</a>
   {% endif %}
-  {% if album.twitter %}
-    <a href="{{ album.twitter }}" target="_blank">Twitter</a>
+  {% if album.sources.twitter %}
+    <a href="{{ album.sources.twitter[0] }}" target="_blank">Twitter</a>
+  {% endif %}
+  {% if album.sources.facebook %}
+    <a href="{{ album.sources.facebook[0] }}" target="_blank">Facebook</a>
   {% endif %}
   </div>
 </div>

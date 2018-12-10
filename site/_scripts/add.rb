@@ -1,5 +1,6 @@
 
 require 'yaml'
+require_relative 'FacebookCache'
 require_relative 'TwitterCache'
 require_relative 'SpotifyCache'
 require_relative 'SpotifySearch'
@@ -10,7 +11,7 @@ def update_file(file_name)
   data = YAML.load_file(file_name)
   twitter_cache = TwitterCache.new()
   spotify_cache = SpotifyCache.new()
-  facebook_cache = nil
+  facebook_cache = FacebookCache.new()
 
   data = process_data(twitter_cache, facebook_cache, spotify_cache, data)
 
@@ -19,10 +20,11 @@ def update_file(file_name)
   file.close
 
   twitter_cache.write()
+  facebook_cache.write()
   spotify_cache.write()
 end
 
-def get_album(twitter_cache, spotify_cache)
+def get_album(twitter_cache, facebook_cache, spotify_cache)
   puts "==="
   # Ask for URL
   print "Enter URL: "
@@ -41,8 +43,9 @@ def get_album(twitter_cache, spotify_cache)
     sources['twitter'] = [url]
   elsif url.start_with?('https://www.facebook.com/') then
     # TODO: get Facebook data
-    facebook_post = nil
-    text = "Facebook: NOT IMPLEMENTED!"
+    facebook_post = facebook_cache.get_post_by_url(url)
+    text = "Facebook: #{facebook_post['text']}"
+    artist_album_data.date = Date.parse(facebook_post['created']).to_s()
     sources['facebook'] = [url]
   else
     # Unknown source
@@ -112,7 +115,7 @@ end
 def process_data(twitter_cache, facebook_cache, spotify_cache, data)
   new_data = data
   while true
-    album = get_album(twitter_cache, spotify_cache)
+    album = get_album(twitter_cache, facebook_cache, spotify_cache)
     if album == nil then break end
     new_data.push(album)
   end

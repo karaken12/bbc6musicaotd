@@ -15,6 +15,7 @@ module JekyllBbc6musicaotd
       this_year = '2016'
       this_year_albums = site.data['year'][this_year]
       site.data['recent'] = this_year_albums.select{|album| album['artist'] && album['title']}.reverse[0,5]
+      site.data['spotifyless'] = site.data['year'].values.flatten.select{|album| album.has_key?('artist') && !album.has_key?('spotify-id')}.sort!{|a,b| a['date'] <=> b['date']}
     end
   end
 end

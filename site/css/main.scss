@@ -51,19 +51,44 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-
-.albums {
-  display: flex;
-  flex-wrap: wrap;
+@media (min-width: 401px) {
+  .albums {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 
 .album {
-  flex: 0;
-  min-width: 150px;
+  @media (min-width: 401px) {
+    flex: 0;
+    min-width: 150px;
+  }
+  @media (max-width: 400px) {
+    width: 100%;
+    clear: left;
+  }
   margin: 10px;
 }
 
 .week {
   width: 100%;
   font-weight: bold;
+}
+
+@media (max-width: 400px) {
+  .album-cover-wrapper {
+    float: left;
+    width: 80px;
+    margin-right: 10px;
+  }
+}
+
+.album:hover {
+  border: 1px solid silver;
+
+  .album-cover {
+    position: relative;
+    left: -50%;
+    max-width: 200%;
+  }
 }

@@ -22,7 +22,10 @@ module SpotifySearch
       search_string += "+artist:\"#{artist}\""
     end
 
+    # Fix bug with Spotify search not handling slashes
+    search_string = search_string.gsub("/", "")
     spotify_albums = RSpotify::Album.search(search_string, market: 'GB')
+#    spotify_albums = RSpotify::Album.search(search_string)
 
     if type == nil
       type = 'album'
